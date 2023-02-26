@@ -1,0 +1,8 @@
+---
+date: 2017-08-30T19:56:19+01:00
+photo:
+  - url: /media/2017/242/p1/1.jpg
+    alt: Sunset over Fistral Beach.
+---
+
+😎

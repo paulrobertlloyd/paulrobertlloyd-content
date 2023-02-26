@@ -1,0 +1,22 @@
+---
+start: 2014-06-10
+itinerary:
+  - label: Stirling (STG)
+    locality: Stirling
+    country_name: Scotland
+  - label: Glasgow Queen Street (GLQ)
+    locality: Glasgow
+    country_name: Scotland
+  - label: Glasgow Central (GLC)
+    locality: Glasgow
+    country_name: Scotland
+  - label: London Euston (EUS)
+    locality: London
+    country_name: England
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

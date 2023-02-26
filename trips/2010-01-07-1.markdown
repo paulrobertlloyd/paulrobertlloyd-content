@@ -1,0 +1,13 @@
+---
+start: 2010-01-07
+itinerary:
+  - label: Melbourne Airport (MEL)
+    locality: Melbourne
+    country_name: Australia
+  - label: Dubai International Airport (DXB)
+    locality: Dubai
+    country_name: United Arab Emirates
+  - label: London Heathrow Airport (LHR)
+    locality: London
+    country_name: England
+---

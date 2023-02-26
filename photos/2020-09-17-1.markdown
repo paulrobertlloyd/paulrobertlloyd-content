@@ -1,0 +1,6 @@
+---
+date: 2020-09-17T18:19:42.146+01:00
+photo:
+  - url: /media/2020/261/p1/1.jpg
+    alt: A painted ampersand.
+---

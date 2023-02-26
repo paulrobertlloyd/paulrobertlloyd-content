@@ -1,0 +1,10 @@
+---
+start: 2020-01-25
+itinerary:
+  - label: Hamburg Hauptbahnhof
+    locality: Hamburg
+    country_name: Germany
+  - label: Copenhagen Central
+    locality: Copenhagen
+    country_name: Denmark
+---

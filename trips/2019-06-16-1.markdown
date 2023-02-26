@@ -1,0 +1,16 @@
+---
+start: 2019-06-16
+itinerary:
+  - label: Amsterdam Centraal
+    locality: Amsterdam
+    country_name: Netherlands
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

@@ -1,0 +1,14 @@
+---
+date: 2021-01-18T08:00:00.000Z
+photo:
+  - url: /media/2021/018/p1/1.jpg
+    alt: A house with a circular floorplan seen from above.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1351120827119497219
+---
+
+Looking down on the Round House.
+
+Dungeness, Kent (August 2015)

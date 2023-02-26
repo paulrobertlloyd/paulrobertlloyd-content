@@ -1,0 +1,10 @@
+---
+date: 2021-11-11T01:09:02.009Z
+photo:
+  - url: /media/2021/315/p1/1.jpg
+    alt: Image of Fatboy Slim on a screen in a room filled with strobe lights.
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1458603443589943297
+---
+
+Right there, right then.

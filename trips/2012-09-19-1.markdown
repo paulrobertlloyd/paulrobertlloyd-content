@@ -1,0 +1,13 @@
+---
+start: 2012-09-19
+itinerary:
+  - label: Portland International Airport (PDX)
+    locality: Portland
+    country_name: United States
+  - label: O’Hare International Airport (ORD)
+    locality: Chicago
+    country_name: United States
+  - label: São Paulo-Guarulhos International Airport (GRU)
+    locality: Guarulhos
+    country_name: Brazil
+---

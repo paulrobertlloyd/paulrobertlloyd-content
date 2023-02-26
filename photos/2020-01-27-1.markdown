@@ -1,0 +1,12 @@
+---
+date: 2020-01-27T08:00:00Z
+photo:
+  - url: /media/2020/027/p1/1.jpg
+    alt: Tall modernist church with a colourful sky behind it.
+tags:
+  - look_to_europe
+---
+
+_Hallgrímskirkja_{lang=is}.
+
+Reykjavík, Iceland (November 2018)

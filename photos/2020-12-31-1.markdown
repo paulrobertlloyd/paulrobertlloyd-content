@@ -1,0 +1,13 @@
+---
+date: 2020-12-31T16:23:47.721Z
+photo:
+  - url: /media/2020/366/p1/1.jpg
+    alt: Looking across Brighton beach towards the West Pier.
+tags:
+  - lockdown_on_the_run
+  - the_west_pier
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1344681507873566725
+---
+
+One final run to the beach and back before this year comes to an end.

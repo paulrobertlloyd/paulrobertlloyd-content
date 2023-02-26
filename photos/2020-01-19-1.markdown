@@ -1,0 +1,12 @@
+---
+date: 2020-01-19T08:00:00Z
+photo:
+  - url: /media/2020/019/p1/1.jpg
+    alt: Sun setting over the river aside the La Petite France district of Strasbourg.
+tags:
+  - look_to_europe
+---
+
+Sun setting over _La Petite France_{lang=fr}.
+
+Strasbourg, France (September 2016)

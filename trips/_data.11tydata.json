@@ -1,0 +1,8 @@
+{
+  "layout": "trip.liquid",
+  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ type_prefix }}{{ page.fileSlug }}/",
+  "type": "trip",
+  "type_prefix": "t",
+  "visibility": "unlisted",
+  "vocabulary": "event"
+}

@@ -1,0 +1,12 @@
+---
+date: 2020-01-12T08:00:00Z
+photo:
+  - url: /media/2020/012/p1/1.jpg
+    alt: Tall medieval bell tower as dusk sets in.
+tags:
+  - look_to_europe
+---
+
+Medieval _Belfort_{lang=nl}.
+
+Bruges, Belgium (June 2015)

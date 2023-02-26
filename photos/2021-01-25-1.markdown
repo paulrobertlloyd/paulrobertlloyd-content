@@ -1,0 +1,14 @@
+---
+date: 2021-01-25T08:00:00.000Z
+photo:
+  - url: /media/2021/025/p1/1.jpg
+    alt: A large jetty reaches into the sea, a ferry approaching it from the right.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1353621024550617088
+---
+
+A CalMac ferry approaches the jetty.
+
+Craignure, Isle of Mull (February 2018)

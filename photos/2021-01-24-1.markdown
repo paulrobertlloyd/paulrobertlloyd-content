@@ -1,0 +1,14 @@
+---
+date: 2021-01-24T08:00:00.000Z
+photo:
+  - url: /media/2021/024/p1/1.jpg
+    alt: Sun set over a beach, the orange sky reflected by the water lying on its surface.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1353294556515758081
+---
+
+Dramatic sunset over Fistral Beach.
+
+Newquay, Cornwall (August 2017)

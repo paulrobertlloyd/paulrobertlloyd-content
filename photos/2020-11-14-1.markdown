@@ -1,0 +1,14 @@
+---
+date: 2020-11-14T18:00:52.549Z
+photo:
+  - url: /media/2020/319/p1/1.jpg
+    alt: Beach huts near Ovingdean Beach.
+  - url: /media/2020/319/p1/2.jpg
+    alt: Large black rocks.
+  - url: /media/2020/319/p1/3.jpg
+    alt: Black rocks on a beach.
+  - url: /media/2020/319/p1/4.jpg
+    alt: Cliff face.
+---
+
+A ride along Brighton’s Undercliff Walk.

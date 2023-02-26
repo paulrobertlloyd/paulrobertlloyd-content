@@ -1,0 +1,19 @@
+---
+start: 2018-10-10
+itinerary:
+  - label: Hamburg Hauptbahnhof
+    locality: Hamburg
+    country_name: Germany
+  - label: Köln Hauptbahnhof
+    locality: Cologne
+    country_name: Germany
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

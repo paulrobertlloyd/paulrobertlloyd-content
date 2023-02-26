@@ -1,0 +1,16 @@
+---
+start: 2013-06-02
+itinerary:
+  - label: Carlisle (CAR)
+    locality: Carlisle
+    country_name: England
+  - label: London Euston (EUS)
+    locality: London
+    country_name: England
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

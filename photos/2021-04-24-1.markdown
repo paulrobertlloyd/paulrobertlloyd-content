@@ -1,0 +1,10 @@
+---
+date: 2021-04-24T20:38:47.938+01:00
+photo:
+  - url: /media/2021/114/p1/1.jpg
+    alt: People playing musical instruments in Preston Park as the sun sets.
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1386042681911033865
+---
+
+This’ll do.

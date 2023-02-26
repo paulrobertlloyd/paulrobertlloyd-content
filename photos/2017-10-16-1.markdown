@@ -1,0 +1,8 @@
+---
+date: 2017-10-16T14:27:00Z
+photo:
+  - url: /media/2017/289/p1/1.jpg
+    alt: Dark, grey skies over my back garden.
+---
+
+A weird and unnerving aura, with ochre-tinged, dust-filled skies [brought to us by Ophelia](https://www.bbc.co.uk/news/uk-england-41635906).

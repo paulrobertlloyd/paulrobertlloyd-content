@@ -1,0 +1,20 @@
+---
+date: 2020-04-11T23:00:00.000+01:00
+photo:
+  - url: /media/2020/102/p1/1.jpg
+    alt: Rolling hills of Roedean Bottom covered with dried long grass.
+  - url: /media/2020/102/p1/2.jpg
+    alt: Chalk and black rocks weathered by the sea.
+  - url: /media/2020/102/p1/3.jpg
+    alt: Brighton Marina’s sea wall reflected by the water.
+  - url: /media/2020/102/p1/4.jpg
+    alt: Fishing tackle and other scattered sailing equipment.
+  - url: /media/2020/102/p1/5.jpg
+    alt: Boats in Brighton Marina as the sun sets.
+  - url: /media/2020/102/p1/6.jpg
+    alt: Blue wire fence in front of Madeira Terrace.
+  - url: /media/2020/102/p1/7.jpg
+    alt: The Royal Pavilion lit up with in pink.
+---
+
+Took a long walk over to East Brighton, across Sheepcote Valley and through Brighton Marina, before heading back along Madeira Drive and past the Royal Pavilion. Brighton really is a beautiful city.

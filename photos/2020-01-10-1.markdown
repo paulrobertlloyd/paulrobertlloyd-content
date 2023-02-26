@@ -1,0 +1,12 @@
+---
+date: 2020-01-10T08:00:00Z
+photo:
+  - url: /media/2020/010/p1/1.jpg
+    alt: The Exchange building in Copenhagen.
+tags:
+  - look_to_europe
+---
+
+_Børsbygningen_{lang=da}.
+
+Copenhagen, Denmark (May 2012)

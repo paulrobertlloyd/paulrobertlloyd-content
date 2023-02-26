@@ -1,0 +1,14 @@
+---
+date: 2021-01-08T08:00:00.000Z
+photo:
+  - url: /media/2021/008/p1/1.jpg
+    alt: Grey skies over Eilean Donan Castle.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1347472035895775234
+---
+
+Eilean Donan Castle.
+
+Kyle Of Lochalsh, Scottish Highlands (August 2010)

@@ -1,0 +1,14 @@
+---
+date: 2020-09-12T19:01:21.370+01:00
+photo:
+  - url: /media/2020/256/p1/1.jpg
+    alt: Stile, Kingston beach.
+  - url: /media/2020/256/p1/2.jpg
+    alt: Worthing Pier.
+  - url: /media/2020/256/p1/3.jpg
+    alt: Small blue fishing boat on Worthing beach.
+  - url: /media/2020/256/p1/4.jpg
+    alt: Parish Church of St Mary de Haura, Shoreham.
+---
+
+Unplanned third consecutive day on the bike with a trip from Littlehampton to Brighton. With the wind behind me and bright skies above, the perfect way to enjoy Good Old Sussex by the Sea.

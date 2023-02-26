@@ -1,0 +1,25 @@
+---
+start: 2017-11-09
+itinerary:
+  - label: Berlin Hauptbahnhof
+    locality: Berlin
+    country_name: Germany
+  - label: Köln Hauptbahnhof
+    locality: Cologne
+    country_name: Germany
+  - label: Liège-Guillemins
+    locality: Liège
+    country_name: Belgium
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+  - label: Lille-Europe
+    locality: Lille
+    country_name: France
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

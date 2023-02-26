@@ -1,0 +1,10 @@
+---
+date: 2020-05-20T17:53:00.000+01:00
+photo:
+  - url: /media/2020/141/p2/1.jpg
+    alt: Posters with positive messages on a green wall.
+tags:
+  - lockdown_on_the_run
+---
+
+Be kind. Let’s look out for one another. Please believe these days will pass.

@@ -1,0 +1,8 @@
+---
+date: 2020-10-21T18:15:41.902+01:00
+photo:
+  - url: /media/2020/295/p1/1.jpg
+    alt: Reddish sky over a leafy residential street.
+---
+
+Incredible evening sky over Brighton, albeit briefly.

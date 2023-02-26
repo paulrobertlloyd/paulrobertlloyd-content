@@ -1,0 +1,16 @@
+---
+date: 2009-02-09T10:04:40Z
+title: Wordle
+summary: A word cloud generated from content that has appeared on my site over the last few months.
+photo:
+  - url: /media/2009/040/a1/image.png
+    alt: Word cloud.
+category:
+  - blogging
+---
+
+![Word cloud.](/media/2009/040/a1/image.png)
+
+This is a word cloud generated from content that has appeared on my site over the last few months. You can create your own word clouds at [wordle.net][1]
+
+[1]: https://www.wordle.net

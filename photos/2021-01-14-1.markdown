@@ -1,0 +1,14 @@
+---
+date: 2021-01-14T08:00:00.000Z
+photo:
+  - url: /media/2021/014/p1/1.jpg
+    alt: Arched vaulting supporting brick piers.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1349654669522591745
+---
+
+Looking through the vaulting below the Ouse Valley Viaduct.
+
+Near Balcombe, West Sussex (May 2014)

@@ -1,0 +1,8 @@
+---
+date: 2019-04-29T21:07:55+01:00
+photo:
+  - url: /media/2019/119/p1/1.jpg
+    alt: 270 distance marking on an outdoor velodrome track.
+---
+
+Probably not the best means of getting over a cold, [but anyway](https://strava.app.link/4T3EMZS2hW).

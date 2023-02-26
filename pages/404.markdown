@@ -1,0 +1,10 @@
+---
+title: "404"
+summary: There’s nothing useful here. Sorry about that.
+url: /404.html
+---
+
+![Character pushing a button and getting a failed response from one of three wires.](/media/404.svg "Illustration: Waldo Pancake")
+{.align-pull}
+
+You may have an incorrect URL, or the file could have been moved or renamed. Either way, if you’re having problems finding a particular page, try [searching the archives](/archives). Perhaps it will turn up there.

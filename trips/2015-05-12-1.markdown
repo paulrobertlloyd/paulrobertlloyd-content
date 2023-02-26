@@ -1,0 +1,10 @@
+---
+start: 2015-05-12
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: Bath Spa (BTH)
+    locality: Bath
+    country_name: England
+---

@@ -1,0 +1,10 @@
+---
+date: 2020-08-28T19:25:00.000+01:00
+photo:
+  - url: /media/2020/241/p1/1.jpg
+    alt: Dramatic sunset over Brighton’s West Pier.
+tags:
+  - the_west_pier
+---
+
+Turneresque.

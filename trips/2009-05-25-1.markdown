@@ -1,0 +1,10 @@
+---
+start: 2009-05-25
+itinerary:
+  - label: Barcelona Sants
+    locality: Barcelona
+    country_name: Spain
+  - label: Velencia
+    locality: Velencia
+    country_name: Spain
+---

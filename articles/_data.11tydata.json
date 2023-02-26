@@ -1,0 +1,9 @@
+{
+  "layout": "article.liquid",
+  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ type_prefix }}{{ type_index }}/{{ page.fileSlug }}/",
+  "syndicate": true,
+  "type": "article",
+  "type_index": 1,
+  "type_prefix": "a",
+  "vocabulary": "entry"
+}

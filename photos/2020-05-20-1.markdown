@@ -1,0 +1,8 @@
+---
+date: 2020-05-20T17:14:44.316+01:00
+photo:
+  - url: /media/2020/141/p1/1.jpg
+    alt: Contrail across a blue sky.
+---
+
+An unwelcome sight.

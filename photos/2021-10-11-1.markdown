@@ -1,0 +1,10 @@
+---
+date: 2021-10-11T01:44:33.183+01:00
+photo:
+  - url: /media/2021/284/p1/1.jpg
+    alt: Red bike leaning up against a fence post, with Brighton in the distance.
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1447348038171774988
+---
+
+Sunday rider.

@@ -1,0 +1,13 @@
+---
+start: 2017-08-29
+itinerary:
+  - label: St Ives (SIV)
+    locality: St Ives
+    country_name: England
+  - label: St Erth (SER)
+    locality: St Erth
+    country_name: England
+  - label: Penzance (PNZ)
+    locality: Penzance
+    country_name: England
+---

@@ -1,0 +1,19 @@
+---
+start: 2012-09-12
+itinerary:
+  - label: Preston Park (PRP)
+    locality: Brighton
+    country_name: England
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+  - label: London Heathrow Airport (LHR)
+    locality: London
+    country_name: England
+  - label: O’Hare International Airport (ORD)
+    locality: Chicago
+    country_name: United States
+  - label: Portland International Airport (PDX)
+    locality: Portland
+    country_name: United States
+---

@@ -1,0 +1,14 @@
+---
+date: 2021-01-15T08:00:00.000Z
+photo:
+  - url: /media/2021/015/p1/1.jpg
+    alt: View from beneath a large carriageway.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1350016431140777987
+---
+
+Dynamic curves of the M74 carriageway.
+
+Port Eglinton, Glasgow (June 2014)

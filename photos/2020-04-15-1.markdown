@@ -1,0 +1,8 @@
+---
+date: 2020-04-15T18:04:00.000+01:00
+photo:
+  - url: /media/2020/106/p1/1.jpg
+    alt: Brighton Pavilion.
+tags:
+  - lockdown_on_the_run
+---

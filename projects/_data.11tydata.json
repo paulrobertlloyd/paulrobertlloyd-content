@@ -1,0 +1,9 @@
+{
+  "layout": "project.liquid",
+  "permalink": "projects/{{ page.fileSlug }}/",
+  "syndicate": true,
+  "type": "project",
+  "type_index": 1,
+  "type_prefix": "w",
+  "vocabulary": "entry"
+}

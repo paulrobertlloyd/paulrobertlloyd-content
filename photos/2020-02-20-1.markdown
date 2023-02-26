@@ -1,0 +1,8 @@
+---
+date: 2020-02-20T08:30:00Z
+photo:
+  - url: /media/2020/051/p1/1.png
+    alt: Poster for ‘Hack the Planet’.
+---
+
+Ten years ago today. Sadly, [the problems this little hackathon tried to address](/2010/088/a1/hack_the_planet_report/) haven’t gone away. Maybe it’s time for the long overdue sequel? (Main poster illustration: @cole007@twitter.com)

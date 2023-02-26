@@ -1,0 +1,12 @@
+---
+date: 2020-01-23T08:00:00Z
+photo:
+  - url: /media/2020/023/p1/1.jpg
+    alt: Cruise ship, city and islands from high above.
+tags:
+  - look_to_europe
+---
+
+View from the Fjellstua Viewpoint.
+
+Ålesund, Norway (June 2018)

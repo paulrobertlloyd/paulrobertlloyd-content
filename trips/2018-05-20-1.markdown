@@ -1,0 +1,22 @@
+---
+start: 2018-05-20
+itinerary:
+  - label: Cabis Bay (CBB)
+    locality: St Ives
+    country_name: England
+  - label: St Erth (SER)
+    locality: St Erth
+    country_name: England
+  - label: Reading (RDG)
+    locality: Reading
+    country_name: England
+  - label: Clapham Junction (CLJ)
+    locality: Clapham
+    country_name: England
+  - label: Hove (HOV)
+    locality: Hove
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

@@ -1,0 +1,11 @@
+---
+date: 2017-11-05T18:09:19+01:00
+time_zone: Europe/Berlin
+photo:
+  - url: /media/2017/309/p2/1.jpg
+    alt: Tempelhof Airport.
+  - url: /media/2017/309/p2/2.jpg
+    alt: The Berlin Wall.
+  - url: /media/2017/309/p2/3.jpg
+    alt: The Brandenburg Gate.
+---

@@ -1,0 +1,19 @@
+---
+start: 2022-05-30
+itinerary:
+  - label: Nice-Ville
+    locality: Nice
+    country_name: France
+  - label: Paris-Gare-de-Lyon
+    locality: Paris
+    country_name: France
+  - label: Paris-Nord
+    locality: Paris
+    country_name: France
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

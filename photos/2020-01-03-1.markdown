@@ -1,0 +1,12 @@
+---
+date: 2020-01-03T08:00:00Z
+photo:
+  - url: /media/2020/003/p1/1.jpg
+    alt: Allianz Arena lit up in red.
+tags:
+  - look_to_europe
+---
+
+Allianz Arena lit up red during Bayern Munich’s match against Bayer Leverkusen.
+
+Munich, Germany (May 2009)

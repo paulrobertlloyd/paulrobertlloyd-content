@@ -1,0 +1,17 @@
+---
+date: 2017-08-28T01:45:33+01:00
+photo:
+  - url: /media/2017/240/p1/1.jpg
+    alt: Night Riviera Sleeper stationed at Paddington station.
+  - url: /media/2017/240/p1/2.jpg
+    alt: Metal GWN initials.
+  - url: /media/2017/240/p1/3.jpg
+    alt: Night Riviera Sleeper carriage.
+  - url: /media/2017/240/p1/4.jpg
+    alt: Open door to one of the carriages.
+---
+
+Crossing “travel on both British sleeper trains” off from my bucket list. 🚆🛌💤
+
+☑️ Caledonian Sleeper
+☑️ Night Riviera Sleeper

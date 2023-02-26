@@ -1,0 +1,14 @@
+---
+date: 2021-01-31T08:00:00.000Z
+photo:
+  - url: /media/2021/031/p1/1.jpg
+    alt: A cliff edge, with bright dramatic sky over the sea.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1355814526143389702
+---
+
+Looking out over Seaford Head.
+
+Seaford, East Sussex (November 2019)

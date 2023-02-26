@@ -1,0 +1,12 @@
+---
+date: 2020-01-26T08:00:00Z
+photo:
+  - url: /media/2020/026/p1/1.jpg
+    alt: Sculpture in Planten un Blomen.
+tags:
+  - look_to_europe
+---
+
+Sculpture in _Planten un Blomen_{lang=de}.
+
+Hamburg, Germany (October 2018)

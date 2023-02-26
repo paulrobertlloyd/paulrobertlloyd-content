@@ -1,0 +1,10 @@
+---
+date: 2018-11-21T17:10:32Z
+photo:
+  - url: /media/2018/325/p2/1.jpg
+    alt: Sunset over Brighton’s West Pier.
+tags:
+  - the_west_pier
+---
+
+A more familiar view.

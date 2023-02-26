@@ -1,0 +1,8 @@
+---
+date: 2019-05-19T22:21:13+01:00
+photo:
+  - url: /media/2019/139/p1/1.jpg
+    alt: A large illuminated model of the moon hangs over the lake in Brighton’s Queen Park.
+---
+
+Ended the week admiring @lukejerram@twitter.com’s beautiful [man made moon](https://brightonfestival.org/event/17448/museum_of_the_moon/).

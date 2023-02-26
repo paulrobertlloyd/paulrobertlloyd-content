@@ -1,0 +1,16 @@
+---
+start: 2015-06-11
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+  - label: Amsterdam Centraal
+    locality: Amsterdam
+    country_name: Netherlands
+---

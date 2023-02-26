@@ -1,0 +1,10 @@
+---
+start: 2019-06-12
+itinerary:
+  - label: Maastricht
+    locality: Maastricht
+    country_name: Netherlands
+  - label: Amsterdam Centraal
+    locality: Amsterdam
+    country_name: Netherlands
+---

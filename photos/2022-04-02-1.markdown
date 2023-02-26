@@ -1,0 +1,12 @@
+---
+date: 2022-04-02T23:52:54.055+01:00
+photo:
+  - url: /media/2022/092/p1/1.jpg
+    alt: Red and blue light diffused by patterned glass window.
+syndication:
+  - https://glass.photo/paulrobertlloyd/46ecmZT1MbxuifPyXCIR2M
+  - https://mastodon.social/@paulrobertlloyd/108064996950525956
+  - https://twitter.com/paulrobertlloyd/status/1510394123735506945
+---
+
+Diffused.

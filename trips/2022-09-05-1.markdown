@@ -1,0 +1,10 @@
+---
+start: 2022-09-05
+itinerary:
+  - label: Vigo-Urzáiz
+    locality: Vigo
+    country_name: Spain
+  - label: Madrid Chamartín
+    locality: Madrid
+    country_name: Spain
+---

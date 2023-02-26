@@ -1,0 +1,13 @@
+---
+start: 2022-09-07
+itinerary:
+  - label: Madrid Atocha
+    locality: Madrid
+    country_name: Spain
+  - label: Barcelona Sants
+    locality: Barcelona
+    country_name: Spain
+  - label: Paris-Gare-de-Lyon
+    locality: Paris
+    country_name: France
+---

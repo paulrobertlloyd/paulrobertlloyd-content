@@ -1,0 +1,16 @@
+---
+start: 2013-07-26
+itinerary:
+  - label: Preston Park (PRP)
+    locality: Brighton
+    country_name: England
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+  - label: London Euston (EUS)
+    locality: London
+    country_name: England
+  - label: Glasgow Central (GLC)
+    locality: Glasgow
+    country_name: Scotland
+---

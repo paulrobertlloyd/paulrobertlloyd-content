@@ -1,0 +1,8 @@
+---
+date: 2018-08-19T20:45:00+01:00
+photo:
+  - url: /media/2018/231/p1/1.jpg
+    alt: LEGO Creator Expert James Bond™ Aston Martin DB5.
+---
+
+Now, pay attention, 007…

@@ -1,0 +1,14 @@
+---
+date: 2021-01-30T08:00:00.000Z
+photo:
+  - url: /media/2021/030/p1/1.jpg
+    alt: Castle surrounded by a moat.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1355467820541341697
+---
+
+Bodiam Castle.
+
+Near Robertsbridge, East Sussex (July 2019)

@@ -1,0 +1,10 @@
+---
+date: 2020-05-31T20:17:00.000+01:00
+photo:
+  - url: /media/2020/152/p1/1.jpg
+    alt: Poster with a photo of Tom from Myspace and the message ‘please respect my space, stay two meters apart’.
+  - url: /media/2020/152/p1/2.jpg
+    alt: TAY - The Brighton and Hove AIDS memorial.
+tags:
+  - lockdown_on_the_run
+---

@@ -1,0 +1,12 @@
+---
+date: 2020-01-07T08:00:00Z
+photo:
+  - url: /media/2020/007/p1/1.jpg
+    alt: An illuminated Arc de Triomphe as dusk falls.
+tags:
+  - look_to_europe
+---
+
+_Arc de Triomphe_{lang=fr}.
+
+Paris, France (May 2009)

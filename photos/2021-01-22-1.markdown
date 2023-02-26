@@ -1,0 +1,14 @@
+---
+date: 2021-01-22T08:00:00.000Z
+photo:
+  - url: /media/2021/022/p1/1.jpg
+    alt: Pink cloudy sky over a pier, with a stoney beach in the foreground.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1352576692934602754
+---
+
+Pink sky over Eastbourne Pier.
+
+Eastbourne, East Sussex (December 2016)

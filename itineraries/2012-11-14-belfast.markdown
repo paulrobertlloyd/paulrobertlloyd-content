@@ -1,0 +1,9 @@
+---
+start: 2012-11-14
+end: 2012-11-17
+title: Belfast
+summary: Build Conference 2012.
+trip_id:
+  - t4Ly1
+  - t4M11
+---

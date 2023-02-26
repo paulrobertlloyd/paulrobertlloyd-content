@@ -1,0 +1,19 @@
+---
+start: 2018-02-18
+itinerary:
+  - label: Norwich (NRW)
+    locality: Norwich
+    country_name: England
+  - label: Cambridge (CBG)
+    locality: Cambridge
+    country_name: England
+  - label: London King’s Cross (KGX)
+    locality: London
+    country_name: England
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

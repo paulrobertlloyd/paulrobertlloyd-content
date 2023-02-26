@@ -1,0 +1,12 @@
+---
+date: 2020-01-15T08:00:00Z
+photo:
+  - url: /media/2020/015/p1/1.jpg
+    alt: Swimmers in victorian outside thermal baths.
+tags:
+  - look_to_europe
+---
+
+Széchenyi Thermal Baths.
+
+Budapest, Hungary (September 2015)

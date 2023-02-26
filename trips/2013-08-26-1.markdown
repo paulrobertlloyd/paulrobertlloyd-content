@@ -1,0 +1,13 @@
+---
+start: 2013-08-26
+itinerary:
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+  - label: London Paddington (PAD)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

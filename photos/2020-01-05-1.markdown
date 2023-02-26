@@ -1,0 +1,12 @@
+---
+date: 2020-01-05T08:00:00Z
+photo:
+  - url: /media/2020/005/p1/1.jpg
+    alt: Radar station poking through clouds atop a mountain range.
+tags:
+  - look_to_europe
+---
+
+FLORAKO radar on Mount Pilatus.
+
+Lucerne, Switzerland (May 2009)

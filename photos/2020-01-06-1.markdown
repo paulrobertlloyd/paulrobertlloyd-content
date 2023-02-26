@@ -1,0 +1,12 @@
+---
+date: 2020-01-06T08:00:00Z
+photo:
+  - url: /media/2020/006/p1/1.jpg
+    alt: Colourful shipping containers sat next to a series of cranes.
+tags:
+  - look_to_europe
+---
+
+Containers awaiting shipment at the Port of Barcelona.
+
+Barcelona, Spain (May 2009)

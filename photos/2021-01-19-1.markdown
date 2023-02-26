@@ -1,0 +1,14 @@
+---
+date: 2021-01-19T08:00:00.000Z
+photo:
+  - url: /media/2021/019/p1/1.jpg
+    alt: Circular discs covering the curvy Selfridges building indirectly illuminated at night.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1351478781190483969
+---
+
+The iconic Selfridges building.
+
+Birmingham, West Midlands (October 2015)

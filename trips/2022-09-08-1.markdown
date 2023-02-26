@@ -1,0 +1,13 @@
+---
+start: 2022-09-08
+itinerary:
+  - label: Paris-Nord
+    locality: Paris
+    country_name: France
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

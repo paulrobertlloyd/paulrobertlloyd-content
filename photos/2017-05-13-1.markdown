@@ -1,0 +1,15 @@
+---
+date: 2017-05-13T00:31:59+01:00
+time_zone: Europe/Dublin
+photo:
+  - url: /media/2017/133/p1/1.jpg
+    alt: Walking Trail, Connemara National Park.
+  - url: /media/2017/133/p1/2.jpg
+    alt: Twelve Bens Mountain Range, Connemara National Park.
+  - url: /media/2017/133/p1/3.jpg
+    alt: Farm Track.
+  - url: /media/2017/133/p1/4.jpg
+    alt: The Aisling Siobhan moored at Roundstone Quay.
+---
+
+Photos from around Connemara, a truly awe-inspiring location.

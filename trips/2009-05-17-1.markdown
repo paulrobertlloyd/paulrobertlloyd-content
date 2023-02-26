@@ -1,0 +1,13 @@
+---
+start: 2009-05-17
+itinerary:
+  - label: Innsbruck
+    locality: Innsbruck
+    country_name: Austria
+  - label: Zürich Hauptbahnhof
+    locality: Zurich
+    country_name: Switzerland
+  - label: Lucerne
+    locality: Lucerne
+    country_name: Switzerland
+---

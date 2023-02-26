@@ -1,0 +1,38 @@
+---
+date: 2015-03-02T21:00:00Z
+photo:
+  - url: /media/2015/061/p2/1.jpg
+    alt: Olympiastadion U-Bahn station.
+  - url: /media/2015/061/p2/2.jpg
+    alt: Olympiastadion.
+  - url: /media/2015/061/p2/3.jpg
+    alt: Inside the Olympiastadion.
+  - url: /media/2015/061/p2/4.jpg
+    alt: Stadium seating.
+  - url: /media/2015/061/p2/5.jpg
+    alt: Corridor.
+  - url: /media/2015/061/p2/6.jpg
+    alt: 1936 Olympic Bell.
+  - url: /media/2015/061/p2/7.jpg
+    alt: Blanked-out Swastika.
+  - url: /media/2015/061/p2/8.jpg
+    alt: Clock.
+  - url: /media/2015/061/p2/9.jpg
+    alt: Olympic Couldron.
+  - url: /media/2015/061/p2/10.jpg
+    alt: Bell Tower and Mayfield.
+  - url: /media/2015/061/p2/11.jpg
+    alt: Olympiastadion lighting.
+  - url: /media/2015/061/p2/12.jpg
+    alt: Olympic Games 1936.
+  - url: /media/2015/061/p2/13.jpg
+    alt: Olympic Swimming Pool.
+  - url: /media/2015/061/p2/14.jpg
+    alt: Olympic Swimming Pool.
+  - url: /media/2015/061/p2/15.jpg
+    alt: Sculpture.
+  - url: /media/2015/061/p2/16.jpg
+    alt: Olympic Swimming Pool.
+---
+
+A common aspect of my travels is visiting former Olympic stadiums, and my trip to Berlin was no different.

@@ -1,0 +1,12 @@
+---
+date: 2020-01-01T08:00:00Z
+photo:
+  - url: /media/2020/001/p1/1.jpg
+    alt: Highly decorated entrance to Florence Cathedral.
+tags:
+  - look_to_europe
+---
+
+Façade of _Cattedrale di Santa Maria del Fiore_{lang=it}.
+
+Florence, Italy (June 2006)

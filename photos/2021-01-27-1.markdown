@@ -1,0 +1,14 @@
+---
+date: 2021-01-27T08:00:00.000Z
+photo:
+  - url: /media/2021/027/p1/1.jpg
+    alt: A row of 8 red K6 telephone boxes.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1354358796693463040
+---
+
+A row of red K6 telephone boxes.
+
+Preston, Lancashire (August 2018)

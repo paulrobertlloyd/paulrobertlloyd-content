@@ -1,0 +1,9 @@
+---
+date: 2017-05-12T17:19:43+01:00
+time_zone: Europe/Dublin
+photo:
+  - url: /media/2017/132/p2/1.jpg
+    alt: Rock stack on the summit.
+---
+
+At the summit of Diamond Hill, Connemara National Park.

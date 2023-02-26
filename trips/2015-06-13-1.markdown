@@ -1,0 +1,10 @@
+---
+start: 2015-06-13
+itinerary:
+  - label: Amsterdam Centraal
+    locality: Amsterdam
+    country_name: Netherlands
+  - label: Rotterdam Centraal
+    locality: Rotterdam
+    country_name: Netherlands
+---

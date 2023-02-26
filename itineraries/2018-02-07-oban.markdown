@@ -1,0 +1,11 @@
+---
+start: 2018-02-07
+end: 2018-02-12
+title: Oban and Tobermory
+trip_id:
+  - t4sp1
+  - t4sq1
+  - t4ss1
+  - t4ss2
+  - t4su1
+---

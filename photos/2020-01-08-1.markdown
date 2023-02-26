@@ -1,0 +1,12 @@
+---
+date: 2020-01-08T08:00:00Z
+photo:
+  - url: /media/2020/008/p1/1.jpg
+    alt: Blue police lamp above an entrance to a police station.
+tags:
+  - look_to_europe
+---
+
+Garda station.
+
+Dublin, Ireland (November 2010)

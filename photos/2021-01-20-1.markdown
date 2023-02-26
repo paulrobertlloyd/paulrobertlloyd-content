@@ -1,0 +1,14 @@
+---
+date: 2021-01-20T08:00:00.000Z
+photo:
+  - url: /media/2021/020/p1/1.jpg
+    alt: Illuminated clock, the time shown is 4:41pm.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1351844226422726663
+---
+
+Clock over Coney Street.
+
+York, North Yorkshire (January 2016)

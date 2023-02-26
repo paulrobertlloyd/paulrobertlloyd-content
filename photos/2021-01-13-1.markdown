@@ -1,0 +1,14 @@
+---
+date: 2021-01-13T08:00:00.000Z
+photo:
+  - url: /media/2021/013/p1/1.jpg
+    alt: A red coloured former tube train travels over a stretch of pier.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1349292036445364224
+---
+
+A _Class 483_ (formerly London Underground _1938 Stock_) trundles along Ryde Pier.
+
+Ryde, Isle of Wight (August 2013)

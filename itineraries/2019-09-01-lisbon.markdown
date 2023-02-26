@@ -1,0 +1,12 @@
+---
+start: 2020-09-01
+end: 2020-09-08
+title: Lisbon
+article_id:
+  - a52M1
+photo_id:
+  - p52R1
+trip_id:
+  - t52L1
+  - t52T1
+---

@@ -1,0 +1,13 @@
+---
+start: 2020-01-28
+itinerary:
+  - label: Copenhagen Central
+    locality: Copenhagen
+    country_name: Denmark
+  - label: Hässleholm Central
+    locality: Hässleholm
+    country_name: Sweden
+  - label: Stockholm Central
+    locality: Stockholm
+    country_name: Sweden
+---

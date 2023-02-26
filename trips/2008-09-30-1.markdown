@@ -1,0 +1,13 @@
+---
+start: 2008-09-30
+itinerary:
+  - label: Birmingham Airport (BHX)
+    locality: Birmingham
+    country_name: England
+  - label: Copenhagen Airport, Kastrup (CPH)
+    locality: Kastrup
+    country_name: Denmark
+  - label: Seattle-Tacoma International Airport (SEA)
+    locality: SeaTac
+    country_name: United States
+---

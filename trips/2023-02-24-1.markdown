@@ -1,0 +1,10 @@
+---
+start: 2023-02-24
+itinerary:
+  - label: Bristol Temple Meads (BRI)
+    locality: Bristol
+    country_name: England
+  - label: Bath Spa (BTH)
+    locality: Bath
+    country_name: England
+---

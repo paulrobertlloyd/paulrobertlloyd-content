@@ -1,0 +1,12 @@
+---
+date: 2020-01-31T08:00:00Z
+photo:
+  - url: /media/2020/031/p1/1.jpg
+    alt: Tram travelling down a narrow street.
+tags:
+  - look_to_europe
+---
+
+The number 28 tram screeches and rattles along _Calçada de São Vicente_{lang=pt}.
+
+Lisbon, Portugal (September 2019)

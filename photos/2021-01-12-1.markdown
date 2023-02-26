@@ -1,0 +1,14 @@
+---
+date: 2021-01-12T08:00:00.000Z
+photo:
+  - url: /media/2021/012/p1/1.jpg
+    alt: Several people stood above the Giant’s Causeway, with small waves approaching it.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1348927405180780545
+---
+
+The Giant’s Causeway.
+
+Near Bushmills, County Antrim (November 2012)

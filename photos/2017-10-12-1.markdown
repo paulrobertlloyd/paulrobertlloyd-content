@@ -1,0 +1,8 @@
+---
+date: 2017-10-12T18:03:36+01:00
+photo:
+  - url: /media/2017/285/p1/1.jpg
+    alt: Bright red leaves on a tree.
+---
+
+🍂😍

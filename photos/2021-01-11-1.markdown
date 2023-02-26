@@ -1,0 +1,14 @@
+---
+date: 2021-01-11T08:00:00.000Z
+photo:
+  - url: /media/2021/011/p1/1.jpg
+    alt: A water fountain shaped like a woman seen lit up at night.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1348565029780598784
+---
+
+‘Floozie in the Jacuzzi’ (""The River"") in Victoria Square.
+
+Birmingham, West Midlands (November 2010)

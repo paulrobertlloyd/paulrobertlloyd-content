@@ -1,0 +1,11 @@
+---
+date: 2022-05-03T19:23:10.176+01:00
+photo:
+  - url: /media/2022/123/p1/1.jpg
+    alt: Brighton’s dilapidated West Pier against a sea of grey.
+tags:
+  - the_west_pier
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/108239496491368296
+  - https://twitter.com/paulrobertlloyd/status/1521562094004490242
+---

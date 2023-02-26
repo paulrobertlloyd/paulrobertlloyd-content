@@ -1,0 +1,14 @@
+---
+date: 2021-01-04T08:00:00.000Z
+photo:
+  - url: /media/2021/004/p1/1.jpg
+    alt: Looking up at the logo for the Barbican Centre on one of its buildings.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1346011540797980678
+---
+
+Brutalist architecture of the Barbican Centre.
+
+Barbican, City of London (May 2009)

@@ -1,0 +1,14 @@
+---
+date: 2021-01-05T08:00:00.000Z
+photo:
+  - url: /media/2021/005/p1/1.jpg
+    alt: Atmospheric sky over the Palace of Westminster and Westminster Bridge.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1346374275192795137
+---
+
+Dusk falls over the Palace of Westminster.
+
+Westminster, Greater London (May 2009)

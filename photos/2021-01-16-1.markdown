@@ -1,0 +1,14 @@
+---
+date: 2021-01-16T08:00:00.000Z
+photo:
+  - url: /media/2021/016/p1/1.jpg
+    alt: View of Edinburgh from Calton Hill.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1350378813507706880
+---
+
+Evening in Edinburgh.
+
+Calton Hill, Edinburgh (August 2014)

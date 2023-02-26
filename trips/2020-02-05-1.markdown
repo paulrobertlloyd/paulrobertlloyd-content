@@ -1,0 +1,13 @@
+---
+start: 2020-02-05
+itinerary:
+  - label: Oslo Central
+    locality: Oslo
+    country_name: Norway
+  - label: Gothenburg Central
+    locality: Gothenburg
+    country_name: Sweden
+  - label: Copenhagen Central
+    locality: Copenhagen
+    country_name: Denmark
+---

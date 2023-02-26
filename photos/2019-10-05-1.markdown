@@ -1,0 +1,12 @@
+---
+date: 2019-10-05T23:08:28+01:00
+photo:
+  - url: /media/2019/278/p1/1.jpg
+    alt: Close up of sculpture from ‘Lost Horizon I’ series.
+  - url: /media/2019/278/p1/2.jpg
+    alt: View from below ‘Matrix’.
+  - url: /media/2019/278/p1/3.jpg
+    alt: People walking in and around ‘Clearing’.
+  - url: /media/2019/278/p1/4.jpg
+    alt: ‘Mother’s Pride III’.
+---

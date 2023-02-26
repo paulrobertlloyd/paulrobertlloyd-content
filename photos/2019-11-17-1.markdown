@@ -1,0 +1,14 @@
+---
+date: 2019-11-17T19:29:07.092-00:00
+photo:
+  - url: /media/2019/321/p1/1.jpg
+    alt: Modular concrete block rip-rap.
+  - url: /media/2019/321/p1/2.jpg
+    alt: Chalk cliff edge against a dramatic sky.
+  - url: /media/2019/321/p1/3.jpg
+    alt: Seaford Head.
+  - url: /media/2019/321/p1/4.jpg
+    alt: Coastguard Cottages with Seven Sisters in the background.
+---
+
+Seven Sisters on Sunday.

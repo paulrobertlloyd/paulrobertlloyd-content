@@ -1,0 +1,16 @@
+---
+start: 2018-08-10
+itinerary:
+  - label: Edinburgh Waverley (EDB)
+    locality: Edinburgh
+    country_name: Scotland
+  - label: London King’s Cross (KGX)
+    locality: London
+    country_name: England
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

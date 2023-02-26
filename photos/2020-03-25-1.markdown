@@ -1,0 +1,11 @@
+---
+date: 2020-03-25T18:59:38.337-00:00
+photo:
+  - url: /media/2020/085/p1/1.jpg
+    alt: Beautiful pastel sunset, reflected in the puddles on the beach.
+tags:
+  - lockdown_on_the_run
+  - the_west_pier
+---
+
+It’s not all bad.

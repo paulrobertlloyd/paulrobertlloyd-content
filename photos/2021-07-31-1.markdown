@@ -1,0 +1,16 @@
+---
+date: 2021-07-31T20:05:57.626+01:00
+photo:
+  - url: /media/2021/212/p1/1.jpg
+    alt: Large flower with white petals.
+  - url: /media/2021/212/p1/2.jpg
+    alt: View across the walled garden.
+  - url: /media/2021/212/p1/3.jpg
+    alt: ‘One Garden Brighton’ signage.
+  - url: /media/2021/212/p1/4.jpg
+    alt: Stanmer Church.
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1421554986211758081
+---
+
+A short hop on the train to see the new ‘One Garden Brighton’ in Stanmer Park.

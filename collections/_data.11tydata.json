@@ -1,0 +1,7 @@
+{
+  "layout": "collection.liquid",
+  "permalink": "collections/{{ page.fileSlug }}/",
+  "type": "collection",
+  "visibility": "unlisted",
+  "vocabulary": "entry"
+}

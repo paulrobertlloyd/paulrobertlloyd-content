@@ -1,0 +1,10 @@
+---
+date: 2019-10-20T20:10:21+01:00
+photo:
+  - url: /media/2019/293/p1/1.jpg
+    alt: Sunset over Brighton’s derelict West Pier.
+tags:
+  - the_west_pier
+---
+
+Brighton has it’s moments.

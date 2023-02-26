@@ -1,0 +1,16 @@
+---
+date: 2021-10-24T11:46:37.392+01:00
+photo:
+  - url: /media/2021/297/p1/1.jpg
+    alt: ‘Dance Together’, a huge lit up ring suspended in the air.
+  - url: /media/2021/297/p1/2.jpg
+    alt: Scrolling LED messages inside ‘Dance Together’.
+  - url: /media/2021/297/p1/3.jpg
+    alt: Coloured lights reflected in water.
+  - url: /media/2021/297/p1/4.jpg
+    alt: ‘Liverpool Love Of My Life’ illumination.
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1452225644759236615
+---
+
+Enjoyed exploring Liverpool’s River of Light trail last night. Plenty of photographic fodder.

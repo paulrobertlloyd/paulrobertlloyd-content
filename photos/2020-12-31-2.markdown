@@ -1,0 +1,24 @@
+---
+date: 2020-12-31T23:30:00.000Z
+photo:
+  - url: /media/2020/366/p2/1.png
+    alt: "Total days active: 75. Most active day of the week: Sunday."
+  - url: /media/2020/366/p2/2.png
+    alt: "Total distance: 464 km (that’s like 1,162 laps around a track)."
+  - url: /media/2020/366/p2/3.png
+    alt: "Total time: 48 hours."
+  - url: /media/2020/366/p2/4.png
+    alt: "2020 elevation gain: 2,788m (2019 elevation gain: 525m)."
+  - url: /media/2020/366/p2/5.png
+    alt: "Average pace: 6:15 min/km (6:13 min/km grade adjusted)."
+  - url: /media/2020/366/p2/6.png
+    alt: "Top sports: 88% running, 6% cycling, 5% walking, 1% other."
+category:
+  - year_in_sport
+tags:
+  - lockdown_on_the_run
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1344795160954212352
+---
+
+My #YearInSport.

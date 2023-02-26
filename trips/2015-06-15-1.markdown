@@ -1,0 +1,13 @@
+---
+start: 2015-06-15
+itinerary:
+  - label: Rotterdam Centraal
+    locality: Rotterdam
+    country_name: Netherlands
+  - label: Antwerpen-Centraal
+    locality: Antwerp
+    country_name: Belgium
+  - label: Bruges
+    locality: Bruges
+    country_name: Belgium
+---

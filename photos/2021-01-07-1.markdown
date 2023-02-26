@@ -1,0 +1,14 @@
+---
+date: 2021-01-07T08:00:00.000Z
+photo:
+  - url: /media/2021/007/p1/1.jpg
+    alt: View of lush mountain and hillside from the Quiraing landslip.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1347099220403224577
+---
+
+An incredible view from the Quiraing.
+
+Trotternish near Portree, Isle of Skye (August 2010)

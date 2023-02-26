@@ -1,0 +1,22 @@
+---
+start: 2018-09-21
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+  - label: Köln Hauptbahnhof
+    locality: Cologne
+    country_name: Germany
+  - label: Berlin Hauptbahnhof
+    locality: Berlin
+    country_name: Germany
+---

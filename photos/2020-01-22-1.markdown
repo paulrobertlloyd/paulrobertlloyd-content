@@ -1,0 +1,12 @@
+---
+date: 2020-01-22T08:00:00Z
+photo:
+  - url: /media/2020/022/p1/1.jpg
+    alt: Modern building with French and EU flags flying outside.
+tags:
+  - look_to_europe
+---
+
+_Hôtel de Ville du Havre_{lang=fr}.
+
+Le Harve, France (July 2017)

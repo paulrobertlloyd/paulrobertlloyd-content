@@ -1,0 +1,16 @@
+---
+date: 2021-09-12T21:35:06.440+01:00
+photo:
+  - url: /media/2021/255/p1/1.jpg
+    alt: Wild flowers on the South Downs.
+  - url: /media/2021/255/p1/2.jpg
+    alt: Sign post on the South Downs Way.
+  - url: /media/2021/255/p1/3.jpg
+    alt: The Kings Head pub garden.
+  - url: /media/2021/255/p1/4.jpg
+    alt: Clouds above the South Downs.
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1437153901690634243
+---
+
+Lovely Sunday walk over the downs with @fofr@twitter.com.

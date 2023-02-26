@@ -1,0 +1,10 @@
+---
+start: 2009-05-22
+itinerary:
+  - label: Zürich Hauptbahnhof
+    locality: Zurich
+    country_name: Switzerland
+  - label: Barcelona França
+    locality: Barcelona
+    country_name: Spain
+---

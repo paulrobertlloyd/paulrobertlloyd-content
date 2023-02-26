@@ -1,0 +1,9 @@
+{
+  "layout": "comments.liquid",
+  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ type_prefix }}{{ type_index }}/{{ page.fileSlug }}/",
+  "type": "comments",
+  "type_index": 1,
+  "type_prefix": "c",
+  "visibility": "unlisted",
+  "vocabulary": "feed"
+}

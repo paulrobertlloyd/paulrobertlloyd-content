@@ -1,0 +1,14 @@
+---
+date: 2021-01-17T08:00:00.000Z
+photo:
+  - url: /media/2021/017/p1/1.jpg
+    alt: View over the River Thames.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1350740954735636480
+---
+
+Evening view of South Bank and the City of London.
+
+Waterloo Bridge, Greater London (July 2015)

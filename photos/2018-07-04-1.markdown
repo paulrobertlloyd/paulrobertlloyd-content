@@ -1,0 +1,12 @@
+---
+date: 2018-07-04T16:40:00+01:00
+photo:
+  - url: /media/2018/185/p1/1.jpg
+    alt: Me celebrating England’s win over Colombia 1.
+  - url: /media/2018/185/p1/2.jpg
+    alt: Me celebrating England’s win over Colombia 2.
+  - url: /media/2018/185/p1/3.jpg
+    alt: Me celebrating England’s win over Colombia 3.
+---
+
+When something’s good, it’s never gone. Thanks to @cennydd@twitter.com for capturing [this rare moment of unbridled joy](https://www.bbc.co.uk/sport/football/44610244).

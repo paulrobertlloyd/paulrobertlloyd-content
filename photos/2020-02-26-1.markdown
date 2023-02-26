@@ -1,0 +1,10 @@
+---
+date: 2020-02-26T22:30:00Z
+photo:
+  - url: /media/2020/057/p1/1.jpg
+    alt: Original image (James Estrin/The New York Times).
+  - url: /media/2020/057/p1/2.jpg
+    alt: Recreated image.
+---
+
+To celebrate @sammorrisdesign@twitter.com’s [appearance in the New York Times](https://www.nytimes.com/2020/02/24/business/the-markup-tech-launch.html?searchResultPosition=1) this week, me, @mandr8@twitter.com, @c_p_pearson@twitter.com and @tobefrankj@twitter.com tried to recreate the iconic photo. Really captures the energy of the newsroom, I think.

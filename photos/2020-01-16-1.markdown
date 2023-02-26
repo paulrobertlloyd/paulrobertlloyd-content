@@ -1,0 +1,12 @@
+---
+date: 2020-01-16T08:00:00Z
+photo:
+  - url: /media/2020/016/p1/1.jpg
+    alt: Close up of Sacré-Cœur Basilica.
+tags:
+  - look_to_europe
+---
+
+_Sacré-Cœur Basilica_.
+
+Paris, France (September 2015)

@@ -1,0 +1,13 @@
+---
+date: 2017-05-11T01:02:21+01:00
+time_zone: Europe/Dublin
+photo:
+  - url: /media/2017/131/p1/1.jpg
+    alt: The Custom House, Dublin.
+  - url: /media/2017/131/p1/2.jpg
+    alt: Ha’penny Bridge, Dublin.
+  - url: /media/2017/131/p1/3.jpg
+    alt: Symmetrical metal work on one corner of Dublin City Hall.
+  - url: /media/2017/131/p1/4.jpg
+    alt: James Joyce Bridge, Dublin.
+---

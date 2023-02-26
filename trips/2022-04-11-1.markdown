@@ -1,0 +1,16 @@
+---
+start: 2022-04-11
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+  - label: London Euston (EUS)
+    locality: London
+    country_name: England
+  - label: Aberdeen (ABD)
+    locality: Aberdeen
+    country_name: Scotland
+---

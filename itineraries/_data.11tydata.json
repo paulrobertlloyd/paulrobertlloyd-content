@@ -1,0 +1,8 @@
+{
+  "layout": "itinerary.liquid",
+  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ type_prefix }}{{ type_index }}/{{ page.fileSlug }}/",
+  "type": "itinerary",
+  "type_index": 1,
+  "type_prefix": "i",
+  "vocabulary": "event"
+}

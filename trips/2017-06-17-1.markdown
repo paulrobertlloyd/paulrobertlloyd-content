@@ -1,0 +1,10 @@
+---
+start: 2017-06-17
+itinerary:
+  - label: Amsterdam Centraal
+    locality: Amsterdam
+    country_name: Netherlands
+  - label: Den Haag Centraal
+    locality: The Hague
+    country_name: Denmark
+---

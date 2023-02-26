@@ -1,0 +1,10 @@
+---
+date: 2021-09-22T13:41:57.506+01:00
+photo:
+  - url: /media/2021/265/p1/1.jpg
+    alt: Sailboats on a lake.
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1440658395778879494
+---
+
+Watching remote controlled sailboats being raced on a pond in the New Forest. I want one!

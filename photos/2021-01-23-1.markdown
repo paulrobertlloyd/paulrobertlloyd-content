@@ -1,0 +1,14 @@
+---
+date: 2021-01-23T08:00:00.000Z
+photo:
+  - url: /media/2021/023/p1/1.jpg
+    alt: A small island, cut of from the mainland, its causeway stretching into the bay that surrounds it.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1352945359757205505
+---
+
+Sun setting over St. Michael’s Mount.
+
+Marazion, Cornwall (August 2017)

@@ -1,0 +1,16 @@
+---
+start: 2022-04-16
+itinerary:
+  - label: Dundee (DEE)
+    locality: Dundee
+    country_name: Scotland
+  - label: London King’s Cross (KGX)
+    locality: London
+    country_name: England
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

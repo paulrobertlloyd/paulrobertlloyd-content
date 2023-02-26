@@ -1,0 +1,8 @@
+---
+date: 2011-06-03T02:01:00+01:00
+photo:
+  - url: /media/2011/154/p1/1.jpg
+    alt: Motorbike on a road leaving Brighton at sunset.
+---
+
+One of my favourite photos from a recent Saturday spent exploring Brighton with my camera.

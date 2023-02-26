@@ -1,0 +1,8 @@
+{
+  "layout": "reply.liquid",
+  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ type_prefix }}{{ page.fileSlug }}/",
+  "type": "reply",
+  "type_prefix": "r",
+  "visibility": "unlisted",
+  "vocabulary": "entry"
+}

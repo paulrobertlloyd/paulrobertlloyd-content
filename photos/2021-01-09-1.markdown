@@ -1,0 +1,14 @@
+---
+date: 2021-01-09T08:00:00.000Z
+photo:
+  - url: /media/2021/009/p1/1.jpg
+    alt: Looking up at one of the pillars of the Forth Road Bridge.
+tags:
+  - stay_at_home
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1347838873980841985
+---
+
+Riveted pillar of the Forth Road Bridge.
+
+Queensferry, Edinburgh (August 2010)
