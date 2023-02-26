@@ -1,0 +1,20 @@
+---
+start: 2018-10-07
+itinerary:
+  - label: Malmö Central
+    locality: Malmö
+    country_name: Sweden
+    mode: rail
+  - label: Copenhagen Central
+    locality: Copenhagen
+    country_name: Denmark
+    mode: rail
+  - label: Fredericia
+    locality: Fredericia
+    country_name: Denmark
+    mode: rail
+  - label: Hamburg Hauptbahnhof
+    locality: Hamburg
+    country_name: Germany
+    mode: rail
+---

@@ -1,0 +1,6 @@
+---
+date: 2018-01-20T02:14:00Z
+photo:
+  - url: /media/2018/020/p1/1.jpg
+    alt: LONER!! written on a wall.
+---

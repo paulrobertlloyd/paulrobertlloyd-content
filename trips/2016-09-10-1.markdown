@@ -1,0 +1,28 @@
+---
+start: 2016-09-10
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Paris-Nord
+    locality: Paris
+    country_name: France
+    mode: rail
+  - label: Paris-Est
+    locality: Paris
+    country_name: France
+    mode: rail
+  - label: Strasbourg-Ville
+    locality: Strasbourg
+    country_name: France
+    mode: rail
+  - label: Freiburg Hauptbahnhof
+    locality: Freiburg im Breisgau
+    country_name: Germany
+    mode: rail
+---

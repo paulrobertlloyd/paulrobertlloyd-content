@@ -1,0 +1,16 @@
+---
+start: 2009-05-30
+itinerary:
+  - label: Paris-Nord
+    locality: Paris
+    country_name: France
+    mode: rail
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Littlehampton (LIT)
+    locality: Littlehampton
+    country_name: England
+    mode: rail
+---

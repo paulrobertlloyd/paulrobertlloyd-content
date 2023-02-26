@@ -1,0 +1,9 @@
+---
+start: 2015-05-12
+end: 2015-05-13
+title: Bath
+summary: A trip on the Great Western train I previously saw every morning on my way to work.
+trip_id:
+  - t4b71
+  - t4b81
+---

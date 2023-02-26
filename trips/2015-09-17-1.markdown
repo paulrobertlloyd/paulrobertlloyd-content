@@ -1,0 +1,24 @@
+---
+start: 2015-09-17
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+    mode: rail
+  - label: Köln Hauptbahnhof
+    locality: Cologne
+    country_name: Germany
+    mode: rail
+  - label: Prague
+    locality: Prague
+    country_name: Czechia
+    mode: rail
+---

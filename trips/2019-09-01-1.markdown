@@ -1,0 +1,28 @@
+---
+start: 2019-09-01
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Paris-Nord
+    locality: Paris
+    country_name: France
+    mode: rail
+  - label: Paris-Montparnasse
+    locality: Paris
+    country_name: France
+    mode: rail
+  - label: Hendaye
+    locality: Hendaye
+    country_name: France
+    mode: rail
+  - label: Lisbon Orient
+    locality: Lisbon
+    country_name: Portugal
+    mode: rail
+---

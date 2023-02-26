@@ -1,0 +1,8 @@
+---
+date: 2019-10-19T19:31:06+01:00
+photo:
+  - url: /media/2019/292/p1/1.jpg
+    alt: My brother, in his graduation robes.
+---
+
+Bachelor of Science? Oh, brother!

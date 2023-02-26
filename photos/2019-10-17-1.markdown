@@ -1,0 +1,8 @@
+---
+date: 2019-10-17T22:33:08+01:00
+photo:
+  - url: /media/2019/290/p1/1.jpg
+    alt: View of rooftops and building construction in Westminster from the top floor of the Department of Education.
+---
+
+View from the top.

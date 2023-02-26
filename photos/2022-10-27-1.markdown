@@ -1,0 +1,8 @@
+---
+date: 2022-10-27T18:00:00.000+01:00
+photo:
+  - url: /media/2022/300/p1/1.jpg
+    alt: One of the icon cream-coloured chimneys.
+---
+
+Visited the refurbished Battersea Power Station. While it’s great that this building has finally been given a renewed purpose, shame that it serves only to reflect the paucity of imagination around urban renewal given that it’s a glorified shopping mall.

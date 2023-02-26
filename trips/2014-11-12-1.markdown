@@ -1,0 +1,20 @@
+---
+start: 2014-11-12
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: Gatwick (GTW)
+    locality: Gatwick Airport
+    country_name: England
+    mode: rail
+  - label: Gatwick Airport (LGW)
+    locality: Gatwick
+    country_name: England
+    mode: air
+  - label: Belfast International Airport (BFS)
+    locality: Belfast
+    country_name: Northern Ireland
+    mode: air
+---

@@ -1,0 +1,24 @@
+---
+start: 2013-05-27
+itinerary:
+  - label: Walsall (WSL)
+    locality: Walsall
+    country_name: England
+    mode: rail
+  - label: Birmingham New Street (BHM)
+    locality: Birmingham
+    country_name: England
+    mode: rail
+  - label: Birmingham Moor Street
+    locality: Birmingham
+    country_name: England
+    mode: rail
+  - label: London Marylebone (MYB)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+---

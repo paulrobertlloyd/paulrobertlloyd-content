@@ -1,0 +1,36 @@
+---
+start: 2010-11-08
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: London Euston (EUS)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Holyhead (HHD)
+    locality: Holyhead
+    country_name: Wales
+    mode: rail
+  - label: Port of Holyhead
+    locality: Holyhead
+    country_name: Wales
+    mode: ferry
+  - label: Dublin Port
+    locality: Dublin
+    country_name: Ireland
+    mode: ferry
+  - label: Dublin Connolly
+    locality: Dublin
+    country_name: Ireland
+    mode: rail
+  - label: Belfast Lanyon Place
+    locality: Belfast
+    country_name: Northern Ireland
+    mode: rail
+---

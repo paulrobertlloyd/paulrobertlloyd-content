@@ -1,0 +1,15 @@
+---
+date: 2018-10-10T09:46:00+01:00
+time_zone: Europe/Berlin
+photo:
+  - url: /media/2018/283/p1/1.jpg
+    alt: Wallgraben.
+  - url: /media/2018/283/p1/2.jpg
+    alt: Hamburg’s TV Tower taken from a viewpoint that surrounds it with red leaves.
+  - url: /media/2018/283/p1/3.jpg
+    alt: Boats moored on Outer Alster Lake.
+  - url: /media/2018/283/p1/4.jpg
+    alt: Vivid sunset over Binnenalster with cityscape in the distance.
+---
+
+What a treat, to visit such an amazing city during the most colourful time of the year. _Wir sehen uns bald wieder, Hamburg!_{lang=de}

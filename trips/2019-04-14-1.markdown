@@ -1,0 +1,24 @@
+---
+start: 2019-04-14
+itinerary:
+  - label: Margate (MAR)
+    locality: Margate
+    country_name: England
+    mode: rail
+  - label: Ashford International (AFK)
+    locality: Ashford
+    country_name: England
+    mode: rail
+  - label: Hastings (HGS)
+    locality: Hastings
+    country_name: England
+    mode: rail
+  - label: Lewes (LWS)
+    locality: Lewes
+    country_name: England
+    mode: rail
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+---

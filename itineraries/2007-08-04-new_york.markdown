@@ -1,0 +1,9 @@
+---
+start: 2007-08-04
+end: 2007-08-08
+title: New York
+summary: New York with Ellen.
+trip_id:
+  - t3op1
+  - t3ot1
+---

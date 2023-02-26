@@ -1,0 +1,28 @@
+---
+start: 2020-01-24
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: Barnham (BAA)
+    locality: Barnham
+    country_name: England
+    mode: rail
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+    mode: rail
+  - label: Köln Hauptbahnhof
+    locality: Cologne
+    country_name: Germany
+    mode: rail
+  - label: Hamburg Hauptbahnhof
+    locality: Hamburg
+    country_name: Germany
+    mode: rail
+---

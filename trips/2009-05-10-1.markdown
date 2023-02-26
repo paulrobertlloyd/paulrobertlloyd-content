@@ -1,0 +1,20 @@
+---
+start: 2009-05-10
+itinerary:
+  - label: Littlehampton (LIT)
+    locality: Littlehampton
+    country_name: England
+    mode: rail
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+    mode: rail
+  - label: Köln Hauptbahnhof
+    locality: Cologne
+    country_name: Germany
+    mode: rail
+---

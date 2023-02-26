@@ -1,0 +1,14 @@
+---
+start: 2012-03-15
+itinerary:
+  - label: Hilton Santa Monica Hotel & Suites
+    locality: Santa Monica
+    country_name: United States
+    geo:
+      latitude: 34.01173
+      longitude: -118.49117
+    mode: road
+  - locality: San Francisco
+    country_name: United States
+    mode: road
+---

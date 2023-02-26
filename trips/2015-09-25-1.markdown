@@ -1,0 +1,16 @@
+---
+start: 2015-09-25
+itinerary:
+  - label: Budapest Keleti
+    locality: Budapest
+    country_name: Hungary
+    mode: rail
+  - label: Zürich Hauptbahnhof
+    locality: Zurich
+    country_name: Switzerland
+    mode: rail
+  - label: Paris-Gare-de-Lyon
+    locality: Paris
+    country_name: France
+    mode: rail
+---

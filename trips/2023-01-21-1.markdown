@@ -1,0 +1,20 @@
+---
+start: 2023-02-21
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: London Farringdon (ZFD)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: London Paddington (PAD)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Bristol Temple Meads (BRI)
+    locality: Bristol
+    country_name: England
+    mode: rail
+---

@@ -1,0 +1,46 @@
+---
+date: 2015-03-02T20:45:00Z
+photo:
+  - url: /media/2015/061/p1/1.jpg
+    alt: Quadriga atop the Brandenburg Gate.
+  - url: /media/2015/061/p1/2.jpg
+    alt: Sign that starts by sating “You are entering the American sector”.
+  - url: /media/2015/061/p1/3.jpg
+    alt: DDR border totem.
+  - url: /media/2015/061/p1/4.jpg
+    alt: Brandenburg Gate.
+  - url: /media/2015/061/p1/5.jpg
+    alt: S-Bahn.
+  - url: /media/2015/061/p1/6.jpg
+    alt: Berlin architecture.
+  - url: /media/2015/061/p1/7.jpg
+    alt: Berlin Wall.
+  - url: /media/2015/061/p1/8.jpg
+    alt: Restored section of Berlin Wall, Bernauer Straße.
+  - url: /media/2015/061/p1/9.jpg
+    alt: Berlin Wall Memorial and Documentation Center.
+  - url: /media/2015/061/p1/10.jpg
+    alt: Chapel of Reconciliation, Bernauer Straße.
+  - url: /media/2015/061/p1/11.jpg
+    alt: Alexanderplatz.
+  - url: /media/2015/061/p1/12.jpg
+    alt: Berlin Fernsehturm (Television Tower).
+  - url: /media/2015/061/p1/13.jpg
+    alt: St. Mary’s Church and Fernsehturm.
+  - url: /media/2015/061/p1/14.jpg
+    alt: Statue of Karl Marx and Friedrich Engels.
+  - url: /media/2015/061/p1/15.jpg
+    alt: Berliner Dom.
+  - url: /media/2015/061/p1/16.jpg
+    alt: Cyclist.
+  - url: /media/2015/061/p1/17.jpg
+    alt: Berlin street sign, Ziegelstraße.
+  - url: /media/2015/061/p1/18.jpg
+    alt: No visitors actually.
+  - url: /media/2015/061/p1/19.jpg
+    alt: Star.
+  - url: /media/2015/061/p1/20.jpg
+    alt: Berlin Fernsehturm (Television Tower) at night.
+---
+
+Scenes from central Berlin, during my brief visit in February 2015.

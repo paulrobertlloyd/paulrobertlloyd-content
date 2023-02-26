@@ -1,0 +1,16 @@
+---
+start: 2020-02-06
+itinerary:
+  - label: Copenhagen Central
+    locality: Copenhagen
+    country_name: Denmark
+    mode: rail
+  - label: Hamburg Hauptbahnhof
+    locality: Hamburg
+    country_name: Germany
+    mode: rail
+  - label: Köln Hauptbahnhof
+    locality: Cologne
+    country_name: Germany
+    mode: rail
+---

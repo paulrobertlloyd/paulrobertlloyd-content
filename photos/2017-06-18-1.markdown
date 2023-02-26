@@ -1,0 +1,9 @@
+---
+date: 2017-06-18T17:44:05+02:00
+time_zone: Europe/Amsterdam
+photo:
+  - url: /media/2017/169/p1/1.jpg
+    alt: Pint of Vedett beer with Scheveningen beach in the background.
+---
+
+Sunday. 🍺🏖

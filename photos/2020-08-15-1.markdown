@@ -1,0 +1,6 @@
+---
+date: 2020-08-15T19:21:24.028+01:00
+photo:
+  - url: /media/2020/228/p1/1.jpg
+    alt: Vintage poster for Lloyd’s News (the most popular paper in the world).
+---

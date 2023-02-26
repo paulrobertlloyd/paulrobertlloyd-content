@@ -1,0 +1,12 @@
+---
+start: 2018-01-14
+itinerary:
+  - label: São Paulo-Guarulhos International Airport (GRU)
+    locality: Guarulhos
+    country_name: Brazil
+    mode: air
+  - label: London Heathrow Airport (LHR)
+    locality: London
+    country_name: England
+    mode: air
+---

@@ -1,0 +1,18 @@
+---
+start: 2012-03-14
+itinerary:
+  - label: Caesars Palace Hotel & Casino
+    locality: Las Vegas
+    country_name: United States
+    geo:
+      latitude: 36.11617
+      longitude: -115.17669
+    mode: road
+  - label: Hilton Santa Monica Hotel & Suites
+    locality: Santa Monica
+    country_name: United States
+    geo:
+      latitude: 34.01173
+      longitude: -118.49117
+    mode: road
+---

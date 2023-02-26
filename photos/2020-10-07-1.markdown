@@ -1,0 +1,8 @@
+---
+date: 2020-10-07T14:27:25.000+01:00
+photo:
+  - url: /media/2020/281/p1/1.jpg
+    alt: Trees with orange leaves starting to appear.
+---
+
+The view from my window.

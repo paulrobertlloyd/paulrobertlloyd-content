@@ -1,0 +1,15 @@
+---
+date: 2017-07-23T22:19:58+02:00
+time_zone: Europe/Paris
+photo:
+  - url: /media/2017/204/p1/1.jpg
+    alt: Rouen Cathedral.
+  - url: /media/2017/204/p1/2.jpg
+    alt: View of Rouen buildings from above.
+  - url: /media/2017/204/p1/3.jpg
+    alt: Distinctive angular roof of the Church of St Joan of Arc.
+  - url: /media/2017/204/p1/4.jpg
+    alt: Old building with Tudor-like cladding.
+---
+
+Visited Rouen. Even in the rain, it’s very pretty.

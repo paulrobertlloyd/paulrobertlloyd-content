@@ -1,0 +1,32 @@
+---
+start: 2017-07-19
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: Newhaven Harbour (NVH)
+    locality: Newhaven
+    country_name: England
+    mode: rail
+  - label: Port of Newhaven
+    locality: Newhaven
+    country_name: England
+    mode: ferry
+  - label: Port of Dieppe
+    locality: Dieppe
+    country_name: France
+    mode: ferry
+  - label: Dieppe
+    locality: Dieppe
+    country_name: France
+    mode: rail
+  - label: Rouen-Rive-Droite
+    locality: Rouen
+    country_name: France
+    mode: rail
+  - label: Le Havre
+    locality: Le Harve
+    country_name: France
+    mode: rail
+---

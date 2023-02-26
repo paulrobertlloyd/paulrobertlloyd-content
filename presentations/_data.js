@@ -1,0 +1,7 @@
+export default {
+  layout: "presentation.tmpl.js",
+  syndicate: true,
+  type: "presentation",
+  type_prefix: "s",
+  vocabulary: "entry",
+};

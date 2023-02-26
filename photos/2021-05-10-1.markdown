@@ -1,0 +1,8 @@
+---
+date: 2021-05-10T19:30:00.000+01:00
+photo:
+  - url: /media/2021/130/p1/1.jpg
+    alt: Photo of me on Brighton beach wearing a COVID-19 vaccination sticker.
+---
+
+Vaxxie.

@@ -1,0 +1,9 @@
+---
+start: 2018-02-17
+end: 2018-02-18
+title: Norwich
+summary: A weekend with John Ellison.
+trip_id:
+  - t4sz1
+  - t4t01
+---

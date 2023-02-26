@@ -1,0 +1,10 @@
+---
+date: 2021-09-14T17:50:26.516+01:00
+photo:
+  - url: /media/2021/257/p1/1.jpg
+    alt: Graffiti painting of Sean Lock and Charlie Watts.
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1437822105580617734
+---
+
+Sean and Charlie.

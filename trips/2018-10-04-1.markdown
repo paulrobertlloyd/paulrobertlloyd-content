@@ -1,0 +1,36 @@
+---
+start: 2018-10-04
+itinerary:
+  - label: Berlin Hauptbahnhof
+    locality: Berlin
+    country_name: Germany
+    mode: rail
+  - label: Hamburg Hauptbahnhof
+    locality: Hamburg
+    country_name: Germany
+    mode: rail
+  - label: Puttgarden
+    locality: Puttgarden
+    country_name: Germany
+    mode: rail
+  - label: Puttgarden
+    locality: Puttgarden
+    country_name: Germany
+    mode: ferry
+  - label: Rødbyhavn
+    locality: Rødby
+    country_name: Denmark
+    mode: ferry
+  - label: Rødby Færge
+    locality: Rødby
+    country_name: Denmark
+    mode: rail
+  - label: Copenhagen Central
+    locality: Copenhagen
+    country_name: Denmark
+    mode: rail
+  - label: Malmö Central
+    locality: Malmö
+    country_name: Sweden
+    mode: rail
+---

@@ -1,0 +1,8 @@
+---
+date: 2020-07-29T14:54:15.524+01:00
+photo:
+  - url: /media/2020/211/p1/1.jpg
+    alt: Seagull standing in front of me in a park.
+---
+
+One eye on my lunch.

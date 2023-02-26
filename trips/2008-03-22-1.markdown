@@ -1,0 +1,16 @@
+---
+start: 2008-03-22
+itinerary:
+  - label: O’Hare International Airport (ORD)
+    locality: Chicago
+    country_name: United States
+    mode: air
+  - label: Newark Liberty International Airport (EWR)
+    locality: Newark
+    country_name: United States
+    mode: air
+  - label: Birmingham Airport (BHX)
+    locality: Birmingham
+    country_name: England
+    mode: air
+---

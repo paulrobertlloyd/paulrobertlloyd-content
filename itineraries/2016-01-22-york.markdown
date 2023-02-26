@@ -1,0 +1,8 @@
+---
+start: 2016-01-22
+end: 2016-01-24
+title: York
+trip_id:
+  - t4fN1
+  - t4fQ1
+---

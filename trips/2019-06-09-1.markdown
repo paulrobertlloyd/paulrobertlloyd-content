@@ -1,0 +1,24 @@
+---
+start: 2019-06-09
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+    mode: rail
+  - label: Liège-Guillemins
+    locality: Liège
+    country_name: Belgium
+    mode: rail
+  - label: Maastricht
+    locality: Maastricht
+    country_name: Netherlands
+    mode: rail
+---

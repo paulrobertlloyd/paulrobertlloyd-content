@@ -1,0 +1,9 @@
+---
+date: 2017-11-06T11:39:56+01:00
+time_zone: Europe/Berlin
+photo:
+  - url: /media/2017/310/p1/1.jpg
+    alt: Steel poles mark the former path of the Berlin Wall.
+---
+
+Berlin gives me hope for the future.

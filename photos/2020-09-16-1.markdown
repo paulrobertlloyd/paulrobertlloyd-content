@@ -1,0 +1,8 @@
+---
+date: 2020-09-16T12:37:50.783+01:00
+photo:
+  - url: /media/2020/260/p1/1.jpg
+    alt: Back gardens from a high viewpoint.
+---
+
+Brighton gardens.

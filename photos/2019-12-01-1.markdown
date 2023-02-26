@@ -1,0 +1,8 @@
+---
+date: 2019-12-01T17:58:55.968-00:00
+photo:
+  - url: /media/2019/335/p1/1.jpg
+    alt: Illustration of Donald Trump showing his middle finger.
+---
+
+""MADe in America"" (Ben Turnbull, 2019)

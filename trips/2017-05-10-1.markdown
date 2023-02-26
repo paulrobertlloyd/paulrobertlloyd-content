@@ -1,0 +1,32 @@
+---
+start: 2017-05-10
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: London Victoria (VIC)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: London Euston (EUS)
+    locality: London
+    country_name: England
+    mode: rail
+  - label: Chester (CTR)
+    locality: Chester
+    country_name: England
+    mode: rail
+  - label: Holyhead (HHD)
+    locality: Holyhead
+    country_name: Wales
+    mode: rail
+  - label: Port of Holyhead
+    locality: Holyhead
+    country_name: Wales
+    mode: ferry
+  - label: Dublin Port
+    locality: Dublin
+    country_name: Ireland
+    mode: ferry
+---

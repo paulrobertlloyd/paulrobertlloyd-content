@@ -1,0 +1,15 @@
+---
+date: 2017-07-20T23:32:40+02:00
+time_zone: Europe/Paris
+photo:
+  - url: /media/2017/201/p3/1.jpg
+    alt: Catène de Containers (Vincent Ganivet, 2017).
+  - url: /media/2017/201/p3/2.jpg
+    alt: Perret Designed Apartments.
+  - url: /media/2017/201/p3/3.jpg
+    alt: Rue Richelieu Apartments.
+  - url: /media/2017/201/p3/4.jpg
+    alt: Le Volcan.
+---
+
+…and from this afternoon.

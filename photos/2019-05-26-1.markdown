@@ -1,0 +1,8 @@
+---
+date: 2019-05-26T17:48:24+01:00
+photo:
+  - url: /media/2019/146/p1/1.jpg
+    alt: A desk covered with brushes, pots, sketches and other materials.
+---
+
+Inside the artist’s studio (last day of [Artists Open Houses](https://aoh.org.uk) 2019).

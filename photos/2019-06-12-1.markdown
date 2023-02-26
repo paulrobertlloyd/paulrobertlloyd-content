@@ -1,0 +1,15 @@
+---
+date: 2019-06-12T13:41:09+02:00
+time_zone: Europe/Amsterdam
+photo:
+  - url: /media/2019/163/p1/1.jpg
+    alt: View down Eikelstraat, a small cobbled street.
+  - url: /media/2019/163/p1/2.jpg
+    alt: View through a stone arch, behind the Basilica of Saint Servatius.
+  - url: /media/2019/163/p1/3.jpg
+    alt: View into a Dutch garden.
+  - url: /media/2019/163/p1/4.jpg
+    alt: View down Ridderstraat, with colourful red walls and doors, with bikes parked to one side.
+---
+
+A fun few days exploring Maastrict’s beautiful nooks and crannies. Now, on to Amsterdam.

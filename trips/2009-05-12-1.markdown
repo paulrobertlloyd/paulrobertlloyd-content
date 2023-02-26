@@ -1,0 +1,12 @@
+---
+start: 2009-05-12
+itinerary:
+  - label: Köln Hauptbahnhof
+    locality: Cologne
+    country_name: Germany
+    mode: rail
+  - label: Munich Pasing
+    locality: Munich
+    country_name: Germany
+    mode: rail
+---

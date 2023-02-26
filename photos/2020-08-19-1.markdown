@@ -1,0 +1,10 @@
+---
+date: 2020-08-19T22:31:38.257+01:00
+photo:
+  - url: /media/2020/232/p1/1.jpg
+    alt: Harsh shadows on concrete beach shelters.
+  - url: /media/2020/232/p1/2.jpg
+    alt: Harsh shadows on concrete steps.
+---
+
+Shadows.

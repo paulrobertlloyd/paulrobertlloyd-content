@@ -1,0 +1,27 @@
+---
+start: 2017-09-01
+itinerary:
+  - label: Newquay (NQY)
+    locality: Newquay
+    country_name: England
+    mode: rail
+  - label: Par (PAR)
+    locality: Par
+    country_name: England
+    geo:
+      latitude: 50.356
+      longitude: -4.707
+    mode: rail
+  - label: Reading (RDG)
+    locality: Reading
+    country_name: England
+    mode: rail
+  - label: Gatwick (GTW)
+    locality: Gatwick Airport
+    country_name: England
+    mode: rail
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+    mode: rail
+---

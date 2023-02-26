@@ -1,0 +1,14 @@
+---
+date: 2019-07-14T23:40:57+01:00
+photo:
+  - url: /media/2019/195/p1/1.jpg
+    alt: Penmaenpool Toll Bridge.
+  - url: /media/2019/195/p1/2.jpg
+    alt: Red telephone box outside Ty Glan Afon holiday cottage.
+  - url: /media/2019/195/p1/3.jpg
+    alt: View over Penmaenpool and across to Cader Idris.
+  - url: /media/2019/195/p1/4.jpg
+    alt: Sun setting over the Cader Idris mountain range.
+---
+
+A selection of views seen during a relaxing weekend spent in and around the Mawddach Estuary near Dolgellau.

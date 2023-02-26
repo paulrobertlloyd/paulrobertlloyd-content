@@ -1,0 +1,24 @@
+---
+start: 2012-06-05
+itinerary:
+  - label: Guernsey Ferry Port
+    locality: St. Peter Port
+    country_name: Guernsey
+    mode: ferry
+  - label: Poole Ferry Terminal
+    locality: Poole
+    country_name: England
+    mode: ferry
+  - label: Southampton Airport Parkway (SOA)
+    locality: Southampton
+    country_name: England
+    mode: rail
+  - label: Hove (HOV)
+    locality: Hove
+    country_name: England
+    mode: rail
+  - label: Preston Park (PRP)
+    locality: Brighton
+    country_name: England
+    mode: rail
+---

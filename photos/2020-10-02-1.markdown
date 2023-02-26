@@ -1,0 +1,8 @@
+---
+date: 2020-10-02T19:51:16.081+01:00
+photo:
+  - url: /media/2020/276/p1/1.jpg
+    alt: ‘A Guide to Modernism in Metroland’ book on a wooden desktop.
+---
+
+Something for the weekend.

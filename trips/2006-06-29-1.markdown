@@ -1,0 +1,12 @@
+---
+start: 2006-06-29
+itinerary:
+  - label: Roma Termini (XRJ)
+    locality: Rome
+    country_name: Italy
+    mode: rail
+  - label: Florence Santa Maria Novella (ZMS)
+    locality: Florence
+    country_name: Italy
+    mode: rail
+---

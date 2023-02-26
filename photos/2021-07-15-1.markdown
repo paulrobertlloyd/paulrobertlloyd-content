@@ -1,0 +1,16 @@
+---
+date: 2021-07-15T11:46:06.616+01:00
+photo:
+  - url: /media/2021/196/p1/1.jpg
+    alt: Fencing along left side of a walking path that runs along a ridge.
+  - url: /media/2021/196/p1/2.jpg
+    alt: Rock pile.
+  - url: /media/2021/196/p1/3.jpg
+    alt: Sunlight casting Mam Tor as dark against bright foreground moorland.
+  - url: /media/2021/196/p1/4.jpg
+    alt: Sunset over distant hilly moorland.
+syndication:
+  - https://twitter.com/paulrobertlloyd/status/1415624349474766848
+---
+
+Hollins Cross and Mam Tor.

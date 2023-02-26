@@ -1,0 +1,16 @@
+---
+start: 2022-08-23
+itinerary:
+  - label: Paris-Montparnasse
+    locality: Paris
+    country_name: France
+    mode: rail
+  - label: Hendaye
+    locality: Hendaye
+    country_name: France
+    mode: rail
+  - label: Amara Donostia
+    locality: Donostia-San Sebastián
+    country_name: Spain
+    mode: rail
+---

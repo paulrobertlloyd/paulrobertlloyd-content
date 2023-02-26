@@ -1,0 +1,32 @@
+---
+start: 2013-08-16
+itinerary:
+  - label: Preston Park (PRP)
+    locality: Brighton
+    country_name: England
+    mode: rail
+  - label: Havant (HAV)
+    locality: Havant
+    country_name: England
+    mode: rail
+  - label: Portsmouth Harbour (PMH)
+    locality: Portsmouth
+    country_name: England
+    mode: rail
+  - label: Portsmouth Harbour Station Pier
+    locality: Portsmouth
+    country_name: England
+    mode: ferry
+  - label: Ryde Pier Head
+    locality: Ryde
+    country_name: England
+    mode: ferry
+  - label: Ryde Pier Head (RYP)
+    locality: Ryde
+    country_name: England
+    mode: rail
+  - label: Shanklin (SHN)
+    locality: Shanklin
+    country_name: England
+    mode: rail
+---

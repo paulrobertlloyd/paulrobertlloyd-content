@@ -1,0 +1,16 @@
+---
+start: 2015-02-22
+itinerary:
+  - label: São Paulo-Guarulhos International Airport (GRU)
+    locality: Guarulhos
+    country_name: Brazil
+    mode: air
+  - label: Lisbon Portela Airport (LIS)
+    locality: Lisbon
+    country_name: Portugal
+    mode: air
+  - label: Berlin Schönefeld Airport (SXF)
+    locality: Berlin
+    country_name: Germany
+    mode: air
+---

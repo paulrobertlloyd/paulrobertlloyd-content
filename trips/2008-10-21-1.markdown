@@ -1,0 +1,16 @@
+---
+start: 2008-10-21
+itinerary:
+  - label: Washington Dulles International Airport (IAD)
+    locality: Dulles
+    country_name: United States
+    mode: air
+  - label: Munich International Airport (MUC)
+    locality: Munich
+    country_name: Germany
+    mode: air
+  - label: Birmingham Airport (BHX)
+    locality: Birmingham
+    country_name: England
+    mode: air
+---

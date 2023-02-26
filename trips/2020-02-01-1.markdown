@@ -1,0 +1,16 @@
+---
+start: 2020-02-01
+itinerary:
+  - label: Stockholm Central
+    locality: Stockholm
+    country_name: Sweden
+    mode: rail
+  - label: Gothenburg Central
+    locality: Gothenburg
+    country_name: Sweden
+    mode: rail
+  - label: Oslo Central
+    locality: Oslo
+    country_name: Norway
+    mode: rail
+---

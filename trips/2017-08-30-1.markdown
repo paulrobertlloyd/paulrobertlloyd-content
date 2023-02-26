@@ -1,0 +1,23 @@
+---
+start: 2017-08-30
+itinerary:
+  - label: Penzance (PNZ)
+    locality: Penzance
+    country_name: England
+    mode: rail
+  - label: Truro (TRU)
+    locality: Truro
+    country_name: England
+    mode: rail
+  - label: Par (PAR)
+    locality: Par
+    country_name: England
+    geo:
+      latitude: 50.356
+      longitude: -4.707
+    mode: rail
+  - label: Newquay (NQY)
+    locality: Newquay
+    country_name: England
+    mode: rail
+---

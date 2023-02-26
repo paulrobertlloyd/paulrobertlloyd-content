@@ -1,0 +1,8 @@
+---
+date: 2017-10-27T14:15:00Z
+photo:
+  - url: /media/2017/300/p1/1.jpg
+    alt: Post-it note that reads “Whose benefits? Whose risks?”.
+---
+
+[Note to self](https://ethanmarcotte.com/wrote/seven-into-seven/).

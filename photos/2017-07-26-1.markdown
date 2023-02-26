@@ -1,0 +1,8 @@
+---
+date: 2017-07-26T23:38:06+01:00
+photo:
+  - url: /media/2017/207/p1/1.jpg
+    alt: Me, Mario, Chris and Frank.
+---
+
+Heading home after a fun evening spent with these Guardian design reprobates…

@@ -1,0 +1,21 @@
+---
+date: 2022-05-27T21:07:51.779+01:00
+photo:
+  - url: /media/2022/147/p2/1.jpg
+    alt: Me, sat on the ground in pole position.
+  - url: /media/2022/147/p2/2.jpg
+    alt: Looking down the Beau Rivage straight.
+  - url: /media/2022/147/p2/3.jpg
+    alt: Two res banners hanging from balconies that read ‘Daghe Charlie. Charles L’Eclair’
+  - url: /media/2022/147/p2/4.jpg
+    alt: The Fairmont hairpin.
+  - url: /media/2022/147/p2/5.jpg
+    alt: Tunnel under the Fairmont Hotel.
+  - url: /media/2022/147/p2/6.jpg
+    alt: Tyre marks on yellow, red and white curbing.
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/108375726867731000
+  - https://twitter.com/paulrobertlloyd/status/1530280841137430528
+---
+
+Walking the Circuit de Monaco.
