@@ -1,0 +1,16 @@
+---
+start: 2023-04-05
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: London Euston (EUS)
+    locality: London
+    country_name: England
+  - label: Birmingham New Street (BHM)
+    locality: Birmingham
+    country_name: England
+---

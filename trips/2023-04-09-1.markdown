@@ -1,0 +1,16 @@
+---
+start: 2023-04-09
+itinerary:
+  - label: Birmingham Moor Street (BMO)
+    locality: Birmingham
+    country_name: England
+  - label: London Marylebone (MYB)
+    locality: London
+    country_name: England
+  - label: Farringdon (ZFD)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---
