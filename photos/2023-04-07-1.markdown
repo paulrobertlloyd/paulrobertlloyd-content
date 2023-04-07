@@ -1,0 +1,8 @@
+---
+date: 2023-04-07T18:30:00+01:00
+photo:
+  - url: /media/2023/097/p1/1.jpg
+    alt: May blossom superimposed over a photo of the Bullring Shopping Centre.
+---
+
+Birmingham in bloom.
