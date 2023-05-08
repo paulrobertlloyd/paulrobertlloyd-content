@@ -1,0 +1,10 @@
+---
+start: 2023-05-05
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: Littlehampton (LIT)
+    locality: Littlehampton
+    country_name: England
+---

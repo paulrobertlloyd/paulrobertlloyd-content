@@ -1,0 +1,16 @@
+---
+start: 2023-05-06
+itinerary:
+  - label: Littlehampton (LIT)
+    locality: Littlehampton
+    country_name: England
+  - label: Barnham (BAA)
+    locality: Barnham
+    country_name: England
+  - label: Southampton Central (SOU)
+    locality: Southampton
+    country_name: England
+  - label: Bournemouth (BMH)
+    locality: Bournemouth
+    country_name: England
+---
