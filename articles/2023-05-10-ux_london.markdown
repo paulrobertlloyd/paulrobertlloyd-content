@@ -1,0 +1,25 @@
+---
+date: 2023-05-10T12:00:00+01:00
+title: Speaking at UX London 2023
+location:
+  locality: Brighton
+  country_name: England
+summary: Just when I thought I was out of the speaking racket, Clearleft pull me back in.
+category:
+  - speaking
+  - ux_london
+accent_color: "#069"
+syndication:
+  - https://www.linkedin.com/posts/paulrobertlloyd_ux-london-2023-activity-7062018700685537280-eqP4
+---
+
+I’m excited to share that I’ll be speaking at this year’s [UX London][1] about, you guessed it, [design histories][2]. Given this platform and wider audience, I plan to use this as an opportunity to dig deeper into documenting design decisions, why we should, and how we can.
+
+I also hope to share a few thoughts about giving teams an identity, celebrating achievements and curating an inclusive culture. Basically, lessons learned and ideas uncovered from 4 years working within government. This sometimes feels like a world away from the rest of the industry, so it’ll be interesting to see how the talk lands.
+
+If this or any of the other [sessions][3] sound interesting, join me on 22 – 23 June at Tobacco Dock in East London. [Grab a ticket][4] and use the code `JOINPAUL` to get a 20% discount. Hope to see you there!
+
+[1]: https://2023.uxlondon.com/
+[2]: /2021/063/s1/discuss_a_design_challenge/
+[3]: https://2023.uxlondon.com/schedule/day-one/
+[4]: https://ti.to/clearleft/ux-london-2023
