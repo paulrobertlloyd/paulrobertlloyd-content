@@ -1,0 +1,10 @@
+---
+date: 2023-06-06T21:16:34.272+01:00
+photo:
+  - url: /media/2023/157/p1/1.jpg
+    alt: Rays of sunlight poke through trees in a park as it sets in the distance, giving everything a vivid colour.
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/110499163680447517
+---
+
+Summer sunshine.
