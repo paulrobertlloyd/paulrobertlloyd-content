@@ -1,0 +1,96 @@
+---
+date: 2023-06-11T14:55:00+02:00
+title: "The continuing tragedy of CSS: thoughts from CSS Day 2023"
+location:
+  locality: Amsterdam
+  country_name: Netherlands
+summary: A golden age of CSS was evident in Amsterdam, but to whose benefit?
+category:
+  - conferences
+  - css
+  - web
+tags:
+  - featured
+accent_color: "#93c"
+---
+
+I promised myself I wouldn’t attend any web conferences this year, yet here I am writing about [CSS Day][1] just two weeks before [I speak at UX London][2].
+
+Maybe I’m weak-willed, but when offered an opportunity, I try to say yes. Hopefully, I won’t regret saying yes to speaking at UX London. I certainly haven’t regretted saying yes to [speaking at CSS Day eight years ago][3], not least because Peter-Paul and Krijn kindly offer me a badge for each subsequent edition.
+
+The last time I took them up on this offer was in 2019. A lot has happened since.
+
+In previous editions, talks focused on proposed features of CSS or ways to work around features that remained painfully absent. This year it felt like the complete opposite was true. Indeed, a common complaint heard in discussions during breaks was that there is now too much CSS.
+
+## Increased surface area
+
+To take one example, [the original CSS specification][4] included 3 relative units for defining a length:
+
+* pixels (`px`) relative to the canvas
+* x-height (`ex`) relative to the height of the letter ‘x’
+* ems (`em`) relative to the font size of the parent container
+
+Including rarely used absolute units (`in`, `cm`, `mm`, `pt` and `pc`) and percentages, there was just under a handful of length units to remember.
+
+Today there are [18 relative units for length][5] (with pixel now considered an absolute measure), a six-fold increase. It’s a similar – albeit far more complicated – story for defining colour.
+
+These raw numbers tell an underlying story; websites now appear in a number of different shapes, sizes and [dimensions][6], and CSS needs to account for that.
+
+It’s not only the fundamentals of CSS that have evolved. With new or expanded modules for layout, typography, animation, audio ([though sadly not speech][7]) and more, it’s possible to specialise in a subset of CSS. Yet when aspects of frontend development not involving JavaScript are seen as ignorable by employers, few will get this opportunity.
+
+## Google’s embrace
+
+The growing surface area of CSS is countered by developers no longer needing to understand pre-processors or other tools. Sass served the community well, but as CSS slowly morphs into a (more evident) programming language, its days seem numbered. Having the browser do more of the heavy lifting has its benefits.
+
+Yet it’s hard to shake the feeling (real or imagined) that CSS and other open standards are defined by an ever-narrowing group of implementors.
+
+This year the conference was sponsored solely by Google (with 3 of the people on stage in its employ). This is a reflection, not only of the current economic climate, but the sheer dominance they hold within the world of web standards.
+
+For all the whooping and hollering, I simply don’t trust Google. With Chrome came the embrace, with Blink the extensions (or ‘experiments’). The company tried very hard to complete the journey by [extinguishing the open web with AMP][8].
+
+[Una][9] opened the conference with a fast-paced overview of the state of CSS. Multiple slides showed support across the four major browsers: Chrome, Edge, Firefox and Safari, yet this hid the fact that there are now only three rendering engines: Blink, Gecko and Webkit. It’s easy to celebrate adoption and compatibility with one less implementation to worry about.
+
+Google’s developer advocates talk a good game about browser diversity, and point to contributions from Apple and Mozilla, yet these only serve as exceptions to the rule.
+
+And yet. While Google dominates, CSS couldn’t be in ruder health. Even HTML is getting in on the act, with [`<selectmenu>`][10], [`<dialog>`][11] and [`popover`][12] making common UI patterns easier to implement, the web hopefully a little more accessible as a result.
+
+Like it or not, the web has always flourished under the direction of benevolent dictators, be that Tim Berners-Lee, Ian Hickson, or now the Chrome development team.
+
+So too has it been a clash of western cultures. European post-war idealism created a framework for open collaboration among its scientists, who not only discovered the ‘[God Particle][13]’, but birthed an [openly licensed technology for sharing information][14]. American capitalist ideology and market-led innovation popularised and developed it to the point that the web has become an essential part of everyday life.
+
+The continual push-pull between these competing ideas means the web keeps powering forward, forever [pronounced dead][15], yet never more alive.
+
+## Food for thought
+
+In closing her talk, Una shared this Oscar Wilde quote:
+
+> There are only two tragedies in life: one is not getting what one wants, and the other is getting it.
+
+I feel seen. I’ve long [advocated embracing the constraints of the platform][16]; does CSS *really* need [trigonometric functions][17]? Yet one person's creative constraints is another’s reason for ignoring CSS entirely. Perhaps that’s why JavaScript flourished while CSS was consigned to being a ‘toy language’.
+
+CSS Day was once again a thought-provoking (sometimes head-exploding) event, with equally thoughtful organisation. And yes, the [Bitterballen][18] didn’t disappoint. But one CSS conference isn’t enough. This language is now so broad and deep, its implementation across browsers never more stable and complete, that opportunities to grow the community abound.
+
+This community also needs to flourish to keep Silicon Valley’s giants in check; to prevent them from addressing their own theoretical needs and to keep them focused on helping developers serve user needs. For a web dictated by Google would be a real tragedy, whichever way you look at it.
+
+[1]: https://cssday.nl/2023
+[2]: /2023/130/a1/ux_london/
+[3]: /2015/163/s1/css_day/
+[4]: https://www.w3.org/TR/REC-CSS1/
+[5]: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#lengths
+[6]: /2023/157/a1/vision_pro/
+[7]: https://tink.uk/why-we-need-css-speech/
+[8]: https://www.theverge.com/23711172/google-amp-accelerated-mobile-pages-search-publishers-lawsuit
+[9]: https://una.im
+[10]: https://developer.chrome.com/blog/whats-new-css-ui-2023/#selectmenu
+[11]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog
+[12]: https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/popover
+[13]: https://home.cern/science/physics/higgs-boson
+[14]: http://info.cern.ch/hypertext/WWW/TheProject.html
+[15]: https://www.wired.com/2010/08/ff-webrip/
+[16]: https://alistapart.com/article/the-web-aesthetic/
+[17]: https://developer.mozilla.org/en-US/docs/Web/CSS/sin
+[18]: https://en.wikipedia.org/wiki/Bitterballen
+
+*[AMP]: Accelerated Mobile Pages
+*[CSS]: Cascading Style Sheets
+*[HTML]: HyperText Markup Language
