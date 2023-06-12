@@ -26,7 +26,7 @@ In previous editions, talks focused on proposed features of CSS or ways to work 
 
 To take one example, [the original CSS specification][4] included 3 relative units for defining a length:
 
-* pixels (`px`) relative to the canvas
+* pixels (`px`) relative to the resolution of the canvas
 * x-height (`ex`) relative to the height of the letter ‘x’
 * ems (`em`) relative to the font size of the parent container
 
@@ -72,6 +72,10 @@ CSS Day was once again a thought-provoking (sometimes head-exploding) event, wit
 
 This community also needs to flourish to keep Silicon Valley’s giants in check; to prevent them from addressing their own theoretical needs and to keep them focused on helping developers serve user needs. For a web dictated by Google would be a real tragedy, whichever way you look at it.
 
+---
+
+<ins datetime="2023-06-12">**Correction:** [Šime Vidas pointed out][19] that there are in fact [36 relative length units in CSS now][20], not 18. 🤯</ins>
+
 [1]: https://cssday.nl/2023
 [2]: /2023/130/a1/ux_london/
 [3]: /2015/163/s1/css_day/
@@ -90,6 +94,8 @@ This community also needs to flourish to keep Silicon Valley’s giants in check
 [16]: https://alistapart.com/article/the-web-aesthetic/
 [17]: https://developer.mozilla.org/en-US/docs/Web/CSS/sin
 [18]: https://en.wikipedia.org/wiki/Bitterballen
+[19]: https://mastodon.social/@simevidas/110531437100035794
+[20]: https://drafts.csswg.org/css-values/#relative-lengths
 
 *[AMP]: Accelerated Mobile Pages
 *[CSS]: Cascading Style Sheets
