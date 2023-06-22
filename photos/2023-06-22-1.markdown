@@ -1,0 +1,10 @@
+---
+date: 2023-06-22T23:00:01.000+01:00
+photo:
+  - url: /media/2023/173/p1/1.jpg
+    alt: "A small stuffed beaver toy sits on a laptop keyboard looking at a Keynote presentation titled ‘Time Team: Documenting decisions & marking milestones’."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/110590112653092334
+---
+
+Getting some help from a former colleague as I do a final rehearsal before my talk at UX London tomorrow 😬
