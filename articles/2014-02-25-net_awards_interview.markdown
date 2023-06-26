@@ -5,9 +5,10 @@ canonical:
   url: https://www.creativebloq.com/netmag/paul-robert-lloyd-not-being-afraid-ask-help-21410795
 summary: In this interview for Creative Bloq, I talk about web native design and how Saul Bass inspires my work.
 category:
-  - interviews
   - awards
   - web
+tags:
+  - interviews
 ---
 
 As [one of the nominees][1] for Designer of the Year in the 2014 net Awards, Creative Bloq chatted to me to find out more.

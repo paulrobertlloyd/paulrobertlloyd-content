@@ -8,6 +8,7 @@ summary: Justin Avery, who curates the Responsive Design Weekly newsletter, aske
 category:
   - responsive_design
   - web
+tags:
   - interviews
 ---
 

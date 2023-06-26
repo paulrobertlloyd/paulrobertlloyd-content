@@ -4,16 +4,14 @@ title: "Kiwibank: Standing up for something new"
 location:
   locality: Brighton
   country_name: England
-summary: Banks aren’t the most likeable organisations, but I’m developing a soft spot for Kiwibank, a New Zealand-based bank competing against larger Australian-based rivals. Their latest advertising campaign suggests they’re willing to stand up for something new “and even a bit crazy”, and in the world of banking, a responsive website is just that.
-photo:
-  - url: /media/2012/143/a1/image.jpg
-    alt: The new Kiwibank homepage viewed on different devices.
+summary: Kiwibank say they’re willing to stand up for something new “and even a bit crazy”. In the world of banking, a responsive website is just that.
 category:
-  - interviews
   - kiwibank
   - net_magazine
   - responsive_design
   - web
+tags:
+  - interviews
 ---
 
 Banks aren’t the most likeable organisations, but I’m developing a soft spot for [Kiwibank][1], a New Zealand-based bank competing against larger Australian-based rivals. Their [latest advertising campaign][2] suggests they’re willing to stand up for something new “and even a bit crazy”, and in the world of banking, a responsive website is just that. With mobile traffic pushing past 10%, they asked [Springload][3] to help them become device agnostic.

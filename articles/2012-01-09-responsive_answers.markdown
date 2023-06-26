@@ -4,12 +4,13 @@ title: Responsive answers
 location:
   locality: Brighton
   country_name: England
-summary: Back in October, Ethan Marcotte asked me some questions about the design of my site. He was writing a round up of his twenty favourite responsive websites for .net Magazine and wanted quotes from each creator. In the spirit of blogging more I thought I’d share my answers here.
+summary: Ethan Marcotte asked me some questions about the design of my site. He was writing a round up of his twenty favourite responsive websites for .net Magazine and wanted quotes from each creator.
 category:
   - web
   - responsive_design
-  - interviews
   - net_magazine
+tags:
+  - interviews
 ---
 
 Back in October, [Ethan Marcotte][1] asked me some questions about the design of my site. He was writing a round up of his [twenty favourite responsive websites][2] for "".net Magazine"" and wanted quotes from each creator. In the spirit of [blogging more][3] I thought I’d share my answers here.

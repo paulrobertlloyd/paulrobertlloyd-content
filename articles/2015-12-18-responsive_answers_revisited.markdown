@@ -8,6 +8,7 @@ summary: Justin Avery, who curates Responsive Design Weekly, asked me to revisit
 category:
   - responsive_design
   - web
+tags:
   - interviews
 ---
 

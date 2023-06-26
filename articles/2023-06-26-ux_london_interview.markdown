@@ -6,8 +6,9 @@ location:
   country_name: England
 summary: Prior to UX London, I was asked a few questions about me and my talk.
 category:
-  - interviews
   - ux_london
+tags:
+  - interviews
 accent_color: "#069"
 ---
 
