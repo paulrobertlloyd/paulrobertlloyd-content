@@ -1,0 +1,10 @@
+---
+date: 2023-07-07T20:34:00.000+01:00
+photo:
+  - url: /media/2023/188/p1/1.jpg
+    alt: "Pint of beer on an outside table, in a glass with a design on the side that says ‘only with love’."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/110674473794076178
+---
+
+Those long summer nights.
