@@ -1,5 +1,7 @@
 ---
 date: 2023-07-09T12:43:04.017+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/110683952455437726
 ---
 
 Engine failure for Max, and a maiden win for Lando at his home Grand Prix? Yes please.
