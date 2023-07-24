@@ -1,5 +1,7 @@
 ---
 date: 2023-07-21T23:07:11.881+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/110754380481949455
 ---
 
 Watched James Graham’s new play [""Dear England""](https://www.nationaltheatre.org.uk/productions/dear-england/) at the National Theatre this evening. This is a story about Gareth Southgate giving the national men’s football team the freedom to win, and the country a lesson on how best to lose. When our political leaders are so easy to lampoon, it’s these young men who provide the moral leadership now.
