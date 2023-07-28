@@ -1,0 +1,10 @@
+---
+start: 2023-08-20
+itinerary:
+  - label: Como San Giovanni
+    locality: Como
+    country_name: Italy
+  - label: Zürich Hauptbahnhof
+    locality: Zurich
+    country_name: Switzerland
+---

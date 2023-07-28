@@ -1,0 +1,10 @@
+---
+start: 2023-08-13
+itinerary:
+  - label: Torino Porta Susa
+    locality: Turin
+    country_name: Italy
+  - label: Milano Centrale
+    locality: Milan
+    country_name: Italy
+---

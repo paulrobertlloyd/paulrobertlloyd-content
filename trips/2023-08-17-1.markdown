@@ -1,0 +1,10 @@
+---
+start: 2023-08-17
+itinerary:
+  - label: Milano Centrale
+    locality: Milan
+    country_name: Italy
+  - label: Como San Giovanni
+    locality: Como
+    country_name: Italy
+---

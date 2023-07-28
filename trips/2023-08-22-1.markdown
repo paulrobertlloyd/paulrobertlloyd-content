@@ -1,0 +1,19 @@
+---
+start: 2023-08-22
+itinerary:
+  - label: Zürich Hauptbahnhof
+    locality: Zurich
+    country_name: Switzerland
+  - label: Paris-Gare-de-Lyon
+    locality: Paris
+    country_name: France
+  - label: Paris-Nord
+    locality: Paris
+    country_name: France
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---
