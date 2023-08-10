@@ -1,0 +1,24 @@
+---
+date: 2023-08-10T23:12:32.000+02:00
+photo:
+  - url: /media/2023/222/p1/1.jpg
+    alt: "A round office tower stretches up into the sky."
+  - url: /media/2023/222/p1/2.jpg
+    alt: "The frontage of a Beaux-Arts style building is reflected in the nearby glass of a modern building opposite."
+  - url: /media/2023/222/p1/3.jpg
+    alt: "Trees with pink flowers partially hide a building in the Beaux-Arts style."
+  - url: /media/2023/222/p1/4.jpg
+    alt: "A wanted poster featuring Emmanuel Macron, the current president of France."
+  - url: /media/2023/222/p1/5.jpg
+    alt: "A water fountain featuring a naked woman riding atop 4 horses leaping towards the viewer."
+  - url: /media/2023/222/p1/6.jpg
+    alt: "Red cast iron pedestrian bridge, with a church on the other side of the river bank."
+  - url: /media/2023/222/p1/7.jpg
+    alt: "Empty cafe seating sat on a sun lit cobbled street."
+  - url: /media/2023/222/p1/8.jpg
+    alt: "Sun catches the trees in the behind a stone amphitheatre, casting a rainbow over the photo."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/110867379168381437
+---
+
+Brief stop in Lyon en route to Turin. A beautiful and peaceful city bisected by two verdant rivers, Rhône and Saône. Crepes for lunch, quick dash up the hill to Fourvière on a funicular railway to see the Roman amphitheatres before heading to the railway station and on to my next stop.
