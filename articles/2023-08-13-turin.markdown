@@ -1,0 +1,85 @@
+---
+date: 2023-08-13T17:40:00+02:00
+title: The Italian Jaunt
+location:
+  locality: Turin
+  country_name: Italy
+summary: Hang on a minute lads, I’ve got a great idea…
+photo:
+  - url: /media/2023/225/a1/image.jpg
+    alt: View over Turin with a church dome in the foreground and the faint outline of the Alps in the distance.
+category:
+  - europe
+  - italy
+  - travel
+tags:
+  - featured
+---
+
+Slovenia was my original destination, but once I began plotting a train journey across Europe and saw all the places I’d be missing, I focused my attention on northwest Italy, specifically Turin, Milan and Lake Como (via Lyon and Zurich).
+
+After a mad dash around Lyon on the first day of my trip, I decided to alternate the days I’m traipsing around cities with those spent doing less strenuous things like taking advantage of nearby attractions like a hotel’s pool. Be it dogged experience or tired legs, either way its a sign of old age.
+
+Taking time to explore the local area makes a lot of sense here in Lingotto, a district of Turin made famous by its [old Fiat factory][1]. You may recognise it from [""The Italian Job""][2] and the test track on its roof.
+
+This 500 meter long, modular five-storey building [designed by Giacomo Matté-Trucco][3] was the largest building of its kind when it opened 100 years ago. Instantly influential and impressive, Le Corbusier remarked that it was “one of the most impressive sights in industry”.
+
+![Portion of the helix ramp used.](/media/2023/225/a1/lingotto-ramp.jpg "A portion of one of the helix access ramps used to transport cars between floors.")
+{.align-bleed}
+
+What was avant-garde in 1923 was outdated 60 years later. Fiat closed the factory in 1983 and, wanting to [turn it into a “piece of the city”][4], an international architectural competition was held to decide on its redevelopment.
+
+[Renzo Piano][5] won with a plan to retain the factory’s outward design and internal structure yet place within its walls a conference centre, auditorium, shopping arcade, offices and two hotels (guess where I’ve been staying).
+
+On its roof he placed the _Bolla_{lang=it} (‘Bubble’), a meeting venue with attached helipad, suspended 40 meters in the air (surely inspiration for Rian Johnson’s [""Glass Onion""][6]). Also present, a large steel box housing Giovanni Agnelli’s fine art collection (a ‘treasure trove’ covered by a ‘flying carpet’, apparently).
+
+![The Bolla, a glazzed onion-shaped meeting space. In the foreground, a portion of the test track partly covered with planting.](/media/2023/225/a1/lingotto-bubble.jpg "Lingotto’s Glass Onion.")
+{.align-bleed}
+
+A functional, featureless and utilitarian building, perhaps it was felt such adornments were necessary, but they feel superfluous and distract from the original form.
+
+So too with the test track. I was hoping to find a swathe of unspoilt tarmac, but this has been rechristened [_La Pista 500_{lang=it}][7]; an artistic and environmental installation that covers large portions of it. Any hope of climbing the parabolic curves was met with a loud whistle from one of the gallery’s security team.
+
+![‘It is not the end of the world’ spelt out in big blue condensed letters.](/media/2023/225/a1/lingotto-letters.jpg "When did writing random statements in big letters become considered art?")
+{.align-bleed}
+
+Come for the repurposed car factory, stay for the derelict white elephant. In the vicinity lies [_Oval Lingotto_][8], the venue used for speed skating during the 2006 Winter Olympics. Across the railway yard, site of the former Olympic village, [more recently occupied by refugees][9]. Connecting these two areas is an elevated pedestrian walkway held aloft by a large red Olympic arch.
+
+This bridge crudely adjoins a covered walkway for Lingotto’s car park, while on the other side it lands on the site of a former market place (the _Mercati Ortofrutticoli all’Ingrosso_{lang=it}), now closed and boarded up.
+
+The market’s skeletal concrete supports remain. A newer building, stained by former ‘torino 2006’ lettering, marks the spot of this failed Olympic regeneration project and yet another building unable to find a purpose beyond the 2 weeks it was constructed for.
+
+![A glass lift shaft surrounded by a metal spiral staircase. The lift is covered in graffiti and much of its glazing has shattered.](/media/2023/225/a1/ex-moi-lift.jpg "I would remark on the graffiti, but this is not an uncommon sight in Italy.")
+
+Thankfully this nearby abundance of concrete and its associated history was more than enough to keep me entertained. With the otherwise conveniently located metro closed not reopening until 3 September, getting into central Turin became a bit more complicated.
+
+Many other businesses are closed over summer too. As Turin’s citizens head to warmer (or cooler) climbs, they leave behind a suspiciously peaceful city full wandering tourists. Like myself. Having boarded the regional train to _Torino Porta Susa_{lang=it}, I wandered into the Centro district.
+
+![A temple like building is reflected in the river that flows in front of it. A nearby bridge can also be seen.](/media/2023/225/a1/gran-madre-di-dio.jpg "Gran Madre di Dio on the eastern bank of the Po River.")
+{.align-bleed}
+
+As is so often the case when visiting a European city, I eventually found myself in a royal palace walking from gilded room to gilded room.
+
+I tend not to enjoy these gaudy displays of opulence (as a thought exercise, imagine future tourists walking around the homes of Jeff Bezos and Elon Musk), yet there’s often a surprise to be found.
+
+In [Turin’s Royal Palace][10], it’s the [Chapel of the Holy Shroud][11] (_Cappella della Sacra Sindone_{lang=it}). The shroud isn’t viewable to the public, but never mind, Guarino Guarini’s complex, self-supporting dome is just as beguiling.
+
+![A complex domed ceiling.](/media/2023/225/a1/guarini-chapel-ceiling.jpg)
+{.align-bleed}
+
+Another thing I like to do when travelling is climb to the top of a tall building. So, for reasons unknown, I tightly clang on to the steel hand railings, not trusting the creaky and vertiginous staircase that wound its way up Turin Cathedral’s bell tower. After much sweating and heavy breathing, I was rewarded with a view that was equally as breathtaking. Perhaps quite literally, given the region’s poor air quality.
+
+![View over Turin with a church dome in the foreground and the faint outline of the Alps in the distance.](/media/2023/225/a1/image.jpg)
+{.align-bleed}
+
+[1]: https://www.atlasobscura.com/places/fiat-lingotto-factory
+[2]: https://www.imdb.com/title/tt0064505/
+[3]: https://www.atlasofplaces.com/architecture/lingotto-factory/
+[4]: https://www.domusweb.it/en/from-the-archive/2023/05/23/renzo-pianos-lingotto-project-turin---from-the-domus-archive.html
+[5]: https://en.wikipedia.org/wiki/Renzo_Piano
+[6]: https://www.imdb.com/title/tt11564570/
+[7]: https://www.pinacoteca-agnelli.it/en/pista-500/
+[8]: https://en.wikipedia.org/wiki/Oval_Lingotto
+[9]: https://www.theguardian.com/cities/2016/mar/02/turin-refugees-italy-abandoned-olympic-village
+[10]: https://en.wikipedia.org/wiki/Royal_Palace_of_Turin
+[11]: https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Shroud
