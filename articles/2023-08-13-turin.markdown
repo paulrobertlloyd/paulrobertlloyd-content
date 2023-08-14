@@ -11,6 +11,7 @@ photo:
 category:
   - europe
   - italy
+  - olympics
   - travel
 tags:
   - featured
@@ -22,12 +23,12 @@ After a mad dash around Lyon on the first day of my trip, I decided to alternate
 
 Taking time to explore the local area makes a lot of sense here in Lingotto, a district of Turin made famous by its [old Fiat factory][1]. You may recognise it from [""The Italian Job""][2] and the test track on its roof.
 
-This 500 meter long, modular five-storey building [designed by Giacomo Matté-Trucco][3] was the largest building of its kind when it opened 100 years ago. Instantly influential and impressive, Le Corbusier remarked that it was “one of the most impressive sights in industry”.
+This 500 meter long, modular five-storey building [designed by Giacomo Matté-Trucco][3] was the largest building of its kind when it opened 100 years ago, with Le Corbusier remarking that it was “one of the most impressive sights in industry”.
 
 ![Portion of the helix ramp used.](/media/2023/225/a1/lingotto-ramp.jpg "A portion of one of the helix access ramps used to transport cars between floors.")
 {.align-bleed}
 
-What was avant-garde in 1923 was outdated 60 years later. Fiat closed the factory in 1983 and, wanting to [turn it into a “piece of the city”][4], an international architectural competition was held to decide on its redevelopment.
+What was avant-garde in 1923 was outdated 60 years later. Fiat closed the factory in 1982 and, wanting to [turn it into a “piece of the city”][4], an international architectural competition was held to decide on its redevelopment.
 
 [Renzo Piano][5] won with a plan to retain the factory’s outward design and internal structure yet place within its walls a conference centre, auditorium, shopping arcade, offices and two hotels (guess where I’ve been staying).
 
@@ -43,7 +44,7 @@ So too with the test track. I was hoping to find a swathe of unspoilt tarmac, bu
 ![‘It is not the end of the world’ spelt out in big blue condensed letters.](/media/2023/225/a1/lingotto-letters.jpg "When did writing random statements in big letters become considered art?")
 {.align-bleed}
 
-Come for the repurposed car factory, stay for the derelict white elephant. In the vicinity lies [_Oval Lingotto_][8], the venue used for speed skating during the 2006 Winter Olympics. Across the railway yard, site of the former Olympic village, [more recently occupied by refugees][9]. Connecting these two areas is an elevated pedestrian walkway held aloft by a large red Olympic arch.
+Come for the repurposed car factory, stay for the derelict white elephant. In the vicinity lies [_Oval Lingotto_][8], the venue used for speed skating during the 2006 Winter Olympics. Across the railway yard, site of the former Olympic village, [more recently occupied by refugees][9]. Connecting these two areas is an elevated pedestrian walkway held aloft by the large red Olympic Arch.
 
 This bridge crudely adjoins a covered walkway for Lingotto’s car park, while on the other side it lands on the site of a former market place (the _Mercati Ortofrutticoli all’Ingrosso_{lang=it}), now closed and boarded up.
 
