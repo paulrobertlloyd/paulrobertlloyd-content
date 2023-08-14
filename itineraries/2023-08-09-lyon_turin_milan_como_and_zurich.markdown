@@ -5,6 +5,7 @@ title: Lyon, Turin, Milan, Como and Zurich
 summary: Exploring northwest Italy.
 article_id:
   - a5SN1
+  - a5SP1
 photo_id:
   - p5SK1
   - p5SM1
