@@ -1,0 +1,14 @@
+---
+date: 2023-08-29T23:30:00.000+01:00
+photo:
+  - url: /media/2023/241/p1/1.jpg
+    alt: "A red rotary dial telephone and initialised handkerchiefs."
+  - url: /media/2023/241/p1/2.jpg
+    alt: "A copy of ‘Catmopolitan’ magazine and other cat-related memorabilia."
+  - url: /media/2023/241/p1/3.jpg
+    alt: "Niece pointing a gold record disc."
+  - url: /media/2023/241/p1/4.jpg
+    alt: "Niece walking across a pedestrian crossing formerly crossed by The Beatles."
+---
+
+Fun day with the eldest niece exploring some popular music history; visiting the pre-auction exhibition of Freddie Murcury’s worldly possessions at Sotherby’s, followed by a crossing of Abbey Road.
