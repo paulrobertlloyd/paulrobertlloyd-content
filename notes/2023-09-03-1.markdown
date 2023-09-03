@@ -1,6 +1,9 @@
 ---
 date: 2023-09-03T15:41:47.397+01:00
+updated: 2023-09-03T15:43:47.404+01:00
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111001745952855747
 ---
 
 Not even Monza curses can stop Verstappen and Red Bull. Invincible.
