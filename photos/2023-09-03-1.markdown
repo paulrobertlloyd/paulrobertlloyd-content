@@ -1,0 +1,10 @@
+---
+date: 2023-09-03T23:05:00.000+01:00
+photo:
+  - url: /media/2023/246/p1/1.jpg
+    alt: "Close up of the clock on an iPhone lock screen showing a time of 22:54."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111003486232528786
+---
+
+Precious.
