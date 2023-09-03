@@ -3,6 +3,8 @@ date: 2023-09-02T21:25:00.000+01:00
 photo:
   - url: /media/2023/245/p1/1.jpg
     alt: "Dirt and green residue on a white wall."
+tags:
+  - photoblogging_challenge_september_2023
 syndication:
   - https://mastodon.social/@paulrobertlloyd/110997425544770669
 ---

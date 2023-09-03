@@ -3,6 +3,8 @@ date: 2023-09-01T20:30:00.000+01:00
 photo:
   - url: /media/2023/244/p1/1.jpg
     alt: "Black and white close up detail of the inside of a rotten tree trunk."
+tags:
+  - photoblogging_challenge_september_2023
 syndication:
   - https://mastodon.social/@paulrobertlloyd/110991546878226159
 ---
