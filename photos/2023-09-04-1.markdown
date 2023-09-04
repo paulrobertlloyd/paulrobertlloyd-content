@@ -1,0 +1,12 @@
+---
+date: 2023-09-04T20:40:00.000+01:00
+photo:
+  - url: /media/2023/247/p1/1.jpg
+    alt: "A duffle coat with bright orange shoulders and wooden toggles is seen through a shop window. The window is reflecting the silhouette of a tree and parts of a building opposite, giving the overall effect of a double exposure."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111008577082718557
+---
+
+Orange.
