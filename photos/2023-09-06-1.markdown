@@ -1,0 +1,12 @@
+---
+date: 2023-09-06T20:00:00.000+01:00
+photo:
+  - url: /media/2023/249/p1/1.jpg
+    alt: "A brick well with a timber-framed roof above it."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111019740676190268
+---
+
+Well.
