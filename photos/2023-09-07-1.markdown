@@ -1,0 +1,12 @@
+---
+date: 2023-09-07T21:45:00.000+01:00
+photo:
+  - url: /media/2023/250/p1/1.jpg
+    alt: "View east down the Thames, with Southwark and Tower bridges visible, 20 Fenchurch Street on the left bank, the Shard on the right."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111025816262865482
+---
+
+Panorama.
