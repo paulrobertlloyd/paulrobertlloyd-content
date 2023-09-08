@@ -1,0 +1,13 @@
+---
+date: 2023-09-08T21:05:00.000+01:00
+photo:
+  - url: /media/2023/251/p1/1.jpg
+    alt: "Brighton’s dilapidated West Pier casts a silhouette against a hazy pink sunset, the sunlight breaking through clouds to look like a tear in the sky."
+tags:
+  - photoblogging_challenge_september_2023
+  - the_west_pier
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111031342640760145
+---
+
+Yonder.
