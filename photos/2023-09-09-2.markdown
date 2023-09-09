@@ -1,0 +1,11 @@
+---
+date: 2023-09-09T21:00:00.000+01:00
+photo:
+  - url: /media/2023/252/p2/1.png
+    alt: "I’m on a 365 day language learning streak on Duolingo."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111036963332725801
+accent_color: "#fe9602"
+---
+
+Speaking of languages, reached a significant milestone learning Portuguese on Duolingo today. Muito bom!
