@@ -1,0 +1,12 @@
+---
+date: 2023-09-10T20:20:00.000+01:00
+photo:
+  - url: /media/2023/253/p1/1.jpg
+    alt: "Person running on an outdoor velodrome track, with blue, white and red track markings and a 440 distance marker painted on the tarmac."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111042473943386329
+---
+
+Cycle.
