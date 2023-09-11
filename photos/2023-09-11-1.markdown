@@ -1,0 +1,12 @@
+---
+date: 2023-09-11T20:45:00.000+01:00
+photo:
+  - url: /media/2023/254/p1/1.jpg
+    alt: "A role call of railway workers who died in the First World War, under the title ‘Their name liveth for evermore’."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111048238073190274
+---
+
+Retrospect.
