@@ -1,0 +1,12 @@
+---
+date: 2023-09-13T22:14:00.000+01:00
+photo:
+  - url: /media/2023/256/p1/1.jpg
+    alt: "Spray of a water fountain lit up by blue, yellow and purple lights."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111059903848697853
+---
+
+Glowing.
