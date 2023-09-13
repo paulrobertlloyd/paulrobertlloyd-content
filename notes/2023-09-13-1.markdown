@@ -1,6 +1,9 @@
 ---
 date: 2023-09-13T18:14:23.836+01:00
+updated: 2023-09-13T18:16:35.229+01:00
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111058969883409232
 ---
 
 Unfollowing connections on LinkedIn is my new jam.
