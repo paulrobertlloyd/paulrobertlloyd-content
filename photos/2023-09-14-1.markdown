@@ -1,0 +1,12 @@
+---
+date: 2023-09-14T23:05:00.000+01:00
+photo:
+  - url: /media/2023/257/p1/1.jpg
+    alt: "Statue of a winged solider holding a sword atop the roof of an Italian chapel, with the faint impression of foliage in the foreground."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111065768652273871
+---
+
+Statue.
