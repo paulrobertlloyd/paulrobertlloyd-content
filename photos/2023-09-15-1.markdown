@@ -1,0 +1,12 @@
+---
+date: 2023-09-15T20:20:00.000+01:00
+photo:
+  - url: /media/2023/258/p1/1.jpg
+    alt: "Souvenirs of London in a shop window, including a red scooter, red telephone box, red household guard and red London bus."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111070783236971855
+---
+
+Red.
