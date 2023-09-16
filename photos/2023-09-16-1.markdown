@@ -1,0 +1,12 @@
+---
+date: 2023-09-16T22:30:00.000+01:00
+photo:
+  - url: /media/2023/259/p1/1.jpg
+    alt: "A sign on the London Underground reads ‘189 steps to street level’. The bottom of a stairwell can be seen in the background."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111076959330976922
+---
+
+Oof!
