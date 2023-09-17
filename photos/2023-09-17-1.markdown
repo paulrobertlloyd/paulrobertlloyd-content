@@ -1,0 +1,12 @@
+---
+date: 2023-09-17T20:18:00.000+01:00
+photo:
+  - url: /media/2023/260/p1/1.jpg
+    alt: "Brightly illuminated leaves strongly contrasting against a dark blue night sky."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111082099479127494
+---
+
+Intense.
