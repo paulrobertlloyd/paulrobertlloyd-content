@@ -1,0 +1,12 @@
+---
+date: 2023-09-19T20:00:00.000+01:00
+photo:
+  - url: /media/2023/262/p1/1.jpg
+    alt: "A flock of pigeons sit on the edge of a concrete building."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111093357526395894
+---
+
+Edge.
