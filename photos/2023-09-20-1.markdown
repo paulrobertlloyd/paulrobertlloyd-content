@@ -1,0 +1,12 @@
+---
+date: 2023-09-20T22:05:00.000+01:00
+photo:
+  - url: /media/2023/263/p1/1.jpg
+    alt: "Raindrops on a window, with blurred lights in the background."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111099520188557238
+---
+
+Disruption.
