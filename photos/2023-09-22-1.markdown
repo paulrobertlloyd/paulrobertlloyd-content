@@ -1,0 +1,12 @@
+---
+date: 2023-09-22T21:40:00.000+01:00
+photo:
+  - url: /media/2023/265/p1/1.jpg
+    alt: "A wet, tree-lined street in the late afternoon, the low bright sunlight casting lens flares where water has landed on the camera lens."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111110731582802226
+---
+
+Road.
