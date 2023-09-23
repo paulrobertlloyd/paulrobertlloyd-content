@@ -1,0 +1,14 @@
+---
+date: 2023-09-23T22:05:00.000+01:00
+photo:
+  - url: /media/2023/266/p1/1.jpg
+    alt: "The eyes of a small, furry border terrier can be seen staring at the camera from behind two tartan-patterned slippers."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111116493094612951
+---
+
+A day in the life.
+
+Every day of Teazle’s little life ends with lobbying at my dad’s feet in the quest for biscuits. 100% success rate, so far!
