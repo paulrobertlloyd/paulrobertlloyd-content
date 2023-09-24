@@ -1,0 +1,12 @@
+---
+date: 2023-09-24T21:50:00.000+01:00
+photo:
+  - url: /media/2023/267/p1/1.jpg
+    alt: "The warm orange glow of a setting sun highlights the facing side of buildings on an inclined street, with everything else thrown into shadow."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111122097311562189
+---
+
+Belt.
