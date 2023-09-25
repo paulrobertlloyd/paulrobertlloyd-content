@@ -1,0 +1,12 @@
+---
+date: 2023-09-25T19:43:00.000+01:00
+photo:
+  - url: /media/2023/268/p1/1.jpg
+    alt: "A portion of pink, blue and black graffiti with a painted on lens flare."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111127258225493702
+---
+
+Flare.
