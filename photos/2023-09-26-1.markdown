@@ -1,0 +1,12 @@
+---
+date: 2023-09-26T18:30:00.000+01:00
+photo:
+  - url: /media/2023/269/p1/1.jpg
+    alt: "Pint glass filled with apple juice, sat on a wooden table in a garden. The glass says ‘For 41 years; Powell’s City of Books; PDX, OR; Local + Independent’."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111132632829597130
+---
+
+Beverage.
