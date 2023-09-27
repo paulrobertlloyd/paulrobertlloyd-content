@@ -1,0 +1,12 @@
+---
+date: 2023-09-27T18:35:00.000+01:00
+photo:
+  - url: /media/2023/270/p1/1.jpg
+    alt: "Two small clumps of moss growing around the cracks atop a white painted wall."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111138331286493624
+---
+
+Embrace.
