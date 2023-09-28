@@ -1,0 +1,35 @@
+---
+date: 2019-05-27T23:15:00+01:00
+title: "Weeknotes #19"
+location:
+  locality: Brighton
+  country_name: England
+summary: They say the best thing to do when you fall off a bike is to get back on. Perhaps the same holds true for weeknotes.
+tags:
+  - weeknotes
+---
+
+They say the best thing to do when you fall off a bike is to get back on. Perhaps the same holds true for weeknotes. So after a brief pause, on with the nineteenth instalment.
+
+* * *
+
+May is easily the best time to visit Brighton thanks to the various festivals and events that take place across the city. Events which I typically ignore.
+
+This year I decided to dip my toe in the festive waters. Having seen Jon Ronson earlier in the month, last Sunday I went to see ""Museum of the Moon"". This large beguiling installation caught the imagination of the community, which descended _en masse_ to Queen’s Park over the three days it was running.
+
+Yesterday, I went on a tour of some [Artists Open Houses][1] around Seven Dials, departing with a clutch of local artists to follow and a severe case of home envy.
+
+* * *
+
+Being stingy, but wanting to maintain my fitness, I’m attempting to replace my personal trainer with an app. Ideally one that provides a programme to follow and with a degree of tracking. For the moment I’ve settled on [StrongLifts 5×5][2], a programme of 7 exercises you rotate across 3 sessions each week. It goes against all I’ve been taught so far, favouring fewer reps but heavier weights. Still, it’s easy to follow so I’m content with sticking with it, at least over the summer.
+
+* * *
+
+On Monday evening I caught up with my friend [Andy][3] who recently sold the company he co-founded. Being nosey, I asked how much he’s now worth. “I’m comfortable” was his discretionary reply. Guess who paid for the meal!
+
+On the way to meet him in Waterloo, I spotted Anna Soubry and Chris Leslie campaigning for [Change UK][4]; I was very close to shouting “you’ve fucked it”, but instead just shock my head in disgust. They really should pack it in and join the Lib Dems.
+
+[1]: https://aoh.org.uk
+[2]: https://stronglifts.com/5x5/
+[3]: https://andyhiggs.uk
+[4]: https://en.wikipedia.org/wiki/Change_UK
