@@ -1,0 +1,12 @@
+---
+date: 2023-09-29T20:16:00.000+01:00
+photo:
+  - url: /media/2023/272/p1/1.jpg
+    alt: "Hard-edged silhouette of terraced rooftops contrasts against fluffy clouds in a colourful twilight sky."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111150039960642898
+---
+
+Contrast.
