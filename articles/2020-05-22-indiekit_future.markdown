@@ -10,6 +10,7 @@ summary: Returning to this project with a fresh perspective and desire to take a
 category:
   - indiekit
   - javascript
+  - projects
   - programming
 ---
 

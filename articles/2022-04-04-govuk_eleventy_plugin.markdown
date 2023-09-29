@@ -9,6 +9,7 @@ photo:
     alt: The homepage illustration for the GOV.UK Eleventy Plugin.
 category:
   - design
+  - projects
   - web
 accent_color: "#28a"
 ---

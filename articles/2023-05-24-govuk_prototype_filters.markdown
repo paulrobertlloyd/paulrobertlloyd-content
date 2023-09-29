@@ -9,6 +9,7 @@ photo:
     alt: Illustration of an interface with checkboxes and radio buttons being generated from code, floating above a laptop.
 category:
   - design
+  - projects
   - web
 accent_color: "#28a"
 ---
