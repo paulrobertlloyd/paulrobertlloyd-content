@@ -1,0 +1,7 @@
+---
+date: 2023-09-30T20:15:00.000+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111155694078428090
+---
+
+And so concludes my participation in Micro.blog’s September Photoblogging Challenge. I’ve added all 30 entries to [this collection](/collections/photoblogging_challenge_september_2023/).
