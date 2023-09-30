@@ -1,0 +1,12 @@
+---
+date: 2023-09-30T20:04:00.000+01:00
+photo:
+  - url: /media/2023/273/p1/1.jpg
+    alt: "Close up of an arcade coin pusher with metallic trinkets sat on piles of 10 pence pieces."
+tags:
+  - photoblogging_challenge_september_2023
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111155652618770469
+---
+
+Treasure.
