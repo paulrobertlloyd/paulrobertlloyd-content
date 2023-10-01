@@ -20,6 +20,8 @@ tags:
   - featured
   - scandinavian_sojourn
 geojson:
+  _height: 360
+  _width: 360
   type: FeatureCollection
   features:
     - type: Feature
@@ -76,7 +78,7 @@ geojson:
 
 ## Day 1: Brighton to Hamburg
 
-![Route map](markdown:map?key=geojson&height=360&width=360 "Brighton to Copenhagen via Hamburg.")
+![Route map](/media/2020/026/a1/route_map.png "Brighton to Copenhagen via Hamburg.")
 {.align-pull}
 
 Like all great railway journeys, this one starts with a cancellation. The Brighton Main Line has been closed due to [an incident near Three Bridges][1], so the only way to reach any destination north of Brighton is via Barnham, 27 miles to the west. This includes Gatwick Airport. A lady from Denver is going to miss her flight; flustered and bewildered at first, she soon settles into an unexpected detour via the unremarkable landscape of urban West Sussex.

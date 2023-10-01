@@ -21,6 +21,8 @@ tags:
   - featured
   - scandinavian_sojourn
 geojson:
+  _height: 360
+  _width: 360
   type: FeatureCollection
   features:
     - type: Feature
@@ -91,7 +93,7 @@ geojson:
 
 ## Day 3
 
-![Route map](markdown:map?key=geojson&height=360&width=360 "Copenhagen to Humlebæk, Malmö, Trelleborg and Hässleholm.")
+![Route map](/media/2020/031/a1/route_map.png "Copenhagen to Humlebæk, Malmö, Trelleborg and Hässleholm.")
 {.align-pull}
 
 Having stayed up late completing [the first post in this series][1], my first full day in Copenhagen gets off to a late start.

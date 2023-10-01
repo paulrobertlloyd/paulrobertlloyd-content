@@ -20,6 +20,8 @@ tags:
   - featured
   - scandinavian_sojourn
 geojson:
+  _height: 360
+  _width: 360
   type: FeatureCollection
   features:
     - type: Feature
@@ -84,7 +86,7 @@ geojson:
 
 ## Day 10
 
-![Route map](markdown:map?key=geojson&height=360&width=360 "Route map: Oslo to Copenhagen.")
+![Route map](/media/2020/047/a1/route_map.png "Route map: Oslo to Copenhagen.")
 {.align-pull}
 
 I’ve fallen for Oslo. Maybe that’s because the weather has finally changed for the better – bright sunshine, crisp blue skies – but honestly, I was impressed the moment I stepped off the train yesterday evening.

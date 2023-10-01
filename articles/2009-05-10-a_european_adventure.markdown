@@ -6,6 +6,8 @@ location:
   country_name: England
 summary: After a number of years focusing my travels around big American cities, today I start a three week jaunt across Europe.
 geojson:
+  _height: 480
+  _width: 360
   type: FeatureCollection
   features:
     - type: Feature
@@ -151,7 +153,7 @@ The first thing to note, is that I’m again travelling by train. I really enjoy
 
 So which countries am I visiting? Europe is such a large continent, with many different cultures and landscapes, I was a bit overwhelmed at first as to which countries to visit. With a little help from the great team of advisors at [railselect.com][2], I settled on the following itinerary, leaving and returning to London’s new St. Pancras International terminal via the Eurostar:
 
-![Route map](markdown:map?key=geojson&height=480&width=360 "European rail destinations.")
+![Route map](/media/2009/130/a1/route_map.png "European rail destinations.")
 {.align-pull}
 
 - **10-11 May:** Cologne, Germany

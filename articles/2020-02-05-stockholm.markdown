@@ -18,6 +18,8 @@ tags:
   - featured
   - scandinavian_sojourn
 geojson:
+  _height: 360
+  _width: 360
   type: FeatureCollection
   features:
     - type: Feature
@@ -72,7 +74,7 @@ geojson:
 
 ## Day 6
 
-![Route map](markdown:map?key=geojson&height=360&width=360 "Hässleholm to Stockholm, continuing on to Oslo via Gothenburg.")
+![Route map](/media/2020/036/a1/route_map.png "Hässleholm to Stockholm, continuing on to Oslo via Gothenburg.")
 {.align-pull}
 
 I arrive in Stockholm just before 6am having experienced a restless night. Passengers needn’t leave their cabins until 7am, but since everyone else has left, I feel obliged to do the same.

@@ -18,6 +18,8 @@ tags:
   - featured
   - scandinavian_sojourn
 geojson:
+  _height: 360
+  _width: 360
   type: FeatureCollection
   features:
     - type: Feature
@@ -111,7 +113,7 @@ The rest of the afternoon is spent inside the [Ludwig Museum][5], where I find m
 
 ## Day 16
 
-![Route map](markdown:map?key=geojson&height=300&width=300 "Copenhagen to Brighton via Cologne.")
+![Route map](/media/2020/110/a1/route_map.png "Copenhagen to Brighton via Cologne.")
 {.align-pull}
 
 I’m heading back home, from Cologne to Brighton via Brussels-Midi and London St. Pancras stations. The last few remaining miles allow me to reflect on the travels completed.

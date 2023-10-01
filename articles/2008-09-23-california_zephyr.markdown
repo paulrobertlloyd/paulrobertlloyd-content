@@ -6,6 +6,8 @@ photo:
   - url: /media/2008/267/a1/image.jpg
     alt: View of a rocky outcrop.
 geojson:
+  _height: 400
+  _width: 1200
   type: FeatureCollection
   features:
     - type: Feature
@@ -179,7 +181,7 @@ The landscape you travel across is one of the most scenic routes run by Amtrak, 
 
 Although these guides step of at [Reno][3], the commentary is continued by the conductors, who pass through the mixed terrain that is the [Rocky Mountains][4] and [Continental Divide][5] several times a week.
 
-![Route map](markdown:map?key=geojson&height=400&width=1200 "Route of the California Zephyr.")
+![Route map](/media/2008/267/a1/route_map.png "Route of the California Zephyr.")
 {.align-bleed}
 
 Unlike flying, travelling by train is a far more social affair. The dinning car is strictly community seating, meaning if you are travelling alone you are required to share a table with three others. This is an excellent way to meet people, and adds a different twist to transcontinental travel.
