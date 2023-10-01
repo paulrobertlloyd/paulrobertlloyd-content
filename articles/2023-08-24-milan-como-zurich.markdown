@@ -35,6 +35,7 @@ Northwest Italy is disarmingly picturesque. Every fork in a road is an opportuni
 The majesty of its many churches and chapels, each with delicate frescos, awesome domes and charming bell towers, is soon undermined by their abundance. [Visiting the old Fiat factory in Turin][2] that featured in ""The Italian Job"", and later _Villa Del Balbianello_{lang=it} sat beside Lake Como and [used for a scene in ""Casino Royale""][3], feel more relevant and engaging.
 
 - ![Green and yellow heather below frost-covered trees.](/media/2023/236/a1/como-dome.jpg "Dome of Cattedrale di Santa Maria Assunta, Como.")
+
 - ![A path stretches into a distance towards woodland.](/media/2023/236/a1/brunate-dome.jpg "Dome of Chiesa di Sant’Andrea Apostolo, Brunate.")
   {.align-bleed .gallery}
 
