@@ -188,6 +188,4 @@ It is up to the host renderer if or how these links are enhanced or displayed.
 
 Maps can be implemented as either static or interactive maps. If a post includes a map, GeoJSON data is provided in the posts front matter (typically under the `geojson` key).
 
-It is up to the host renderer how maps should be loaded and displayed. The location of each map within a post is indicated using Markdown with a URL using a special `markdown:` URI scheme:
-
-`markdown:map?key={:keyname}&height={:height}&width={:width}`
+This data can be used to generate static map images (previously generated images are saved in the `media` folder) or used to build interactive map tiles.
