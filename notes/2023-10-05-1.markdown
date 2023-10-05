@@ -1,0 +1,6 @@
+---
+date: 2023-10-05T10:17:15.625+01:00
+visibility: public
+---
+
+Seriously considering a trip to Nuremberg to attend [IndieWebCamp](https://indieweb.org/2023/Nuremberg).
