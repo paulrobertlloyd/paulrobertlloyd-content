@@ -1,6 +1,9 @@
 ---
 date: 2023-10-05T10:17:15.625+01:00
+updated: 2023-10-05T10:20:05.146+01:00
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111181667010397510
 ---
 
 Seriously considering a trip to Nuremberg to attend [IndieWebCamp](https://indieweb.org/2023/Nuremberg).
