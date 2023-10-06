@@ -1,0 +1,19 @@
+---
+start: 2023-10-25
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+  - label: Frankfurt (Main) Hauptbahnhof
+    locality: Frankfurt
+    country_name: Germany
+  - label: Nürnberg Hauptbahnhof
+    locality: Frankfurt
+    country_name: Germany
+---
