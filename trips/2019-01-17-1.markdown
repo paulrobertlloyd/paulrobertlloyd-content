@@ -1,0 +1,19 @@
+---
+start: 2019-01-17
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: Southampton Central (SOU)
+    locality: Southampton
+    country_name: England
+  - label: Winchester (WIN)
+    locality: Winchester
+    country_name: England
+  - label: Fareham (FRM)
+    locality: Fareham
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---
