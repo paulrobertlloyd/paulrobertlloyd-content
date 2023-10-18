@@ -1,0 +1,13 @@
+---
+start: 2023-10-15
+itinerary:
+  - label: Winchester (WIN)
+    locality: Winchester
+    country_name: England
+  - label: Fareham (FRM)
+    locality: Fareham
+    country_name: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+---

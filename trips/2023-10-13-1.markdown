@@ -1,0 +1,16 @@
+---
+start: 2023-10-13
+itinerary:
+  - label: Littlehampton (LIT)
+    locality: Littlehampton
+    country_name: England
+  - label: Barnham (BAA)
+    locality: Barnham
+    country_name: England
+  - label: Havant (HAV)
+    locality: Havant
+    country_name: England
+  - label: Petersfield (PTR)
+    locality: Petersfield
+    country_name: England
+---

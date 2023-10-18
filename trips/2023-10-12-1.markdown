@@ -1,0 +1,10 @@
+---
+start: 2023-10-12
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: Angmering (ANG)
+    locality: East Preston
+    country_name: England
+---
