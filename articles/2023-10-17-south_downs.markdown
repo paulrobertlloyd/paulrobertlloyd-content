@@ -1,6 +1,9 @@
 ---
 date: 2023-10-17T20:40:00+01:00
 title: A long weekend on the South Downs
+location:
+  locality: Brighton
+  country_name: England
 summary: Walking from Petersfield to Winchester with Jon and my new camera.
 photo:
   - url: /media/2023/289/a1/old-winchester-hill.jpg
