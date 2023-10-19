@@ -1,6 +1,6 @@
 ---
 date: 2018-04-05T19:30:00+01:00
-title: "Fantasies of the future: design in a world being eaten by software"
+title: "Fantasies of the future: Design in a world being eaten by software"
 summary: When the prevailing culture permits the creation of products that undermine and exploit users, will designers stand up to protect them?
 photo:
   - url: /media/2018/095/s1/image.jpg
