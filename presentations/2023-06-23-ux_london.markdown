@@ -1,0 +1,370 @@
+---
+date: 2023-06-23T10:30:00Z
+title: "Time team: Documenting decisions & marking milestones"
+summary: How designers can record decisions and cultivate a fun and inclusive culture within their team.
+photo:
+  - url: /media/2023/174/s1/image.jpg
+    alt: The Becoming a Teacher team working around a long table.
+tags:
+  - featured
+accent_color: "#fa6"
+slides:
+  - url: /media/2023/174/s1/1.png
+    caption: |
+      This is a talk about marking time, so I want to start by going back in time, to 5 years ago.
+
+      It was around this time that I had fallen out of love with design and with my profession.
+
+      You might call it burnout, or simply a factor of having spent the last 4 months designing brochureware for a cryptocurrency.
+
+      Whatever it was, it was enough for me to stop working.
+  - url: /media/2023/174/s1/2.png
+    caption: |
+      To quote Hemingway, how did you go bankrupt; two ways, gradually, then suddenly.
+
+      When an unexpected tax bill landed in my inbox, my remaining savings were wiped out, and I was broke.
+
+      Still, I couldn’t face returning to commercial projects, be it at a start-up, design agency or large organisation, where I had previously found little purpose.
+
+      Asking online for help, many suggested I should try finding a role within government.
+  - url: /media/2023/174/s1/3.png
+    caption: |
+      I’d long admired the work done by the Government Digital Service (GDS) on GOV.UK, but had preconceptions around working in government.
+
+      Slow; political; dull perhaps? It also felt strangely impenetrable, intimating, even.
+
+      As none of the other options appealed, I followed some leads and before long found myself entering the Department of Education (DfE), where I was tasked with designing a service to help people train to become teachers.
+
+      In its basement, I found a team of around 20 people sitting around a long wooden table, the walls covered in sticky notes, roadmaps, team charters, and motivational posters.
+
+      I’ve never felt so instantly comfortable in a new environment.
+  - url: /media/2023/174/s1/4.png
+    caption: |
+      I think that’s partly because this was a design-led service team, influenced by the early work of GDS and the values and ideals they had instilled.
+
+      Some of these ideals are set out in the [GOV.UK Design Principles](https://www.gov.uk/guidance/government-design-principles), a set of 10 values which government service teams are encouraged to follow.
+
+      They’re a useful reference point when prioritising ideas, making decisions and communicating with stakeholders.
+  - url: /media/2023/174/s1/5.png
+    caption: |
+      One of these design principles states ‘Iterate. Then iterate again’.
+
+      This encourages teams to release minimum viable products early, testing with users along the way.
+
+      Features can get added or deleted, with services continually refined based on feedback.
+  - url: /media/2023/174/s1/6.png
+    caption: |
+      Teams in government tend to follow an agile process, with the design of a service constantly changing.
+
+      But it’s not only design that changes. Policy decisions; business requirements, ministerial priorities; stakeholder expectations; a team’s understanding of users’ needs.
+
+      And as team members come and go, research findings disappear, context gets lost and with it the rationale behind the design becomes less clear.
+
+      It’s hard to keep up! I find it hard to remember what I ate for lunch yesterday, let alone what I was working on a few months back.
+  - url: /media/2023/174/s1/7.png
+    caption: |
+      When I joined the team at the DfE, I was introduced to [the team’s design history](https://becoming-a-teacher.design-history.education.gov.uk), started by my colleague Paul Hayes.
+
+      This was his answer to that problem.
+
+      Since his first post in December 2017, this design history has grown to include over **630+ posts**, covering **7 services** written by over **30+ contributors**.
+
+      It stands as an amazing record both for those working on these services now, those that did, and those that will in the future.
+  - url: /media/2023/174/s1/8.png
+    caption: |
+      A design history looks both forwards and backwards.
+
+      New posts show the team where a service is going, older posts tell the story of how they got to where they are now.
+  - url: /media/2023/174/s1/9.png
+    caption: |
+      That’s the fancy definition. What I’m really talking about is a blog, with a team committed to regularly posting to it.
+
+      Blogs are by their very nature, archival, with posts dated and displayed in reverse chronological order.
+
+      To aid discovery, authors can tag or categorise posts, and you may have a search feature as well. If you include an RSS feed, people can subscribe to updates as well.
+
+      There are plenty of tools for blogging, and many of them are free to use.
+  - url: /media/2023/174/s1/10.png
+    caption: |
+      There are other ways to record decisions of course.
+
+      A team may already have an internal wiki or some sort of document storage. There’s a number of problems with these however, not least trying to finding content.
+
+      If you’ve ever tried finding a document on Google Drive or Microsoft SharePoint, you’ll understand this pain.
+
+      Also, if content is hidden away, it’s tempting to be lazy, perhaps scrappily list a few bullet points which will become meaningless when read back later.
+  - url: /media/2023/174/s1/11.png
+    caption: |
+      A design history is not just visible, it’s also public.
+
+      Making a design history public means posts can be shared, both within your team, but also with those outside it.
+
+      This very much is in the spirit of another government design principle: ‘Make things open: it makes things better’.
+
+      Writing in public also forces you to communicate ideas clearly, with fewer assumptions about the reader’s understanding of the context surrounding a decision.
+  - url: /media/2023/174/s1/12.png
+    caption: |
+      A design history may be public, the general public isn’t the intended audience.
+
+      In organisations which embrace complete openness like Mozilla, advertising where people can read about ongoing design work may make sense.
+
+      However most organisations, including most teams in government, don’t have the resources to manage that level of scrutiny. So while our design history was public, we prevented it from being indexed by search engines.
+
+      However it is still public, so anything that’s secret or sensitive shouldn’t be published, nor should any identifiable information about research participants be shared.
+  - url: /media/2023/174/s1/13.png
+    caption: |
+      The real value comes in addressing the team.
+
+      For example, **product managers** may find a design history helpful when scheduling the development of a feature. Having a design documented means it can be picked up later.
+  - url: /media/2023/174/s1/14.png
+    caption: |
+      For **delivery managers**, a design history can be a useful resource when onboarding new team members, or shared with potential hires.
+  - url: /media/2023/174/s1/15.png
+    caption: |
+      **User researchers** can refer to previous entries when planning upcoming sessions, or when preparing a playback and needing to refer to previous findings.
+  - url: /media/2023/174/s1/16.png
+    caption: |
+      Design history entries can also give **developers** some context around a particular feature before they start to build it.
+
+      They may already be doing something similar themselves.
+
+      Perhaps they are using Architecture Decision Records, used to inform contributors to a codebase the reasons why certain choices were made, and why things are done a certain way.
+
+      Git commit histories also perform a similar function, especially useful when reviewing a pull request or reverting a change.
+  - url: /media/2023/174/s1/17.png
+    caption: |
+      Having a design history can be useful when preparing presentations for **senior stakeholders**, too.
+
+      In the context of government, phases of delivery conclude with a service assessment, part of which focuses on the design decisions that have been made.
+
+      Pointing assessors to a design history, with its collection of posts detailing an understanding of user needs and design intents, can make the design section of an assessment a formality – or at least help assessors decide where to concentrate their questions.
+  - url: /media/2023/174/s1/18.png
+    caption: |
+      Design histories work best when a service is being actively developed, with the design constantly iterated.
+
+      During earlier exploratory stages of a project, a simpler change log may be more appropriate.
+
+      The important point is to record changes.
+  - url: /media/2023/174/s1/19.png
+    caption: |
+      Documentation is fundamentally an act of professionalism, and designers shouldn’t believe they are somehow exempt.
+
+      Sure, design can be a chaotic and messy process, but that doesn’t mean we shouldn’t clean up after ourselves once we’re done.
+  - url: /media/2023/174/s1/20.png
+    caption: |
+      What you include in a design history is for you and your team to decide, but I’ll offer some examples of what I’ve included in past entries.
+  - url: /media/2023/174/s1/21.png
+    caption: |
+      When setting up a design history on a new project, one of the first things I’ll do is create a glossary. After all, there’s nothing civil servants love more than acronyms!
+
+      Doing this helps me understand a new problem space, inviting deeper investigation into a policy area and the different users and organisations that it relates to.
+
+      Once published, the team then has a useful resource, and one that can be shared with new team members, too.
+  - url: /media/2023/174/s1/22.png
+    caption: |
+      The most common type of posts will be those that provide the story of a design. This could be a post discussing a particular iteration, or documenting the journey to releasing a new feature.
+  - url: /media/2023/174/s1/23.png
+    caption: |
+      Simply keeping a record of what a service looks like at a point in time also has value.
+
+      Some of the earlier posts included in the Becoming a teacher design history were a collection of screenshots of user journeys we had tested.
+
+      We also added print stylesheets so that when these entries were printed, a screen would be printed to a page. These pages could then be stuck on a wall and annotated prior to the next design revision.
+  - url: /media/2023/174/s1/24.png
+    caption: |
+      Some posts may be recording something you know will disappear.
+
+      For example, our team was replacing a legacy service, but it was quite difficult and lengthy process to sign up for – part of the reason we were replacing it! By capturing screenshots of the different user journeys, this was no longer an issue.
+
+      It now serves as a nice benchmark, something the team can look back on now the legacy service has been decommissioned.
+  - url: /media/2023/174/s1/25.png
+    caption: |
+      Before passing a design on to developers, often consideration for different states and interactions is needed. Again, we can use a design history to describe these.
+
+      For example, on our service we need to ask candidates for their nationality.
+
+      We wrote a design history entry that explained:
+
+      * how candidates can add and remove multiple nationalities
+      * how the form should work without JavaScript
+      * how we can ensure it’s accessible
+
+      Note that I’m not advocating writing a detailed specification. Ideally, you are working closely with the developers on your team and are able to have discussions as a feature is being built. Maybe the result of those discussions can get added to the entry as well.
+  - url: /media/2023/174/s1/26.png
+    caption: |
+      Sometimes a design history can house other useful resources.
+
+      For example, the legacy UCAS service asked candidates hundreds of questions. We had worked out which were required, which we could remove, and which we’d like to remove but couldn’t, at least not straight away.
+
+      Colleagues in the policy team were finding it hard to keep track and explain these changes to teacher training providers.
+
+      So we published a question protocol. This listed all the questions we ask in an application, why we asked them, where the information was to be used and how we would check answers for accuracy.
+  - url: /media/2023/174/s1/27.png
+    caption: |
+      When I talk about design histories, people will often ask how keeping one fits into the overall design process; this is a discussion to be had with your team.
+
+      However, I’d argue that writing a design history shouldn’t be considered something extra, but an integral part of the design process.
+
+      The main point to note is that it’s not important how or when something is written down, just that it gets written down at all.
+
+      As my colleague Adam Silver said:
+
+      > The only design history entry you’ll regret, is the one you didn’t write.
+  - url: /media/2023/174/s1/28.png
+    caption: |
+      As I mentioned earlier, teams in government follow an agile delivery process.
+
+      The GOV.UK Service Manual breaks this into [4 phases](https://www.gov.uk/service-manual/agile-delivery):
+
+      * **Discovery:** Exploring the problem space
+      * **Alpha:** Testing design options with hypothesis
+      * **Beta:** Building and refining options (often with private and public stages)
+      * **Live:** Continual improvement
+
+      This process can stretch over many years, with teams having to overcome many challenges and bumps along the way, often time to celebrate before moving onto the next phase.
+
+      Yet celebrating progress is important for team morale.
+  - url: /media/2023/174/s1/29.png
+    caption: |
+      It was in this spirit that, during the early days of GDS, the team borrowed the idea of mission patches from NASA.
+
+      They created stickers to mark the passing of significant milestones, so team members had a little marker of success that they could stick on their laptops.
+  - url: /media/2023/174/s1/30.png
+    caption: |
+      Giles Turnbull, who worked at GDS at the time, [says that stickers tell a tiny story](https://gilest.org/stickers.html):
+
+      > [Stickers] become tokens that represent something more – a shared experience, a shared set of memories that only people who worked on that project will remember and understand.
+      >
+      > A sticker, like a web page, can be a conscious act of institutional memory.
+  - url: /media/2023/174/s1/31.png
+    caption: |
+      As an artefact designed to celebrate and memorialise a collective achievement, choosing what to include on the team’s mission patch is a brilliant opportunity to engage in a co-design activity.
+
+      Vicky Teinaki describes [a collaborative approach called sticker storming](https://medium.com/gov-design/metaphors-we-sticker-by-4e4ecdbf8d64), where a team gathers to decide what to show on their mission patch.
+
+      Everyone gets 10 minutes to write some ideas down, one to a sticky note, before placing them on a board.
+
+      The team then discusses each idea deciding if any should be disqualified, before a round of voting takes place.
+
+      The winning idea gets turned into a mission patch.
+  - url: /media/2023/174/s1/32.png
+    caption: |
+      I ran this exercise with the Becoming a teacher team.
+
+      We ended up choosing a beaver because we were building a complex service and delivering it in the “rapid-flowing waters of the ever-changing initial teacher training market”.
+
+      Dubbed Brian, he became our mascot as different phases of the project were delivered.
+
+      Midway through the pandemic, my colleague Duncan even purchased 60 stuffed beavers and sent one to each member of the team!
+  - url: /media/2023/174/s1/33.png
+    caption: |
+      The first mission patch celebrated the launch of our private beta. This took place in a nearby pub at 8pm as a power cut (as well as several fire alarms and a building evacuation) tried to prevent us from flicking the switch.
+
+      To represent the idea of delivering regardless, the first patch featured Brian wearing a helmet with a head torch.
+
+      Later patches featured Brian wearing a mortar board after our service opened up to university-based training providers, and another with him demolishing a building to celebrate the legacy service being turned off.
+  - url: /media/2023/174/s1/34.png
+    caption: |
+      Mission patches are also an excellent opportunity to flex your design skills and go a little wild with the design.
+
+      This can be especially enjoyable if much of your time is spent working within the constraints of a design system.
+
+      For example, I used Russian propaganda posters to commemorate the departure of a user researcher in one patch, and an old Southern Railway poster to mark the many days our policy team had spent on trains travelling the country getting training providers on board.
+  - url: /media/2023/174/s1/35.png
+    caption: |
+      With teams increasingly work remotely, it’s a good idea to extend the idea of mission patches into the digital realm.
+
+      Alongside stickers, I’ve created corresponding custom emoji to use in Slack – these often proved more popular than the stickers.
+  - url: /media/2023/174/s1/36.png
+    caption: |
+      A service is only as good as the people working on it, so it’s important to ensure they are happy, recognised and well supported.
+
+      Designers have a key role to play here, not only in designing outward facing products and services, but representing the culture of the team, and helping to celebrate its successes.
+  - url: /media/2023/174/s1/37.png
+    caption: |
+      However, this work should be treated with the same care and attention we give to users of the products we design.
+
+      A culture can be fragile and fickle, and can work in either a positive or negative direction.
+
+      When designing for a team we should acknowledge an inherent contradiction: helping it become inwardly inclusive can work to make it appear outwardly exclusive.
+
+      Many are turned off by the stickers and sloganeering that’s often a feature of government design teams, for example.
+  - url: /media/2023/174/s1/38.png
+    caption: |
+      Brian had became a big part of our team’s identity, appearing on different stickers, slack messages and bots.
+
+      But as new people joined the team, they asked why we had this fixation with a beaver – and why the hell was he called Brian?
+
+      There’s not enough time to go into his name, except to say that it was based on an inside joke from the very earliest days of the project when the team was no bigger than 10 people. That itself is a bit of a red flag.
+  - url: /media/2023/174/s1/39.png
+    caption: |
+      This knowledge needed to be visible and owned by everyone on the team, so where better to document and publicise this than on [a page in the design history](https://becoming-a-teacher.design-history.education.gov.uk/mission-patches/).
+
+      This page not only explained the meaning behind each patch, but also provided high resolution versions that could be downloaded, alongside print specifications meaning patches could be reprinted as new people joined the team.
+  - url: /media/2023/174/s1/40.png
+    caption: |
+      The American writer Stewart Brand described the idea of [pace layers](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2) and how these allow complex systems to learn and adapt.
+
+      In this model, layers operate independently of each other, at different paces and timescales, each influencing and responding to its closest layer in a way that makes the whole system resilient.
+
+      You can observe such a system operating within civilisation.
+
+      At the outermost layer, fashion is frantic and always changing as new ideas are tried and tested. As you move further down the layers, each moves slower until you arrive at nature, which will outlast all before it.
+  - url: /media/2023/174/s1/41.png
+    caption: |
+      I think we can map this model to how the delivery culture works within government.
+
+      At the outer layer, agile delivery tests out new ideas, yet further down this process is underpinned by the values and ethos that has evolved since the earliest days of GDS, and codified in the Design Principles.
+
+      It’s fascinating to see this process at work, especially as it applies to the adoption of design histories.
+  - url: /media/2023/174/s1/42.png
+    caption: |
+      The design history was started by a single interaction designer, who saw a problem so tested out a solution.
+
+      As more designers joined the team, they saw its value and started contributing posts as well as iterating the underlying tool.
+
+      Other teams noticed as well. By making the code open source our tool gained wider adoption.
+
+      Yet there was an underlying problem; we hadn’t spent time integrating it with a content management system (CMS) meaning non-developers were unable to contribute posts.
+
+      We already had a preference for hiring designers who could code, and having a design history without a CMS further entrenched this way of working, preventing our team becoming more diverse.
+  - url: /media/2023/174/s1/43.png
+    caption: |
+      However, since I’ve left the DfE, the design function has matured to the point that a dedicated design ops team has been formed.
+
+      One of their first initiatives was to build [a service that lets anyone in the department create a design history](https://design-histories.education.gov.uk).
+
+      Backed by an underlying content management system, not only can any team create a design history, but anyone on that team can contribute to it.
+
+      Design histories are slowly being absorbed into the wider culture of design at the DfE, move into the infrastructure layer of the organisation. But not without the underlying cultural layer exerting itself first.
+  - url: /media/2023/174/s1/44.png
+    caption: |
+      Returning to the model of pace layers, Brand said “fast learns, slow remembers”.
+
+      All durable and dynamic systems have a structure of layers moving at different paces. It is what makes them adaptable and robust to change. In terms of organisations you might describe this as its institutional memory.
+
+      Recording decisions prevents later teams making the same mistakes, or having to learn the same lessons over and over again.
+
+      It makes the services we design more resilient as they become the product of continued, sustained iteration and revision, built on the collected knowledge and experience of many.
+
+      Perhaps the greatest value a design history holds is only known by those that follow.
+  - url: /media/2023/174/s1/45.png
+    caption: |
+      Often what’s missing when people talk at conferences about their tools and processes is an acknowledgement of the culture they were born from.
+
+      If you’re working on a product team where design is constantly being iterated and refined, in an organisation that values knowledge sharing, and where success is celebrated, then I’d encourage you to give these ideas a try.
+
+      If those conditions don’t apply, they may still have value, but you might need to adjust your approach to fit your organisation. Or maybe it’s time for a little design revolution.
+
+      You don’t need fancy tools to curate a sustainable culture; blogs and stickers are inexpensive, and both can be used to tell a story for the ages.
+
+      So, what’s your team’s story?
+---
+
+This presentation was delivered at [UX London 2023][1].
+
+[1]: /2023/173/e1/ux_london_2023/
+
+*[CMS]: Content management system
+*[DfE]: Department for Education
+*[GDS]: Government Digital Service
