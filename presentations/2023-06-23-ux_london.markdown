@@ -81,7 +81,7 @@ slides:
 
       Blogs are by their very nature, archival, with posts dated and displayed in reverse chronological order.
 
-      To aid discovery, authors can tag or categorise posts, and you may have a search feature as well. If you include an RSS feed, people can subscribe to updates as well.
+      To aid discovery, authors can tag or categorise posts, and you may have a search feature as well. If you include an RSS feed, people can also subscribe to updates.
 
       There are plenty of tools for blogging, and many of them are free to use.
   - url: /media/2023/174/s1/10.png
@@ -92,7 +92,7 @@ slides:
 
       If you’ve ever tried finding a document on Google Drive or Microsoft SharePoint, you’ll understand this pain.
 
-      Also, if content is hidden away, it’s tempting to be lazy, perhaps scrappily list a few bullet points which will become meaningless when read back later.
+      Also, if content is hidden away, it’s tempting to be lazy, perhaps scrappily writing down a few bullet points that will be meaningless when read back later.
   - url: /media/2023/174/s1/11.png
     caption: |
       A design history is not just visible, it’s also public.
@@ -104,7 +104,7 @@ slides:
       Writing in public also forces you to communicate ideas clearly, with fewer assumptions about the reader’s understanding of the context surrounding a decision.
   - url: /media/2023/174/s1/12.png
     caption: |
-      A design history may be public, the general public isn’t the intended audience.
+      A design history may be public, but the general public isn’t the intended audience.
 
       In organisations which embrace complete openness like Mozilla, advertising where people can read about ongoing design work may make sense.
 
@@ -187,7 +187,7 @@ slides:
 
       * how candidates can add and remove multiple nationalities
       * how the form should work without JavaScript
-      * how we can ensure it’s accessible
+      * how we would ensure it’s accessible
 
       Note that I’m not advocating writing a detailed specification. Ideally, you are working closely with the developers on your team and are able to have discussions as a feature is being built. Maybe the result of those discussions can get added to the entry as well.
   - url: /media/2023/174/s1/26.png
@@ -203,9 +203,7 @@ slides:
     caption: |
       When I talk about design histories, people will often ask how keeping one fits into the overall design process; this is a discussion to be had with your team.
 
-      However, I’d argue that writing a design history shouldn’t be considered something extra, but an integral part of the design process.
-
-      The main point to note is that it’s not important how or when something is written down, just that it gets written down at all.
+      However, I’d argue that writing a design history shouldn’t be considered something extra, but an integral part of the design process. And honestly, it’s not important how or when something is written down, just that it gets written down at all.
 
       As my colleague Adam Silver said:
 
@@ -221,7 +219,7 @@ slides:
       * **Beta:** Building and refining options (often with private and public stages)
       * **Live:** Continual improvement
 
-      This process can stretch over many years, with teams having to overcome many challenges and bumps along the way, often time to celebrate before moving onto the next phase.
+      This process can stretch over many years, with teams having to overcome many challenges and bumps along the way, often with little time to celebrate before moving onto the next phase.
 
       Yet celebrating progress is important for team morale.
   - url: /media/2023/174/s1/29.png
@@ -255,7 +253,7 @@ slides:
 
       Dubbed Brian, he became our mascot as different phases of the project were delivered.
 
-      Midway through the pandemic, my colleague Duncan even purchased 60 stuffed beavers and sent one to each member of the team!
+      Midway through the pandemic, my colleague Duncan Brown even purchased 60 stuffed beavers and sent one to each member of the team!
   - url: /media/2023/174/s1/33.png
     caption: |
       The first mission patch celebrated the launch of our private beta. This took place in a nearby pub at 8pm as a power cut (as well as several fire alarms and a building evacuation) tried to prevent us from flicking the switch.
@@ -288,28 +286,28 @@ slides:
 
       When designing for a team we should acknowledge an inherent contradiction: helping it become inwardly inclusive can work to make it appear outwardly exclusive.
 
-      Many are turned off by the stickers and sloganeering that’s often a feature of government design teams, for example.
+      Many are turned off by the stickers and sloganeering that’s often a feature of government design teams, and I think I may have been too.
   - url: /media/2023/174/s1/38.png
     caption: |
       Brian had became a big part of our team’s identity, appearing on different stickers, slack messages and bots.
 
-      But as new people joined the team, they asked why we had this fixation with a beaver – and why the hell was he called Brian?
+      But as new people joined the team, they asked why we had this fixation with a beaver – and why was he called Brian?
 
-      There’s not enough time to go into his name, except to say that it was based on an inside joke from the very earliest days of the project when the team was no bigger than 10 people. That itself is a bit of a red flag.
+      There’s not enough time to go into his name, except to say that it was based on an inside joke from the very earliest days of the project when the team was no bigger than 10 people. In retrospect, that itself was a red flag.
   - url: /media/2023/174/s1/39.png
     caption: |
-      This knowledge needed to be visible and owned by everyone on the team, so where better to document and publicise this than on [a page in the design history](https://becoming-a-teacher.design-history.education.gov.uk/mission-patches/).
+      This knowledge needed to be visible and owned by everyone on the team. Where better to document and publicise this than on [a page in the design history](https://becoming-a-teacher.design-history.education.gov.uk/mission-patches/).
 
       This page not only explained the meaning behind each patch, but also provided high resolution versions that could be downloaded, alongside print specifications meaning patches could be reprinted as new people joined the team.
   - url: /media/2023/174/s1/40.png
     caption: |
+      Finally, I want to zoom out a bit, and talk about why I think this stuff is important.
+
       The American writer Stewart Brand described the idea of [pace layers](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2) and how these allow complex systems to learn and adapt.
 
       In this model, layers operate independently of each other, at different paces and timescales, each influencing and responding to its closest layer in a way that makes the whole system resilient.
 
-      You can observe such a system operating within civilisation.
-
-      At the outermost layer, fashion is frantic and always changing as new ideas are tried and tested. As you move further down the layers, each moves slower until you arrive at nature, which will outlast all before it.
+      You can observe such a system operating within civilisation. At the outermost layer, fashion is frantic and always changing as new ideas are tried and tested. As you move further down the layers, each moves slower until you arrive at nature, which will outlast all before it.
   - url: /media/2023/174/s1/41.png
     caption: |
       I think we can map this model to how the delivery culture works within government.
@@ -321,9 +319,9 @@ slides:
     caption: |
       The design history was started by a single interaction designer, who saw a problem so tested out a solution.
 
-      As more designers joined the team, they saw its value and started contributing posts as well as iterating the underlying tool.
+      As more designers joined the team, they saw its value and started contributing posts, as well as iterating the underlying tool.
 
-      Other teams noticed as well. By making the code open source our tool gained wider adoption.
+      Other teams noticed, and having made the code open source, our tool gained wider adoption.
 
       Yet there was an underlying problem; we hadn’t spent time integrating it with a content management system (CMS) meaning non-developers were unable to contribute posts.
 
@@ -336,7 +334,7 @@ slides:
 
       Backed by an underlying content management system, not only can any team create a design history, but anyone on that team can contribute to it.
 
-      Design histories are slowly being absorbed into the wider culture of design at the DfE, move into the infrastructure layer of the organisation. But not without the underlying cultural layer exerting itself first.
+      Design histories are slowly being absorbed into the wider culture of design at the DfE, slowly moving down into the infrastructure layer of the organisation. But not without the underlying culture and values exerting themselves first.
   - url: /media/2023/174/s1/44.png
     caption: |
       Returning to the model of pace layers, Brand said “fast learns, slow remembers”.
