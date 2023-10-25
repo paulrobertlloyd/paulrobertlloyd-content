@@ -1,6 +1,9 @@
 ---
 date: 2023-10-25T10:58:51.544+01:00
+updated: 2023-10-25T11:00:53.677+01:00
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111295073708824745
 ---
 
 The week I find myself nursing acute neck and shoulder pain has unfortunately coincided with a week spent carrying a heavy backpack and travelling across Europe by train. My hotel bed in Nuremberg had better be comfortable!
