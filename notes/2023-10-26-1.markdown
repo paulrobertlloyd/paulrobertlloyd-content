@@ -1,6 +1,9 @@
 ---
 date: 2023-10-26T21:46:20.912+01:00
+updated: 2023-10-26T21:48:35.414+01:00
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111303282820894715
 ---
 
 A beautifully unexpected series of talks at border:none today. With the theme of retrospection and finding our place in the world, at times the talks were very personal and deeply moving. That being said, I’m planning on skipping the sessions tomorrow morning so that I can visit the [DB Museum](https://dbmuseum.de/en/nuremberg)! 🚂
