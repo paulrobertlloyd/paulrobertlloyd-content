@@ -1,0 +1,10 @@
+---
+date: 2023-10-29T11:15:00.000+01:00
+photo:
+  - url: /media/2023/302/p1/1.jpg
+    alt: "Red, orange and yellow leaves cut out to resemble the IndieWebCamp logo."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111317781191440340
+---
+
+It’s a very autumnal IndieWebCamp in Nuremberg this weekend.
