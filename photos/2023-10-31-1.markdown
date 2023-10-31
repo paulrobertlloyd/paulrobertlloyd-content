@@ -1,0 +1,20 @@
+---
+date: 2023-10-31T11:15:00.000+01:00
+photo:
+  - url: /media/2023/304/p1/1.jpg
+    alt: "Orange leaves obscure a view of Nürnberg Hauptbahnhof."
+  - url: /media/2023/304/p1/2.jpg
+    alt: "Yellow and green foliage above a oversized sculpture of a cracked egg."
+  - url: /media/2023/304/p1/3.jpg
+    alt: "A dark maroon coloured Deutsche Bundesbahn locomotive."
+  - url: /media/2023/304/p1/4.jpg
+    alt: "White type on on the side of a red painted wagon."
+  - url: /media/2023/304/p1/5.jpg
+    alt: "Bright orange leaves obscure the railway lines behind."
+  - url: /media/2023/304/p1/6.jpg
+    alt: "Detail of the facade of Frauenkirche church highlighted by spotlights in the dark."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111329348947974761
+---
+
+I didn’t get a lot of time to see Nuremberg during the day, but when I did, I enjoyed walking below its incredible autumnal foliage. The trains weren’t too bad, either.
