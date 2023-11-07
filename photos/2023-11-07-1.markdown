@@ -1,0 +1,10 @@
+---
+date: 2023-11-07T12:21:00.000Z
+photo:
+  - url: /media/2023/311/p1/1.jpg
+    alt: "A ceramic cup containing a flat white coffee decorated with a heart shape, casts a long blue shadow across a white table."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111369229734737076
+---
+
+A study in brew.
