@@ -1,0 +1,18 @@
+---
+date: 2023-11-11T15:55:00.000Z
+photo:
+  - url: /media/2023/315/p1/1.jpg
+    alt: "Rain water sat on a red maple leaf."
+  - url: /media/2023/315/p1/2.jpg
+    alt: "Sunlight illuminating yellow leaves against a dark background."
+  - url: /media/2023/315/p1/3.jpg
+    alt: "Bright red leaves appear to hang in the air between two tree trunks."
+  - url: /media/2023/315/p1/4.jpg
+    alt: "A bright red 5-pointed leaf sat on wet wooden bench, illuminated by the sunlight."
+  - url: /media/2023/315/p1/5.jpg
+    alt: "A bright green 5-pointed leaf illuminated by the sunlight, against a backdrop of blurred foliage."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111392728497015580
+---
+
+A morning stroll around [Sheffield Park and Garden](https://www.nationaltrust.org.uk/visit/sussex/sheffield-park-and-garden).
