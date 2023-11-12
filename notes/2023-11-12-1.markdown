@@ -1,6 +1,6 @@
 ---
-date: 2023-11-12T01:21:09.304Z
-updated: 2023-11-12T01:23:07.422Z
+date: 2023-11-12T01:21:00.000Z
+updated: 2023-11-12T01:27:07.362Z
 visibility: public
 syndication:
   - https://mastodon.social/@paulrobertlloyd/111394959341676765
@@ -8,6 +8,6 @@ syndication:
 
 Every TypeScript project on GitHub might as well include a `CONTRIBUTING` file that states ‘Ha ha, nope’.
 
-Using this verbose and complex meta syntax (that offers little over what can be achieved with documentation, commenting and JSDoc), is little more than nauseating gatekeeping.
+Using this verbose and complex meta syntax (that offers little over what can already be achieved with documentation, commenting and JSDoc) is nauseating gatekeeping.
 
 The sooner this ludicrous, frustrating and wasteful fad passes, the better. Fuck TypeScript, and all those who perpetuate it.
