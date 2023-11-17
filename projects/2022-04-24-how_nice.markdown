@@ -1,0 +1,34 @@
+---
+title: How Nice
+summary: A nice logo for a dog-owning delivery manager.
+photo:
+  - url: /media/projects/how_nice/image.png
+    alt: How Nice logo.
+tags:
+  - brand_identity
+accent_color: "#fd0"
+---
+
+- ![A page from the brand guidelines showing recommended logo usage.](/media/projects/how_nice/guide_logo.png#screenshot "Brand guidelines for logo usage…")
+- ![A page from the brand guidelines showing the colour palette.](/media/projects/how_nice/guide_colour.png#screenshot "…and the colour palette.")
+  {.align-bleed .gallery}
+
+Dan is a delivery manager, and he wanted a logo for his company that he could use for an advertising board at his local cricket club. But how to design a logo for a company whose name had “absolutely no thought whatsoever” given to it? Then Dan sent me a photo of his dog Penny, whose bone-shaped tag on her collar gave me a hint as to the possible solution.
+
+![The How Nice logo.](/media/projects/how_nice/logo.svg)
+
+Bones help bodies maintain their shape and give them structure, much like how delivery managers support their teams. Also, if you tilt your head and squint your eyes, you’ll see that a bone looks like an elongated ‘H’, which is the first letter of the company’s name – how nice!
+
+Having settled on a final design for the logo, I delivered it alongside a short guidelines document. This included recommendations on logo usage, colour and font palettes, and suggestions on how the brand could be implemented on social media pages.
+
+- ![A page from the brand guidelines showing typographic recommendations.](/media/projects/how_nice/guide_typography.png#screenshot "Brand guidelines for typgraphy…")
+- ![A page from the brand guidelines showing brand implementation on a social media profile.](/media/projects/how_nice/guide_implementation.png#screenshot "…and brand implementation on social media pages.")
+  {.align-bleed .gallery}
+
+---
+
+Year
+: 2022
+
+Role
+: Brand identity
