@@ -1,6 +1,9 @@
 ---
 date: 2023-11-19T17:11:31.252Z
+updated: 2023-11-19T17:13:14.814Z
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111438331535203549
 ---
 
 I wonder if anyone can help me solve this long-running conundrum. I can’t get new emails when I’m in my bathroom! I can browse the web, update RSS feeds, use apps etc., but my email server fails to respond when I’m sat on the loo. How is that possible!?
