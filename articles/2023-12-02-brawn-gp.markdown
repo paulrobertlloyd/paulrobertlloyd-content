@@ -1,0 +1,78 @@
+---
+date: 2023-12-02T22:00:00Z
+type_index: 2
+title: The impossible dream
+location:
+  locality: Brighton
+  country_name: England
+summary: Reflections on Keanu Reeves’ Brawn GP documentary and how Formula 1 has changed over the last 14 years.
+photo:
+  - url: /media/2023/336/a2/image.jpg
+    alt: Keanu Reeves looks over the BGP 001 car.
+accent_color: "#fff204"
+category:
+  - formula_1
+  - television
+tags:
+  - featured
+---
+
+A few weeks ago I watched [""Brawn: The Impossible Formula 1 Story""][1] on Disney+. By the end of it I felt surprisingly emotional for what is ultimately the story of a management buyout.
+
+Over 4 hour-long episodes, Keanu Reeves tells the story of Brawn GP, a Formula 1 team previously owned by Honda who, dealing with the fallout of the financial crisis, decided to exit the sport and shutter the team.
+
+This decision couldn’t have come at a more unfortunate time. An aerodynamicist had discovered a loophole in the sporting regulations and the team believed that an innovative double diffuser would give them a significant advantage over their competitors going into the 2009 season.
+
+Unable to find a buyer and with few other options available [Team Principle Ross Brawn and CEO Nick Fry bought the team for £1][2] while securing a £70 million continuation fund from Honda. Engines would come from Mercedes but needed significant engineering to fit inside a chassis designed for Honda’s powertrain. They entered the 2009 season with a constrained budget, a reduced team and little room for errors on track.
+
+That they ended up winning the Constructors’ World Championship – the only team to do so in their first season in the sport – is as surprising now as it was then.
+
+![Keanu Reeves looks over the BGP 001 car.](/media/2023/336/a2/image.jpg "Photograph: Alessio Barbanti/© 2022 Disney.")
+{.align-bleed}
+
+Meanwhile, the team’s two drivers waged a fierce battle to see who could win the Drivers’ World Championship.
+
+Jenson Button made the most of Brawn GP’s early dominance, winning 6 of the first 7 races. However, unable to win his home Grand Prix at Silverstone, a collapse in confidence followed. This allowed his Brazilian teammate Rubens Barrichello to close the gap with the [penultimate race weekend at Interlagos][3] deciding the championship outcome. Rubens qualified in pole position with Jenson managing a lowly P14.
+
+With locals cheering his teammate and pranksters forcing Jenson to pass under ladders in the hopes of giving him bad luck, a galvanising pre-race pep-talk from his father propelled him to place fifth, ahead of Rubens and with enough points to seal the championship. Cue a poor rendition of Queen’s ""We Are the Champions"" from Jenson’s BGP 001 car.
+
+---
+
+I remember this season with great fondness. I grew up watching Formula 1, but given the dominance of Michael Schumacher and ITV’s coverage interrupted by adverts my attention drifted elsewhere.
+
+But in 2009, coverage returned to the BBC with all 17 races broadcast live and uninterrupted. With the story of Brawn GP playing out alongside Jenson’s attempt to win the championship, and in a season with six different race winners, it was impossible not to become hooked.
+
+By the end of that year, Mercedes had bought the team and the drivers had moved to other teams. Brawn GP was no more. Over, before it had even begun.
+
+---
+
+The release of this documentary coincided with the inaugural running of the Las Vegas Grand Prix, inviting comparisons of how the sport has changed during the intervening 14 years.
+
+Today, live coverage is firmly behind a paywall. Not that there’s much reason to watch; the results this season have been as inevitable as they were in Schumacher’s day. Max Verstappen won 19 of 22 races, the greatest proportion of wins in a season. A commendable achievement, were it not for his dislikable personality.
+
+Verstappen spent much of his week in Las Vegas criticising a race that Formula 1 had spent US$700 to stage, demonstrating a typical lack of grace, gratitude or humility. Only once he won did he declare it a success. It’s hard to enjoy the renewed popularity of this sport when it’s blighted not just by his dominance, but by his sulky and churlish demeanour too.
+
+Putting the three-time world champion to one side, Liberty Media are proving to be fine custodians of the sport, increasing its audience while pleasing their shareholders. Looking to build on the success of the Netflix documentary ""Drive to Survive"" and grow an audience in the United States, a glitzy race in Las Vegas was as inevitable as its eventual race winner.
+
+Fortunately for Formula 1, after initial teasing trouble thanks to a dislodged drain cover, Las Vegas delivered an entertaining race in its own right – the lead changing multiple times – with many declaring it the best race of the season.
+
+But for all the supposed spectacle of seeing Formula 1 cars race along Las Vagas Boulevard, on television, the track looked like that of any other night race: long straights of illuminated dull grey tarmac enclosed by concrete and catch-fencing.
+
+Were it not for gambling-related puns throughout the commentary, this race could have been held anywhere.
+
+---
+
+And so we await next season. McLaren enjoyed a late resurgence, its lead driver Lando Norris securing second place six times. Mercedes had a worse season than last year yet still finished second, largely thanks to Lewis Hamilton’s consistency. The dream of a compelling, competitive season – potentially with a British team and driver spearheading it – is alive once more.
+
+However, with the regulations unchanged – Red Bull turned their attention to next year’s car in the summer – and with Max showing no signs of weakness, it may be an impossible dream.
+
+In the final episode of the Brawn documentary Andrew Shovlin, Button’s race engineer, said he’d spent his career chasing the feeling he had in 2009 only to realise it’s impossible, that it was a once-in-a-lifetime event.
+
+As a spectator, it’s hard not to reach the same conclusion.
+
+[1]: https://www.disneyplus.com/en-gb/series/brawn-the-impossible-formula-1-story/7G5zxICkLOJ8
+[2]: http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/7927488.stm
+[3]: https://en.wikipedia.org/wiki/2009_Brazilian_Grand_Prix
+
+*[BBC]: British Broadcasting Corporation
+*[ITV]: Independent Television
