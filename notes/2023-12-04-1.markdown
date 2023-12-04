@@ -1,6 +1,9 @@
 ---
 date: 2023-12-04T21:35:36.912Z
+updated: 2023-12-04T21:37:54.892Z
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111524306909253094
 ---
 
 Fair to say that my Duolingo year in review (I’m a world champion language learner, apparently) is less embarrassing than my Apple Replay year in music where the top artist, song and album spots have all been taken by Steps. 😂
