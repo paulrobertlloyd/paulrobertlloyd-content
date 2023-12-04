@@ -8,6 +8,7 @@ summary: "When every device begs to be connected, it has become easier – almos
 photo:
   - url: /media/2012/283/a1/illustration.png
     alt: Illustration by Kevin Cornell.
+accent_color: "#eee"
 category:
   - responsive_design
   - web
@@ -89,7 +90,7 @@ The [dConstruct Archive][6] is a small site where people can listen to talks giv
 
 - ![Original speaker portrait image: 9kb.](/media/2012/283/a1/dconstruct_archive_original.jpg "Original image: 9kb.")
 
-- ![Optimized speaker portrait image: 4kb.](/media/2012/283/a1/dconstruct_archive_optimised.jpg "Original image: 4kb.")
+- ![Optimized speaker portrait image: 4kb.](/media/2012/283/a1/dconstruct_archive_optimised.jpg "Optimized image: 4kb.")
   {.gallery}
 
 To work out which image sizes to use, the smallest and largest displays were taken into account. We can already see a failing in current responsive image proposals. If you visit this site, you will notice that larger viewports sometimes display smaller images, because the size of the image required is often dependent on the size of its containing block, _not_ the size of the viewport. Yet viewport is the value the proposed standards would have us query.
@@ -117,10 +118,7 @@ Rather than increasing the _resolution_ of images as sites scale up, we can thin
 
 When accessed on more powerful devices like newer smartphones, tablets, and desktop computers (those that can “[cut the mustard][10]”), an image is displayed for each story. These images have been deemed “nice to have” – enhancements to the core experience that are conditionally requested after the basic page has loaded.
 
-- ![BBC News mobile with simple interface.](/media/2012/283/a1/bbc_news_simple.png "Basic experience.")
-
-- ![BBC News mobile with enhanced interface.](/media/2012/283/a1/bbc_news_enhanced.png "Enhanced experience.")
-  {.gallery}
+![BBC News mobile with simple and enhanced interface.](/media/2012/283/a1/bbc_news.png)
 
 Progressive enhancement has long featured in the developer’s toolbox, but it should now feature throughout the design process. By thinking about websites in less binary terms (desktop versus mobile; IE6 versus “modern” browsers), we can create experiences that adapt to the diverse landscape of the web.
 
@@ -140,27 +138,27 @@ That these apps can only be viewed using Chrome is an unnerving requirement, and
 
 When we think of websites inspired by print, those of newspapers spring to mind. The website for [""The New York Times""][12] features a fixed, densely packed, multi-column grid. Like many contemporary sites, content is suffocated by advertising, sharing widgets, and related links:
 
-![Screenshot of the New York Times website.](/media/2012/283/a1/nytimes_site.png "New York Times website interface.")
+![Screenshot of the New York Times website.](/media/2012/283/a1/nytimes_site.png#screenshot "New York Times website interface.")
 
 The inappropriateness of this design becomes more apparent when compared to its [Chrome App][13] (which is thankfully accessible in other browsers). Content takes center stage, with a less cluttered, more focused interface that’s also responsive – to a point. Note that it also features less photographic imagery, supporting the idea that responsive images might only be a problem when web designers try to replicate print.
 
-![Screenshot of the New York Times web application.](/media/2012/283/a1/nytimes_app.png "New York Times application interface.")
+![Screenshot of the New York Times web application.](/media/2012/283/a1/nytimes_app.png#screenshot "New York Times application interface.")
 
 ### Task-oriented sites
 
 Another website that suffers from similarly crowded layouts is [BBC Good Food:][14]
 
-![Screenshot of the BBC Good Food website.](/media/2012/283/a1/bbc_good_food_site.png "BBC Good Food website interface.")
+![Screenshot of the BBC Good Food website.](/media/2012/283/a1/bbc_good_food_site.png#screenshot "BBC Good Food website interface.")
 
 Yet, when viewing a recipe page in its [Chrome app,][15] we again see a more considered, user-centred design; it’s far easier to follow a recipe when you don’t have to scroll the page.
 
-![Screenshot of the BBC Good Food application.](/media/2012/283/a1/bbc_good_food_app.png "BBC Good Food application interface.")
+![Screenshot of the BBC Good Food application.](/media/2012/283/a1/bbc_good_food_app.png#screenshot "BBC Good Food application interface.")
 
 ### Content, not chrome
 
 A final example of this trend can be found on [Rdio][16]. As the music-streaming service has evolved, its designers have sought consistency between the website and desktop application. Where once these interfaces shared only a few components, now they are largely the same. This has resulted in a design that falls somewhere between the two: not quite a website, but not quite a desktop application either.
 
-![Screenshot of the Rdio website.](/media/2012/283/a1/rdio.png "Rdio website interface.")
+![Screenshot of the Rdio website.](/media/2012/283/a1/rdio.png#screenshot "Rdio website interface.")
 
 Like the Chrome apps for ""The New York Times"" and BBC Good Food, this nudge toward a more app-like interface has resulted in a stronger focus on content (in this case, album covers), a more fluid layout, and less intrusive navigation.
 
