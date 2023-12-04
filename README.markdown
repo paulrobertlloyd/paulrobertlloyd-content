@@ -140,7 +140,19 @@ If you’ve been considering making the switch, here are a few tips and tricks t
 </section>
 ```
 
-### Images with captions
+### Images
+
+Images can be found in the `media` folder, with paths using the following convention:
+
+`/media/{:year}/{:day}/{:post-type-prefix}{:type-index}/{filename}`
+
+#### Screenshots
+
+Use the `#screenshot` fragment to indicate that an image should be displayed as a screenshot. For example:
+
+`/media/projects/bradshaws_guide/homepage.png#screenshot`
+
+#### Images with captions
 
 Although Markdown defines the content in quotes after the filename as the title for the image, it’s intended for this content to be shown in a figure caption:
 
@@ -155,6 +167,47 @@ Although Markdown defines the content in quotes after the filename as the title 
 </figure>
 ```
 
+#### Image galleries
+
+Use unordered lists with an image or figure as the only item contained within each list item. Ensure each list item is separated by two line breaks to ensure compatibility when rendering figures with captions.
+
+```md
+- ![Green and yellow heather below frost-covered trees.](/media/2023/236/a1/como-dome.jpg "Dome of Cattedrale di Santa Maria Assunta, Como.")
+
+- ![A path stretches into a distance towards woodland.](/media/2023/236/a1/brunate-dome.jpg "Dome of Chiesa di Sant’Andrea Apostolo, Brunate.")
+```
+
+```html
+<ul>
+  <li>
+    <figure>
+      <img src="/media/2023/236/a1/como-dome.jpg" alt="Green and yellow heather below frost-covered trees.">
+      <figcaption>Dome of Cattedrale di Santa Maria Assunta, Como.</figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <img src="/media/2023/236/a1/brunate-dome.jpg" alt="A path stretches into a distance towards woodland.">
+      <figcaption>Dome of Chiesa di Sant’Andrea Apostolo, Brunate.</figcaption>
+    </figure>
+  </li>
+</ul>
+```
+
+### Videos
+
+External videos are provided as links to the websites hosting them:
+
+`[Paul McCartney - I’ve Got a Feeling (feat. John Lennon)](https://www.youtube.com/watch?v=g4UsXksoGNg)`
+
+It is up to the host renderer if or how these links are enhanced or displayed.
+
+### Maps
+
+Maps can be implemented as either static or interactive maps. If a post includes a map, GeoJSON data is provided in the posts front matter (typically under the `geojson` key).
+
+This data can be used to generate static map images (previously generated images are saved in the `media` folder) or used to build interactive map tiles.
+
 ## Markdown classes
 
 The following utility classes are used (provided via [attributes](#attributes)) to indicate the presentation of certain content:
@@ -163,29 +216,3 @@ The following utility classes are used (provided via [attributes](#attributes)) 
   Content should take up full available width of its container
 - `align-pull`
   Content should be pulled to one side of its container
-- `gallery`
-  List of images should be displayed as an image gallery
-
-## Images
-
-Images can be found in the `media` folder, with paths using the following convention:
-
-`/media/{:year}/{:day}/{:post-type-prefix}{:type-index}/{filename}`
-
-Use the `#screenshot` fragment to indicate that an image should be displayed as a screenshot. For example:
-
-`/media/projects/bradshaws_guide/homepage.png#screenshot`
-
-## Videos
-
-External videos are provided as links to the websites hosting them:
-
-`[Paul McCartney - I’ve Got a Feeling (feat. John Lennon)](https://www.youtube.com/watch?v=g4UsXksoGNg)`
-
-It is up to the host renderer if or how these links are enhanced or displayed.
-
-## Maps
-
-Maps can be implemented as either static or interactive maps. If a post includes a map, GeoJSON data is provided in the posts front matter (typically under the `geojson` key).
-
-This data can be used to generate static map images (previously generated images are saved in the `media` folder) or used to build interactive map tiles.
