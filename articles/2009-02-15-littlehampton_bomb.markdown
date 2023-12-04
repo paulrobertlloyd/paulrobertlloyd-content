@@ -15,8 +15,8 @@ On Friday evening I got a call from Jon on his way back to the house after a nig
 With some excitement, yet still fearing I might be being led up the garden path, I set foot outside the house and walked towards the end of the road. Everything seemed quiet and orderly, nothing suggesting I was in the immediate vicinity of a suspected bomb.
 
 - ![Police outside Littlehampton railway station](/media/2009/046/a1/1.jpg)
+
 - ![Police outside Littlehampton railway station](/media/2009/046/a1/2.jpg)
-  {.gallery}
 
 Upon reaching the main road, I looked to my right and towards the train station. There I saw a deserted road sectioned off with police tape, and a bomb disposal robot just in front of the station lobby. Turning to my left I saw a Royal Navy Bomb Disposal Unit and several police officers, who by this point were asking me to move towards them and away from the cordoned off area.
 

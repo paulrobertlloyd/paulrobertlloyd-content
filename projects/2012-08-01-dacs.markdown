@@ -27,7 +27,6 @@ DACS had already undergone an extensive rebranding exercise for print but it nee
 - ![Landing page for the Payback service.](/media/projects/dacs/payback.png#screenshot "Artist photography shown front and centre on a page introducing DACS’ Payback service.")
 
 - ![Further information about the Payback service.](/media/projects/dacs/payback_furtherinfo.png#screenshot "A restrained typographic pallet ensured legibility and visual consistency.")
-  {.align-bleed .gallery}
 
 I drew on DACS’ photographic library of artists to give the organisation a human face. This imagery was combined with a restrained typographic pallet to ensure legibility and visual consistency, and supported by a selection of monochromatic patterns used to differentiate sections of the site.
 

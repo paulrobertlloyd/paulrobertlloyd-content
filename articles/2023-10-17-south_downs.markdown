@@ -156,7 +156,6 @@ Having walked 10km, we retraced much of the journey back to the small village of
 - ![Looking down a steep wooded hill to a track running into the distance.](/media/2023/289/a1/steep-woodland.jpg)
 
 - ![A red-bricked outbuilding housing the cafe at Uppark House, with a white clock tower on its roof.](/media/2023/289/a1/uppark-house-cafe.jpg)
-  {.align-bleed .gallery}
 
 ![The brick and stone facade of Uppark House.](/media/2023/289/a1/uppark-house.jpg)
 {.align-bleed}
@@ -190,7 +189,6 @@ For the second night we stayed at [The Winchester Hotel and Spa][6]. Jon describ
 - ![Pre-Worboys road sign pointing to East Meon in one direction and Droxford in the other.](/media/2023/289/a1/pre-worboys-roadsign.jpg)
 
 - ![The small bridge over the stream as seen from the other direction.](/media/2023/289/a1/river-meon-bridge.jpg)
-  {.align-bleed .gallery}
 
 ![An old red K6 telephone kiosk repurposed as a location for swapping books.](/media/2023/289/a1/red-k6.jpg)
 {.align-bleed}
@@ -206,7 +204,6 @@ Also new since my last visit, a museum called ""Kings & Scribes"" which includes
 - ![A wonky outside wall of Winchester Cathedral.](/media/2023/289/a1/winchester-cathedral-wonky.jpg)
 
 - ![Round and gothic arches inside Winchester Cathedral.](/media/2023/289/a1/winchester-cathedral-arches.jpg)
-  {.align-bleed .gallery}
 
 ![Three people in conversation inside Winchester Cathedral.](/media/2023/289/a1/winchester-cathedral-conversation.jpg)
 {.align-bleed}

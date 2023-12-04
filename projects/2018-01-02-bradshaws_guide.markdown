@@ -29,9 +29,10 @@ The design seeks to combine the aesthetic of the Victorian era with modern sensi
 Producing content for the guide involved transcribing and correcting copy originating from an automated OCR process. As this copy already exists in the public domain, I released the newly digitised text on [a public GitHub repository][2], alongside the source code for the website.
 
 - ![Region page on mobile.](/media/projects/bradshaws_guide/mobile_region.png#screenshot)
+
 - ![Route page on mobile.](/media/projects/bradshaws_guide/mobile_route.png#screenshot)
+
 - ![Station page on mobile.](/media/projects/bradshaws_guide/mobile_station.png#screenshot)
-  {.align-bleed .gallery}
 
 ---
 

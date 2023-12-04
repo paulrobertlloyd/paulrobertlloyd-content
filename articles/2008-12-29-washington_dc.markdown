@@ -28,7 +28,6 @@ Here two granite walls create a ‘V’ shaped opening in the ground, upon which
 - ![US Marine Corps War Memorial.](/media/2008/364/a1/iwo_jima_memorial.jpg "US Marine Corps War Memorial.")
 
 - ![Netherlands Carillon.](/media/2008/364/a1/netherlands_carillon.jpg "Netherlands Carillon.")
-  {.gallery}
 
 I was surprised to find the [US Marine Corps War Memorial][3] (better known as the Iwo Jima Memorial) situated outside of D.C., in Arlington, Virginia. Far larger than I was expecting too, this iconic sculpture by [Felix W. de Weldon][4] depicts the scene captured by photographer Joe Rosenthal in [Raising the Flag on Iwo Jima][5] that was taken during World War II.
 

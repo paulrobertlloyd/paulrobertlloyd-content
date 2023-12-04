@@ -37,7 +37,6 @@ As many of his buildings are constructed of concrete, they are usually soften by
 - [![The Presidential Residence.](/media/2011/199/a1/suspension_1.jpg "Familiar pillar design at the Presidential Residence. Photograph: Palácio do Planalto")][i3]
 
 - [![Supreme Federal Court buildings.](/media/2011/199/a1/suspension_2.jpg "Repeated again at the Supreme Federal Court. Photograph: Vitor Sá")][i4]
-  {.align-bleed .gallery}
 
 One of Niemeyer favourite tricks is show to his buildings suspended off the ground. Brasília is no different, and here it’s often accomplished by the use of a distinctive pillar design, perhaps one that draws its inspiration from the city’s layout. These pillars can be seen at the Supreme Court, the Presidential Residence and at the Presidential Palace.
 

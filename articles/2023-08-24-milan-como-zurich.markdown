@@ -37,7 +37,6 @@ The majesty of its many churches and chapels, each with delicate frescos, awesom
 - ![Green and yellow heather below frost-covered trees.](/media/2023/236/a1/como-dome.jpg "Dome of Cattedrale di Santa Maria Assunta, Como.")
 
 - ![A path stretches into a distance towards woodland.](/media/2023/236/a1/brunate-dome.jpg "Dome of Chiesa di Sant’Andrea Apostolo, Brunate.")
-  {.align-bleed .gallery}
 
 As much as I dream of being a travel writer, I neither possess the confidence to interact with strangers nor the gastronomic curiosity to seek out local dishes. Sat in Milan’s [Starbucks Reserve][4] roastery – a sort of Disneyland for lovers of mediocre coffee – I consign myself to being pretty basic.
 

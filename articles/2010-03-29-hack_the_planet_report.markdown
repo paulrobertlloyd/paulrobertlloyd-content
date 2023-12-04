@@ -34,7 +34,6 @@ Depending on a number of factors (distance travelled, mode of transport, and ‘
 - ![Event page.](/media/2010/088/a1/team_a_event_page.png "Event page.")
 
 - ![Profile page.](/media/2010/088/a1/team_a_profile_page.png "Profile page.")
-  {.gallery}
 
 Problem with this model: what was the incentive to join this network and share this data, and what do points actually mean? Matt pushed for the service to suggest conferences nearby as one way to solve this problem, but there would certainly need more engaging features for people to use this service. One nice feature of this tool, however, would be that it could tell you if any friends are attending the same conferences you are, and as such encourage lift sharing.
 
@@ -47,7 +46,6 @@ Team B created a tool that was initially planned for use by conference organiser
 - ![Home page.](/media/2010/088/a1/team_b_home_page.png "Home page.")
 
 - ![A form within the flow for rating schwag.](/media/2010/088/a1/team_b_rating_schwag.png "A form within the flow for rating schwag.")
-  {.gallery}
 
 However, as a consequence of working through these ideas, they quickly spotted other applications. For example, it could be used to rate existing bags, and data could be collected as to how green any given conference had been. For example, bags from SXSW could be rated for 2007, 2008 and 2009 to give metrics on the improvement or degradation in the sustainability of the bag year-on-year.
 

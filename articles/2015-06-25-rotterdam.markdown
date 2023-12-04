@@ -30,7 +30,6 @@ Skyscrapers are a familiar sight in Rotterdam. This is especially true of the ne
 - ![Details of KPN Tower.](/media/2015/176/a1/kpn_tower.jpg "KPN Tower.")
 
 - ![Looking up at De Rotterdam.](/media/2015/176/a1/de_rotterdam.jpg "De Rotterdam.")
-  {.gallery}
 
 Buildings here include [Maastoren][4], the tallest building in the Benelux region, and [De Rotterdam][5], whose four substantial towers, each offset half way up, combine to form the most densely built part of the Netherlands. The area is joined to the city by the [Erasmusbrug][6], a landmark nicknamed the Swan due the design of its asymmetric white pylon.
 

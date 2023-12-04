@@ -37,9 +37,10 @@ Oh, and [I launched my redesigned website][32]. Finally.
 My trips around Europe allowed me to indulge in my love of architecture, notably the _Fernsehturm_{lang="de"} in Berlin, A’DAM (previously Toren Overhoeks) in Amsterdam and the Cube Houses in Rotterdam as well as the stunningly beautiful Belgium city of Bruges.
 
 - ![Fernsehturm in Berlin](/media/2016/003/a1/berlin.jpg)
+
 - ![A’DAM in Amsterdam](/media/2016/003/a1/amsterdam.jpg)
+
 - ![Cube Houses in Rotterdam](/media/2016/003/a1/rotterdam.jpg)
-  {.align-bleed .gallery}
 
 ![A small stone-made bridge in Bruges.](/media/2016/003/a1/bruges.jpg)
 {.align-bleed}

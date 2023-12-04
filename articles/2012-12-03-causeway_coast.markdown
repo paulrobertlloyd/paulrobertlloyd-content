@@ -34,7 +34,6 @@ Besides showcasing some recent photography – something I’d like to do more o
 - ![Interlocking basalt columns.](/media/2012/338/a1/4.jpg "Interlocking basalt columns: 55% quality, 63 kB.")
 
 - ![Interlocking basalt columns.](/media/2012/338/a1/5.jpg "Interlocking basalt columns: 58% quality, 35 kB.")
-  {.gallery}
 
 ![The Giant’s Causeway viewed from above.](/media/2012/338/a1/6.jpg "The Giant’s Causeway viewed from above: 55% quality, 151 kB.")
 {.align-bleed}

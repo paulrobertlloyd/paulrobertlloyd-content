@@ -10,8 +10,8 @@ accent_color: "#26b"
 ---
 
 - ![Home page.](/media/projects/university_of_wales/homepage.png#screenshot)
+
 - ![About page.](/media/projects/university_of_wales/about.png#screenshot)
-  {.align-bleed .gallery}
 
 The [University of Wales][1] is a confederal university responsible for accrediting degrees for institutions in Wales and more than 120 higher education institutions within the UK and in 30 further countries overseas.
 

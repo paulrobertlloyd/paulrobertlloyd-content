@@ -36,7 +36,6 @@ Keen to exploit the very idea of 24 ways – different articles, written by diff
 - ![Year archive page on mobile.](/media/projects/24_ways/archive_mobile.png#screenshot)
 - ![Article page on mobile.](/media/projects/24_ways/article_mobile.png#screenshot)
 - ![Opened site navigation on mobile.](/media/projects/24_ways/navigation_mobile.png#screenshot)
-  {.align-bleed .gallery}
 
 Where the previous design used a rigid template across all sections of the site, which often dominated the content, I created a series of responsive templates each suited the task in hand. These were supported by application-like navigation conventions, with subtle animation to add delight to the interface.
 
@@ -47,7 +46,6 @@ Keen to exploit the very idea of 24 ways – different articles, written by diff
 - ![Home page.](/media/projects/24_ways/homepage.png#screenshot "The home and other archival pages showcase articles by placing them within a grid, evoking the feel of a calendar.")
 
 - ![Opened site navigation.](/media/projects/24_ways/navigation.png#screenshot "To account for the growing archive and to improve the discoverability of content, I recommended categorising articles by topic and exposing these within the navigation.")
-  {.align-bleed .gallery}
 
 ## Continual refinement
 

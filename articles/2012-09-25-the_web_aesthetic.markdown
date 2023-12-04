@@ -52,7 +52,6 @@ This was especially true in the 1970s and early 1980s. Although programs were re
 - ![BBC ident from 1974.](/media/2012/283/a1/bbc1_1974.png "BBC ident from 1974.")
 
 - ![BBC ident from 1981.](/media/2012/283/a1/bbc1_1981.png "BBC ident from 1981.")
-  {.gallery}
 
 Television is facing another period of transition, this time toward a high-definition widescreen format. Because many viewers own standard-definition 4:3 televisions, designers again need to compromise, working within a “safe area” to ensure graphics don’t get cropped on older sets. As such, graphics on widescreen televisions tend to float in the middle of the screen, not yet able to make use of the full width.
 
@@ -91,7 +90,6 @@ The [dConstruct Archive][6] is a small site where people can listen to talks giv
 - ![Original speaker portrait image: 9kb.](/media/2012/283/a1/dconstruct_archive_original.jpg "Original image: 9kb.")
 
 - ![Optimized speaker portrait image: 4kb.](/media/2012/283/a1/dconstruct_archive_optimised.jpg "Optimized image: 4kb.")
-  {.gallery}
 
 To work out which image sizes to use, the smallest and largest displays were taken into account. We can already see a failing in current responsive image proposals. If you visit this site, you will notice that larger viewports sometimes display smaller images, because the size of the image required is often dependent on the size of its containing block, _not_ the size of the viewport. Yet viewport is the value the proposed standards would have us query.
 
@@ -104,7 +102,6 @@ With a theme of “playing with the future,” the [dConstruct 2012][7] conferen
 - ![Original speaker portrait image: 14kb.](/media/2012/283/a1/dconstruct_2012_original.jpg "Original image: 14kb.")
 
 - ![Optimized speaker portrait image: 11kb.](/media/2012/283/a1/dconstruct_2012_monochrome.png "Optimized image: 11kb.")
-  {.gallery}
 
 As we saw in the television example, the constraints of a medium can impact the resulting aesthetic. In that case, should images with fewer colors or blurred backgrounds – and perhaps even noticeable compression artifacts – become an accepted norm on the web? Surely the popularity of services like Instagram (itself a product born of constraints) has proven that [photography is judged by its content][8], not by its resolution.
 

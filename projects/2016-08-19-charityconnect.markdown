@@ -20,9 +20,10 @@ I was asked to conduct an expert review of some earlier designs that had been pr
 Workshop exercises then allowed for requirements gathering and design exploration. Through a series of exercises, we teased out requirements for the project, and built a collective understanding of the type of people that would be using the new site.
 
 - ![Empathy map.](/media/projects/charityconnect/empathy_map.jpg)
+
 - ![Personas.](/media/projects/charityconnect/personas.jpg)
+
 - ![Page prioritisation exercise.](/media/projects/charityconnect/prioritisation.jpg)
-  {.align-bleed .gallery}
 
 With these findings uncovered, I created a set of detailed visual design compositions. I evolved the existing design language, allowing it to convey a higher degree of user activity, while creating an identity that would stand out among popular mainstream networks.
 
@@ -30,10 +31,12 @@ With these findings uncovered, I created a set of detailed visual design composi
 > — Emma Begg, Product and Marketing Manager
 
 - ![User profile page on mobile.](/media/projects/charityconnect/profile.png#screenshot)
+
 - ![Followed users page on mobile.](/media/projects/charityconnect/following.png#screenshot)
+
 - ![Group profile page on mobile.](/media/projects/charityconnect/group.png#screenshot)
+
 - ![Article page on mobile.](/media/projects/charityconnect/post.png#screenshot)
-  {.align-bleed .gallery}
 
 ---
 

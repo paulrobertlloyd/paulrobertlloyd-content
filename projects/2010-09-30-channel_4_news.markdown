@@ -10,8 +10,8 @@ accent_color: "#889"
 ---
 
 - ![Home screen.](/media/projects/channel_4_news/home.png#screenshot)
+
 - ![Special report.](/media/projects/channel_4_news/special_report.png#screenshot)
-  {.align-bleed .gallery}
 
 Broadcast weeknights at 7pm, [""Channel 4 News""][1] is noted for its award-winning coverage of international news and extensive current affairs reporting.
 
@@ -20,9 +20,10 @@ After redesigning their website, Channel 4 wished to reimagine the Channel 4 New
 Shortly after its launch Apple featured the app as App of the Week. In a few short weeks the application received over one hundred positive reviews, with an average rating of 4.5 stars.
 
 - ![Category screen.](/media/projects/channel_4_news/category.png#screenshot)
+
 - ![News article.](/media/projects/channel_4_news/article.png#screenshot)
+
 - ![Catch-up screen.](/media/projects/channel_4_news/catchup.png#screenshot)
-  {.align-bleed .gallery}
 
 ---
 

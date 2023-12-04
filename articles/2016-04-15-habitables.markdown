@@ -29,7 +29,6 @@ I immediately fell in love with designer Manuel Barrera’s distinctive mid-cent
 - ![Table.](/media/2016/106/a1/tv_table.jpg "Table, made of solid oak board.")
 
 - ![Desk.](/media/2016/106/a1/desk.jpg "Matching Desk. These both look — and smell — great!")
-  {.gallery}
 
 My order arrived last week. Appropriately packaged for its long trip from Madrid, opening and assembling these new pieces felt like Christmas Day all over again! Not so much a purchase but long-term investment, I’m left with two unique pieces of furniture that I will treasure for many years to come.
 

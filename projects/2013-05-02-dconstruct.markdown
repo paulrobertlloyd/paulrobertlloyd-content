@@ -31,7 +31,6 @@ Like the previous year’s design, the [homepage featured prominent images of th
 - ![Home page for the 2011 website.](/media/projects/dconstruct/2011.png#screenshot "2011 website.")
 
 - ![Home page for the 2013 website.](/media/projects/dconstruct/2013.png#screenshot "2013 website.")
-  {.align-bleed .gallery}
 
 ## 2013: Communicating with Machines
 
