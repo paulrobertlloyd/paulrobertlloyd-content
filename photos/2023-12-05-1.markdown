@@ -1,0 +1,11 @@
+---
+date: 2023-12-05T23:45:00.000Z
+photo:
+  - url: /media/2023/339/p1/1.png
+    alt: "The initials ‘p’, ‘r’ and ‘l’ made up of circles and rectangles."
+accent_color: "#0ef"
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111530472819402403
+---
+
+I’ve always thought that [the ‘p’ in the current iteration of my logo](https://dribbble.com/shots/5517702) is too heavy in comparison to the other letters. That, and it breaks with the simplicity of constructing initials using simple shapes only. I think this slight change improves things considerably.
