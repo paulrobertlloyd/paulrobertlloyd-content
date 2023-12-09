@@ -117,7 +117,7 @@ Code and Theory say <q>The fresh visual presentation and consumption experience 
 This is perhaps best expressed on feature stories, which are allowed greater freedom, often featuring larger imagery and animations that appear as you move down the page. The site may not be to everyone’s taste, but it’s exciting to see a large company like Bloomberg experiment in this way. More please!
 
 > I’m a fan. Sure, I don’t really get it. Actually, I’m annoyed that I like it, but I can’t help myself. It’s great — seriously great.
-— Harrison Weber (@harrisonweber@twitter.com)
+> — Harrison Weber (@harrisonweber@twitter.com)
 
 [1]: http://www.foolproof.co.uk
 [2]: https://www.tsb.co.uk

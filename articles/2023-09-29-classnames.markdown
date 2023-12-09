@@ -58,4 +58,3 @@ It’s [hosted on GitHub][12] meaning folks can contribute words and improve the
 [10]: https://www.wordnik.com
 [11]: https://chriscoyier.net/2023/09/21/use-subdomains/
 [12]: https://github.com/paulrobertlloyd/classnames
-

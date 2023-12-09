@@ -17,19 +17,19 @@ If you like to live dangerously, go right ahead and copy and paste that embed co
 
 1. **Authoring:** Every piece of content on this site is stored as Markdown yet, apart than for images, this format has no provision for embedding content without resorting to HTML.
 
-    Several plugins for [markdown-it][2] add support for referencing embedded content but there’s little consensus around what the syntax should be.
+   Several plugins for [markdown-it][2] add support for referencing embedded content but there’s little consensus around what the syntax should be.
 
-    Perhaps there doesn’t need to be. Embeds are still hyperlinks, it’s just that the referenced content is displayed by the host website. Maybe I can add links in my source Markdown then replace them with the respective embed code during the build process, progressively enhance them in the client, or a bit of both.
+   Perhaps there doesn’t need to be. Embeds are still hyperlinks, it’s just that the referenced content is displayed by the host website. Maybe I can add links in my source Markdown then replace them with the respective embed code during the build process, progressively enhance them in the client, or a bit of both.
 
 2. **Privacy:** Okay, but including code on a website that originates from a third-party soon gets into issues around privacy. Maybe this is less of an issue thanks to sandboxing, blockers and other browser features, but I remain wary.
 
 3. **Performance:** Loading video, streaming or otherwise, should be avoided unless it’s something the reader wants to watch. The same could be said for all the assets and JavaScript often required to display an embed.
 
-    I’ve tried [using the `srcdoc` attribute][3] and looked into using [web components that fetch embedded content only once the user initiates it][4] and many other similar approaches, but…
+   I’ve tried [using the `srcdoc` attribute][3] and looked into using [web components that fetch embedded content only once the user initiates it][4] and many other similar approaches, but…
 
 4. **Previewing:** If I’m not displaying the content straight away, I’d like to provide a preview. YouTube has a predictable URL scheme for its thumbnail images, although the dimensions rarely match that of the video, and higher resolution thumbnails are not always available.
 
-    For other providers, I would need to query their (oEmbed) API to get thumbnail URLs; a separate request and adding further complexity.
+   For other providers, I would need to query their (oEmbed) API to get thumbnail URLs; a separate request and adding further complexity.
 
 5. **Display:** Having considered all of the above, including an embed on a responsive page is still fraught with issues. New CSS properties like [`aspect-ratio`][5] mean [old hacks][6] can be retired, but as this needs the aspect ratio for a given embed, I’d need to include that information somewhere in the original markup.
 
@@ -66,17 +66,17 @@ This is something that sits somewhere between a link and an embed. If you want t
 
 A few implementation details:
 
-* As the link opens in a new tab, I have included `rel="noreferrer noopener"` to reduce the risk of [reverse tabnabbing][7].
+- As the link opens in a new tab, I have included `rel="noreferrer noopener"` to reduce the risk of [reverse tabnabbing][7].
 
-* The thumbnail image uses [`loading="lazy"`][8] so it will only load if it’s likely to appear within the viewport.
+- The thumbnail image uses [`loading="lazy"`][8] so it will only load if it’s likely to appear within the viewport.
 
-* The thumbnail also uses an empty `alt` attribute. As a presentational image for which we cannot provide a detailed description, this seems like the right approach, especially as the remaining link text should be descriptive.
+- The thumbnail also uses an empty `alt` attribute. As a presentational image for which we cannot provide a detailed description, this seems like the right approach, especially as the remaining link text should be descriptive.
 
-* For YouTube videos, I’m using the medium quality thumbnail image, which is 320 × 180 pixels. Reducing its size by 75% should mean it looks good on higher resolution displays.
+- For YouTube videos, I’m using the medium quality thumbnail image, which is 320 × 180 pixels. Reducing its size by 75% should mean it looks good on higher resolution displays.
 
-* I’ve added a little play icon, generated using CSS borders so that it doesn’t get announced by screen readers.
+- I’ve added a little play icon, generated using CSS borders so that it doesn’t get announced by screen readers.
 
-* As the entire block is a link, I’ve added an underline to the supporting text to indicate this behaviour.
+- As the entire block is a link, I’ve added an underline to the supporting text to indicate this behaviour.
 
 The above example includes a thumbnail image whose source was guessed from the YouTube video ID included in the original URL. Where no thumbnail can be deduced, or if we want to use a different thumbnail, we can use Markdown’s image syntax:
 

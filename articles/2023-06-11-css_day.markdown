@@ -26,9 +26,9 @@ In previous editions, talks focused on proposed features of CSS or ways to work 
 
 To take one example, [the original CSS specification][4] included 3 relative units for defining a length:
 
-* pixels (`px`) relative to the resolution of the canvas
-* x-height (`ex`) relative to the height of the letter ‘x’
-* ems (`em`) relative to the font size of the parent container
+- pixels (`px`) relative to the resolution of the canvas
+- x-height (`ex`) relative to the height of the letter ‘x’
+- ems (`em`) relative to the font size of the parent container
 
 Including rarely used absolute units (`in`, `cm`, `mm`, `pt` and `pc`) and percentages, there was just under a handful of length units to remember.
 
@@ -66,7 +66,7 @@ In closing her talk, Una shared this Oscar Wilde quote:
 
 > There are only two tragedies in life: one is not getting what one wants, and the other is getting it.
 
-I feel seen. I’ve long [advocated embracing the constraints of the platform][16]; does CSS *really* need [trigonometric functions][17]? Yet one person's creative constraints is another’s reason for ignoring CSS entirely. Perhaps that’s why JavaScript flourished while CSS was consigned to being a ‘toy language’.
+I feel seen. I’ve long [advocated embracing the constraints of the platform][16]; does CSS _really_ need [trigonometric functions][17]? Yet one person's creative constraints is another’s reason for ignoring CSS entirely. Perhaps that’s why JavaScript flourished while CSS was consigned to being a ‘toy language’.
 
 CSS Day was once again a thought-provoking (sometimes head-exploding) event, with equally thoughtful organisation. And yes, the [Bitterballen][18] didn’t disappoint. But one CSS conference isn’t enough. This language is now so broad and deep, its implementation across browsers never more stable and complete, that opportunities to grow the community abound.
 
@@ -74,7 +74,7 @@ This community also needs to flourish to keep Silicon Valley’s giants in check
 
 ---
 
-<ins datetime="2023-06-12">**Correction:** [Šime Vidas pointed out][19] that there are in fact [36 relative length units in CSS now][20], not 18. 🤯</ins>
+<ins datetime="2023-06-12"> **Correction:** [Šime Vidas pointed out][19] that there are in fact [36 relative length units in CSS now][20], not 18. 🤯</ins>
 
 [1]: https://cssday.nl/2023
 [2]: /2023/130/a1/ux_london/

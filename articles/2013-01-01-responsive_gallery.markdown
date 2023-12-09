@@ -19,7 +19,7 @@ accent_color: "#d8127e"
 
 ![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) A family-run company, [Skinny Ties][1] have been producing and selling neckties since 1971, and are now one of the largest retailers in the United States. [Brendan Falkowski][2] was asked to reinvent the brand’s identity and develop a future-friendly platform to ensure the continued success of the business.
 
-Brendan’s design exhibits a beautiful attention to detail. The layout adapts sensibly – even the logo adjusts itself to suit  different widths. <q>All interactive elements were built with touch and click usage in mind, which keeps the interface consistent and compact</q> says Brendan.
+Brendan’s design exhibits a beautiful attention to detail. The layout adapts sensibly – even the logo adjusts itself to suit different widths. <q>All interactive elements were built with touch and click usage in mind, which keeps the interface consistent and compact</q> says Brendan.
 
 With an IA centred squarely around the range of ties, coupled with a performant and responsive implementation, its easy to browse and purchase products quickly on any device. It’s not surprising to learn that revenue has increased by 43.4% since the new site went live – increasing by an astonishing 377.6% on the iPhone alone.
 

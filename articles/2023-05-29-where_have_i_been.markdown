@@ -14,35 +14,35 @@ First [Manton][1] did it, then a [few][2] [others][3] on [Micro.blog][4] followe
 
 In alphabetical order:
 
-* 🇦🇺 [Australia](/categories/australia)
-* 🇦🇹 [Austria](/categories/austria)
-* 🇧🇪 [Belgium](/categories/belgium)
-* 🇧🇷 [Brazil](/categories/brazil)
-* 🇨🇦 [Canada](/categories/canada)
-* 🇨🇿 [Czechia](/categories/czechia)
-* 🇩🇰 [Denmark](/categories/denmark)
-* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [England](/categories/england)
-* 🇫🇷 [France](/categories/france)
-* 🇩🇪 [Germany](/categories/germany)
-* 🇬🇬 Guernsey
-* 🇭🇺 Hungary
-* 🇮🇹 Italy
-* 🇮🇪 [Ireland](/categories/ireland)
-* 🇮🇸 Iceland
-* 🇲🇨 [Monaco](/categories/monaco)
-* 🇳🇱 [Netherlands](/categories/netherlands)
-* 🇳🇿 [New Zealand](/categories/new_zealand)
-* 🇬🇧 [Northern Ireland](/categories/northern_ireland)
-* 🇳🇴 [Norway](/categories/norway)
-* 🇵🇹 [Portugal](/categories/portugal)
-* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
-* 🇪🇸 [Spain](/categories/spain)
-* 🇸🇪 [Sweden](/categories/sweden)
-* 🇨🇭 [Switzerland](/categories/switzerland)
-* 🇺🇸 [United States](/categories/united_states)
-* 🇻🇦 Vatican City
-* 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
-{role="list"}
+- 🇦🇺 [Australia](/categories/australia)
+- 🇦🇹 [Austria](/categories/austria)
+- 🇧🇪 [Belgium](/categories/belgium)
+- 🇧🇷 [Brazil](/categories/brazil)
+- 🇨🇦 [Canada](/categories/canada)
+- 🇨🇿 [Czechia](/categories/czechia)
+- 🇩🇰 [Denmark](/categories/denmark)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [England](/categories/england)
+- 🇫🇷 [France](/categories/france)
+- 🇩🇪 [Germany](/categories/germany)
+- 🇬🇬 Guernsey
+- 🇭🇺 Hungary
+- 🇮🇹 Italy
+- 🇮🇪 [Ireland](/categories/ireland)
+- 🇮🇸 Iceland
+- 🇲🇨 [Monaco](/categories/monaco)
+- 🇳🇱 [Netherlands](/categories/netherlands)
+- 🇳🇿 [New Zealand](/categories/new_zealand)
+- 🇬🇧 [Northern Ireland](/categories/northern_ireland)
+- 🇳🇴 [Norway](/categories/norway)
+- 🇵🇹 [Portugal](/categories/portugal)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+- 🇪🇸 [Spain](/categories/spain)
+- 🇸🇪 [Sweden](/categories/sweden)
+- 🇨🇭 [Switzerland](/categories/switzerland)
+- 🇺🇸 [United States](/categories/united_states)
+- 🇻🇦 Vatican City
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
+  {role="list"}
 
 That’s 28 countries in total, not counting those I’ve travelled through during transit (United Arab Emirates and Thailand by plane, Slovakia by train). Here’s [every trip I’ve taken](/trips).
 
