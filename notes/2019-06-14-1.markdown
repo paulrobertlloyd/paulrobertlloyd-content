@@ -1,5 +1,6 @@
 ---
 date: 2019-06-14T20:00:21+02:00
+time_zone: Europe/Amsterdam
 ---
 
 Yet another excellent @cssdayconf@twitter.com, one that this year, thanks to speakers like @steveschoger@twitter.com, @laras126@twitter.com and @natalyathree@twitter.com, began to bridge [the great divides](https://css-tricks.com/the-great-divide/) in our industry by providing healthier means of framing the debates. More of this sort of thing!
