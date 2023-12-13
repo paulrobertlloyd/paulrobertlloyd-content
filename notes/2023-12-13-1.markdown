@@ -1,0 +1,6 @@
+---
+date: 2023-12-13T01:06:24.427Z
+visibility: public
+---
+
+Starting to wonder if I have a slight manic tendency towards web development. I have limitless feature ideas, improvements and bug fixes I want to address across a growing range of personal and open source projects that, alongside work too, comes at a cost to my overall wellbeing if not kept in check. Time to touch grass.
