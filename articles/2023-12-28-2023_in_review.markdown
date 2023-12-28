@@ -1,0 +1,102 @@
+---
+title: 2023 in review
+date: 2023-12-28T21:40:00Z
+location:
+  locality: Bexhill-on-Sea
+  country_name: England
+summary: In the pink.
+accent_color: "#e2a"
+category:
+  - personal
+tags:
+  - featured
+  - year_in_review
+---
+
+So concludes another circuit around the Sun and with it an arbitrary point in time to reflect upon and review the year gone by. That being said, I’m struggling a little knowing how best to recap what was personally a fairly uneventful year peppered with a few highlights. Maybe I’ll start with one of those…
+
+---
+
+In January I took my eldest niece to see [ABBA Voyage][1], a brilliant demonstration of [technology being used in service of pure, unadulterated joy][2]. I arrived with heightened expectations yet still left thoroughly impressed (with my niece suitably embarrassed by my dancing). Another visit is surely needed before the temporary venue is dismantled and shipped to another country, possibly next year.
+
+In August we undertook another musical pilgrimage, this time to [see items previously owned by Freddie Mercury][3] and being [auctioned at Sotherby’s][4]. We also visited Abbey Road, requiring me to jump in front of traffic to get the iconic photo alongside throngs of other tourists attempting the same.
+
+---
+
+[Last year’s review][5] concluded with my disillusionment with web conferences as well as general anxiety in big crowds. Well, not only did I end up attending _and_ enjoying 3 conferences, but I also spoke at another: UX London.
+
+Having worked at Clearleft during the event’s founding and seeing the calibre of people invited to speak, I felt honoured when Jeremy asked me to be part of this year’s line up, albeit on a topic I felt had little mileage: design histories. Joking that it could be summed up in one slide (“write things down so you don’t forget”), I used this as an opportunity to lay some ghosts to rest.
+
+In effect, this presentation allowed me to revisit my time at the Department of Education and extract lessons learnt the hard way about cultivating a team culture through design. It was also an opportunity to publicly celebrate parts of that programme that made it a success. I’m pretty happy with [how the talk turned out][6]. I especially enjoyed the time I spent with my fellow speakers whose talks neatly dovetailed together.
+
+---
+
+Speaking in front of an audience of peers helped boost confidence in my ability and usefulness – [I’m enough and I’m great at doing stuff][7] – at a time when my job could be summarised as getting paid more to achieve less.
+
+They say never meet your heroes, perhaps the same is true for working in policy areas. An advocate for sustainability and protecting the environment, I was excited [to join DEFRA][8] and work on a programme seeking to improve how the government disseminates information and educates the public about air quality.
+
+Unfortunately – and as I quickly discovered navigating layers of middlemen involved in my hiring – this is a deeply dysfunctional organisation. Trying to exit their offices in Bristol to get some lunch was like a scene from ""Brazil"", ""The Thick of It"" and ""Fawlty Towers"" combined, but there were plenty of other embarrassing, unintentionally comedic examples I could mention. A poorly conducted service assessment – during which I was asked why our prototype wasn’t optimised for search engines – turned out to be entirely pointless as the new service would be canned just a few days later.
+
+In a team overrun by architects, and in a programme frustrated by indecision and politicking, I spent 5 months working with my head in my hands. There’s something to be said for perseverance, but facing 6 weeks of well-paid thumb twiddling while the senior leadership team decided what not to do next – and inspired by [Kate Raworth speaking about only pushing on doors that open][9] – I threw in the towel and got on a train.
+
+---
+
+I wrote a number of posts about my train trip around Italy, so I’ll save reposting my thoughts here besides restating my desire to spend more time in Germanic parts of Europe in 2024. I returned from Nuremberg in October but part of me is still there, enjoying the language, architecture and culture.
+
+As I look back on another year of travel, I’m glad that most trips resulted in a blog post: [Birmingham’s disappearing brutalism][10], [Turin’s Olympic leftovers][11], [Milan’s majestic chapels][12], [beauty to be found closer to home along the South Downs][13].
+
+---
+
+In September I joined some former colleagues from the DfE to work on another pointless transformation exercise within government. While that may or may not be true – we’ll soon find out – regular trips to London and working in an office alongside familiar and friendly faces means I can say that, from a work perspective, the year ended better than it started. And with a few more ghosts slain for good measure.
+
+---
+
+While my day job was one of fruitless frustration, I found joy in the many side projects I tended to. [Perhaps too much][14].
+
+[Indiekit][15] saw a few updates as I slowly move towards something I deem worthy of being declared 1.0; scope creep and other distractions prevented that from happening this year. I did however scratch a long festering itch by proposing [a set of icons to represent the different IndieWeb building blocks][16], which seemed to go down well with the community.
+
+Distractions included [rebuilding my website using Lume][17], a static site generator built on Deno. As that rebuild languished, I ported a few improvements and changes over to the current site, [one of which I wrote about][18], others not making it beyond the drafts folder. I’ll undoubtedly spend more time on my website next year; perhaps I’ll unveil a new design and publish those posts.
+
+One project that did ship, and in the space of a few hours, was [Classnames][19]. Unfortunately it got picked up by Hacker News where the uninformed yet highly opinionated displayed their typical levels of ignorance (my second appearance this year, I must be doing something wrong). Besides that, I enjoyed [the challenge of a one-day build][20] and having ‘finished’ a side project.
+
+Towards the end of the year, and with one eye on completing Section III, I rebuilt [Bradshaw’s Guide][21]. Untouched in 5 years, this turned out to be an exercise in discovering how much the web has progressed, with numerous hacks and workarounds able to be removed.
+
+Indeed, I’ve spent the last few months refactoring side projects to use [web components][22]. I’ve never been more excited by a web technology since learning about CSS and web standards at the turn of the century. While others choose to market bullshit ‘upgrades’ like web3, OG Web 1.0 – iterated and improved over 30 years – continues to be a brilliantly performant, resilient, accessible and expressive toolset you can use to build delightfully digital things with if treated with respect.
+
+---
+
+Proven technologies were easily lost in a year when attention focused on artificial intelligence (emphasis on ‘artificial’). With lines drawn between artists and technologists, I find myself increasingly on the side of the former, somewhat resentful that the materials and products of my profession are continually co-opted by charlatans who wield them to ill effect.
+
+I like to think back to the opening ceremony of the London 2012 and the pride I felt seeing fellow creatives elevate the national mood, with Tim Berners-Lee’s invention being celebrated, not bemoaned. Near that same spot a decade later, art and technology are again being combined to bring ABBA to the stage and entertain people in breathtaking technicolour.
+
+That’s how I intend to go in to the New Year, avoiding illusionary and artificially inflated distractions and instead seeking out proven technologies and tools that allow me to be creative; maybe spending more time behind a lens than before a screen and exploring a world beyond pixels and code.
+
+I said much the same last year.
+
+[1]: http://abbavoyage.com
+[2]: /2023/008/n1/
+[3]: /2023/241/p1/
+[4]: https://www.sothebys.com/en/series/freddie-mercury-a-world-of-his-own
+[5]: /2023/004/a1/2022_in_review/
+[6]: /2023/174/s1/ux_london/
+[7]: /2023/208/n1/
+[8]: /2023/027/a1/air/
+[9]: https://pod.link/1665265193/episode/f9e48d52cc4495a5842c94fc952eeec6
+[10]: /2023/106/a1/birmingham/
+[11]: /2023/225/a1/turin/
+[12]: /2023/236/a1/milan-como-zurich/
+[13]: /2023/290/a1/south_downs/
+[14]: /2023/347/n1/
+[15]: https://github.com/getindiekit/indiekit/releases
+[16]: https://github.com/getindiekit/indieweb-icons
+[17]: /2023/054/a1/lume/
+[18]: /2023/098/a1/embedding/
+[19]: https://classnames.paulrobertlloyd.com
+[20]: /2023/272/a1/classnames/
+[21]: https://bradshaws.guide
+[22]: https://developer.mozilla.org/en-US/docs/Web/API/Web_components
+
+*[DEFRA]: Department for Environment, Food and Rural Affairs
+*[DfE]: Department for Education
+*[III]: three
+*[OG]: original gangster
