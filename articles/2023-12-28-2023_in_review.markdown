@@ -61,7 +61,7 @@ One project that did ship, and in the space of a few hours, was [Classnames][19]
 
 Towards the end of the year, and with one eye on completing Section III, I rebuilt [Bradshaw’s Guide][21]. Untouched in 5 years, this turned out to be an exercise in discovering how much the web has progressed, with numerous hacks and workarounds able to be removed.
 
-Indeed, I’ve spent the last few months refactoring side projects to use [web components][22]. I’ve never been more excited by a web technology since learning about CSS and web standards at the turn of the century. While others choose to market bullshit ‘upgrades’ like web3, OG Web 1.0 – iterated and improved over 30 years – continues to be a brilliantly performant, resilient, accessible and expressive toolset you can use to build delightfully digital things with if treated with respect.
+Indeed, I’ve spent the last few months refactoring side projects to use [web components][22]. I’ve never been more excited by a web technology since learning about CSS and web standards at the turn of the century. While others choose to market bullshit ‘upgrades’ like web3, OG Web 1.0 – iterated and improved over 30 years – continues to be a brilliantly performant, resilient, accessible and expressive toolset you can use to build delightfully digital things with, if treated with respect.
 
 ---
 
