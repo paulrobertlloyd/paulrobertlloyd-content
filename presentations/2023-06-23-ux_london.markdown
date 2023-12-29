@@ -270,7 +270,7 @@ slides:
       For example, I used Russian propaganda posters to commemorate the departure of a user researcher in one patch, and an old Southern Railway poster to mark the many days our policy team had spent on trains travelling the country getting training providers on board.
   - url: /media/2023/174/s1/35.png
     caption: |
-      With teams increasingly work remotely, it’s a good idea to extend the idea of mission patches into the digital realm.
+      With teams increasingly working remotely, it’s a good idea to extend the idea of mission patches into the digital realm.
 
       Alongside stickers, I’ve created corresponding custom emoji to use in Slack – these often proved more popular than the stickers.
   - url: /media/2023/174/s1/36.png
