@@ -1,6 +1,9 @@
 ---
 date: 2023-12-29T11:31:05.463Z
+updated: 2023-12-29T11:33:02.707Z
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111663486237410582
 ---
 
 In a rare case of watching a popular television series, I binged both seasons of [""The Bear""](https://www.imdb.com/title/tt14452776/) over the Christmas break. Everything written about this highly acclaimed show is true. It’s a love letter to Chicago, the hospitality industry and the act of making and serving food. Beautifully staged yet incredibly stressful to watch, while ""Fishes"" is the chaotic high point, ""Forks"" was easily my favourite episode from season 2.
