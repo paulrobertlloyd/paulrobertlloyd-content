@@ -1,0 +1,128 @@
+---
+title: 2023 in numbers
+date: 2023-12-31T14:45:00Z
+location:
+  locality: Bexhill-on-Sea
+  country_name: England
+summary: It’s time to begin, now count it in, five, six, seven, eight.
+accent_color: "#e2a"
+category:
+  - events
+  - formula_1
+  - personal
+  - politics
+  - travel
+  - website
+---
+
+Inspired by statistic-packed year-end summaries from [Jeremy][1] and [Diamond Geezer][2], I thought I’d count a few things myself. As these counts feature varying levels of accuracy, I’m including numbers from previous years to highlight any notable trends.
+
+## Posts
+
+| Year | Articles | Notes | Photos | Total |
+| ---- | -------: | ----: | -----: | ----: |
+| 2023 |       23 |    38 |     50 |   111 |
+| 2022 |       11 |    69 |     32 |   112 |
+| 2021 |        4 |    47 |     77 |   128 |
+| 2020 |       12 |    73 |     79 |   164 |
+| 2019 |       25 |    76 |     30 |   131 |
+
+I almost published the same number of posts this year as last, however they skewed more heavily towards longer form articles than shorter note or photo posts (2019 was the year I experimented with weeknotes, which counted for 19 of that year’s 25 article posts). Hard not to conclude that is a result of my decision to stop syndicating short posts to Twitter.
+
+## Travel
+
+| Year | Countries | Trips | Distance | Carbon |
+| ---- | --------: | ----: | -------: | -----: |
+| 2023 |         6 |    22 |  6439 km | 215 kg |
+| 2022 |         6 |    13 |  8093 km | 263 kg |
+| 2021 |         1 |     4 |  1624 km |  54 kg |
+| 2020 |         8 |     7 |  4166 km | 136 kg |
+| 2019 |         3 |     8 |  5624 km | 184 kg |
+
+I travelled less distance but over more trips, largely due to me visiting more places in the UK this year.
+
+## Events
+
+| Year | Cinema | Other | Total |
+| ---- | -----: | ----: | ----: |
+| 2023 |      5 |    13 |    18 |
+| 2022 |      7 |     9 |    16 |
+| 2021 |      4 |     7 |    11 |
+| 2020 |      3 |     5 |     8 |
+| 2019 |      7 |    13 |    20 |
+
+Fewer trips to the cinema but an increase in other things I went to see. Not mentioned in [my review of the year][3] was an evening at the National Theatre to watch [Dear England][4], a beautiful story about Gareth Southgate and challenging what it means to be an England fan. I also attended a [wild life drawing][5] class at the Brighton Aquarium, which I’d like to do again.
+
+## Commits on GitHub
+
+| Year | Commits |
+| ---- | ------: |
+| 2023 |    4040 |
+| 2022 |    4295 |
+| 2021 |    3050 |
+| 2020 |    3324 |
+| 2019 |    1606 |
+
+A slight dip on the number of [contributions I made][6] this year, but still the second highest number I’ve recorded.
+
+## Activities on Strava
+
+| Year | Walking | Cycling | Running | Swimming |   Total |
+| ---- | ------: | ------: | ------: | -------: | ------: |
+| 2023 |  9h  4m |  0h  0m |  0h  0m |   3h 46m | 12h 50m |
+| 2022 |  8h 32m |  4h  2m |  0h  0m |   6h 21m | 12h 34m |
+| 2021 | 39h  4m | 20h 37m | 19h 50m |   0h  0m | 79h 31m |
+| 2020 |  6h 14m | 13h 40m | 28h 16m |   0h  0m | 48h 10m |
+| 2019 |  0h  0m |  0h  0m |  2h 41m |   0h  0m |  2h 41m |
+
+While a similar total for [the time I spent exercising][7], most of it can be accounted for by [two days spent walking on the South Downs][8]. Must do better.
+
+## Check-ins on Swarm
+
+| Year | Check-ins |
+| ---- | --------: |
+| 2023 |      1008 |
+| 2022 |       941 |
+| 2021 |       785 |
+| 2020 |       623 |
+| 2019 |      1527 |
+
+Still no idea why I check-in to places on [Swarm][9] and yet I did it more this year than last.
+
+## Formula 1
+
+| Year | Races | Winning drivers | Winning constructors |
+| ---- | ----: | --------------: | -------------------: |
+| 2023 |    22 |               3 |                    2 |
+| 2022 |    22 |               5 |                    3 |
+| 2021 |    22 |               5 |                    4 |
+| 2020 |    17 |               5 |                    4 |
+| 2019 |    21 |               5 |                    3 |
+
+I still watch Formula 1, [for some reason][10]. This season was particularly difficult to follow given the result of each race was a foregone conclusion. Were it not for [Carlos Sainz’s smoothly controlled win in Singapore][11], these numbers would be even worse. I’ve got my hopes pinned on McLaren continuing their resurgence next year.
+
+## Prime Ministers
+
+| Year | Holders | Parties |
+| ---- | ------: | ------: |
+| 2023 |       1 |       1 |
+| 2022 |       3 |       1 |
+| 2021 |       1 |       1 |
+| 2020 |       1 |       1 |
+| 2019 |       2 |       1 |
+
+An unusually stable year for Conservative Prime Ministers, with just one holder of the office. Here’s to a 100% increase in both holders of the office and their parties (political, not booze-fuelled) early next year.
+
+Happy New Year!
+
+[1]: https://adactio.com/journal/20750
+[2]: https://diamondgeezer.blogspot.com/2023/12/summing-up-2023.html
+[3]: /2023/362/a1/2023_in_review/
+[4]: https://www.nationaltheatre.org.uk/productions/dear-england/
+[5]: https://wildlifedrawing.eventcube.io
+[6]: https://github.com/paulrobertlloyd
+[7]: https://www.strava.com/athletes/975073
+[8]: /2023/290/a1/south_downs/
+[9]: https://swarmapp.com
+[10]: /2023/336/a2/brawn-gp/
+[11]: https://www.youtube.com/watch?v=Yvq0fxb_mL4
