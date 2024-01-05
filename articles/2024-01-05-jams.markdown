@@ -1,0 +1,126 @@
+---
+title: These are my jams
+date: 2024-01-05T15:30:00Z
+location:
+  locality: Brighton
+  country_name: England
+summary: Want jam, have jam.
+accent_color: "#ffff2e"
+category:
+  - indieweb
+  - music
+  - website
+  - web
+---
+
+Sat in my local coffee shop on Wednesday morning, with Feist’s ""1234"" playing on the radio, I had a sudden melancholy thought: I miss ""This is My Jam"".
+
+[""This is My Jam""][1] was a short-lived social network where users could share a song they were listening to on a given week. I tended to use it to share whatever embarrassing tune was stuck in my head, typically one heard in a television advertisement. But sometimes it was a useful means of expressing myself, subtweeting my feelings without being explicit about them.
+
+The service was shutdown in 2015, but [great care was taken to ensure that all the data was archived][2]. The site can be [browsed on the Wayback Machine][3], while [a dump of anonymised user data][4] was saved to the Internet Archive.
+
+I then had a second thought; I could recreate ""This is My Jam"" on my own website. And [that’s what I’ve done][5].
+
+## Adding jams
+
+The first step I take when adding a new content type is to seek out prior art. The IndieWeb wiki describes a [jam post type][6] inspired by ""This Is My Jam"", whose content starts with the ♫ character followed by a white space character, and then a link to or embed of a music video or audio track.
+
+I’d hoped that having posts with links to YouTube videos would mean my jams would benefit from [the small enhancement I make to YouTube links][7]. Turns out [my custom rule for markdown-it][8] only works if a paragraph starts with and only includes a link; the ♫ prefix breaks this convention.
+
+Then I remembered that [Apple Music][9] allows users to share links to songs on its platform. Instead of linking to music videos on Youtube, maybe I could link to songs on Apple Music instead? Investigating further, I discovered that Apple Music has a good library of music videos, and provides an embed code that supports both songs and videos.
+
+So, I want to save this Markdown:
+
+```markdown
+♫ [""1234"" by Feist](https://music.apple.com/gb/album/1234/1440743123?i=1440743244)
+```
+
+and generate this HTML:
+
+```html
+<iframe src="https://embed.music.apple.com/gb/album/1234/1440743123?i=1440743244" height="175"></iframe>
+```
+
+My first thought was to create a [LiquidJS][10] template filter to perform the transformation. Or maybe I could support another custom rule for markdown-it; a complex and fragile option I was keen to avoid.
+
+Besides increasing the complexity of my templates and potentially increasing build time, both of these options would mean showing an Apple Music embed that, annoyingly and for no good reason, doesn’t work without JavaScript.
+
+Fortunately, there’s a shiny new tool in my toolbox: [web components][11]!
+
+## Displaying jams
+
+I’ve created a new custom element — with the fun name `apple-jam` – that, when used to wrap content containing a link to Apple Music, replaces the link with an Apple Music embed:
+
+```html
+<apple-jam>
+  <p>♫ <a href="https://music.apple.com/gb/album/1234/1440743123?i=1440743244">
+    <cite>1234</cite> by Feist
+  </a></p>
+</apple-jam>
+```
+
+This is the script used to define this custom element:
+
+```js
+class AppleJamElement extends HTMLElement {
+  constructor() {
+    super();
+
+    this.appleMusicLink = this.querySelector(`a[href*="music.apple.com"]`);
+    this.jam = this.appleMusicLink.parentNode;
+  }
+
+  embedCode(href) {
+    const embed = document.createElement("iframe");
+    embed.src = href.replace("music.apple.com", "embed.music.apple.com");
+    embed.height = embed.src.includes("music-video") ? 450 : 175;
+
+    return embed;
+  }
+
+  connectedCallback() {
+    if (this.appleMusicLink) {
+      this.jam.after(this.embedCode(this.appleMusicLink.href));
+      this.jam.remove();
+    }
+  }
+}
+
+customElements.define("apple-jam", AppleJamElement);
+```
+
+This custom element does a few things:
+
+* Finds a link whose `href` attribute includes `music.apple.com`
+* If such a link exists, creates an `iframe` element, with the `src`  value derived from the `href`
+* Increases the height of the `iframe` if the link is to a music video instead of a song
+* Replaces the original link with this `iframe` embed
+
+And if this doesn’t work for whatever reason, the original link remains.
+
+If you don’t have an Apple Music account, you can only play an excerpt of the song or music video. While not great, it works for me and well, this website is for me, not you.
+
+I’m pretty happy with [the result][5]. Once again I can share my atrocious taste in music and/or obliquely express my feelings at a given point in time. It also means I can republish all the posts I’d previously made to ""This Is My Jam"".
+
+This was [another one-day build][12], cobbled together the evening of the day I had a melancholy thought about a dead social network and decided to recreate part of it on my website.
+
+The [year of the personal website][13] continues into 2024.
+
+---
+
+This post is for [Matt’s birthday][14].
+
+[1]: https://indieweb.org/This_Is_My_Jam
+[2]: https://thisismyjam.tumblr.com/post/126260430022/jam-preserves
+[3]: https://web.archive.org/web/20210926084455/https://www.thisismyjam.com/
+[4]: https://archive.org/details/thisismyjam-datadump
+[5]: https://paulrobertlloyd.com/jams/
+[6]: https://indieweb.org/jam
+[7]: /2023/098/a1/embedding/
+[8]: https://github.com/paulrobertlloyd/markdown-it-rules#linked-embeds
+[9]: http://music.apple.com
+[10]: http://liquidjs.com
+[11]: https://developer.mozilla.org/en-US/docs/Web/API/Web_components
+[12]: https://paulrobertlloyd.com/2023/272/a1/classnames/
+[13]: https://matthiasott.com/notes/2024-the-year-of-the-personal-website
+[14]: https://ma.tt/2024/01/birthday-gift/
