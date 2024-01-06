@@ -100,15 +100,15 @@ And if this doesn’t work for whatever reason, the original link remains.
 
 If you don’t have an Apple Music account, you can only play an excerpt of the song or music video. While not great, it works for me and well, this website is for me, not you.
 
-I’m pretty happy with [the result][5]. Once again I can share my atrocious taste in music and/or obliquely express my feelings at a given point in time. It also means I can republish all the posts I’d previously made to ""This Is My Jam"".
+I’m pretty happy with [the result][12]. Once again I can share my atrocious taste in music and/or obliquely express my feelings at a given point in time. It also means I can republish all the posts I’d previously made to ""This Is My Jam"".
 
-This was [another one-day build][12], cobbled together the evening of the day I had a melancholy thought about a dead social network and decided to recreate part of it on my website.
+This was [another one-day build][13], cobbled together the evening of the day I had a melancholy thought about a dead social network and decided to recreate part of it on my website.
 
-The [year of the personal website][13] continues into 2024.
+The [year of the personal website][14] continues into 2024.
 
 ---
 
-This post is for [Matt’s birthday][14].
+This post is for [Matt’s birthday][15].
 
 [1]: https://indieweb.org/This_Is_My_Jam
 [2]: https://thisismyjam.tumblr.com/post/126260430022/jam-preserves
@@ -121,6 +121,7 @@ This post is for [Matt’s birthday][14].
 [9]: http://music.apple.com
 [10]: http://liquidjs.com
 [11]: https://developer.mozilla.org/en-US/docs/Web/API/Web_components
-[12]: https://paulrobertlloyd.com/2023/272/a1/classnames/
-[13]: https://matthiasott.com/notes/2024-the-year-of-the-personal-website
-[14]: https://ma.tt/2024/01/birthday-gift/
+[12]: /2024/004/j1/
+[13]: https://paulrobertlloyd.com/2023/272/a1/classnames/
+[14]: https://matthiasott.com/notes/2024-the-year-of-the-personal-website
+[15]: https://ma.tt/2024/01/birthday-gift/
