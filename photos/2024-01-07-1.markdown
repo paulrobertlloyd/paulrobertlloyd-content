@@ -1,0 +1,12 @@
+---
+date: 2024-01-07T18:55:00.000Z
+photo:
+  - url: /media/2024/007/p1/1.jpg
+    alt: "Illuminated poster with the words ‘Towner Eastbourne: Turner Prize 2023’."
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111716185648609669
+---
+
+Taking my own advice to get out more, visited Eastbourne’s Towner Gallery to see the [Turner Prize exhibition](https://townereastbourne.org.uk/whats-on/turner-prize).
+
+I’m so glad I did. Not so much due to the work on display (although Barbara Walker’s beautiful charcoal drawings of people affected by the Windrush scandal are emotionally powerful and the most accessible of the 4 exhibits), but these environments are always a feast for the senses, awakening bits of my brain dulled by pixels and rectangles.
