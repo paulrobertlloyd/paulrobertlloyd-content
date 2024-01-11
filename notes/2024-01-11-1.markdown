@@ -1,6 +1,9 @@
 ---
 date: 2024-01-11T09:21:14.380Z
+updated: 2024-01-11T09:23:34.582Z
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111736587167742170
 ---
 
 2024 has already got off to a winning start: Pret have started serving their legendary Roasted Tomato and Egg Mayo Baguettes again. Missed you!
