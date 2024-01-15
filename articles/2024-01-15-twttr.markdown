@@ -1,0 +1,26 @@
+---
+title: A brief history of Twitter, in 280 characters
+date: 2024-01-15T23:50:00Z
+location:
+  locality: Brighton
+  country_name: England
+summary: In lieu of flowers.
+accent_color: "#1d9bf0"
+category:
+  - twitter
+---
+
+2006: [twttr](https://techcrunch.com/2006/07/15/is-twttr-interesting/)
+2007: [Twitter](https://www.newsweek.com/twitter-brevity-next-big-thing-98045)
+2008: [Fail Whale](https://www.flickr.com/photos/scriptingnews/2537265280/)
+2009: [Tweetie](https://www.wired.com/2009/10/tweetie-2/)
+2010: [New Twitter](https://www.wired.com/2010/09/take-a-tour-of-the-new-twitter/)
+2011: [Dickbar](https://daringfireball.net/linked/2011/03/06/dickbar)
+2012: [The free speech wing of the free speech party](https://www.theguardian.com/media/2012/mar/22/twitter-tony-wang-free-speech)
+2014: [\#Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign))
+2021: [Hellsite](https://www.newyorker.com/culture/infinite-scroll/twitter-is-already-a-hellscape)
+2022: [Birdsite](https://www.theguardian.com/technology/2022/nov/08/mastodon-what-is-it-how-do-i-join-use-find-best-server-list-change-elon-musk-twitter-leaving-social-network-alternative)
+2023: [X, formally known as Twitter](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)
+2024: [Twitter (sorry, I refuse to call it ‘X’)](https://www.theguardian.com/commentisfree/2024/jan/15/elon-musk-hypocrite-free-speech)
+2026: What is Twitter?
+{style="font-family: ui-monospace, monospace;"}
