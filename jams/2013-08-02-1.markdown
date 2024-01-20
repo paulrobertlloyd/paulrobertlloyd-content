@@ -1,5 +1,8 @@
 ---
 date: 2013-08-02
+jam-of:
+  type: cite
+  name: "Going Home: Theme of the Local Hero"
+  author: Mark Knopfler
+  url: https://music.apple.com/gb/album/going-home-theme-of-the-local-hero/1552699202?i=1552699751
 ---
-
-♫ [""Going Home: Theme of the Local Hero"" by Mark Knopfler](https://music.apple.com/gb/album/going-home-theme-of-the-local-hero/1552699202?i=1552699751)

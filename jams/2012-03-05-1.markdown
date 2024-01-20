@@ -1,5 +1,8 @@
 ---
 date: 2012-03-05
+jam-of:
+  type: cite
+  name: We Have All The Time In The World
+  author: Louis Armstrong
+  url: https://music.apple.com/gb/album/we-have-all-the-time-in-the-world-feat-the/734882398?i=734882401
 ---
-
-♫ [""We Have All The Time In The World"" by Louis Armstrong](https://music.apple.com/gb/album/we-have-all-the-time-in-the-world-feat-the/734882398?i=734882401)

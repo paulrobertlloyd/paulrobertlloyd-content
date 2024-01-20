@@ -1,5 +1,8 @@
 ---
 date: 2013-02-19
+jam-of:
+  type: cite
+  name: Under Pressure
+  author: Queen
+  url: https://music.apple.com/gb/music-video/under-pressure-feat-david-bowie-closed-captioned/1441458029
 ---
-
-♫ [""Under Pressure"" by Queen](https://music.apple.com/gb/music-video/under-pressure-feat-david-bowie-closed-captioned/1441458029)

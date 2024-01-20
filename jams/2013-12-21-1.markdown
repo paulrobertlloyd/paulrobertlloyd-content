@@ -1,8 +1,11 @@
 ---
 date: 2013-12-21
+jam-of:
+  type: cite
+  name: "Giraffes #1"
+  author: Chris T-T
+  url: https://music.apple.com/gb/album/giraffes-1/315527226?i=315528162
 ---
-
-♫ [""Giraffes #1"" by Chris T-T](https://music.apple.com/gb/album/giraffes-1/315527226?i=315528162)
 
 1. Stick your neck out
 2. Stand up taller

@@ -1,5 +1,8 @@
 ---
 date: 2012-11-07
+jam-of:
+  type: cite
+  name: Skyfall
+  author: Adele
+  url: https://music.apple.com/gb/album/skyfall/566322358?i=566322365
 ---
-
-♫ [""Skyfall"" by Adele](https://music.apple.com/gb/album/skyfall/566322358?i=566322365)

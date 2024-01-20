@@ -1,5 +1,8 @@
 ---
 date: 2012-04-10
+jam-of:
+  type: cite
+  name: Am I Just a Man
+  author: Steve Mason
+  url: https://music.apple.com/gb/music-video/am-i-just-a-man/395905449
 ---
-
-♫ [""Am I Just a Man"" by Steve Mason](https://music.apple.com/gb/music-video/am-i-just-a-man/395905449)

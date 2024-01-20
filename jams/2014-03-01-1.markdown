@@ -1,5 +1,8 @@
 ---
 date: 2014-03-01
+jam-of:
+  type: cite
+  name: Africa
+  author: Toto
+  url: https://music.apple.com/gb/music-video/africa/1507570784
 ---
-
-♫ [""Africa"" by Toto](https://music.apple.com/gb/music-video/africa/1507570784)

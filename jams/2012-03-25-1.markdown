@@ -1,7 +1,10 @@
 ---
 date: 2012-03-25
+jam-of:
+  type: cite
+  name: Mylo Xyloto/Hurts Like Heaven
+  author: Coldplay
+  url: https://music.apple.com/gb/album/hurts-like-heaven/726372830?i=726373144
 ---
-
-♫ [""Mylo Xyloto/Hurts Like Heaven"" by Coldplay](https://music.apple.com/gb/album/hurts-like-heaven/726372830?i=726373144)
 
 Current status.

@@ -1,5 +1,8 @@
 ---
 date: 2014-03-03
+jam-of:
+  type: cite
+  name: Down Under
+  author: Men at Work
+  url: https://music.apple.com/gb/music-video/down-under/1366601402
 ---
-
-♫ [""Down Under"" by Men at Work](https://music.apple.com/gb/music-video/down-under/1366601402)

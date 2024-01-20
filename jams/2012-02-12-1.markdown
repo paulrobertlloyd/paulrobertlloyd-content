@@ -1,7 +1,10 @@
 ---
 date: 2012-02-12
+jam-of:
+  type: cite
+  name: Wanna Dance With Somebody
+  author: Whitney Houston
+  url: https://music.apple.com/gb/music-video/i-wanna-dance-with-somebody/278338689
 ---
-
-♫ [""Wanna Dance With Somebody"" by Whitney Houston](https://music.apple.com/gb/music-video/i-wanna-dance-with-somebody/278338689)
 
 R.I.P.

@@ -1,5 +1,8 @@
 ---
 date: 2012-04-17
+jam-of:
+  type: cite
+  name: Rust
+  author: Echo & the Bunnymen
+  url: https://music.apple.com/gb/album/rust/1313944431?i=1313944433
 ---
-
-♫ [""Rust"" by Echo & the Bunnymen](https://music.apple.com/gb/album/rust/1313944431?i=1313944433)

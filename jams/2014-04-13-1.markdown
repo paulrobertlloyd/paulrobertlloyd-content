@@ -1,5 +1,8 @@
 ---
 date: 2014-04-13
+jam-of:
+  type: cite
+  name: Stardust
+  author: Lena
+  url: https://music.apple.com/gb/music-video/stardust/1445697726
 ---
-
-♫ [""Stardust"" by Lena](https://music.apple.com/gb/music-video/stardust/1445697726)

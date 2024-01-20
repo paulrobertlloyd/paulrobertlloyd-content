@@ -1,5 +1,8 @@
 ---
 date: 2011-12-15
+jam-of:
+  type: cite
+  name: In These Arms
+  author: Bon Jovi
+  url: https://music.apple.com/gb/album/in-these-arms/1440826842?i=1440826866
 ---
-
-♫ [""In These Arms"" by Bon Jovi](https://music.apple.com/gb/album/in-these-arms/1440826842?i=1440826866)

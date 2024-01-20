@@ -1,5 +1,8 @@
 ---
 date: 2012-04-29
+jam-of:
+  type: cite
+  name: Afternoon Delight
+  author: Will Ferrell
+  url: https://www.youtube.com/watch?v=4a0ONX7nbm4
 ---
-
-♫ [""Afternoon Delight"" by Will Ferrell](https://www.youtube.com/watch?v=4a0ONX7nbm4)

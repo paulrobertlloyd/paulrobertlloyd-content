@@ -1,5 +1,8 @@
 ---
 date: 2012-06-09
+jam-of:
+  type: cite
+  name: Jive Talkin’
+  author: Bee Gees
+  url: https://music.apple.com/gb/music-video/jive-talkin/1445849368
 ---
-
-♫ [""Jive Talkin’"" by Bee Gees](https://music.apple.com/gb/music-video/jive-talkin/1445849368)

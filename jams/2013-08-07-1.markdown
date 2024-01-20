@@ -1,5 +1,8 @@
 ---
 date: 2013-08-07
+jam-of:
+  type: cite
+  name: Cuddly Toy
+  author: Roachford
+  url: https://music.apple.com/gb/album/cuddly-toy/289538023?i=289538042
 ---
-
-♫ [""Cuddly Toy"" by Roachford](https://music.apple.com/gb/album/cuddly-toy/289538023?i=289538042)

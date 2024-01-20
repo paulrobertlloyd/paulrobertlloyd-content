@@ -1,5 +1,8 @@
 ---
 date: 2014-08-04
+jam-of:
+  type: cite
+  name: Bonfire Heart
+  author: James Blunt
+  url: https://music.apple.com/gb/music-video/bonfire-heart/695943896
 ---
-
-♫ [""Bonfire Heart"" by James Blunt](https://music.apple.com/gb/music-video/bonfire-heart/695943896)

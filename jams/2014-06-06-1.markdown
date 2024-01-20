@@ -1,5 +1,8 @@
 ---
 date: 2014-06-06
+jam-of:
+  type: cite
+  name: Magic
+  author: Coldplay
+  url: https://music.apple.com/gb/music-video/magic/858103341
 ---
-
-♫ [""Magic"" by Coldplay](https://music.apple.com/gb/music-video/magic/858103341)

@@ -1,5 +1,8 @@
 ---
 date: 2012-02-04
+jam-of:
+  type: cite
+  name: The Living Daylights
+  author: A-ha
+  url: https://music.apple.com/gb/album/the-living-daylights-2016-remastered/1087628947?i=1087629584
 ---
-
-♫ [""The Living Daylights"" by A-ha](https://music.apple.com/gb/album/the-living-daylights-2016-remastered/1087628947?i=1087629584)

@@ -1,5 +1,8 @@
 ---
 date: 2012-11-19
+jam-of:
+  type: cite
+  name: We Are Young (feat. Janelle Monáe)
+  author: Fun
+  url: https://music.apple.com/gb/music-video/we-are-young-feat-janelle-mon%C3%A1e/491621195
 ---
-
-♫ [""We Are Young"" (feat. Janelle Monáe) by Fun](https://music.apple.com/gb/music-video/we-are-young-feat-janelle-mon%C3%A1e/491621195)

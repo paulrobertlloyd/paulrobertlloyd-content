@@ -1,7 +1,10 @@
 ---
 date: 2012-11-27
+jam-of:
+  type: cite
+  name: Always, No. 1
+  author: Alistair Griffin
+  url: https://music.apple.com/gb/album/always-no-1/1457980698?i=1457980995
 ---
-
-♫ [""Always, No. 1"" by Alistair Griffin](https://music.apple.com/gb/album/always-no-1/1457980698?i=1457980995)
 
 As featured in the BBC F1 2012 closing montage.

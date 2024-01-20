@@ -1,5 +1,8 @@
 ---
 date: 2012-02-15
+jam-of:
+  type: cite
+  name: Short Skirt/Long Jacket
+  author: Cake
+  url: https://music.apple.com/gb/music-video/short-skirt-long-jacket/327412070
 ---
-
-♫ [""Short Skirt/Long Jacket"" by Cake](https://music.apple.com/gb/music-video/short-skirt-long-jacket/327412070)

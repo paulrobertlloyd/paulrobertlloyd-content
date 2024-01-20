@@ -1,5 +1,8 @@
 ---
 date: 2012-08-01
+jam-of:
+  type: cite
+  name: First Steps
+  author: Elbow
+  url: https://www.youtube.com/watch?v=kj3_3vvHDwE
 ---
-
-♫ [""First Steps"" by Elbow](https://www.youtube.com/watch?v=kj3_3vvHDwE)

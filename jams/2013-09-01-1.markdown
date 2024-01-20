@@ -1,5 +1,8 @@
 ---
 date: 2013-09-01
+jam-of:
+  type: cite
+  name: White Nights
+  author: Oh Land
+  url: https://music.apple.com/gb/music-video/white-nights/455654772
 ---
-
-♫ [""White Nights"" by Oh Land](https://music.apple.com/gb/music-video/white-nights/455654772)

@@ -1,5 +1,8 @@
 ---
 date: 2012-02-21
+jam-of:
+  type: cite
+  name: Annie, Let’s Not Wait
+  author: Guillemots
+  url: https://music.apple.com/gb/music-video/annie-lets-not-wait/1445685353
 ---
-
-♫ [""Annie, Let’s Not Wait"" by Guillemots](https://music.apple.com/gb/music-video/annie-lets-not-wait/1445685353)

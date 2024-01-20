@@ -1,7 +1,10 @@
 ---
 date: 2013-02-12
+jam-of:
+  type: cite
+  name: Never Tear Us Apart
+  author: Paloma Faith
+  url: https://music.apple.com/gb/music-video/never-tear-us-apart/569643132
 ---
-
-♫ [""Never Tear Us Apart"" by Paloma Faith](https://music.apple.com/gb/music-video/never-tear-us-apart/569643132)
 
 Continuing the long tradition of posting songs what I ’eard of the tellybox.

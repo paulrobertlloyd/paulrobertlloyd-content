@@ -1,5 +1,8 @@
 ---
 date: 2012-04-02
+jam-of:
+  type: cite
+  name: Bright Lights
+  author: Matchbox Twenty
+  url: https://music.apple.com/gb/album/bright-lights/580697906?i=580698090
 ---
-
-♫ [""Bright Lights"" by Matchbox Twenty](https://music.apple.com/gb/album/bright-lights/580697906?i=580698090)

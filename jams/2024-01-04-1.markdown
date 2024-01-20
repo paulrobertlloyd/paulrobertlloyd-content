@@ -1,5 +1,8 @@
 ---
 date: 2024-01-04T01:30:00Z
+jam-of:
+  type: cite
+  name: Love Story (Taylor’s Version)
+  author: Taylor Swift
+  url: https://music.apple.com/gb/album/love-story-taylors-version/1552791073?i=1552791427
 ---
-
-♫ [""Love Story (Taylor’s Version)"" by Taylor Swift](https://music.apple.com/gb/album/love-story-taylors-version/1552791073?i=1552791427)

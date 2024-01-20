@@ -1,5 +1,8 @@
 ---
 date: 2012-07-26
+jam-of:
+  type: cite
+  name: Rocky Ground
+  author: Bruce Springsteen
+  url: https://music.apple.com/gb/album/rocky-ground/507103631?i=507103644
 ---
-
-♫ [""Rocky Ground"" by Bruce Springsteen](https://music.apple.com/gb/album/rocky-ground/507103631?i=507103644)

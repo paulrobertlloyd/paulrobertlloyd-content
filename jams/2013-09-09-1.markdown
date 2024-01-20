@@ -1,5 +1,8 @@
 ---
 date: 2013-09-09
+jam-of:
+  type: cite
+  name: Show Me the Wonder
+  author: Manic Street Preachers
+  url: https://music.apple.com/gb/music-video/show-me-the-wonder/680158690
 ---
-
-♫ [""Show Me the Wonder"" by Manic Street Preachers](https://music.apple.com/gb/music-video/show-me-the-wonder/680158690)

@@ -1,5 +1,8 @@
 ---
 date: 2014-07-30
+jam-of:
+  type: cite
+  name: I’m On My Way
+  author: The Proclaimers
+  url: https://music.apple.com/gb/music-video/im-on-my-way/1061821607
 ---
-
-♫ [""I’m On My Way"" by The Proclaimers](https://music.apple.com/gb/music-video/im-on-my-way/1061821607)
