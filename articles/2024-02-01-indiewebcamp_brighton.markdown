@@ -20,9 +20,9 @@ tags:
 ![Illustration of a light grey laptop covered in IndieWeb-related stickers.](/media/2024/032/a1/image.png)
 {.align-bleed}
 
-Is 2024 the year of the personal website? Perhaps it’ll prove to be the year of the federated social web? Maybe a resurgence in RSS? One thing’s for sure, after more than a decade of consolidation, [the Internet is about to get weird again][1]. The perfect moment then, to bring IndieWebCamp back to Brighton on [the weekend of 9 and 10 March][2].
+Is 2024 the year of the personal website? Perhaps it’ll see the federated social web go mainstream. Maybe a resurgence in RSS? One thing’s for sure, after more than a decade of consolidation, [the Internet is about to get weird again][1]. The perfect moment then, to bring IndieWebCamp back to Brighton on [the weekend of 9 and 10 March][2].
 
-A lot has changed since [the last camp held here in 2019][3]. There’s an increasing interest in alternative approaches to social media, as well as the threat of misinformation and inauthentic content being generated (and regurgitated) at awesome scale. And yet, some things haven’t changed, with incumbents continuing to mistreat users, giving scant regard to their privacy or safety.
+A lot has changed since [the last camp was held here in 2019][3]. There’s a growing interest in alternative approaches to social media, but also the threat of misinformation and inauthentic content being generated (and regurgitated) at awesome scale. And yet, some things haven’t changed, with incumbents continuing to mistreat users, giving scant regard to their privacy or safety.
 
 IndieWebCamps are a wonderful opportunity to learn about how you can take back control of your content and online identity, and discuss new ideas for doing so with fellow citizens of the World Wide Web. Importantly, they are a combination of learning and making, turning theory into practice – and everyone’s invited.
 
