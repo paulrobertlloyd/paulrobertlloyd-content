@@ -1,6 +1,9 @@
 ---
 date: 2024-02-07T14:38:23.997Z
+updated: 2024-02-07T14:40:17.180Z
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111890714885363292
 ---
 
 Formula 1 car liveries in 2024: you can have any colour, as long as it’s black.
