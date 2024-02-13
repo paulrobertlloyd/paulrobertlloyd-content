@@ -1,6 +1,9 @@
 ---
 date: 2024-02-13T11:32:10.046Z
+updated: 2024-02-13T11:34:13.893Z
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/111923957150668607
 ---
 
 Tony Robinson single handily ruined/improved this one day each year, as I can never get through it without singing “it’s Pancake Day, yes it’s Pancake Day, it’s p-p-p-p-p-p-Pancake Day”.
