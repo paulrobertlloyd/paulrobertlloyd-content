@@ -1,0 +1,10 @@
+---
+date: 2024-02-26T21:40:00Z
+jam-of:
+  type: cite
+  name: The Power of Love
+  author: Frankie Goes to Hollywood
+  url: https://music.apple.com/gb/music-video/the-power-of-love/1364466963
+---
+
+Still feeling haunted by ""All of Us Strangers"".
