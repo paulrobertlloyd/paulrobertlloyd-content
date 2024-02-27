@@ -1,0 +1,10 @@
+---
+date: 2024-02-27T14:20:00.000Z
+photo:
+  - url: /media/2024/058/p1/1.jpg
+    alt: "Small coloured pin badges for different pronouns sit on a stack of blank lanyards with the IndieWebCamp logo on them."
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112003881906337164
+---
+
+IndieWebCamp Brighton is so close I can almost taste it. A handful of tickets remain, so [grab yours today](https://ti.to/indiewebcamp/brighton-2024)!
