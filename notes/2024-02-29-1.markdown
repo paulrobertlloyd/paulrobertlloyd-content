@@ -1,6 +1,9 @@
 ---
 date: 2024-02-29T10:03:52.619Z
+updated: 2024-02-29T10:06:41.536Z
 visibility: public
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112014209917167004
 ---
 
 I have great admiration for those who believe they can conduct a phone call while travelling on the Brighton Main Line. I gave up on that idea years ago… wait, tunnel!
