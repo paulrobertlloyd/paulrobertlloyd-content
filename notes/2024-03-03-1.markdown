@@ -1,5 +1,8 @@
 ---
 date: 2024-03-03T20:22:44.406Z
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112033627870847676
+updated: 2024-03-03T20:24:56.058Z
 ---
 
 Pushed the button and shipped [the first update to Indiekit of 2024](https://github.com/getindiekit/indiekit/releases/tag/v1.0.0-beta.8). Introduces post type plug-ins as well as improvements to the first run experience and documentation. Also, now available in Swedish!
