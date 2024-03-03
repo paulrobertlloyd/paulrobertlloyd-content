@@ -1,0 +1,10 @@
+---
+start: 2024-03-13
+itinerary:
+  - label: London Euston (EUS)
+    locality: London
+    country_name: England
+  - label: Inverness (INV)
+    locality: Inverness
+    country_name: Scotland
+---

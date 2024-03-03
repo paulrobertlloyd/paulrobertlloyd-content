@@ -1,0 +1,13 @@
+---
+start: 2024-06-02
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Amsterdam Centraal
+    locality: Amsterdam
+    country_name: Netherlands
+---
