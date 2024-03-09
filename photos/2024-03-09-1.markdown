@@ -1,0 +1,10 @@
+---
+date: 2024-03-09T21:30:00.000Z
+photo:
+  - url: /media/2024/069/p1/1.jpg
+    alt: "26 people gathered outside a building smiling for a group photo in the sun."
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112067859754829665
+---
+
+Completely overwhelmed by day 1 of IndieWebCamp Brighton. Amazing turnout, of mostly first-time attendees, engaged in diverse discussions that examined subjects like how to memorialise a personal website after death and sharing pain points of hosting, writing and syndicating content online. Clearly there’s an appetite for the indie web, and for making it more accessible, too.
