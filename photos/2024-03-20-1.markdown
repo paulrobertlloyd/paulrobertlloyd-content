@@ -1,0 +1,16 @@
+---
+date: 2024-03-20T21:00:00.000Z
+photo:
+  - url: /media/2024/080/p1/1.jpg
+    alt: "View across the River Ness at low tide, with 4 church spires reflected in the water."
+  - url: /media/2024/080/p1/2.jpg
+    alt: "The front of Inverness Cathedral, set back from a street with a Victorian terraced house in the foreground."
+  - url: /media/2024/080/p1/3.jpg
+    alt: "A two-carriage train sits at a station, in a scene dominated by the rugged hillside in the background."
+  - url: /media/2024/080/p1/4.jpg
+    alt: "A large concrete suspension bridge in the distance, with rocky shoreline in the foreground."
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112130041750626307
+---
+
+Back on the Caledonian Sleeper after spending a relaxing week in Inverness. I’ve thoroughly enjoyed exploring this small part of the Scottish Highlands, especially this splendid city.
