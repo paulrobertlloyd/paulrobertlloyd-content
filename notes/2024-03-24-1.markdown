@@ -1,5 +1,8 @@
 ---
 date: 2024-03-24T12:14:59.093Z
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112150619047019608
+updated: 2024-03-24T12:17:19.641Z
 ---
 
 Happy Max DNF day, to those who celebrate.
