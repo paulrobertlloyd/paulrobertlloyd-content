@@ -1,0 +1,10 @@
+---
+date: 2024-03-28T22:55:00.000Z
+photo:
+  - url: /media/2024/088/p1/1.jpg
+    alt: "A small grey puppy curled up on a white blanket. A hand can be seen stroking their back while their big eyes look straight at the camera."
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112175779207274235
+---
+
+Spent too little time with a litter of grey Staffies this morning, thanks to the brilliant team at [Paws in Work](https://www.pawsinwork.com). Sadly, I wasn’t able to sneak one away in my coat pocket, but there’s always next time!
