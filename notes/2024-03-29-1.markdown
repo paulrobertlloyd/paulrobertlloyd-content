@@ -1,5 +1,8 @@
 ---
 date: 2024-03-29T12:49:19.917Z
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112179064361423080
+updated: 2024-03-29T12:51:24.068Z
 ---
 
 The best designers of my generation are thinking about how to make buttons look the same as other buttons. That sucks.
