@@ -1,0 +1,14 @@
+---
+date: 2024-04-01T23:45:00.000+01:00
+photo:
+  - url: /media/2024/092/p1/1.jpg
+    alt: "A rocking seat in a play area. Shaped like a white cow, it’s sat on a bright orange spring, with the cow’s eyes looking to the right."
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112198393423596155
+---
+
+Micro.blog is running [another 30-day photo challenge](https://challenges.micro.blog/2024/03/27/april-photoblogging-challenge.html), and I’m taking part!
+
+The prompt for day 1 is **toy**. I spotted this rocking seat in a small play area near my parent’s house.
