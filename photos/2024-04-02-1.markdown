@@ -1,0 +1,12 @@
+---
+date: 2024-04-02T21:00:00.000+01:00
+photo:
+  - url: /media/2024/093/p1/1.jpg
+    alt: "Close up of a pink flower with a large number of layered petals."
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112203399386019572
+---
+
+These beautiful Camellia **flowers** grow in my parent’s garden, and I could take photos of them all day long.
