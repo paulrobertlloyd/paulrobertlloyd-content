@@ -1,0 +1,12 @@
+---
+date: 2024-04-03T22:12:00.000+01:00
+photo:
+  - url: /media/2024/094/p1/1.jpg
+    alt: "A poll card, partially hidden by the envelope it came in. It shows an election date of Thursday 2 May 2024."
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112209345802030107
+---
+
+My poll **card** for a forthcoming election has arrived – though sadly not for the general election this country is crying out for.
