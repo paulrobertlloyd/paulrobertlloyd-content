@@ -1,0 +1,12 @@
+---
+date: 2024-04-04T21:40:00.000+01:00
+photo:
+  - url: /media/2024/095/p1/1.jpg
+    alt: "Close up of pink tree blossom."
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112214886206861698
+---
+
+In terms of **foliage**, which is the most picturesque season, spring or autumn? Tough call!
