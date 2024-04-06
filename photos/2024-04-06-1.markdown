@@ -1,0 +1,12 @@
+---
+date: 2024-04-06T19:00:00.000+01:00
+photo:
+  - url: /media/2024/097/p1/1.jpg
+    alt: "A large brown windmill set again an early evening sky."
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112225591303480578
+---
+
+It’s not very **windy** in Brighton today, so here’s a photo of Rottingdean Windmill taken in May 2011.
