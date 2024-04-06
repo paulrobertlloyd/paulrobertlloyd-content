@@ -1,0 +1,12 @@
+---
+date: 2024-04-05T22:30:00.000+01:00
+photo:
+  - url: /media/2024/096/p1/1.jpg
+    alt: "Empty blue and white picnic benches lined up in 3 rows alongside the edge of a pebble beach. 2 seagulls are inspecting the area."
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112221480638248265
+---
+
+Without the good weather to draw in the crowds, Brighton beach can be eerily **serene**.
