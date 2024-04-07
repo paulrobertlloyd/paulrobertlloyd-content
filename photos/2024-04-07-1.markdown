@@ -1,0 +1,12 @@
+---
+date: 2024-04-07T23:00:00.000+01:00
+photo:
+  - url: /media/2024/098/p1/1.jpg
+    alt: "A woman in a yellow and pink vest running past spectators lining the side of the road."
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112232190122421950
+---
+
+Today’s prompt, **well-being**, neatly coincided with the running of this year’s Brighton Marathon. An opportunity to photograph moving subjects, and there’s lots I need to learn here. However, of all the photos I captured, this one stood out the most, perhaps because of the composition.
