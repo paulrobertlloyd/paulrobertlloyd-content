@@ -1,0 +1,12 @@
+---
+date: 2024-04-08T23:20:00.000+01:00
+photo:
+  - url: /media/2024/099/p1/1.jpg
+    alt: "A no entry sign reflected in a puddle. In the background, a row of terraced houses."
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112237942539851824
+---
+
+For today’s prompt, **prevention**, a quick dash round the neighbourhood to find an appropriate street sign. A recent shower meant there were plenty of opportunities to try something arty.
