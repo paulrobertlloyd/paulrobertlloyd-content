@@ -1,0 +1,12 @@
+---
+date: 2024-04-09T21:11:00.000+01:00
+photo:
+  - url: /media/2024/100/p1/1.jpg
+    alt: "Close up of the inside folds of an iceberg lettuce."
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+- https://mastodon.social/@paulrobertlloyd/112243079053164653
+---
+
+Did I buy an iceberg lettuce just to photograph something **crispy**? No comment.
