@@ -3,9 +3,10 @@ date: 2024-04-10T22:43:07.442+01:00
 photo:
   - url: /media/2024/101/p1/1.jpg
     alt: Close up of a train buffer, alongside the number 737.
+tags:
+  - photoblogging_challenge_april_2024
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112249129299864536
-updated: 2024-04-10T22:49:46.731+01:00
 ---
 
 With today’s prompt being **train**, another photo from the archives, this time from a trip to the National Railway Museum in July 2013.
