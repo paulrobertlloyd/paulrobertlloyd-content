@@ -1,0 +1,12 @@
+---
+date: 2024-04-11T22:30:00.000+01:00
+photo:
+  - url: /media/2024/102/p2/1.jpg
+    alt: A series of skyscrapers bunched closely together, their windows reflecting various shades of blue.
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112254729753509963
+---
+
+I headed to the river after work and found myself taking photos of the unsightly and growing clutch of tall buildings in the city that are trying to touch the **sky**.
