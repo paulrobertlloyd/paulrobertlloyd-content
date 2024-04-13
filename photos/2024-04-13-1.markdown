@@ -1,0 +1,14 @@
+---
+date: 2024-04-13T22:30:00.000+01:00
+photo:
+  - url: /media/2024/104/p1/1.jpg
+    alt: A discarded newspaper in amongst other paper recycling, the front page of which has the headline ‘The Man Who Would Have Led Britain’.
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112266041117294892
+---
+
+I took this photo during last September’s photo challenge, and today’s prompt is the perfect time to share it.
+
+Somebody held on to this historic edition of ""The Independent"" – whose front **page** covered the death of Labour Party leader, John Smith in May 1994 – only to throw it away 30 years later.
