@@ -1,0 +1,12 @@
+---
+date: 2024-04-14T23:40:00.000+01:00
+photo:
+  - url: /media/2024/105/p1/1.jpg
+    alt: Close up of a cactus covered in many thousands of fine, spiky hairs.
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112271981533498537
+---
+
+Today’s prompt is **cactus**. Hey, I have one of those!
