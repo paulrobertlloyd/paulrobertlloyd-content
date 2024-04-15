@@ -1,0 +1,12 @@
+---
+date: 2024-04-15T23:00:00.000+01:00
+photo:
+  - url: /media/2024/106/p1/1.jpg
+    alt: A Lego model of a blue television van. A camera operator mini-fig is stood in front of the van with his camera.
+tags:
+  - photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112277488060892718
+---
+
+Something **small** that I’ve owned since _I was small_.
