@@ -1,21 +1,20 @@
 ---
 date: 2024-04-16T12:07:35.111+01:00
 title: The state of Indiekit
-excerpt: A quick progress update covering what’s recently been added, what’s still missing and my longer term ambitions for the project.
-image: markdown_editor.png
-tags: featured
+summary: A quick progress update covering what’s recently been added, what’s still missing and my longer term ambitions for the project.
 category:
   - projects
   - indiekit
   - indieweb
+tags:
+  - featured
 location:
   type: adr
   locality: Brighton
   country_name: England
-accent_color: "#7b2cd6"
+accent_color: "#60c"
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112280596458556654
-updated: 2024-04-16T12:12:17.754+01:00
 ---
 
 > This project will be a marathon, not a sprint.
