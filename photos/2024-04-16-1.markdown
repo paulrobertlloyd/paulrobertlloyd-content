@@ -1,12 +1,12 @@
 ---
-date: 2024-04-16T20:34:43.026+01:00
+date: 2024-04-16T18:34:00.000+01:00
 photo:
   - url: /media/2024/107/p1/1.jpg
-    alt: Reflection of myself taking a photo in a window. Part of the image is obscured by a round lamp inside the building. Two blurred people walking behind me.
+    alt: Reflection of myself taking a photo in a window. Part of the image is obscured by a round lamp inside the building. Two blurred people are walking behind me.
 tags: photoblogging_challenge_april_2024
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112282581755115374
-updated: 2024-04-16T20:37:10.860+01:00
+updated: 2024-04-16T20:38:45.273+01:00
 ---
 
 Today I learned that a **flâneur** is ‘someone who walks around not doing anything in particular but watching people and society’. Hi!
