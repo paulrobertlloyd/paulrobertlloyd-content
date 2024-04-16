@@ -13,6 +13,9 @@ location:
   locality: Brighton
   country_name: England
 accent_color: "#7b2cd6"
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112280596458556654
+updated: 2024-04-16T12:12:17.754+01:00
 ---
 
 > This project will be a marathon, not a sprint.
