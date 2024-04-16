@@ -1,0 +1,134 @@
+---
+date: 2024-04-16T12:07:35.111+01:00
+title: The state of Indiekit
+excerpt: A quick progress update covering what’s recently been added, what’s still missing and my longer term ambitions for the project.
+image: markdown_editor.png
+tags: featured
+category:
+  - projects
+  - indiekit
+  - indieweb
+location:
+  type: adr
+  locality: Brighton
+  country_name: England
+accent_color: "#7b2cd6"
+---
+
+> This project will be a marathon, not a sprint.
+
+Those were my words when [I first mentioned building a Micropub server][1] in February 2019. 5 years later, these words have never been truer.
+
+That Micropub server became [Indiekit][2], a Node.js application that aims to provide all the parts needed to publish content to a staticlly-generated website and then share it on social media.
+
+It’s been a while since I [formally announced the project in December 2022][3], so I thought I’d provide a progress report covering what’s been added, what’s still missing and my longer term ambitions.
+
+## New features
+
+Aside from fixing a good number of bugs, I’ve added the following features:
+
+- The ability to [add post types via plug-ins][4]
+- The ability to upload and add media items to posts
+- A Markdown editor with a full screen interface and auto save
+- A service worker with enhanced support for progressive web apps
+- An S3-compatible content store plug-in
+- A publication preset plug-in for Eleventy
+- Swedish, Latin American Spanish and simplified Chinese localisations
+
+There’s been a good deal of polish to the content management interface, plus improvements to the onboarding experience and overall robustness of the application. I also updated the 600+ tests to use Node’s native test runner instead of AVA.
+
+The project is reasonably well documented, both within the code and outside of it. Whenever I return to the project, I’m able to pick up from where I left off and, importantly, not feel like I need to rip everything apart and start again.
+
+I’m really happy and proud with what I’ve built so far.
+
+![Screenshot of the Markdown editing interface in full screen mode.](/media/2024/107/a1/markdown_editor.png#screenshot)
+{.align-bleed}
+
+## The perpetual beta
+
+If there’s one thing I’ve learnt during the development of this project, it’s that I’m bad at version numbering. My hesitancy to call anything ‘done’ means that, over [66 individual releases][5], I’ve published the following versions:
+
+- `v0.0.1`
+- `v0.0.2`
+- `v0.0.3`
+- `v0.1.0.alpha.x` (23 releases)
+- `v0.1.0.beta.x` (5 releases)
+- `v0.2.0`
+- `v0.3.0`
+- `v1.0.0.alpha.x` (19 releases)
+- `v1.0.0.beta.x` (15 releases)
+
+Maybe this is fine, but it’s clear that I like the comfort of alpha and beta releases which allow me to make breaking changes.
+
+When will v1.0.0 be released? Well, there are a few gnarly issues that are preventing me from calling it done.
+
+- ### Syncing with content stores
+
+    This issue is firmly within the realm of fundamental architectural constraint. Indiekit saves posts to a database as well as writing files to a content store. This allows deleted posts to be restored later, and makes it easier to update posts without parsing files where data may have gone missing.
+
+    However, it also means there are 2 separate stores of data. In most cases, this is not a problem. However, should you create a post and the content store returns an error, the post in the database will not reflect the unpublished state of the post in the content store (and therefore your website).
+
+    I think the solution is to have posts remain in a pending state until the content store has confirmed that the file has been published. Sounds simple, but last time I tried to tackle this, I had to take a break from the project.
+
+- ### Syndicating content to social networks
+
+    I originally created syndicator plug-ins for the Internet Archive, Mastodon and Twitter. I removed the Twitter syndicator in Beta 5 (I don’t need to explain why) while the Internet Archive syndicator can cause Indiekit’s syndication endpoint to time out. That means in effect, there is only one usable syndicator at present. And even that one can end up creating duplicate posts on Mastodon.
+
+    This is another hairy architectural challenge, the sort that makes me question the decision to build my own software. A complete rethink is needed – and partly the reason why I’ve not written plug-ins for other social networks yet.
+
+    I’ve been toying with the idea of adding an event model to Indiekit. This would allow syndicators (and possibly other plug-ins) to hook into certain points of the publishing flow.
+
+    The speed in which a syndicator can return a URL to its syndicated copy would dictate which event they should hook into.
+
+    For example, the Mastodon syndicator could respond to a `publish.before` event, syndicate a post, append the returned URL to post data prior to this being sent on to the content store. Meanwhile, the Internet Archive syndicator could respond to a `publish.after` event, where it would query the Internet Archive API and only update a post once an archived URL had been created.
+
+    I’d also like syndicators to provide equivalent methods when a post is updated or deleted. This would allow syndicated copies to remain in sync with content published to a website.
+
+- ### An independent Micropub client
+
+    One of the most intriguing aspects of Micropub is that it allows you to manage content on your website using different clients.
+
+    While any Micropub client can post to an Indiekit-powered website, it’s not possible for Indiekit to publish to other websites in the same way. It should be possible, for example, to post to a Micro.blog-hosted blog using your Indiekit server.
+
+    There are a few changes I need to make to enable this. Firstly, Indiekit’s authentication endpoint needs the ability to perform endpoint discovery, and the posts endpoint needs to query a website’s Micropub endpoint to know which post types it supports.
+
+- ### Documentation and tutorials
+
+    While I’ve tried to provide adequate documentation, it’s written from the perspective of someone who knows far too much about the project! [Helping Ana set up Indiekit at IndieWebCamp][6] last month really highlighted how badly placed I am to write useful documentation about how to get started.
+
+    That sounds like a cop-out, really it’s an invitation for people to try Indiekit and let me know how and where they’re getting stuck.
+
+## The future
+
+In the future I’d like to support Webmention, Microsub and ActivityPub protocols, as well as support multi-tenancy (the ability to have one server support several different websites).
+
+I’ve also got one eye on (and several pounds invested in) [Web Awesome][7]; being able to lean on a well-designed, well-documented component system would make it easier to create plug-ins that provide pages to the application interface.
+
+Lastly, I’m questioning my choice of MongoDB as a database; an SQL-like database would mean Indiekit could support more platforms and perhaps even use a single SQLite file.
+
+But as you can see, there are a few knotty problems that I need to untangle before I take on any more complexity.
+
+## Thank you
+
+Finally, a big thank you to everyone who has supported this project so far. The GitHub repository currently shows Indiekit as having:
+
+- 6 sponsors
+- 13 contributors
+- 51 dependent projects
+- 320 stars
+
+Meanwhile on Localazy, 26 people have contributed to [11 available translations][8] (with a further 10 translations pending).
+
+Nothing makes me happier than when somebody files a bug or makes a pull request, each small contribution supporting me as I continue along this marathon IndieWeb journey.
+
+[1]: /2019/041/a1/weeknotes_5/
+[2]: https://getindiekit.com
+[3]: /2022/351/a1/indiekit/
+[4]: https://getindiekit.com/plugins/post-types
+[5]: https://github.com/getindiekit/indiekit/releases
+[6]: https://ohhelloana.blog/iwc-brighton-2024/
+[7]: https://www.kickstarter.com/projects/fontawesome/web-awesome
+[8]: https://localazy.com/p/indiekit
+
+*[API]: application programming interface
+*[CMS]: content management system
