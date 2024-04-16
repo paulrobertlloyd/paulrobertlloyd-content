@@ -48,7 +48,7 @@ I’m really happy and proud with what I’ve built so far.
 
 ## The perpetual beta
 
-If there’s one thing I’ve learnt during the development of this project, it’s that I’m bad at version numbering. My hesitancy to call anything ‘done’ means that, over [66 individual releases][5], I’ve published the following versions:
+If there’s one thing I’ve learnt during the development of this project, it’s that I’m bad at version numbering. My hesitancy to call anything ‘done’ means that, over [67 individual releases][5], I’ve published the following versions:
 
 - `v0.0.1`
 - `v0.0.2`
@@ -66,7 +66,7 @@ When will v1.0.0 be released? Well, there are a few gnarly issues that are preve
 
 - ### Syncing with content stores
 
-    This issue is firmly within the realm of fundamental architectural constraint. Indiekit saves posts to a database as well as writing files to a content store. This allows deleted posts to be restored later, and makes it easier to update posts without parsing files where data may have gone missing.
+    This issue is firmly within the realm of fundamental architectural constraint. Indiekit saves posts to a database as well as writing files to a content store such as a GitHub repository. This allows deleted posts to be restored later, and makes it easier to update posts without parsing files where data may have gone missing.
 
     However, it also means there are 2 separate stores of data. In most cases, this is not a problem. However, should you create a post and the content store returns an error, the post in the database will not reflect the unpublished state of the post in the content store (and therefore your website).
 
@@ -106,7 +106,7 @@ In the future I’d like to support Webmention, Microsub and ActivityPub protoco
 
 I’ve also got one eye on (and several pounds invested in) [Web Awesome][7]; being able to lean on a well-designed, well-documented component system would make it easier to create plug-ins that provide pages to the application interface.
 
-Lastly, I’m questioning my choice of MongoDB as a database; an SQL-like database would mean Indiekit could support more platforms and perhaps even use a single SQLite file.
+Lastly, I’m questioning my choice of MongoDB; an SQL-like database would mean Indiekit could support more platforms and perhaps even use a single SQLite file.
 
 But as you can see, there are a few knotty problems that I need to untangle before I take on any more complexity.
 
