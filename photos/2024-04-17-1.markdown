@@ -6,7 +6,7 @@ photo:
 tags: photoblogging_challenge_april_2024
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112288699685901532
-updated: 2024-04-17T22:33:03.136+01:00
+updated: 2024-04-17T23:23:44.109+01:00
 ---
 
-Seeing the lowering sunlight get caught up in tree leaves yesterday felt like a apt depiction of **transcendence**.
+Seeing the lowering sunlight get caught up in tree leaves yesterday felt like an apt depiction of **transcendence**.
