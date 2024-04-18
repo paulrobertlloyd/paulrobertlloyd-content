@@ -4,6 +4,9 @@ photo:
   - url: /media/2024/109/p1/1.jpg
     alt: A small painting, a staked of pink ceramic cups and a small floral display arranged on a small table by a window, casting a dramatic shadow on the wooden walls.
 tags: photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112294728715200707
+updated: 2024-04-19T00:06:18.560+01:00
 ---
 
 I wasn’t able to take a photo for today’s prompt, **mood**, so here is a moody photo from inside the [Isokon Building](https://en.wikipedia.org/wiki/Isokon_Flats) in Hampstead, which I visited during last September’s Open House Festival.
