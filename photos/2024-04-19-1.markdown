@@ -1,0 +1,12 @@
+---
+date: 2024-04-19T23:00:00.000+01:00
+photo:
+  - url: /media/2024/110/p1/1.jpg
+    alt: Close up of a slightly moss-covered grave stone, with the words ‘Born August 1317’ faintly carved into it.
+tags: photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112300140876946177
+
+---
+
+A darker theme than possibly expected for the prompt of **birthday**, but I’m having to work with what I’ve got (which in this case is a nearby cemetery).
