@@ -4,7 +4,9 @@ photo:
   - url: /media/2024/111/p1/1.jpg
     alt: Frosted covered leaves on a small pine-like tree.
 tags: photoblogging_challenge_april_2024
-updated: 2024-04-20T23:45:32.116+01:00
+updated: 2024-04-20T23:46:02.553+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112305973643549357
 ---
 
 Another from the archives for today’s prompt, **ice**. Here’s a photo I took during a walk across a frost-covered Cannock Chase on [New Year’s Day back in 2009](/2009/003/a1/day_one/).
