@@ -4,6 +4,9 @@ photo:
   - url: /media/2024/112/p1/1.jpg
     alt: A mountain, with around 6 separate peaks, one covered by cloud and with increasing foliage towards the bottom.
 tags: photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112311452621412038
+updated: 2024-04-21T22:59:26.043+01:00
 ---
 
 Today’s prompt is **mountain**. Here is a photo of the [Sunnmøre Alps](https://en.wikipedia.org/wiki/Sunnmørsalpane) that surround Hjørundfjorden in Norway, which I visited in June 2018.
