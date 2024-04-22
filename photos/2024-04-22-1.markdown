@@ -4,6 +4,9 @@ photo:
   - url: /media/2024/113/p1/1.jpg
     alt: Three blue figures holding musical instruments climbing the side of a building.
 tags: photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112317105288680987
+updated: 2024-04-22T22:56:58.141+01:00
 ---
 
 ""Walls and Trumpets"" by Ofra Zimbalista shows 3 **blue** men carrying musical instruments hanging from the front facade of Maya House on Borough High Street.
