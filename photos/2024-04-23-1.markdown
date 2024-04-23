@@ -1,0 +1,9 @@
+---
+date: 2024-04-23T19:53:36.291+01:00
+photo:
+  - url: /media/2024/114/p1/1.jpg
+    alt: The reflection of a church tower in a puddle. The image has been rotated so that the church appears the correct way up, adding to the illusion of the building floating in a mix of clouds and water.
+tags: photoblogging_challenge_april_2024
+---
+
+I caught this reflection of St. Peter’s Church in a puddle the other day and, when rotated, it has quite a **dreamy** quality.
