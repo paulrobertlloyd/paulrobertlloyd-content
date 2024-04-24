@@ -4,6 +4,7 @@ photo:
   - url: /media/2024/115/p1/1.jpg
     alt: Bubbles in vibrant greens, blues and pinks painted on a beige wall.
 tags: photoblogging_challenge_april_2024
+updated: 2024-04-24T21:38:35.426+01:00
 ---
 
-Possibly stretching today’s prompt, **light**, but bubbles are light, and this illustration on the side of a building brilliantly captures the reflective nature of bubbles.
+Possibly stretching today’s prompt, **light**, but bubbles are light and this illustration on the side of a building brilliantly captures the way they reflect it.
