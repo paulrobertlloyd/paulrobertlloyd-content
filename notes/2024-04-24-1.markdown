@@ -2,7 +2,7 @@
 date: 2024-04-24T11:11:32.933+01:00
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112325657295064746
-updated: 2024-04-24T11:11:51.161+01:00
+updated: 2024-04-24T11:39:16.224+01:00
 ---
 
-The only difference between web design in 2004 and 2024 is that websites are now painted using Figma instead of Photoshop.
+The only difference between web design in 2004 and 2024 is that websites are now painted in Figma instead of Photoshop.
