@@ -4,6 +4,9 @@ photo:
   - url: /media/2024/116/p1/1.jpg
     alt: A small but deep, brown faux-leather covered book. On the spine, the title ‘Bradshaw’s Handbook, 1963’. The photo is taken from an above angle so that the separated pages can be seen.
 tags: photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112334165098089458
+updated: 2024-04-25T23:15:30.183+01:00
 ---
 
 For today’s prompt, **spine**, a photo of my trusty Bradshaw’s Railway Handbook from 1863. Not an original copy sadly, but a reproduction.
