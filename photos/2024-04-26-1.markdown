@@ -4,6 +4,9 @@ photo:
   - url: /media/2024/117/p1/1.jpg
     alt: An Apple Magic Mouse on a wooden desk, highlighted by the glow of nearby green and purple lights.
 tags: photoblogging_challenge_april_2024
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112339289499565652
+updated: 2024-04-26T20:58:44.733+01:00
 ---
 
 Went looking for a **critter**, and found this one tucked away in a drawer.
