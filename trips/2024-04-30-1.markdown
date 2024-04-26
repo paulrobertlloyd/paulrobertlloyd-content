@@ -1,0 +1,22 @@
+---
+start: 2024-04-30
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: Blackfriars (BFR)
+    locality: London
+    country_name: England
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: London King’s Cross (KGX)
+    locality: London
+    country_name: England
+  - label: Doncaster (DON)
+    locality: England
+    country_name: Doncaster
+  - label: Leeds (LDS)
+    locality: Leeds
+    country_name: England
+---
