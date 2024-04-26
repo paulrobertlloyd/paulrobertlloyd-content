@@ -1,0 +1,9 @@
+---
+start: 2024-04-30
+end: 2024-05-04
+title: Leeds
+summary: Work away day, then hang about a bit to see some art.
+trip_id:
+  - t5Wi1
+  - t5Wn1
+---
