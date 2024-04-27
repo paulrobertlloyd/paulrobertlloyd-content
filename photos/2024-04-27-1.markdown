@@ -1,0 +1,9 @@
+---
+date: 2024-04-27T22:10:27.875+01:00
+photo:
+  - url: /media/2024/118/p1/1.jpg
+    alt: An oversized sculpture of a garden space with a yellow handle and red shovel.
+tags: photoblogging_challenge_april_2024
+---
+
+I had a good idea for today’s prompt, **surprise**, but rain put pay to that. So here’s a photo of Claes Oldenburg’s surprising ""Garden Spade"" sculpture spotted in Serralves Park, Porto in September 2022.
