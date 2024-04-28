@@ -1,0 +1,16 @@
+---
+start: 2024-05-10
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    country_name: England
+  - label: London St Pancras International (STP)
+    locality: London
+    country_name: England
+  - label: Brussels-South
+    locality: Brussels
+    country_name: Belgium
+  - label: Düsseldorf
+    locality: Düsseldorf
+    country_name: Germany
+---

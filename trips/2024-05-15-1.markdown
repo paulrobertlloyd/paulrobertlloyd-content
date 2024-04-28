@@ -1,0 +1,13 @@
+---
+start: 2024-05-15
+itinerary:
+  - label: Düsseldorf
+    locality: Düsseldorf
+    country_name: Germany
+  - label: Nürnberg
+    locality: Nürnberg
+    country_name: Germany
+  - label: Wien
+    locality: Vienna
+    country_name: Austria
+---
