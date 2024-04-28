@@ -16,7 +16,7 @@ itinerary:
   - label: Strasbourg-Ville
     locality: Strasbourg
     country_name: France
-  - label: Freiburg Hauptbahnhof
+  - label: Freiburg
     locality: Freiburg im Breisgau
     country_name: Germany
 ---

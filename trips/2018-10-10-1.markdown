@@ -1,10 +1,10 @@
 ---
 start: 2018-10-10
 itinerary:
-  - label: Hamburg Hauptbahnhof
+  - label: Hamburg
     locality: Hamburg
     country_name: Germany
-  - label: Köln Hauptbahnhof
+  - label: Köln
     locality: Cologne
     country_name: Germany
   - label: Brussels-South

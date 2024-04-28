@@ -1,7 +1,7 @@
 ---
 start: 2016-09-14
 itinerary:
-  - label: Freiburg Hauptbahnhof
+  - label: Freiburg
     locality: Freiburg im Breisgau
     country_name: Germany
   - label: Bahnhof Basel SBB

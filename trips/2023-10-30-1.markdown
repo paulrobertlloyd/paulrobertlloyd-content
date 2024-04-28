@@ -1,10 +1,10 @@
 ---
 start: 2023-10-30
 itinerary:
-  - label: Nürnberg Hauptbahnhof
-    locality: Frankfurt
+  - label: Nürnberg
+    locality: Nürnberg
     country_name: Germany
-  - label: Frankfurt (Main) Hauptbahnhof
+  - label: Frankfurt (Main)
     locality: Frankfurt
     country_name: Germany
   - label: Brussels-South

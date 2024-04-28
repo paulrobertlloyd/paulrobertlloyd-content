@@ -13,10 +13,10 @@ itinerary:
   - label: Brussels-South
     locality: Brussels
     country_name: Belgium
-  - label: Köln Hauptbahnhof
+  - label: Köln
     locality: Cologne
     country_name: Germany
-  - label: Berlin Hauptbahnhof
+  - label: Berlin
     locality: Berlin
     country_name: Germany
 ---

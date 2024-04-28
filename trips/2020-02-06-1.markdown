@@ -4,10 +4,10 @@ itinerary:
   - label: Copenhagen Central
     locality: Copenhagen
     country_name: Denmark
-  - label: Hamburg Hauptbahnhof
+  - label: Hamburg
     locality: Hamburg
     country_name: Germany
-  - label: Köln Hauptbahnhof
+  - label: Köln
     locality: Cologne
     country_name: Germany
 ---

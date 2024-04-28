@@ -4,7 +4,7 @@ itinerary:
   - label: Budapest Keleti
     locality: Budapest
     country_name: Hungary
-  - label: Zürich Hauptbahnhof
+  - label: Zürich
     locality: Zurich
     country_name: Switzerland
   - label: Paris-Gare-de-Lyon

@@ -1,10 +1,10 @@
 ---
 start: 2015-02-26
 itinerary:
-  - label: Berlin Hauptbahnhof
+  - label: Berlin
     locality: Berlin
     country_name: Germany
-  - label: Köln Hauptbahnhof
+  - label: Köln
     locality: Cologne
     country_name: Germany
   - label: Brussels-South

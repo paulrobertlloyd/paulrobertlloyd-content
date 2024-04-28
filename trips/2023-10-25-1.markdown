@@ -10,10 +10,10 @@ itinerary:
   - label: Brussels-South
     locality: Brussels
     country_name: Belgium
-  - label: Frankfurt (Main) Hauptbahnhof
+  - label: Frankfurt (Main)
     locality: Frankfurt
     country_name: Germany
-  - label: Nürnberg Hauptbahnhof
-    locality: Frankfurt
+  - label: Nürnberg
+    locality: Nürnberg
     country_name: Germany
 ---

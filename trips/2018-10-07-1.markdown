@@ -10,7 +10,7 @@ itinerary:
   - label: Fredericia
     locality: Fredericia
     country_name: Denmark
-  - label: Hamburg Hauptbahnhof
+  - label: Hamburg
     locality: Hamburg
     country_name: Germany
 ---

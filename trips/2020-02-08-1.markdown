@@ -1,7 +1,7 @@
 ---
 start: 2020-02-08
 itinerary:
-  - label: Köln Hauptbahnhof
+  - label: Köln
     locality: Cologne
     country_name: Germany
   - label: Brussels-South
