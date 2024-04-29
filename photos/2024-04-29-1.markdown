@@ -1,0 +1,9 @@
+---
+date: 2024-04-29T21:39:25.233+01:00
+photo:
+  - url: /media/2024/120/p1/1.jpg
+    alt: The corner of a road, with painted double yellow lines and tufts of grass growing out of gaps in the kerb stones, all covered by a large scattering of pink blossom petals.
+tags: photoblogging_challenge_april_2024
+---
+
+A corresponding photo to [the one taken on day 4](/2024/095/p1/) of this month’s photo challenge. Always an unsettling sight, the slow **drift** of discarded blossom petals along the roads and into the drains.
