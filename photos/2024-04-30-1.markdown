@@ -4,7 +4,9 @@ photo:
   - url: /media/2024/121/p1/1.jpg
     alt: A row of about 20 terraced houses on a slight incline, their frontages highlighted by the low lying, late evening sunlight. Cars and vans are also parked along the road, their edges picked out by the remaining daylight. Two trees frame the image.
 tags: photoblogging_challenge_april_2024
-updated: 2024-04-30T21:50:45.411+01:00
+updated: 2024-04-30T21:52:46.102+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112362151305408664
 ---
 
 I love late evenings in my **hometown**, and how the sun bounces of the terraced houses and parked cars.
