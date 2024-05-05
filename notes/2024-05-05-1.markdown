@@ -1,5 +1,8 @@
 ---
 date: 2024-05-05T22:36:04.727+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112390636322747559
+updated: 2024-05-05T22:36:52.592+01:00
 ---
 
 LANDO!
