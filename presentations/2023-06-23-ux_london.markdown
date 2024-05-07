@@ -359,9 +359,10 @@ slides:
       So, what’s your team’s story?
 ---
 
-This presentation was delivered at [UX London 2023][1].
+This presentation was delivered at [UX London 2023][1]. You can [watch the video][video]{rel="alternate external"} on Vimeo.
 
 [1]: /2023/173/e1/ux_london_2023/
+[video]: https://vimeo.com/841887944
 
 *[CMS]: Content management system
 *[DfE]: Department for Education
