@@ -1,0 +1,8 @@
+---
+date: 2024-05-10T14:55:12.707+01:00
+photo:
+  - url: /media/2024/131/p1/img-8769.jpg
+    alt: A seat number sticker that says ‘61’ with a small LCD display above that says ‘Eurostar’.
+---
+
+Today, I am the man in seat 61.
