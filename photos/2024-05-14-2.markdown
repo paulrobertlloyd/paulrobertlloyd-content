@@ -1,0 +1,17 @@
+---
+date: 2024-05-14T14:55:00.000+02:00
+time_zone: Europe/Berlin
+photo:
+  - url: /media/2024/135/p2/1.jpg
+    alt: A painted statue of a male figure atop and advertising pillar taking a photograph. Behind him, a colourful building featuring blue, red, and yellow extruding blocks.
+  - url: /media/2024/135/p2/2.jpg
+    alt: Looking up at a very curvy and reflective building with contrasting angular windows protruding from it.
+  - url: /media/2024/135/p2/3.jpg
+    alt: Close up of a series of buildings, their frontages overlapping and their strong vertical lines intersecting with each other. One of the buildings, fronted with glass, is reflecting a fourth building.
+  - url: /media/2024/135/p2/4.jpg
+    alt: Looking up at a tall and slender concrete communications tower with two glass-frontend floors that spread outwards near the top. A red and white mast sits on the very top of the structure.
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112439784863793109
+---
+
+Evening in Düsseldorf: Christoph Pöggeler’s _The Photographer_ positioned opposite the _Hauptbahnhof_{lang=de}, Guery Buildings in _Medienhafen_{lang=de}, contrasting architecture near _Graf-Adolz-Platz_{lang=de} and the iconic _Reihnturm_{lang=de} telecommunications tower.
