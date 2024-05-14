@@ -10,6 +10,8 @@ photo:
     alt: A train approaching overhead, with the angular green metal supporting structure keeping the railway suspended above a river.
   - url: /media/2024/135/p1/4.jpg
     alt: A blue train carriage seen in front of a factory building and above lush green trees and foliage around the river bed.
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112439598920248458
 ---
 
 Yesterday I visited Wuppertal near Düsseldorf to travel on its suspended railway, the _Schwebebahn_{lang=de}. Such a strange and brilliant mode of public transport, but one that soon feels very normal.
