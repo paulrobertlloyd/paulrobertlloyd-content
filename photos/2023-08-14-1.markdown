@@ -1,5 +1,6 @@
 ---
 date: 2023-08-14T19:46:51.000+02:00
+time_zone: Europe/Madrid
 photo:
   - url: /media/2023/226/p1/1.jpg
     alt: "A yellow and white tram, viewed from low down at street level."
