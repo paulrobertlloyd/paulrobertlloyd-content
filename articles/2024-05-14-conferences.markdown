@@ -26,7 +26,7 @@ I also know that for a presentation to be engaging and effective, nuance can giv
 
 And I really don’t like being around large groups of people.
 
-But! If I’m speaking at a conference, my attitude changes. It’s like a cheat code for my brain, forcing me to flip into a more open and engaging mode of operation. Of course, this could all be a matter of ego, preferring the sound of my own voice[^1] and enjoying being the center of attention.
+But! If I’m speaking at a conference, my attitude changes. It’s like a cheat code for my brain, forcing me to become more open and engaging. Of course, this could all be a matter of ego, preferring the sound of my own voice[^1] and enjoying being the center of attention.
 
 Oh dear.
 
