@@ -25,7 +25,7 @@ The first principle states:
 
 > **Own your data.** Your content, your metadata, your identity.
 
-There are few issues with this. Firstly, the language (data, metadata, identity) speaks a narrow audience. Furthermore, while owning your identity is mentioned, it could be considered a separate principle, not least because having your own domain name makes owning your data online possible.
+There are few issues with this. Firstly, the language (data, metadata, identity) speaks to a narrow audience. Furthermore, while owning your identity is mentioned, it could be considered a separate principle, not least because having your own domain name makes owning your data online possible.
 
 The second principle states:
 
@@ -108,7 +108,7 @@ Is a profile on Mastodon part of the IndieWeb? No. What if you’re using your d
 
 Is ActivityPub an IndieWeb technology? Maybe? It’s an open standard. Whether it’s interoperable, modular and durable, I’ll let others be the judge. It’s also difficult to implement, but building a Webmention endpoint is no walk in the park, either.
 
-Is a website on Squarespace part of the IndieWeb? If it’s at your own domain, I guess so. But what if Squarespace were to disappear tomorrow (who knows what horrors lie in store [now that it’s set to go private][8]). Are you able to export your content, and can it be hosted elsewhere? Possibly, but it all feels very proprietary, with a good deal of lock-in (but that’s true of every CMS).
+Is a website on Squarespace part of the IndieWeb? If it’s at your own domain, I guess so. But what if Squarespace were to disappear tomorrow? Who knows what horrors lie in store [now that it’s set to go private][8]. Would you be able to export your content, and could it then be hosted elsewhere? Possibly, but it all feels very proprietary, with a good deal of lock-in (although that’s true of every CMS).
 
 Is Squarespace an IndieWeb technology? Absolutely not. It’s closed-sourced, not interoperable or modular, and if you look at the code it generates, hardly built to last.
 
