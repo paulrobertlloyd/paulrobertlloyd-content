@@ -53,7 +53,7 @@ Yet at the same time, principles should be opinionated, which means some people 
 
 I spent the second day at IndieWebCamp looking through the current principles and researching how they came about. Tantek gave me some background about why and how they evolved. I attempted a unilateral rewrite, which is the absolute worst way to design a set of principles, but I wanted to get my head around them and explore some ideas first.
 
-Thinking through the problem a little more over the last few days, I’m forming the opinion that, by moving the more developer-focused principles into a separate list, the core principles could be reduced to 3 that encapsulate the core and more widely applicable themes of identity, agency and creativity:
+Thinking through the problem a little more over the last few days, I’m forming the opinion that, by moving the more developer-focused principles into a separate list, the core principles could be reduced to 3 that encapsulate the more widely applicable themes of identity, agency and creativity:
 
 1. **🥸 Own your identity**
    An independent web presence starts with an online identity you own and control. The most reliable way to do this today is by having your own domain name.
