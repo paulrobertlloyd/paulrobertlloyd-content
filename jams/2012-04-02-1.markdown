@@ -1,6 +1,6 @@
 ---
 date: 2012-04-02
-jam-of:
+jam_of:
   type: cite
   name: Bright Lights
   author: Matchbox Twenty

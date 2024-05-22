@@ -1,6 +1,6 @@
 ---
 date: 2013-01-06
-jam-of:
+jam_of:
   type: cite
   name: I Heard Wonders
   author: David Holmes

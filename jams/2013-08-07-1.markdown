@@ -1,6 +1,6 @@
 ---
 date: 2013-08-07
-jam-of:
+jam_of:
   type: cite
   name: Cuddly Toy
   author: Roachford

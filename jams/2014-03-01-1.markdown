@@ -1,6 +1,6 @@
 ---
 date: 2014-03-01
-jam-of:
+jam_of:
   type: cite
   name: Africa
   author: Toto

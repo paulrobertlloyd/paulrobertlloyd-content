@@ -1,6 +1,6 @@
 ---
 date: 2013-02-21
-jam-of:
+jam_of:
   type: cite
   name: Writing’s On The Wall
   author: Plan B

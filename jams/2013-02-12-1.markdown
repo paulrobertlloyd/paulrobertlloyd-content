@@ -1,6 +1,6 @@
 ---
 date: 2013-02-12
-jam-of:
+jam_of:
   type: cite
   name: Never Tear Us Apart
   author: Paloma Faith

@@ -1,6 +1,6 @@
 ---
 date: 2012-03-19
-jam-of:
+jam_of:
   type: cite
   name: Everything’s Not Lost
   author: Coldplay

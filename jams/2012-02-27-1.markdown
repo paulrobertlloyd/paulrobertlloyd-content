@@ -1,6 +1,6 @@
 ---
 date: 2012-02-27
-jam-of:
+jam_of:
   type: cite
   name: Man Or Muppet
   author: Jason Segel and Walter

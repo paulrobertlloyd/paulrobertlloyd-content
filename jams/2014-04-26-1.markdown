@@ -1,6 +1,6 @@
 ---
 date: 2014-04-26
-jam-of:
+jam_of:
   type: cite
   name: Meanwhile Up In Heaven
   author: Kaiser Chiefs

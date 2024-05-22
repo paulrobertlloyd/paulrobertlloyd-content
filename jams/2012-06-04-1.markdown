@@ -1,6 +1,6 @@
 ---
 date: 2012-06-04
-jam-of:
+jam_of:
   type: cite
   name: Sing
   author: Gary Barlow & The Commonwealth Band featuring Military Wives

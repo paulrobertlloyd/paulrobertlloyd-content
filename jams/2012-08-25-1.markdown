@@ -1,6 +1,6 @@
 ---
 date: 2012-08-25
-jam-of:
+jam_of:
   type: cite
   name: Caliban’s Dream (feat. Alex Trimble & Evelyn Glennie)
   author: Underworld

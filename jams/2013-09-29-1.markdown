@@ -1,6 +1,6 @@
 ---
 date: 2013-09-29
-jam-of:
+jam_of:
   type: cite
   name: Bubbles (Live At Wembley)
   author: Biffy Clyro

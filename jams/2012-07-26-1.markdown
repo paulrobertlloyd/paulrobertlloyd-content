@@ -1,6 +1,6 @@
 ---
 date: 2012-07-26
-jam-of:
+jam_of:
   type: cite
   name: Rocky Ground
   author: Bruce Springsteen

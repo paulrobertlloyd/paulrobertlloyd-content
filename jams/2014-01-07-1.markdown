@@ -1,6 +1,6 @@
 ---
 date: 2014-01-07
-jam-of:
+jam_of:
   type: cite
   name: Love Me Again
   author: John Newman

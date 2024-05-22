@@ -1,6 +1,6 @@
 ---
 date: 2024-01-04T01:30:00Z
-jam-of:
+jam_of:
   type: cite
   name: Love Story (Taylor’s Version)
   author: Taylor Swift

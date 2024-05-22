@@ -1,6 +1,6 @@
 ---
 date: 2013-02-19
-jam-of:
+jam_of:
   type: cite
   name: Under Pressure
   author: Queen

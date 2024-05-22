@@ -1,6 +1,6 @@
 ---
 date: 2013-11-10
-jam-of:
+jam_of:
   type: cite
   name: Rez (High Contrast Remix)
   author: Underworld

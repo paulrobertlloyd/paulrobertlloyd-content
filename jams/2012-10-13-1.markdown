@@ -1,6 +1,6 @@
 ---
 date: 2012-10-13
-jam-of:
+jam_of:
   type: cite
   name: I Wish I Was James Bond
   author: Scouting for Girls

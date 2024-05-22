@@ -1,6 +1,6 @@
 ---
 date: 2012-07-18
-jam-of:
+jam_of:
   type: cite
   name: Harder Than You Think
   author: Public Enemy

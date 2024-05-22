@@ -1,6 +1,6 @@
 ---
 date: 2013-12-21
-jam-of:
+jam_of:
   type: cite
   name: "Giraffes #1"
   author: Chris T-T

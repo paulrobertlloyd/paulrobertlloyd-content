@@ -1,6 +1,6 @@
 ---
 date: 2012-03-25
-jam-of:
+jam_of:
   type: cite
   name: Mylo Xyloto/Hurts Like Heaven
   author: Coldplay

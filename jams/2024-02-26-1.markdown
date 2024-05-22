@@ -1,6 +1,6 @@
 ---
 date: 2024-02-26T21:40:00Z
-jam-of:
+jam_of:
   type: cite
   name: The Power of Love
   author: Frankie Goes to Hollywood
