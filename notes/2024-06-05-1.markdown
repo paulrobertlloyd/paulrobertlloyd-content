@@ -1,5 +1,8 @@
 ---
 date: 2024-06-05T13:31:16.522+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112564127202844347
+updated: 2024-06-05T13:57:53.184+01:00
 ---
 
 No matter how many times I visit the Netherlands, I still can’t get over how throughly impressive its cycling infrastructure is; proof that a better world is possible.
