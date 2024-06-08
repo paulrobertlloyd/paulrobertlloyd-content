@@ -1,5 +1,8 @@
 ---
 date: 2024-06-08T13:49:00.154+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112581097561995213
+updated: 2024-06-08T13:53:40.292+01:00
 ---
 
 Apt that my month of European rail travel [started](/2024/131/p1/) and now ends with me sat in seat 61.
