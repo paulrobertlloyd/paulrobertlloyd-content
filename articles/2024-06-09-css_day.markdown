@@ -1,0 +1,118 @@
+---
+date: 2024-06-09T23:30:00+01:00
+title: "With great power, comes great creativity: thoughts from CSS Day 2024"
+location:
+  type: adr
+  locality: Brighton
+  country_name: England
+summary: Come for the talks, stay for the Bitterballen, leave with a better understanding of a beautifully comprehensive tool for design.
+photo:
+  - url: /media/2024/161/a1/css_day_mug.jpg
+    alt: A ‘CSS Day is awesome’ mug sat next to a laptop.
+category:
+  - conferences
+  - css
+  - web
+tags:
+  - featured
+accent_color: "#cd853f"
+---
+
+For the last month I’ve been conducting an almost mini tour of Europe. Designed to coincide with a few events I wanted to attend ([or avoid][2]), it ended with my now traditional trip to Amsterdam for [CSS Day][1], which this year celebrated its tenth edition.
+
+As ever, I went for the inspiring talks, stayed for the [Bitterballen][3] and left with a better understanding of CSS and the overall state of this language for design. A few themes emerged.
+
+## Continued refinement
+
+As a conference focused on CSS, its no surprise that representatives from Apple and Google would use it as an opportunity to present their differing proposals for enabling masonry-like layouts.
+
+From Google, Rachel Andrew began by reflecting on the last decade of CSS and looking back at [the talk she gave at CSS Day in 2015][4]. As I remarked in [my post about last year’s event][5], this was at a time when talks felt largely theoretical with mention of properties we might be able to use one day. Now, it’s perfectly reasonable to ask if we really need anything more added to CSS. Perhaps the focus should be on refining what we already have?
+
+Before presenting [Google’s proposal for a new layout mode][6] to enable the poorly-named-but-likely-to-stick masonry layout, Rachel made the case for fixing a long-standing and fundamental omission from CSS: reading order.
+
+While it has long been possible to change the visual ordering of content (such that it differs from what might be read aloud or navigated using a keyboard), the introduction of flex and grid layouts made it easier to trigger this antipattern.
+
+Firefox’s original implementation of grid layout updated the reading order to follow that which was presented visually, and while some developers wished that was the correct approach, it was a bug that was soon fixed. This essentially left browser makers saying here’s a cool thing, please don’t use it.
+
+Rather than have browsers attempt to work out the correct order, so often dependent on context, [the proposed `reading-order-items` property][7] would allow authors to define this explicitly on a layout container (but not globally so as to prevent misuse).
+
+Why `reading-order-items` and not `reading-order`? The later is more concise, yet the former aligns with similarly named properties used on layout containers (and makes it easier to add properties for child containers if needed in later revisions). [What do you think it should be called][8]?
+
+## Improved understanding
+
+As ever, naming things is hard. Harder still once you’ve lost the perspective of a web developer.
+
+This is the lesson Nicole Sullivan shared as she presented [Apple’s masonry proposal][9]. When she joined the WebKit team, she had no idea why people kept using the initials VC (and was afraid to ask). Having eventually realised it stood for ‘video conference’, Nicole was determined not to adopt this opaque term herself. Before long, she was using it habitually, at which point she realised she had lost the perspective of an outsider. This is why browser makers are so keen to get feedback from developers on their proposals.
+
+I found both presentations utterly fascinating, and while I don’t feel especially strongly about either proposal, I feel this debate serves as a powerful reminder that the web’s strength comes from having differing perspectives and a diversity of implementations.
+
+Elika Etemad, no stranger to writing CSS specifications, described CSS as:
+
+> a stylesheet language that allows the intent of a designer to be communicated to a browser that executes on it flexibly, robustly, powerfully, understandably, performantly, and compatibly, across all platforms, devices, languages, and writing systems.
+
+That’s a pretty tall order! Not only do CSS properties specified in different modules need to work collectively, they also need to interoperate with properties from other modules too – all while ensuring the overall language remains coherent and understandable.
+
+Josh Comeau explained how he likes to teach CSS as being a series of different modes that you can switch in and out of. Having written CSS for quarter of a century, his explanation of why `z-index` works in some cases and not others – and that it is not always dependent on the `position` property being set – was a revelation to me.
+
+As the surface area of CSS grows, the harder it can become to interpret what’s going on. That’s just as true for rendering engines, as it is for developers.
+
+Tab Atkins-Bittner spoke about the new [anchor positioning module][10], which builds upon absolute positioning. It’s going to take a while to get my head around how it works and what it can enable, but I was particularly struck hearing that the value for `anchor-name` needs to be prefixed with a double dash, similar to how custom variables are named.
+
+Thankfully, somebody asked in the questions session afterwards why this was the case. Tab responded that browser vendors found it difficult to implement the `animation` property shorthand given it could include a user-defined `animation-name`. Wanting to avoid this situation again, in this module (and likely others going forward) user-defined values are prefixed with `--` so they can be more easily parsed by rendering engines.
+
+While earlier specifications weren’t able to incorporate this lesson, I suspect a best practice will emerge that’ll see developers prefixing all custom values with `--`, regardless of whether this is a requirement or not. I’m certainly going to start doing this.
+
+![A white mug with a variation of the ‘CSS is awesome’ logo on it, adapted to say CSS Day is awesome.](/media/2024/161/a1/css_day_mug.jpg "CSS Day is awesome – and I now have a mug to prove it.")
+{.align-bleed}
+
+## Powerful, yet undervalued
+
+CSS Day takes place in a bit of a bubble, attracting attendees who not only understand CSS, but respect it as a language and understand how it relates to the nature of the web.
+
+For such an expressive language, and one designed for a medium that can be so unpredictable, there are endless opportunities for specialisation. And yet, we exist in an industry that asks individuals to have shallow knowledge across a range of disciplines, in turn leading to [the devaluation of declarative languages like HTML and CSS][11], at least in relation to JavaScript.
+
+In this environment, its easy to see why frameworks that prioritise developer experience over user experience are favoured since they require only a narrow understanding of the web.
+
+Utility-first CSS is a symptom of this trend, and it’s seemingly impossible to use a methodology without adopting it as a singular solution to a problem. Sarah Dayan’s talk was a case in point, her straw man argument about why utility classes are not the same as inline styles helpfully ignoring the fact that each point applied equally to semantically named classes.
+
+As ever, you should choose the right tools for a given job. If your toolbox only contains Tailwind, [everything will look like a utility class][12], no matter how bent and misshapen the nails.
+
+## Limitless creativity
+
+Rather than end on a low point, I’d like to finish by celebrating the creativity on display. CSS Day always includes a few speakers who wow the audience with awe-inspiring demos, building things with CSS that ought not be possible, and this edition was no different.
+
+`z-index` aside, CSS is a two-dimensional medium that uses boxes, not cubes. Yet somehow Julia Miocene manages to use CSS to animate 3D objects – with light sources – to create [fun and emotive characters][13].
+
+Type-nerds in the audience could rejoice as Roel Nieskens slowly typeset a page by utilising CSS’s incredible support for OpenType features.
+
+Meanwhile, Roma Komarov adapted CSS’s new-found ability to create scroll-based animations to [automatically resize text to fit within a given box][14]. Say goodbye to [FitText][15]… and perhaps [Greensock][16] too, given the many scroll-based animations Carmen Ansio demoed with no JavaScript required!
+
+---
+
+I’ve only covered a small portion of what was presented – some of which I missed given I took a relaxed approach getting from my hotel to the venue each morning.
+
+As CSS Day celebrates its milestone anniversary, I was reminded how lucky we are to have events that bring together two constituent parties of the web: implementors and authors (with Sara Soueidan’s talk about the relationship between CSS and accessibility reminding us of the users we ultimately build for). My only complaint is that there are not more events like this; single track, tight subject focus (and amazing catering).
+
+Acting almost as an annual state of the union for CSS, it’s never been clearer that this stylesheet language is a thoroughly comprehensive tool for defining layout, setting type, crafting animations and styling everything else in between. While there’ll always be a desire to refine the language, to make it easier to understand and ensure it is more universal, accessible and performant, the imagination of developers will continue to push implementors to add brilliant new features too.
+
+The treadmill continues to turn, but the state of CSS is strong.
+
+[1]: https://cssday.nl/2024
+[2]: /2024/135/a1/conferences/
+[3]: https://en.wikipedia.org/wiki/Bitterballen
+[4]: https://vimeo.com/133642780
+[5]: /2023/162/a1/css_day/
+[6]: https://developer.chrome.com/blog/masonry
+[7]: https://drafts.csswg.org/css-display-4/#reading-order-items
+[8]: https://github.com/w3c/csswg-drafts/issues/9921
+[9]: https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/
+[10]: https://drafts.csswg.org/css-anchor-position-1/
+[11]: https://heydonworks.com/article/reluctant-gatekeeping:-the-problem-with-full-stack/
+[12]: https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/
+[13]: https://codepen.io/miocene
+[14]: https://kizu.dev/fit-to-width-text/
+[15]: http://fittextjs.com
+[16]: https://gsap.com
+
+*[CSS]: Cascading Style Sheets
+*[HTML]: HyperText Markup Language
