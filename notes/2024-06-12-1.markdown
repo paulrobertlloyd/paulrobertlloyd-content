@@ -1,5 +1,8 @@
 ---
 date: 2024-06-12T19:32:38.923+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112605092761654987
+updated: 2024-06-12T19:35:58.239+01:00
 ---
 
 Yes, the planet got destroyed. But for a beautiful moment in time we created a lot of ~~value for shareholders~~ AI-generated emoji!
