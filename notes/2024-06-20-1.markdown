@@ -1,5 +1,8 @@
 ---
 date: 2024-06-20T18:57:39.244+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112650241469516219
+updated: 2024-06-20T18:57:52.662+01:00
 ---
 
 [Diabolical](https://www.bbc.co.uk/sport/football/live/c5110ej8g31t).
