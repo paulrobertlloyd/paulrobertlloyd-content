@@ -1,5 +1,8 @@
 ---
 date: 2024-06-29T21:46:15.279+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112701865591939313
+updated: 2024-06-29T21:46:34.171+01:00
 ---
 
 If a butterfly flaps its wings, it can affect a VAR decision given at Euro 2024.
