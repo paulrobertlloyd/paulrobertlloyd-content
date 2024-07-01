@@ -3,8 +3,6 @@ date: 2022-02-02T22:40:03.061Z
 photo:
   - url: /media/2022/033/p1/1.jpg
     alt: Sculpture of a bear’s head hanging on a wall.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1489006464018665484
 ---
 
 One black bear.

@@ -17,9 +17,6 @@ photo:
     alt: Pretty cottage and garden.
   - url: /media/2021/267/p1/8.jpg
     alt: Two horses near Beaulieu.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1441499818346508288
-  - https://twitter.com/paulrobertlloyd/status/1441500571224219652
 ---
 
 Spent 3 days cycling around the New Forest with @roobottom@twitter.com earlier this week. It was glorious!

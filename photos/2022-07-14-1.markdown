@@ -5,7 +5,6 @@ photo:
     alt: "Faded window decal in bright sunlight casts a long shadow revealing its content: ‘OLD & MODERN POSTCARDS, BOUGHT & SOLD, TRADE AND RETAIL’."
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108646748917069783
-  - https://twitter.com/paulrobertlloyd/status/1547626246162358272
 ---
 
 Text shadow.

@@ -5,8 +5,6 @@ photo:
     alt: Several people stood above the Giant’s Causeway, with small waves approaching it.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1348927405180780545
 ---
 
 The Giant’s Causeway.

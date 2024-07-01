@@ -5,8 +5,6 @@ photo:
     alt: View of a river from high up a green hillside.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1346736619571851264
 ---
 
 From the Precipice Walk a panoramic view of the Mawddach river below.

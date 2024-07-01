@@ -5,8 +5,6 @@ photo:
     alt: A large jetty reaches into the sea, a ferry approaching it from the right.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1353621024550617088
 ---
 
 A CalMac ferry approaches the jetty.

@@ -5,7 +5,6 @@ photo:
     alt: Ornate signage for the Paris Metro.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108872834773400594
-  - https://twitter.com/paulrobertlloyd/status/1562095744248492032
 ---
 
 Pretty Paris.

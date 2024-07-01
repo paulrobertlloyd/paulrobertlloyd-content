@@ -5,8 +5,6 @@ photo:
     alt: Arched vaulting supporting brick piers.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1349654669522591745
 ---
 
 Looking through the vaulting below the Ouse Valley Viaduct.

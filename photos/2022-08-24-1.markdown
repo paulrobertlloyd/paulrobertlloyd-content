@@ -5,7 +5,6 @@ photo:
     alt: Cyclists rounding a street corner in a bike race.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108877638096026263
-  - https://twitter.com/paulrobertlloyd/status/1562403181002649600
 ---
 
 Unexpectedly caught La Vuelta as the peloton rolled through San Sebastián. For a supposed cycle race, notable more for the passage of internal combustion engines than Lycra clad legs.

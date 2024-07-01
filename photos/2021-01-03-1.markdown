@@ -5,8 +5,6 @@ photo:
     alt: Frost covered countryside, with a row of trees bisecting the land.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1345652682581807104
 ---
 
 Frost over the Chase.

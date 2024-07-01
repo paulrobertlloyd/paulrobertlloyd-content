@@ -5,8 +5,6 @@ photo:
     alt: Directly facing Brighton’s derelict West Pier.
 tags:
   - the_west_pier
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1425544585841889284
 ---
 
 All things must pass.

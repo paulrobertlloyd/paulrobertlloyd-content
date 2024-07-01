@@ -5,8 +5,6 @@ photo:
     alt: Atmospheric sky over the Palace of Westminster and Westminster Bridge.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1346374275192795137
 ---
 
 Dusk falls over the Palace of Westminster.

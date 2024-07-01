@@ -17,8 +17,6 @@ category:
   - year_in_sport
 tags:
   - lockdown_on_the_run
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1344795160954212352
 ---
 
 My #YearInSport.

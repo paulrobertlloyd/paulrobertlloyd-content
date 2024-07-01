@@ -3,8 +3,6 @@ date: 2021-02-11T19:46:52.675Z
 photo:
   - url: /media/2021/042/p1/1.jpg
     alt: Three storey fire station on the corner of a traffic junction.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1359975408624685058
 ---
 
 Preston Circus fire station.

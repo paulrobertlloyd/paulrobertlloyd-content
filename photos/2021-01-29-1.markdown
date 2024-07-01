@@ -5,8 +5,6 @@ photo:
     alt: Signage that says ‘Dreamland’.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1355097933381836800
 ---
 
 Dreamland.

@@ -5,8 +5,6 @@ photo:
     alt: The West Pier.
   - url: /media/2021/023/p2/2.jpg
     alt: Sunset seen through a shelter on the Western Esplanade.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1353047541135380480
 ---
 
 Chasing the sun.

@@ -3,8 +3,6 @@ date: 2021-04-21T19:44:58.432+01:00
 photo:
   - url: /media/2021/111/p1/1.jpg
     alt: Brighton Pavilion partially obscured by a ray of sunlight.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1384941903972552706
 ---
 
 Ray of light.

@@ -1,7 +1,5 @@
 ---
 date: 2021-05-15T12:13:53.000+01:00
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1393525035273490432
 ---
 
 Alan Partridge on Spaghetti Junction:

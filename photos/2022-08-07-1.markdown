@@ -5,7 +5,6 @@ photo:
     alt: My two nieces looking at each other from both ends of a telescope.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108783739454076939
-  - https://twitter.com/paulrobertlloyd/status/1556393641295237120
 ---
 
 Occasionally these two see eye to eye.

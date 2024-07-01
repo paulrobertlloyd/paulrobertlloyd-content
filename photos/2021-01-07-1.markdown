@@ -5,8 +5,6 @@ photo:
     alt: View of lush mountain and hillside from the Quiraing landslip.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1347099220403224577
 ---
 
 An incredible view from the Quiraing.

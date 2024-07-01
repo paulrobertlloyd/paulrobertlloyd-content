@@ -5,8 +5,6 @@ photo:
     alt: A young child tugs on the coat of Eric Morecambe, a dog stood next to him.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1345286112181424128
 ---
 
 Statue of Eric Morecambe catches a child’s interest.

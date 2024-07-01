@@ -9,8 +9,6 @@ photo:
     alt: Hoblyn’s Cove.
   - url: /media/2021/168/p1/4.jpg
     alt: Perran Sands.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1405637960700252167
 ---
 
 In emergency, pull brake.

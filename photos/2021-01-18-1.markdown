@@ -5,8 +5,6 @@ photo:
     alt: A house with a circular floorplan seen from above.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1351120827119497219
 ---
 
 Looking down on the Round House.

@@ -5,7 +5,6 @@ photo:
     alt: A squirrel looking straight at the camera.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108630014752329016
-  - https://twitter.com/paulrobertlloyd/status/1546555262164643840
 ---
 
 Hello little fella!

@@ -5,8 +5,6 @@ photo:
     alt: Grey skies over Eilean Donan Castle.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1347472035895775234
 ---
 
 Eilean Donan Castle.

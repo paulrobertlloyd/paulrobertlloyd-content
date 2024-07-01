@@ -5,8 +5,6 @@ photo:
     alt: Three large wind turbines tower above a misty moorland.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1344927652654800896
 ---
 
 Lambrigg Wind Farm.

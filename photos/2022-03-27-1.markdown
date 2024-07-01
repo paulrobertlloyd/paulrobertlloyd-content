@@ -5,7 +5,6 @@ photo:
     alt: Teazle lying on her bed, the sun on her face.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108029171560987233
-  - https://twitter.com/paulrobertlloyd/status/1508101307374223368
 ---
 
 It’s a dog’s life.

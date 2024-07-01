@@ -5,8 +5,6 @@ photo:
     alt: Pink cloudy sky over a pier, with a stoney beach in the foreground.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1352576692934602754
 ---
 
 Pink sky over Eastbourne Pier.

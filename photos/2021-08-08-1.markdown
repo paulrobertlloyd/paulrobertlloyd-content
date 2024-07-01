@@ -3,8 +3,6 @@ date: 2021-08-08T18:33:51.413+01:00
 photo:
   - url: /media/2021/220/p1/1.jpg
     alt: Extinction Symbol surrounded by illustrations of sea life.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1424424319896231941
 ---
 
 ⧖⃝

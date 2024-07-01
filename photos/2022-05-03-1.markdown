@@ -7,5 +7,4 @@ tags:
   - the_west_pier
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108239496491368296
-  - https://twitter.com/paulrobertlloyd/status/1521562094004490242
 ---

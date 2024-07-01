@@ -17,8 +17,6 @@ photo:
     alt: Door and window, St. Martin’s church in Westmeston.
   - url: /media/2021/151/p1/8.jpg
     alt: Spire of St. Margaret’s church in Ditchling.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1399465653015298056
 ---
 
 Bank holiday stroll from Falmer to Hassocks, via Ditchling.

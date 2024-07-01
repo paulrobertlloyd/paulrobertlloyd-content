@@ -5,7 +5,6 @@ photo:
     alt: Sunset forming a yellow to purple gradient in the sky, with a silhouetted palm tree in the foreground.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/109819031342172523
-  - https://twitter.com/paulrobertlloyd/status/1622652328443781123
 ---
 
 A mighty fine gradient this evening.

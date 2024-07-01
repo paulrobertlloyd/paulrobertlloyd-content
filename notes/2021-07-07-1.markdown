@@ -1,7 +1,5 @@
 ---
 date: 2021-07-07T22:40:54.205+01:00
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1412889992888729600
 ---
 
 WHAT IS THIS!!?

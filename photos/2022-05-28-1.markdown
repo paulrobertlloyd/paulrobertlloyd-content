@@ -5,7 +5,6 @@ photo:
     alt: McLaren pit garages at the Monaco circuit.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108379750908913317
-  - https://twitter.com/paulrobertlloyd/status/1530538376360652800
 ---
 
 McLaren pits.

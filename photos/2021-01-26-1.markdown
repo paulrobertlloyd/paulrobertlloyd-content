@@ -5,8 +5,6 @@ photo:
     alt: A brutalist looking concrete multi-storey car park.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1353989882759286785
 ---
 
 Hatherton Road Car Park.

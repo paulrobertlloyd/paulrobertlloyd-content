@@ -9,8 +9,6 @@ photo:
     alt: ‘One Garden Brighton’ signage.
   - url: /media/2021/212/p1/4.jpg
     alt: Stanmer Church.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1421554986211758081
 ---
 
 A short hop on the train to see the new ‘One Garden Brighton’ in Stanmer Park.

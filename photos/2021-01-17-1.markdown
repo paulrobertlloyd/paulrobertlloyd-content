@@ -5,8 +5,6 @@ photo:
     alt: View over the River Thames.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1350740954735636480
 ---
 
 Evening view of South Bank and the City of London.

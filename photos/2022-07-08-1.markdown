@@ -5,7 +5,6 @@ photo:
     alt: Blackboard showing the evening’s line up.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108613909755593418
-  - https://twitter.com/paulrobertlloyd/status/1545524542310739969
 ---
 
 Enjoyable evening had at the Brighton Comedy Garden.

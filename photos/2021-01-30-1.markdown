@@ -5,8 +5,6 @@ photo:
     alt: Castle surrounded by a moat.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1355467820541341697
 ---
 
 Bodiam Castle.

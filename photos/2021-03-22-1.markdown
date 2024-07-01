@@ -3,8 +3,6 @@ date: 2021-03-22T22:35:59.151Z
 photo:
   - url: /media/2021/081/p1/1.jpg
     alt: Vivid sunset over a row of terraced houses.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1374128414886666244
 ---
 
 Rooftops.

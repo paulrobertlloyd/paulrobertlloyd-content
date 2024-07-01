@@ -5,8 +5,6 @@ photo:
     alt: Illuminated clock, the time shown is 4:41pm.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1351844226422726663
 ---
 
 Clock over Coney Street.

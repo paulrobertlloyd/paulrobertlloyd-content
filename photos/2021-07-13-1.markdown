@@ -9,8 +9,6 @@ photo:
     alt: Ridge line contrasting with green moorland bordering it.
   - url: /media/2021/194/p1/1.jpg
     alt: Stones, heather and distant moorland.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1415061327798808580
 ---
 
 Stanage Edge.

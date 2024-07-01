@@ -6,8 +6,6 @@ photo:
 tags:
   - lockdown_on_the_run
   - the_west_pier
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1344681507873566725
 ---
 
 One final run to the beach and back before this year comes to an end.

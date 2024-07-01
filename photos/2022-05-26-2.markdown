@@ -5,7 +5,6 @@ photo:
     alt: Statue in a water fountain, with genitalia clearly visible.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108370582122291407
-  - https://twitter.com/paulrobertlloyd/status/1529951573933142017
 ---
 
 Fountain of the Sun, meat and two veg.

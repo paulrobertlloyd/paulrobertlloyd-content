@@ -3,8 +3,6 @@ date: 2021-11-28T18:10:57.067Z
 photo:
   - url: /media/2021/332/p1/1.jpg
     alt: Plaque marking the start of the Downs Link.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1465021183552888836
 ---
 
 Me and @bensauer@twitter.com made it halfway down the Downs Link, from Guildford to Christ’s Hospital near Horsham. Late trains and lazy bones put pay to us ever reaching Shoreham, but still an invigorating (and much needed) day in the countryside.

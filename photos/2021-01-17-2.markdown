@@ -3,8 +3,6 @@ date: 2021-01-17T22:41:17.315Z
 photo:
   - url: /media/2021/017/p2/1.jpg
     alt: Close up of banana bread with the first slice cut off.
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1350939358900191253
 ---
 
 Baked some banana bread, as lockdown tradition dictates.

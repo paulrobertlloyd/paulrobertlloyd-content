@@ -5,8 +5,6 @@ photo:
     alt: A refurbished red brick building with rubble in the foreground.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1352210634503573505
 ---
 
 Soapworks building.

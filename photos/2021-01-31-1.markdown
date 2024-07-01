@@ -5,8 +5,6 @@ photo:
     alt: A cliff edge, with bright dramatic sky over the sea.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1355814526143389702
 ---
 
 Looking out over Seaford Head.

@@ -5,8 +5,6 @@ photo:
     alt: View from beneath a large carriageway.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1350016431140777987
 ---
 
 Dynamic curves of the M74 carriageway.

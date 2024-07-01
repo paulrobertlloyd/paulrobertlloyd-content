@@ -5,7 +5,6 @@ photo:
     alt: I'm on a 100 day language learning streak on Duolingo.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/109462322243737352
-  - https://twitter.com/paulrobertlloyd/status/1599822937678172160
 ---
 
 Progresso.

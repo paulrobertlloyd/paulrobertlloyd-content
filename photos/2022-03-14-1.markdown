@@ -5,7 +5,6 @@ photo:
 syndication:
   - https://glass.photo/paulrobertlloyd/461IZMnMJ80PmEL3hs1c1t
   - https://mastodon.social/@paulrobertlloyd/107955515107988016
-  - https://twitter.com/paulrobertlloyd/status/1503387283541614595
 ---
 
 Opening 2000.

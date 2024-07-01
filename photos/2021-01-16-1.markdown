@@ -5,8 +5,6 @@ photo:
     alt: View of Edinburgh from Calton Hill.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1350378813507706880
 ---
 
 Evening in Edinburgh.

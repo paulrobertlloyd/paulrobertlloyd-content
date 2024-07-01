@@ -5,8 +5,6 @@ photo:
     alt: A small island, cut of from the mainland, its causeway stretching into the bay that surrounds it.
 tags:
   - stay_at_home
-syndication:
-  - https://twitter.com/paulrobertlloyd/status/1352945359757205505
 ---
 
 Sun setting over St. Michael’s Mount.

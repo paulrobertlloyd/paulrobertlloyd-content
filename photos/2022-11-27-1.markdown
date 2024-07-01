@@ -5,7 +5,6 @@ photo:
     alt: A church spire seen behind the bright orange foliage of a tree.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/109416152150931057
-  - https://twitter.com/paulrobertlloyd/status/1596868059251154944
 ---
 
 Stanmer Church.

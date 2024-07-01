@@ -5,7 +5,6 @@ photo:
     alt: Bell towers of the church of Santa María seen above a nearby street.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108896166339650748
-  - https://twitter.com/paulrobertlloyd/status/1563588962874142720
 ---
 
 Only spent a day in Vigo, but leaving this small Spanish coastal city impressed; beauty in every direction.
