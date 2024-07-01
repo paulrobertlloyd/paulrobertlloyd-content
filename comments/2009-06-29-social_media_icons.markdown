@@ -165,7 +165,7 @@ comments:
 
       Obviously I would like to rebut your claims of these icons as being direct rip-offs of those icons by Rogie King.
 
-      I note that on Twitter [you have apologised](http://twitter.com/mike9r/status/2740676784), and stated that you believe I had mistakenly linked to Rogie’s icons, but had since changed the link. I’m slightly confused by this claim as this is just not true. This download link has not changed since I published this post. My guess is that you saw the 16x16 icons previewed above, and without downloading the file and inspecting it’s contents, left a comment here (and more damagingly) made the same claims on Twitter (resulting in the predictable thoughtless re-tweeting by others).
+      I note that on Twitter [you have apologised](https://twitter.com/mike9r/status/2740676784), and stated that you believe I had mistakenly linked to Rogie’s icons, but had since changed the link. I’m slightly confused by this claim as this is just not true. This download link has not changed since I published this post. My guess is that you saw the 16x16 icons previewed above, and without downloading the file and inspecting it’s contents, left a comment here (and more damagingly) made the same claims on Twitter (resulting in the predictable thoughtless re-tweeting by others).
 
       But in the spirit of full disclosure, I am happy to provide a little more background on how these icons came into being.
 
@@ -183,7 +183,7 @@ comments:
 
       Now these icons may not be *that* different to Rogie’s, but how could they be? After all both sets of icons are built upon the same foundations – that of the logos and colours of the respective social networking services. However each and every pixel of these icons has been crafted by my own fair hands, and many hours have been spent working on them.
 
-      I apologise for the lengthy reply, but it may not surprise you that I’m a little annoyed by your comments, both here and on Twitter (with its [rather flimsy retraction](http://twitter.com/mike9r/status/2740676784)). If you don’t like my icons, then of course that’s your own personal opinion, but please don’t insult me by claiming I am some sort of rip-off artist. I find such comments unhelpful.
+      I apologise for the lengthy reply, but it may not surprise you that I’m a little annoyed by your comments, both here and on Twitter (with its [rather flimsy retraction](https://twitter.com/mike9r/status/2740676784)). If you don’t like my icons, then of course that’s your own personal opinion, but please don’t insult me by claiming I am some sort of rip-off artist. I find such comments unhelpful.
   - author:
       name: Mike Rundle
       photo: https://gravatar.com/avatar/56cd2d42305802c2c3a41ecb9911dd76
@@ -675,7 +675,7 @@ comments:
   - author:
       name: Alex Trup
       photo: https://gravatar.com/avatar/fc3cc14fd783fd5b3c63611a1f97c1f4
-      url: http://twitter.com/alextrup
+      url: https://twitter.com/alextrup
     published: 2010-02-16T14:46:24.000Z
     content: |-
       I’d love to see icons for Wakoopa.com, Wozai.cc, Plurk.com & Senatus.net
