@@ -1,6 +1,3 @@
-sitemap:
-  changefreq: monthly
-  priority: 0.8
 type: trip
 type_prefix: t
 visibility: unlisted
