@@ -1,0 +1,8 @@
+---
+date: 2024-07-04T00:30:00.000+02:00
+photo:
+  - url: /media/2024/186/p1/1.jpg
+    alt: A sticker on a traffic light pole that reads ‘hey guys the greens might actually win here so you should definitely go vote. July 4th’.
+---
+
+hey guys (in Brighton Pavilion)
