@@ -1,5 +1,8 @@
 ---
 date: 2024-07-04T09:10:27.644+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112727204509282007
+updated: 2024-07-04T09:10:35.464+01:00
 ---
 
 Voted.
