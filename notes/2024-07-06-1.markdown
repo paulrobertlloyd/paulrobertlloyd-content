@@ -1,5 +1,8 @@
 ---
 date: 2024-07-06T19:50:07.395+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112741044883905226
+updated: 2024-07-06T19:50:22.935+01:00
 ---
 
 Never mind loveless landslides, England are practicing ponderous progression. Amazing! Unbelievable! How are we still in Euro 2024!? 🏴󠁧󠁢󠁥󠁮󠁧󠁿
