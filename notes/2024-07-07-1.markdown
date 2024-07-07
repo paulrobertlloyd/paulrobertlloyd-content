@@ -1,5 +1,8 @@
 ---
 date: 2024-07-07T16:29:13.345+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112745916625464060
+updated: 2024-07-07T16:29:19.797+01:00
 ---
 
 GET IN THERE LEWIS!
