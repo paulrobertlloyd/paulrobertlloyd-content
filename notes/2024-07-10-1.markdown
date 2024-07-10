@@ -1,5 +1,8 @@
 ---
 date: 2024-07-10T20:50:14.038+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/112763930145049627
+updated: 2024-07-10T20:50:24.337+01:00
 ---
 
 It seems as though England have remembered they are playing the _beautiful_ game. Promising first half! 🏴󠁧󠁢󠁥󠁮󠁧󠁿
