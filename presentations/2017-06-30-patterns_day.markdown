@@ -1,6 +1,10 @@
 ---
 date: 2017-06-30T15:30:00+01:00
 title: Fantasies of the future
+location:
+  type: adr
+  locality: Brighton
+  country_name: England
 summary: In an attempt to understand our work, digital designers may look towards architects for inspiration. But as much as we can learn from their success, we should also draw lessons from their failures, too.
 photo:
   - url: /media/2017/181/s1/image.jpg

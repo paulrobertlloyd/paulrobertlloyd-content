@@ -1,6 +1,10 @@
 ---
 date: 2023-06-23T10:30:00Z
 title: "Time team: Documenting decisions & marking milestones"
+location:
+  type: adr
+  locality: London
+  country_name: England
 summary: How designers can record decisions and cultivate a fun and inclusive culture within their team.
 photo:
   - url: /media/2023/174/s1/image.jpg

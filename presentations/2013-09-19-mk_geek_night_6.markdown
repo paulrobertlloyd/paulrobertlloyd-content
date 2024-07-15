@@ -2,6 +2,10 @@
 date: 2013-09-19T20:30:00+01:00
 title: Fear, uncertainty and doubt
 summary: "We have become increasingly reliant upon a small number of web services, most of which emanate from a small centre of innovation: Silicon Valley."
+location:
+  type: adr
+  locality: Milton Keynes
+  country_name: England
 photo:
   - url: /media/2013/262/s1/image.jpg
     alt: A corrupted image of the California state flag.

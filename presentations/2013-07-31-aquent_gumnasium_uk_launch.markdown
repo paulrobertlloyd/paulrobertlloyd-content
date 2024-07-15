@@ -1,6 +1,10 @@
 ---
 date: 2013-07-31T16:00:00+01:00
 title: Keep up!
+location:
+  type: adr
+  locality: London
+  country_name: England
 summary: An insight into the many opportunities and challenges facing web designers in 2013.
 photo:
   - url: /media/2013/212/s1/image.jpg
