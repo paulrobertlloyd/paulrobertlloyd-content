@@ -1,6 +1,4 @@
 ---
-start: 2018-09-21
-end: 2018-10-10
 title: Berlin, Malmö and Hamburg
 summary: Investigating a move to Berlin, a conference in Malmö, and falling in love with Hamburg.
 article_id:

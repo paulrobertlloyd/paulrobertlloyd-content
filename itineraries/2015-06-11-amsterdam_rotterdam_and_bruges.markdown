@@ -1,6 +1,4 @@
 ---
-start: 2015-06-11
-end: 2015-06-17
 title: Amsterdam, Rotterdam and Bruges
 summary: Speaking at CSS Day and an architectural expedition.
 article_id:

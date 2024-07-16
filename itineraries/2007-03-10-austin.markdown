@@ -1,6 +1,4 @@
 ---
-start: 2007-03-10
-end: 2007-03-12
 title: Austin
 summary: SXSW 2007.
 trip_id:

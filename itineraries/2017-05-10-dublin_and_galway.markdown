@@ -1,6 +1,4 @@
 ---
-start: 2017-05-10
-end: 2017-05-13
 title: Dublin and Galway
 article_id:
   - a4oL1

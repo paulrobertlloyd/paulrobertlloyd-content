@@ -1,6 +1,4 @@
 ---
-start: 2023-08-09
-end: 2023-08-22
 title: Lyon, Turin, Milan, Como and Zurich
 summary: Exploring northwest Italy.
 article_id:

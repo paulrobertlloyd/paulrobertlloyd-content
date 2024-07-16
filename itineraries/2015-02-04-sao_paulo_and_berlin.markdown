@@ -1,6 +1,4 @@
 ---
-start: 2015-02-04
-end: 2015-02-26
 title: São Paulo and Berlin
 summary: Visiting my family in Brazil, then home via long awaited trip to Berlin.
 article_id:

@@ -1,6 +1,4 @@
 ---
-start: 2018-11-15
-end: 2018-11-20
 title: Reykjavík
 summary: Material 2018 conference.
 photo_id:

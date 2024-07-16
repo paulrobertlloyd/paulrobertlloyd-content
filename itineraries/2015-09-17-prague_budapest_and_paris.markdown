@@ -1,6 +1,4 @@
 ---
-start: 2015-09-17
-end: 2015-09-27
 title: Prague, Budapest and Paris
 summary: Speaking at WebExpo, before returning home the long way round.
 article_id:

@@ -1,6 +1,4 @@
 ---
-start: 2017-07-19
-end: 2017-07-24
 title: Le Harve and Rouen
 summary: Admiring architecture, both modernist and gothic.
 article_id:

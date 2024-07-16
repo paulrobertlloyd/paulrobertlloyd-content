@@ -1,6 +1,4 @@
 ---
-start: 2021-10-22
-end: 2021-10-24
 title: Liverpool
 summary: Because.
 photo_id:

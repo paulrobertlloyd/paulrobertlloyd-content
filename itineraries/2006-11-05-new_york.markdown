@@ -1,6 +1,4 @@
 ---
-start: 2006-11-05
-end: 2006-11-07
 title: New York
 summary: A weekend in New York City with Mum and Ben.
 trip_id:

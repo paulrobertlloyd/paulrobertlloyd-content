@@ -1,6 +1,4 @@
 ---
-start: 2023-02-21
-end: 2023-02-26
 title: Bristol and Bath
 photo_id:
   - p5PZ1

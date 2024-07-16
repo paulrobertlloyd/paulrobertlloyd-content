@@ -1,6 +1,4 @@
 ---
-start: 2007-01-19
-end: 2007-01-21
 title: Las Vegas
 summary: A weekend in Las Vagas.
 trip_id:

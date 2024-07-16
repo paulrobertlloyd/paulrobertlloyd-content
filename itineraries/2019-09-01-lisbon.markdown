@@ -1,6 +1,4 @@
 ---
-start: 2020-09-01
-end: 2020-09-08
 title: Lisbon
 article_id:
   - a52M1

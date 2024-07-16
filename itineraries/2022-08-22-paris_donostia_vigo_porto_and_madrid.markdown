@@ -1,6 +1,4 @@
 ---
-start: 2022-08-22
-end: 2022-09-08
 title: Paris, San Sebastián, Vigo, Porto and Madrid
 summary: A week in Porto, reached via several stops in Spain.
 article_id:

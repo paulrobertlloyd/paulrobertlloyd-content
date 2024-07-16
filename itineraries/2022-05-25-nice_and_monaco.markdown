@@ -1,6 +1,4 @@
 ---
-start: 2022-05-25
-end: 2022-05-30
 title: Nice and Monaco
 summary: A long-weekend on the French Riviera to watch the Monaco Grand Prix.
 article_id:

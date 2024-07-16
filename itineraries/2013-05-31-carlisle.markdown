@@ -1,6 +1,4 @@
 ---
-start: 2013-05-31
-end: 2013-06-02
 title: Carlisle
 summary: University reunion.
 trip_id:

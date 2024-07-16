@@ -1,6 +1,4 @@
 ---
-start: 2014-06-27
-end: 2014-06-29
 title: Glasgow
 summary: Glasgow 2014 clyde-sider venue specific training at Hampden Park.
 trip_id:

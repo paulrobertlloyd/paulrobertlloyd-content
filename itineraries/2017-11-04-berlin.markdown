@@ -1,6 +1,4 @@
 ---
-start: 2017-11-04
-end: 2017-11-09
 title: Berlin
 summary: A welcome return to Berlin for the Beyond Tellerand conference.
 trip_id:

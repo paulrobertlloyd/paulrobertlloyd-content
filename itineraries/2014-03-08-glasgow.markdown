@@ -1,6 +1,4 @@
 ---
-start: 2014-03-08
-end: 2014-03-09
 title: Glasgow
 summary: Glasgow 2014 clyde-sider orientation.
 trip_id:

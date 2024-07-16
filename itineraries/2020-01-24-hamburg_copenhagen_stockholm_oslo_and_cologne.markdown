@@ -1,6 +1,4 @@
 ---
-start: 2021-01-24
-end: 2021-02-08
 title: Hamburg, Copenhagen, Stockholm, Oslo and Cologne
 summary: Itinerary for a Scandinavian sojourn.
 tags:

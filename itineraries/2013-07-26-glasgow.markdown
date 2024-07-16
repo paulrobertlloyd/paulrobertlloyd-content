@@ -1,6 +1,4 @@
 ---
-start: 2013-07-26
-end: 2013-07-30
 title: Glasgow
 summary: Glasgow 2014 clyde-sider interview.
 trip_id:

@@ -1,6 +1,4 @@
 ---
-start: 2009-05-10
-end: 2010-05-30
 title: Cologne, Munich, Innsbruck, Lucerne, Zurich, Barcelona, Valencia and Paris
 summary: A great European railway adventure.
 article_id:

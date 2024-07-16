@@ -1,6 +1,4 @@
 ---
-start: 2011-10-21
-end: 2011-11-06
 title: Washington D.C., Ottawa, Toronto, Vancouver and San Francisco
 summary: North America 2011.
 tags:

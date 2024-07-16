@@ -1,6 +1,4 @@
 ---
-start: 2009-12-17
-end: 2010-01-10
 title: Auckland, Wellington, Picton, Sydney and Melbourne
 summary: Ending the decade down under.
 tags:

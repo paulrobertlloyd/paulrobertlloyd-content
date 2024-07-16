@@ -1,6 +1,4 @@
 ---
-start: 2013-10-07
-end: 2013-10-13
 title: New York
 summary: Brooklyn Beta with my Clearleft colleagues.
 trip_id:

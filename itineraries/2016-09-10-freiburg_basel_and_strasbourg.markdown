@@ -1,6 +1,4 @@
 ---
-start: 2016-09-10
-end: 2016-09-19
 title: Freiburg, Basel and Strasbourg
 summary: Speaking at Smashing Conference.
 article_id:

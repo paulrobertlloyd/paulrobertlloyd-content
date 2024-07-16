@@ -1,6 +1,4 @@
 ---
-start: 2023-10-12
-end: 2023-10-15
 title: Littlehampton, Petersfield and Winchester
 summary: A long weekend on the South Downs.
 trip_id:

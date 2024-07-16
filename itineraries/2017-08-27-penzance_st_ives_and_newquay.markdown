@@ -1,6 +1,4 @@
 ---
-start: 2017-08-27
-end: 2017-09-01
 title: Penzance, St Ives and Newquay
 summary: An escape to the South West.
 photo_id:

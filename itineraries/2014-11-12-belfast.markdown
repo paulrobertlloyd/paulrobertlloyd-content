@@ -1,6 +1,4 @@
 ---
-start: 2014-11-12
-end: 2014-11-15
 title: Belfast
 summary: Break conference.
 article_id:
