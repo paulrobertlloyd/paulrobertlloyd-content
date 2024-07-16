@@ -2,7 +2,7 @@
 date: 2024-07-16T11:43:24.977+01:00
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112795754620620631
-updated: 2024-07-16T11:43:47.168+01:00
+updated: 2024-07-16T16:26:00.859+01:00
 ---
 
-[Thank you Gareth](https://www.bbc.co.uk/sport/football/articles/c978e37ld7ro), for everything.
+[Thank you, Gareth](https://www.theguardian.com/football/article/2024/jul/16/gareth-southgate-england-resignation-statement-in-full) – for everything.
