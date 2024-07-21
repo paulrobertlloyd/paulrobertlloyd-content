@@ -3,6 +3,7 @@ date: 2012-09-25
 title: The web aesthetic
 canonical:
   issn: 1534-0295
+  edition: No. 362
   url: https://alistapart.com/article/the-web-aesthetic
 summary: "When every device begs to be connected, it has become easier – almost necessary – to accept the adaptable nature of the web. Responsive web design is an emerging best practice, and our layouts are becoming more flexible. But often, innovation is focused on technical implementations while the visual aesthetic remains ignored. To put it another way, we’re embracing “responsive” but neglecting the second part: “design.” Now is the time to seek out an aesthetic that is truer to the medium."
 photo:

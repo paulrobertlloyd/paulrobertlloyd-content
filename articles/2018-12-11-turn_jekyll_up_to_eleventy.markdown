@@ -3,6 +3,7 @@ date: 2018-12-11
 title: Turn Jekyll up to Eleventy
 canonical:
   url: https://24ways.org/2018/turn-jekyll-up-to-eleventy/
+  edition: 2018
 summary: I assemble a heavenly host of cherubs to sing the virtues of the Eleventy static site generator. By looking at how it compares to the familiar Ruby-based Jekyll, I may have you humming its tune for this season’s holiday projects. But will it put you on cloud eleven?
 category:
   - software
