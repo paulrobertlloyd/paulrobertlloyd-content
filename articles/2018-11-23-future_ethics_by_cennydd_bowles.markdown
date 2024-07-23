@@ -47,7 +47,7 @@ Given the books balanced examination of the current state of technology and wher
 
 In the last few weeks, I’ve heard from friends and former colleagues who’ve decided to join technology startups in sectors like banking and healthcare. While the former has a reputation for impropriety and misconduct in desperate need of remedy, the later has a proud tradition of ethical practice and professional standards that designers would be well advised to respect. New entrants into these markets tend to present their products as unquestionable forces for good, but their employees shouldn’t be so naive. If design is the application of ethics, then anyone designing digital products will see their role in a new light after reading this book. But should you wish to embark on a voyage of unknowable disruption, please read Cennydd’s book before stepping aboard ship, as the job of a designer is no longer plain sailing.
 
----
+## Future Ethics
 
 Author
 : Cennydd Bowles

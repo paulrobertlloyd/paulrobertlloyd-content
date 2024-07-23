@@ -30,7 +30,7 @@ Each letter was composed using the shapes left having cut in half a square, a ci
 > This is truly wonderful, I’m very grateful. Love the style of it; a nod to the slapdash, but far from it.
 > — Ben Sauer
 
----
+## Project details
 
 Year
 : 2016

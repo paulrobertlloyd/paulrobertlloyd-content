@@ -26,8 +26,6 @@ Websites that try to mimic native applications tend to fall apart on the web. Qu
 Homepage requests/size
 : 67/1.06 MB mobile, 68/1.09 MB desktop
 
----
-
 ## Nominet
 
 ![Nominet homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/339/a1/nominet.png)
@@ -42,8 +40,6 @@ Reflecting on responsive design in more general terms, Al told us: <q>There are 
 
 Homepage requests/size
 : 52/568 kB mobile, 54/578 kB desktop
-
----
 
 ## SB Nation
 

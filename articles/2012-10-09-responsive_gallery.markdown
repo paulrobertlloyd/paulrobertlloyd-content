@@ -25,8 +25,6 @@ The minimalist aesthetic of this one-page site mimics the look and feel of Windo
 Homepage requests/size
 : 47/864 kB mobile, 47/881 kB desktop
 
----
-
 ## Palantir
 
 ![Palantir homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/283/a2/palantir.png)
@@ -41,8 +39,6 @@ That said, with a homepage size of 1 MB, there’s still room for improvement. H
 
 Homepage requests/size
 : 26/1.00 MB mobile, 26/1.00 MB desktop
-
----
 
 ## Supereight Studio
 

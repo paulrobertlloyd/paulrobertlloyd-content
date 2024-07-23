@@ -34,7 +34,7 @@ Producing content for the guide involved transcribing and correcting copy origin
 
 - ![Station page on mobile.](/media/projects/bradshaws_guide/mobile_station.png#screenshot)
 
----
+## Project details
 
 Year
 : Ongoing

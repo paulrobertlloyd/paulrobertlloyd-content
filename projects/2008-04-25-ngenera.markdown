@@ -30,7 +30,7 @@ For the company’s web presence, I sought to distinguish nGenera by creating an
 ![Examples of brand collateral.](/media/projects/ngenera/collateral.png "Associated brand collateral, including presentation folders, report covers, letterheads and business cards.")
 {.align-bleed}
 
----
+## Project details
 
 Year
 : 2008

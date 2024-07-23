@@ -56,7 +56,7 @@ The app was far more successful than anticipated, spending a number of weeks in 
 > This was the most technically complex software project we’ve ever attempted, yet in its first year it’s been a real success. We’ve found new readers, increased revenue from existing readers and gained the title lots of exposure.
 > — Alex Watson, Head of App Development, Dennis Publishing
 
----
+## Project details
 
 Year
 : 2011

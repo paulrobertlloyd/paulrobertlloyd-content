@@ -26,7 +26,7 @@ Clearleft assembled a small team to work alongside the company’s in-house deve
 
 I was brought on-board to take these assets and develop a front-end component library (cheekily dubbed _Brastrap_) to enable Luke’s team to build out the reimagined website, and then continue to build upon this work in the years to come. While building the foundations of the new component library, I consulted with the team to tease-out, consolidate and document the various code standards being used to ensure the product remained maintainable and understandable.
 
----
+## Project details
 
 Year
 : 2016

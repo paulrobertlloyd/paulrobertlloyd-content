@@ -25,7 +25,7 @@ Beyond developing the prototype, I delivered the beginnings of a component libra
 > The work you did for us a was a great success, basically providing the business case for redesigning the whole site.
 > — Ric Francis, Development Director
 
----
+## Project details
 
 Year
 : 2016

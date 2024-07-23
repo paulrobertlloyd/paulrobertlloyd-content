@@ -19,7 +19,7 @@ The previous site proved unappealing to users who were less tech savvy. Mozilla 
 
 Working alongside Richard Rutter, Natalie Downe and Anna Debenham at Clearleft in Brighton and the Mozilla team in San Francisco, I created a design that was more consumer-orientated and approachable. The redesign resulted in a 20% increase in traffic to the Mozilla add-ons store, equating to an extra 400k visitors per day.
 
----
+## Project details
 
 Year
 : 2009

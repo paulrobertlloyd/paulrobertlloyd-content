@@ -73,7 +73,7 @@ Page 508: Jobs and Rupert Murdoch:
 
 > Murdoch and Jobs hit it off well enough that Murdoch went to his Palo Alto house for dinner twice more during the next year. Jobs joked that he had to hide the dinner knives on such occasions, because he was afraid that he his liberal wife was going to eviscerate Murdoch when he walked in. For his part, Murdoch was reported to have uttered a great line about the organic vegan dishes typically served: “Eating dinner at Steve’s is a great experience, as long as you get out before the local restaurants close.”
 
----
+## Steve Jobs
 
 Author
 : Walter Isaacson

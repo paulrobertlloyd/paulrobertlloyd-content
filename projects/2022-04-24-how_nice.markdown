@@ -25,7 +25,7 @@ Having settled on a final design for the logo, I delivered it alongside a short 
 
 - ![A page from the brand guidelines showing brand implementation on a social media profile.](/media/projects/how_nice/guide_implementation.png#screenshot "…and brand implementation on social media pages.")
 
----
+## Project details
 
 Year
 : 2022

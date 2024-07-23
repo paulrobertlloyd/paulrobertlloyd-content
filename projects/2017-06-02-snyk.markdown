@@ -31,7 +31,7 @@ I reviewed the project creation flow, addressing areas of friction and confusion
 
 Throughout my engagement I also advised on the development of the company’s nascent component library. I advocated for developing patterns that carried few assumptions about their intended use, enabling them to be applied more broadly across the product.
 
----
+## Project details
 
 Year
 : 2017

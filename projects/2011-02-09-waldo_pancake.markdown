@@ -20,7 +20,7 @@ With an existing site that was Flash-based, Jim’s work could no longer be view
 
 In addition to visualising designs in HTML, I created a file based content management system in PHP, and used jQuery to provide simple cross-browser compatible image slideshows.
 
----
+## Project details
 
 Year
 : 2011

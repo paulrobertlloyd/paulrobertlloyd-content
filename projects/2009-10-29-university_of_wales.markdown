@@ -19,7 +19,7 @@ Catering for more than 90,000 students worldwide, the university was looking to 
 
 Working with James Box at Clearleft, and facing a constrained budget and short engagement, we decided to create a highly modular design that would enable new pages and features to be created once our involvement was over. With a separate team responsible for building the content management system, I provided detailed guidance to ensure they could implement the design in a cohesive way, ensuring the overall experience remained consistent across the global campus, micro-sites and the myWales social e-learning network.
 
----
+## Project details
 
 Year
 : 2009

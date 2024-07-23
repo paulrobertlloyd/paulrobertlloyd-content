@@ -32,7 +32,7 @@ Press coverage of the new product was incredibly positive, and by 2009 the compa
 
 As well as helping to devise the overall product experience, I developed the underlying HTML framework, customisation system and initial set of themes. I was also responsible for the company’s branding and marketing. While many start-ups tended to use overly glossy and childish typography in their logos and communication, Ning’s branding featured a distinctive logo set in Clarendon, giving the company a more grown-up and trustworthy appearance.
 
----
+## Project details
 
 Year
 : 2005 - 2007

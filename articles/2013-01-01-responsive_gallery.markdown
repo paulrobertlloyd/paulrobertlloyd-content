@@ -26,8 +26,6 @@ With an IA centred squarely around the range of ties, coupled with a performant 
 Homepage requests/size
 : 56/663 kB mobile, 58/669 kB desktop
 
----
-
 ## Microsoft
 
 ![Microsoft homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2013/001/a1/microsoft.png)
@@ -42,8 +40,6 @@ The Metro design language lends itself to resolution independence with its flat 
 
 Homepage requests/size
 : 47/845 kB mobile, 44/849 kB desktop
-
----
 
 ## Anna Debenham
 

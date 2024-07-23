@@ -25,7 +25,7 @@ Shortly after its launch Apple featured the app as App of the Week. In a few sho
 
 - ![Catch-up screen.](/media/projects/channel_4_news/catchup.png#screenshot)
 
----
+## Project details
 
 Year
 : 2010

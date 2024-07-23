@@ -30,8 +30,6 @@ Only the homepage is responsive currently, meaning journeys into the site can fe
 Homepage size
 : 428kB mobile, 487kB desktop[^1]
 
----
-
 ## dConstruct 2012
 
 ![dConstruct homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/143/a2/dconstruct.png)
@@ -46,8 +44,6 @@ Conference curator Jeremy Keith wanted the site to be truly responsive: <q>it sh
 
 Homepage size
 : 237kB mobile, 233kB desktop[^1]
-
----
 
 ## ZURB
 

@@ -26,8 +26,6 @@ Much joy is to be found in the detailing. We love the large, loosely spaced head
 Homepage requests/size
 : 18/337 kB mobile, 15/326 kB desktop
 
----
-
 ## Design Intellection
 
 ![Design Intellection homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/311/a1/design_intellection.png)
@@ -40,8 +38,6 @@ Reflecting on the design process, David comments: <q>Proper planning beforehand 
 
 Homepage requests/size
 : 17/253 kB mobile, 17/253 kB desktop
-
----
 
 ## The Cut
 

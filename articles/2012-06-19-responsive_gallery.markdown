@@ -31,8 +31,6 @@ The result? The site is _blisteringly_ fast – and it looks great too. In that 
 Homepage size
 : 148 kB mobile, 242 kB desktop
 
----
-
 ## Weightshift
 
 ![Weightshift homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/171/a1/weightshift.png)
@@ -47,8 +45,6 @@ Photoshop saw little involvement in a largely browser-driven design process: <q>
 
 Homepage size
 : 640 kB mobile, 640 kB desktop
-
----
 
 ## SALT
 

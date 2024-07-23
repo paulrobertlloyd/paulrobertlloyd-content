@@ -27,7 +27,7 @@ At the heart of Refigure’s brand is the monogram. A scripted ‘r’ within a 
 
 ![Landing page for the new app.](/media/projects/refigure/homepage.png#screenshot "Landing page to promote the new app.")
 
----
+## Project details
 
 Year
 : 2016

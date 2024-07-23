@@ -26,7 +26,7 @@ Working with James Box at Clearleft, I devised the underlying user experience an
 
 - ![Universal Channel home page.](/media/projects/universal_networks/universal_channel.png#screenshot "Universal Channel.")
 
----
+## Project details
 
 Year
 : 2010

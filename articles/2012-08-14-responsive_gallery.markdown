@@ -27,8 +27,6 @@ Like many adopting a responsive approach, images were a particular concern. Davi
 Homepage requests/size
 : 19/389kB mobile, 29/483kB desktop
 
----
-
 ## O Music Awards
 
 ![O Music Awards homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/227/a2/o_music_awards.png)
@@ -41,8 +39,6 @@ But, and this is a big, unfortunate but. When I visited the site on my phone, I 
 
 Homepage requests/size
 : 128/5.05 MB mobile, 176/5.67 MB desktop
-
----
 
 ## BBC TV
 

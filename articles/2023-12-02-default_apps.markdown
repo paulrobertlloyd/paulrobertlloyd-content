@@ -14,8 +14,6 @@ After sharing a list of the [places I’ve been][1], time to join in with anothe
 
 As you’ll see, I score pretty highly on my dependence on the ‘default’ default apps, and so the less said about my reliance on Apple’s offerings, the better.
 
----
-
 📨 Mail client
 : macOS ""Mail"".
 

@@ -67,7 +67,7 @@ Should you pay a monthly subscription to use these tools? Unless you require the
 
 Broadly speaking, it’s encouraging to see Adobe improve its attitude to the web. By developing Edge Code in the open as Brackets, it has produced an innovative IDE that makes writing code fun and creative. Its work in bringing advanced graphic capabilities to CSS (shapes, regions, blend modes, custom filters) will benefit the web community for years to come. In that respect, the company’s greatest contribution may not be these applications, but its work on web standards and within the open source community instead.
 
----
+## Adobe Edge CC
 
 Company
 : [Adobe](http://html.adobe.com/edge/){.p-brand .h-card}

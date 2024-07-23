@@ -28,8 +28,6 @@ A key feature of the new design is a responsive carousel on the home page that s
 Homepage requests/size
 : 31/488 kB mobile, 38/468 kB desktop
 
----
-
 ## The Next Web
 
 ![The Next Web homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2013/029/a1/the_next_web.png)
@@ -42,8 +40,6 @@ It’s interesting to view this redesign within the wider context of online news
 
 Homepage requests/size
 : 192/2.32 MB mobile, 208/1.61 MB desktop
-
----
 
 ## The Guardian
 

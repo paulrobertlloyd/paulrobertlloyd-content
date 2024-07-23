@@ -41,7 +41,7 @@ One of the guiding principles established early on was to privilege the reading 
 
 - ![Type specimen for PT Sans.](/media/projects/matter/type_ptsans.png "Type specimen for PT Sans.")
 
----
+## Project details
 
 Year
 : 2012

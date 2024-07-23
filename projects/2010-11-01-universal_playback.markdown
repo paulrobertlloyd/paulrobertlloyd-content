@@ -20,7 +20,7 @@ With a diverse catalogue that includes dramas, classic sitcoms and cult televisi
 
 Working alongside Rob Pearson and Andy Hume at Clearleft, I was responsible for the design of the improved site. As Playback often acts as a supporting brand to the television shows it releases, an element of customisation was added, allowing site editors to choose a colour palette that would coordinate with a show’s branding.
 
----
+## Project details
 
 Year
 : 2010

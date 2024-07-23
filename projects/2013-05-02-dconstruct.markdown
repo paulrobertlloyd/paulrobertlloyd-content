@@ -36,7 +36,7 @@ Like the previous year’s design, the [homepage featured prominent images of th
 
 Referencing the theme of [communicating with machines][4], I researched different ways humans have tried to direct machines through history. Punch cards became the unifying motif, providing an interesting textural patterning on the website and associated marketing and conference material.
 
----
+## Project details
 
 Years
 : 2010, 2011, 2013

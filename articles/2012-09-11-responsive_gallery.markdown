@@ -27,8 +27,6 @@ The strong visual design is maintained as the layout adapts to narrower screens.
 Homepage requests/size
 : 114/1.45 MB mobile, 116/1.42 MB desktop
 
----
-
 ## Jessica Hische
 
 ![Jessica Hische homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/255/a2/jessica_hische.png)
@@ -41,8 +39,6 @@ The site is beautifully typeset, and this provides much of its personality. Over
 
 Homepage requests/size
 : 82/2.24 MB mobile, 85/2.52 MB desktop
-
----
 
 ## Momentum
 

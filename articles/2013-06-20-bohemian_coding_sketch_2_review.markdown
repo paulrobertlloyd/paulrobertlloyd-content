@@ -53,7 +53,7 @@ In fact, the best feature of Sketch is its active development. In the two months
 
 I’m not sure I would use Sketch to create a succession of detailed page comps, but I think that is telling. This is an application designed for the interface designers of today and tomorrow, not those of the past. And it’s a better app for it.
 
----
+## Sketch 2
 
 Company
 : [Bohemian Coding](http://bohemiancoding.com/sketch/){.p-brand .h-card}

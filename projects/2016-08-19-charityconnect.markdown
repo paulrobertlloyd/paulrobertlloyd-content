@@ -38,7 +38,7 @@ With these findings uncovered, I created a set of detailed visual design composi
 
 - ![Article page on mobile.](/media/projects/charityconnect/post.png#screenshot)
 
----
+## Project details
 
 Year
 : 2016

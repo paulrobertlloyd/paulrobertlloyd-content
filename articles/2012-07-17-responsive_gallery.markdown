@@ -28,8 +28,6 @@ Given Arc90’s work on this product, can we expect a responsive update to Reada
 Homepage size
 : 420 kB mobile, 381 kB desktop
 
----
-
 ## Contents Magazine
 
 ![Contents Magazine homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/199/a1/contents_magazine.png)
@@ -42,8 +40,6 @@ In his recent article [The restriction of type][5], David Bushell suggests that 
 
 Homepage size
 : 550 kB mobile, 808 kB desktop
-
----
 
 ## SVT Nyheter{lang=sv}
 
