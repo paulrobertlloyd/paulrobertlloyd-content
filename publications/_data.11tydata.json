@@ -1,7 +1,0 @@
-{
-  "layout": "publication.liquid",
-  "permalink": "publications/{{ page.fileSlug }}/",
-  "type": "publication",
-  "visibility": "unlisted",
-  "vocabulary": "entry"
-}
