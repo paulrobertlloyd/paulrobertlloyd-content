@@ -13,4 +13,10 @@ itinerary:
   - label: Truro (TRU)
     locality: Truro
     country_name: England
+  - label: Par (PAR)
+    locality: Par
+    country_name: England
+  - label: Newquay (NQY)
+    locality: Newquay
+    country_name: England
 ---
