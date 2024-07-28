@@ -6,6 +6,8 @@ photo:
 syndication:
   - https://glass.photo/paulrobertlloyd/5aGmLAqIhv5o1NmuJ5K8l7
   - https://mastodon.social/@paulrobertlloyd/108369355434535740
+tags:
+  - i5Jx1
 ---
 
 Évocateur.

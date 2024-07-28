@@ -7,4 +7,6 @@ itinerary:
   - label: Galway
     locality: Galway
     country_name: Ireland
+tags:
+  - i4oG1
 ---

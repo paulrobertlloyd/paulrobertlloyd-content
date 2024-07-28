@@ -7,4 +7,6 @@ itinerary:
   - label: Porto Campanha
     locality: Porto
     country_name: Portugal
+tags:
+  - i5LS1
 ---

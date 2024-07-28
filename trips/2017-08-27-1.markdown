@@ -16,4 +16,6 @@ itinerary:
   - label: Penzance (PNZ)
     locality: Penzance
     country_name: England
+tags:
+  - i4q51
 ---

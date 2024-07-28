@@ -10,7 +10,7 @@ category:
   - toronto
   - canada
 tags:
-  - north_america_2011
+  - i4EU1
 ---
 
 ![Toronto’s skyline, as seen from Casa Loma.](/media/2011/358/a1/skyline.jpg "Toronto’s skyline, as seen from Casa Loma.")

@@ -13,4 +13,6 @@ itinerary:
   - label: Petersfield (PTR)
     locality: Petersfield
     country_name: England
+tags:
+  - i5TN1
 ---

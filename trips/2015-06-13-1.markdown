@@ -7,4 +7,6 @@ itinerary:
   - label: Rotterdam Centraal
     locality: Rotterdam
     country_name: Netherlands
+tags:
+  - i4bc1
 ---

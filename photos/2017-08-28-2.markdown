@@ -3,6 +3,8 @@ date: 2017-08-28T17:02:01+01:00
 photo:
   - url: /media/2017/240/p2/1.jpg
     alt: Looking over a turquoise blue sea towards St. Michael’s Mount.
+tags:
+  - i4q51
 ---
 
 This’ll do.

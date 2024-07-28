@@ -1,6 +1,7 @@
 ---
 title: URLs matter
-article_id: a4341
+tags:
+  - a4341
 comments:
   - author:
       name: Tim Print

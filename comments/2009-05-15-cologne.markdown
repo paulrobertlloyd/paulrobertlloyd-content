@@ -1,6 +1,7 @@
 ---
 title: Cologne
-article_id: a3ze1
+tags:
+  - a3ze1
 comments:
   - author:
       name: Jonathan Aquino

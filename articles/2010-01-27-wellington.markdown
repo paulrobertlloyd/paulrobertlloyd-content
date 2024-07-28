@@ -11,7 +11,7 @@ category:
   - wellington
   - architecture
 tags:
-  - australasia_2009
+  - i43F1
 ---
 
 ![A red cable car.](/media/2010/027/a1/cable_car.jpg "The Wellington Cable Car takes passengers from Lambton Quay in the CBD to the suburb of Kelburn, and the Wellington Botanic Garden.")

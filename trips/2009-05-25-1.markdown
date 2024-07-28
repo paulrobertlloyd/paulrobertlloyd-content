@@ -7,4 +7,6 @@ itinerary:
   - label: Velencia
     locality: Velencia
     country_name: Spain
+tags:
+  - i3z_1
 ---

@@ -7,4 +7,6 @@ itinerary:
   - label: Vigo-Guixar
     locality: Vigo
     country_name: Spain
+tags:
+  - i5LS1
 ---

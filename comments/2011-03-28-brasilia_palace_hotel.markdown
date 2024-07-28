@@ -1,6 +1,7 @@
 ---
 title: The Brasília Palace Hotel
-article_id: a4B11
+tags:
+  - a4B11
 comments:
   - author:
       name: Andy

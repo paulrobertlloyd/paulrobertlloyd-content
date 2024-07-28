@@ -9,6 +9,8 @@ photo:
     alt: Coloured lights reflected in water.
   - url: /media/2021/297/p1/4.jpg
     alt: ‘Liverpool Love Of My Life’ illumination.
+tags:
+  - i5FN1
 ---
 
 Enjoyed exploring Liverpool’s River of Light trail last night. Plenty of photographic fodder.

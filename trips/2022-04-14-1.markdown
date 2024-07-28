@@ -7,4 +7,6 @@ itinerary:
   - label: Dundee (DEE)
     locality: Dundee
     country_name: Scotland
+tags:
+  - i5JD1
 ---

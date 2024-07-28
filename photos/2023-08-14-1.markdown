@@ -6,6 +6,8 @@ photo:
     alt: "A yellow and white tram, viewed from low down at street level."
 syndication:
   - https://mastodon.social/@paulrobertlloyd/110889219636282736
+tags:
+  - i5SJ1
 ---
 
 [ATM Class 1500](https://en.wikipedia.org/wiki/ATM_Class_1500) tram on Line 19.

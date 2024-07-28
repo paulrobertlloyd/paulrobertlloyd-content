@@ -5,6 +5,8 @@ photo:
     alt: View of yachts moored in Port Hurcule with Monte Carlo in the background.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108373311288664996
+tags:
+  - i5Jx1
 ---
 
 Monaco baby, yeah!

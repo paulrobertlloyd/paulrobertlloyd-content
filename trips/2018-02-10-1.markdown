@@ -7,4 +7,6 @@ itinerary:
   - label: Craignure Mull Ferry Terminal
     locality: Craignure
     country_name: Scotland
+tags:
+  - i4sp1
 ---

@@ -1,6 +1,7 @@
 ---
 title: A bomb in Littlehampton?
-article_id: a3yA1
+tags:
+  - a3yA1
 comments:
   - author:
       name: mously

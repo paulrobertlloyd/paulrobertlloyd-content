@@ -25,4 +25,6 @@ itinerary:
   - label: Belfast Lanyon Place
     locality: Belfast
     country_name: Northern Ireland
+tags:
+  - i48g1
 ---

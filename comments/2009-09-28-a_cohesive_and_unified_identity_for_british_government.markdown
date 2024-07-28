@@ -1,6 +1,7 @@
 ---
 title: A cohesive and unified identity for British Government
-article_id: a41u1
+tags:
+  - a41u1
 comments:
   - author:
       name: Richard Rutter

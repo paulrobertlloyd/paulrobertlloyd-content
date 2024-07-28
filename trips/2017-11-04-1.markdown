@@ -19,4 +19,6 @@ itinerary:
   - label: Berlin
     locality: Berlin
     country_name: Germany
+tags:
+  - i4rE1
 ---

@@ -13,4 +13,6 @@ itinerary:
   - label: Birmingham New Street (BHM)
     locality: Birmingham
     country_name: England
+tags:
+  - i5QC1
 ---

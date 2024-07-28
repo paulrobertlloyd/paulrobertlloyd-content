@@ -9,9 +9,6 @@ tags:
   - brand_identity
   - front_end_development
   - interaction_design
-article_id:
-  - a4Tg1
-  - a4sE1
 accent_color: "#f04"
 ---
 

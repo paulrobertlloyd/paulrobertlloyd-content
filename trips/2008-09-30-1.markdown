@@ -10,4 +10,6 @@ itinerary:
   - label: Seattle-Tacoma International Airport (SEA)
     locality: SeaTac
     country_name: United States
+tags:
+  - i3vs1
 ---

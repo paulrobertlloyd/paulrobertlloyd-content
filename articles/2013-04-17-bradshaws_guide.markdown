@@ -13,6 +13,7 @@ category:
   - travel
 tags:
   - featured
+  - w4sD1
 accent_color: "#e6772e"
 ---
 

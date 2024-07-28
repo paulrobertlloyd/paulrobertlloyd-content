@@ -1,6 +1,7 @@
 ---
 title: An opportunity for change
-article_id: a45Z1
+tags:
+  - a45Z1
 comments:
   - author:
       name: Cole

@@ -10,7 +10,7 @@ category:
   - australia
   - new_zealand
 tags:
-  - australasia_2009
+  - i43F1
 ---
 
 I’ve long held two ambitions. The first: to return to Australia before this decade is out. The second: to welcome in a New Year on Sydney Harbour before I turn 30. With time running out if I was to achieve either goal, August saw me dust off my cheque book and plan a return trip. As I fine tune the itinerary and the calendar advances to December, only now does reality set in. In just two weeks, I’ll be spending three weeks on the other side of the world, by myself, bookended with two day-long flights. Gulp!

@@ -7,4 +7,6 @@ itinerary:
   - label: Los Angeles International Airport (LAX)
     locality: Los Angeles
     country_name: United States
+tags:
+  - i3qe1
 ---

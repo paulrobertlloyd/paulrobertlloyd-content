@@ -1,6 +1,7 @@
 ---
 title: "Social media icons: A rationale"
-article_id: a44i1
+tags:
+  - a44i1
 comments:
   - author:
       name: Jon Roobottom

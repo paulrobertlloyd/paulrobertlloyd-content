@@ -1,6 +1,7 @@
 ---
 title: My life as a Games Maker
-article_id: a4L41
+tags:
+  - a4L41
 comments:
   - author:
       name: Simon R Jones

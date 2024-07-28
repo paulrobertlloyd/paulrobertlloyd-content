@@ -10,6 +10,8 @@ photo:
     alt: Close-up of stacked grey fish nets.
   - url: /media/2018/325/p1/4.jpg
     alt: A boat in dry dock being repaired.
+tags:
+  - i4xW1
 ---
 
 A few photos from my jaunt around Reykjavik Old Harbour, yesterday.

@@ -5,6 +5,13 @@ summary: The California Zephyr is a 56 hour, 2348 mile long train journey that s
 photo:
   - url: /media/2008/267/a1/image.jpg
     alt: View of a rocky outcrop.
+category:
+  - travel
+  - united_states
+  - railways
+tags:
+  - featured
+  - i3sQ1
 geojson:
   _height: 400
   _width: 1200
@@ -152,12 +159,6 @@ geojson:
       geometry:
         type: Point
         coordinates: [-87.64, 41.879]
-category:
-  - travel
-  - united_states
-  - railways
-tags:
-  - featured
 ---
 
 ![View of a rocky outcrop.](/media/2008/267/a1/image.jpg "The landscape you travel across is one of the most scenic routes run by Amtrak.")

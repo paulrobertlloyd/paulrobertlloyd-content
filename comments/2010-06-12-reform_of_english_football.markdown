@@ -1,6 +1,7 @@
 ---
 title: Winning the World Cup would be the worst thing to happen to English football
-article_id: a46C1
+tags:
+  - a46C1
 comments:
   - author:
       name: Cole Henley

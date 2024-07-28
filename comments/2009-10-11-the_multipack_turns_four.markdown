@@ -1,6 +1,7 @@
 ---
 title: The Multipack turns four
-article_id: a4281
+tags:
+  - a4281
 comments:
   - author:
       name: Owen

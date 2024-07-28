@@ -10,4 +10,6 @@ itinerary:
   - label: Paris-Austerlitz
     locality: Paris
     country_name: France
+tags:
+  - i3z_1
 ---

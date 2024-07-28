@@ -7,4 +7,6 @@ itinerary:
   - label: Roma Termini
     locality: Rome
     country_name: Italy
+tags:
+  - i3h51
 ---

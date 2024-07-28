@@ -1,6 +1,7 @@
 ---
 title: How I learned to stop worrying and love responsive images
-article_id: a4Gb1
+tags:
+  - a4Gb1
 comments:
   - author:
       name: karl

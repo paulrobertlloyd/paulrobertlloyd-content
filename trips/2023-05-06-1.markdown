@@ -13,4 +13,6 @@ itinerary:
   - label: Bournemouth (BMH)
     locality: Bournemouth
     country_name: England
+tags:
+  - i5Qh1
 ---

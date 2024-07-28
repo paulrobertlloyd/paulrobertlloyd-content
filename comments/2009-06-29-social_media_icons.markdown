@@ -1,6 +1,7 @@
 ---
 title: Social media icons
-article_id: a40P1
+tags:
+  - a40P1
 comments:
   - author:
       name: Jon Roobottom

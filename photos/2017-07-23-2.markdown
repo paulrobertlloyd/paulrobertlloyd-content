@@ -10,6 +10,8 @@ photo:
     alt: Fishing boats in Quai Notre Dame.
   - url: /media/2017/204/p2/4.jpg
     alt: Sunset over the English Channel.
+tags:
+  - i4pS1
 ---
 
 One final walk around Le Havre’s harbour, docks and marinas.

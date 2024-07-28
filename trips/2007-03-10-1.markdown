@@ -7,4 +7,6 @@ itinerary:
   - label: Austin-Bergstrom International Airport (AUS)
     locality: Austin
     country_name: United States
+tags:
+  - i3mN1
 ---

@@ -8,6 +8,8 @@ summary: As predicted, I was unable to blog during my travels across Europe last
 category:
   - travel
   - europe
+tags:
+  - i3z_1
 ---
 
 As a trip intended to give just a brief introduction to Europe, covering [nine cities in three weeks][1], it’s no surprise that I found it difficult balancing sightseeing with relaxation. Many of the cities I visited had so much to offer, that it was sometimes overwhelming trying to fit it all in.

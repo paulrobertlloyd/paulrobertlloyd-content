@@ -16,4 +16,6 @@ itinerary:
   - label: Nice-Ville
     locality: Nice
     country_name: France
+tags:
+  - i5Jx1
 ---

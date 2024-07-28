@@ -7,4 +7,6 @@ itinerary:
   - label: Den Haag Centraal
     locality: The Hague
     country_name: Denmark
+tags:
+  - i4or1
 ---

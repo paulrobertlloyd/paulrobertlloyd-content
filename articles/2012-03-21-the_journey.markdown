@@ -10,6 +10,8 @@ category:
   - san_francisco
   - personal
   - lessons
+tags:
+  - i4Gn1
 ---
 
 A new pair of jeans, the reignited love for a city and an inevitable answer to a surprisingly surprising question. Just some of the artefacts collected during two weeks in America.

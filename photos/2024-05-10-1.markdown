@@ -5,7 +5,8 @@ photo:
     alt: A seat number sticker that says ‘61’ with a small LCD display above that says ‘Eurostar’.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112417149132667546
-updated: 2024-05-10T14:59:25.968+01:00
+tags:
+  - i5XG1
 ---
 
 Today, I am the man in seat 61.

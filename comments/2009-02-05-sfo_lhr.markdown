@@ -1,6 +1,7 @@
 ---
 title: SFO/LHR
-article_id: a3y01
+tags:
+  - a3y01
 comments:
   - author:
       name: Mark Otto

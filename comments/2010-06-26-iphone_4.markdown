@@ -1,6 +1,7 @@
 ---
 title: Enough
-article_id: a46S1
+tags:
+  - a46S1
 comments:
   - author:
       name: trovster

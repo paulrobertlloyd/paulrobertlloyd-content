@@ -5,6 +5,8 @@ photo:
     alt: "Red, orange and yellow leaves cut out to resemble the IndieWebCamp logo."
 syndication:
   - https://mastodon.social/@paulrobertlloyd/111317781191440340
+tags:
+  - i5Ta1
 ---
 
 It’s a very autumnal IndieWebCamp in Nuremberg this weekend.

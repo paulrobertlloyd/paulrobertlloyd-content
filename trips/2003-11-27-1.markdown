@@ -7,4 +7,6 @@ itinerary:
   - label: Cairns International Airport (CNS)
     locality: Cairns
     country_name: Australia
+tags:
+  - i3Ry1
 ---

@@ -15,6 +15,7 @@ category:
   - travel
 tags:
   - featured
+  - i4oG1
 ---
 
 ![A green boat and several swans sat in a harbour.](/media/2017/134/a1/galway_harbour.jpg "Boats and swans in Galway harbour.")

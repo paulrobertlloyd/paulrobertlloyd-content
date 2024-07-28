@@ -10,6 +10,8 @@ photo:
     alt: Distinctive angular roof of the Church of St Joan of Arc.
   - url: /media/2017/204/p1/4.jpg
     alt: Old building with Tudor-like cladding.
+tags:
+  - i4pS1
 ---
 
 Visited Rouen. Even in the rain, it’s very pretty.

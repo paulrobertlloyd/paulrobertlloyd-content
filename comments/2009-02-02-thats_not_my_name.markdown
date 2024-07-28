@@ -1,6 +1,7 @@
 ---
 title: That’s not my name!
-article_id: a3xx1
+tags:
+  - a3xx1
 comments:
   - author:
       name: Jon Roobottom

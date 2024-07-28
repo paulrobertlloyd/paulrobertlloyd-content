@@ -4,6 +4,8 @@ time_zone: Europe/Dublin
 photo:
   - url: /media/2017/130/p2/1.jpg
     alt: Irish coastline on the horizon.
+tags:
+  - i4oG1
 ---
 
 As the Irish coastline appears on the horizon, I’m reminded that “der’s more to Ireland, dan dis”!

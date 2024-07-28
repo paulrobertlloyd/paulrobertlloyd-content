@@ -13,4 +13,6 @@ itinerary:
   - label: Belfast International Airport (BFS)
     locality: Belfast
     country_name: Northern Ireland
+tags:
+  - i4Z61
 ---

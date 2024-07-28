@@ -1,6 +1,7 @@
 ---
 title: Are web design conferences becoming too safe?
-article_id: a46t1
+tags:
+  - a46t1
 comments:
   - author:
       name: Cennydd

@@ -10,7 +10,7 @@ category:
   - vancouver
   - canada
 tags:
-  - north_america_2011
+  - i4EU1
 ---
 
 ![Vancouver waterfront from Stanley Park.](/media/2011/363/a1/marina.jpg "Vancouver waterfront from Stanley Park.")

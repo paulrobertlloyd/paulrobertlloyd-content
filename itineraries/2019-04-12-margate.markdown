@@ -1,8 +1,3 @@
 ---
 title: Margate
-article_id:
-  - a5001
-trip_id:
-  - t4zy1
-  - t5001
 ---

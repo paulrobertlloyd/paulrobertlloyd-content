@@ -12,6 +12,8 @@ category:
   - personal
   - travel
   - united_states
+tags:
+  - i3xp1
 ---
 
 ![’Coll’ written on the side of a Starbucks cup.](/media/2009/033/a1/image.jpg)

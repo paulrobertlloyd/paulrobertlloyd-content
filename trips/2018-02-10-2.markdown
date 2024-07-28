@@ -7,4 +7,6 @@ itinerary:
   - label: Oban Ferry Terminal
     locality: Oban
     country_name: Scotland
+tags:
+  - i4sp1
 ---

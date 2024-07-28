@@ -16,4 +16,6 @@ itinerary:
   - label: Norwich (NRW)
     locality: Norwich
     country_name: England
+tags:
+  - i4sz1
 ---

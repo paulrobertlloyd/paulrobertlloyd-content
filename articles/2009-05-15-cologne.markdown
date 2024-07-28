@@ -13,6 +13,8 @@ category:
   - europe
   - germany
   - cologne
+tags:
+  - i3z_1
 ---
 
 ![Cologne Cathedral and Hohenzollern Bridge.](/media/2009/135/a1/image.jpg "Cologne Cathedral and Hohenzollern Bridge.")

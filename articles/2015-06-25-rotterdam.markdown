@@ -12,6 +12,8 @@ category:
   - travel
   - europe
   - netherlands
+tags:
+  - i4bc1
 ---
 
 ![A large, triangular shaped, metal-clad building.](/media/2015/176/a1/centraal_station.jpg "Rotterdam Centraal Station.")

@@ -1,6 +1,7 @@
 ---
 title: Riding the California Zephyr
-article_id: a3vk1
+tags:
+  - a3vk1
 comments:
   - author:
       name: G. Poirier

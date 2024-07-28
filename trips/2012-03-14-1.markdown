@@ -7,4 +7,6 @@ itinerary:
   - label: Hilton Santa Monica Hotel & Suites
     locality: Santa Monica
     country_name: United States
+tags:
+  - i4Gn1
 ---

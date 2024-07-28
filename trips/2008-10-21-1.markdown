@@ -10,4 +10,6 @@ itinerary:
   - label: Birmingham Airport (BHX)
     locality: Birmingham
     country_name: England
+tags:
+  - i3vs1
 ---

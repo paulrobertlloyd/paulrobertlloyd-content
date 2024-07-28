@@ -7,4 +7,6 @@ itinerary:
   - label: Zürich
     locality: Zurich
     country_name: Switzerland
+tags:
+  - i5SJ1
 ---

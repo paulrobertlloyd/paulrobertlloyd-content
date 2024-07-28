@@ -4,6 +4,8 @@ time_zone: Europe/Copenhagen
 photo:
   - url: /media/2020/027/p2/1.jpg
     alt: A pedestrian street with puddles reflecting the red Chinese lanterns hung overhead.
+tags:
+  - i54k1
 ---
 
 Sodden Strøget.

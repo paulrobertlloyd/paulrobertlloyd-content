@@ -10,4 +10,6 @@ itinerary:
   - label: Berlin Schönefeld Airport (SXF)
     locality: Berlin
     country_name: Germany
+tags:
+  - i4_W1
 ---

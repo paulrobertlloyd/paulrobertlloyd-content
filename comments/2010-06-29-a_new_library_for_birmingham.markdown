@@ -1,6 +1,7 @@
 ---
 title: A new library for Birmingham
-article_id: a46V1
+tags:
+  - a46V1
 comments:
   - author:
       name: Andy

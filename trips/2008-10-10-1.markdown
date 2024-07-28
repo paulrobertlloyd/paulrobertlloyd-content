@@ -7,4 +7,6 @@ itinerary:
   - label: O’Hare International Airport (ORD)
     locality: Chicago
     country_name: United States
+tags:
+  - i3vs1
 ---

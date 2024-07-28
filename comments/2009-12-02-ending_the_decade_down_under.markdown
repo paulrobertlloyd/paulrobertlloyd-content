@@ -1,6 +1,7 @@
 ---
 title: Ending the decade down under
-article_id: a4301
+tags:
+  - a4301
 comments:
   - author:
       name: Jon Roobottom

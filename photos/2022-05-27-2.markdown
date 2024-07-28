@@ -15,6 +15,8 @@ photo:
     alt: Tyre marks on yellow, red and white curbing.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108375726867731000
+tags:
+  - i5Jx1
 ---
 
 Walking the Circuit de Monaco.

@@ -13,4 +13,6 @@ itinerary:
   - label: York (YRK)
     locality: York
     country_name: England
+tags:
+  - i4fN1
 ---

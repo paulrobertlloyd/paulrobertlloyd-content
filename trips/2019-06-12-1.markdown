@@ -7,4 +7,6 @@ itinerary:
   - label: Amsterdam Centraal
     locality: Amsterdam
     country_name: Netherlands
+tags:
+  - i50w1
 ---

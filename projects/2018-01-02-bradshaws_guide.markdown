@@ -8,10 +8,6 @@ tags:
   - featured
   - front_end_development
   - interaction_design
-article_id:
-  - a4PX1
-  - a4QC1
-  - a4sD1
 accent_color: "#e6772e"
 ---
 

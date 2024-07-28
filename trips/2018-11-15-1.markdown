@@ -13,4 +13,6 @@ itinerary:
   - label: Keflavík International Airport (KEF)
     locality: Keflavík
     country_name: Iceland
+tags:
+  - i4xW1
 ---

@@ -1,6 +1,7 @@
 ---
 title: My LA ex
-article_id: a43s1
+tags:
+  - a43s1
 comments:
   - author:
       name: Andy

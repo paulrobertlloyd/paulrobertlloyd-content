@@ -12,7 +12,7 @@ category:
   - united_states
 tags:
   - featured
-  - north_america_2008
+  - i3vs1
 ---
 
 ![Chicago buildings reflected in the Cloud Gate sculpture.](/media/2008/336/a1/cloud_gate.jpg "Cloud Gate, by Anish Kapoor.")

@@ -13,4 +13,6 @@ itinerary:
   - label: Manchester Piccadilly (MAN)
     locality: Manchester
     country_name: England
+tags:
+  - i4bC1
 ---

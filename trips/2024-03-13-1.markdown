@@ -7,4 +7,6 @@ itinerary:
   - label: Inverness (INV)
     locality: Inverness
     country_name: Scotland
+tags:
+  - i5Vv1
 ---

@@ -1,6 +1,7 @@
 ---
 title: Europa!
-article_id: a4081
+tags:
+  - a4081
 comments:
   - author:
       name: Jonathan Aquino

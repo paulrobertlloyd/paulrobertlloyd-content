@@ -13,4 +13,6 @@ itinerary:
   - label: Leicester (LEI)
     locality: Leicester
     country_name: England
+tags:
+  - i4tm1
 ---

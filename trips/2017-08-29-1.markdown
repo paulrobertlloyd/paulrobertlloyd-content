@@ -10,4 +10,6 @@ itinerary:
   - label: St Ives (SIV)
     locality: St Ives
     country_name: England
+tags:
+  - i4q51
 ---

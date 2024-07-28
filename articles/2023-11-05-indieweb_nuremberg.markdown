@@ -15,6 +15,7 @@ category:
   - germany
 tags:
   - featured
+  - i5Ta1
 ---
 
 Nuremberg is a beautiful Bavarian city. At least, I think it is, my undecidedness the result of spending much of my time there sat inside Orpheum for [border:none][1] and Tollwerk for [IndieWebCamp][2].

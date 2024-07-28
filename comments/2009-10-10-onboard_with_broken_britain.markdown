@@ -1,6 +1,7 @@
 ---
 title: Onboard with broken Britain
-article_id: a4271
+tags:
+  - a4271
 comments:
   - author:
       name: Jon Roobottom

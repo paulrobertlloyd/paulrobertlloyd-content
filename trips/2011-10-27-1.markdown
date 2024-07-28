@@ -7,4 +7,6 @@ itinerary:
   - label: Toronto Union Station
     locality: Toronto
     country_name: Canada
+tags:
+  - i4EU1
 ---

@@ -1,6 +1,7 @@
 ---
 title: A green focus
-article_id: a44K1
+tags:
+  - a44K1
 comments:
   - author:
       name: Lee

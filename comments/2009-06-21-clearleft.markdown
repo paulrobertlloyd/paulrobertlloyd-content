@@ -1,6 +1,7 @@
 ---
 title: Hello Clearleft
-article_id: a40G1
+tags:
+  - a40G1
 comments:
   - author:
       name: Chris Colhoun

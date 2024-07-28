@@ -7,4 +7,6 @@ itinerary:
   - label: Barcelona França
     locality: Barcelona
     country_name: Spain
+tags:
+  - i3z_1
 ---

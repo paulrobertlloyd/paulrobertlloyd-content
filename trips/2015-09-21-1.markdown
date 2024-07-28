@@ -7,4 +7,6 @@ itinerary:
   - label: Budapest Keleti
     locality: Budapest
     country_name: Hungary
+tags:
+  - i4dF1
 ---

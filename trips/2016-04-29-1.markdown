@@ -16,4 +16,6 @@ itinerary:
   - label: Bloxwich North (BWN)
     locality: Walsall
     country_name: England
+tags:
+  - i4h01
 ---

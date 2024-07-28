@@ -15,6 +15,7 @@ category:
   - photography
 tags:
   - featured
+  - i5TN1
 geojson:
   _height: 400
   _width: 1200

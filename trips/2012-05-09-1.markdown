@@ -10,4 +10,6 @@ itinerary:
   - label: Amsterdam Airport Schiphol (AMS)
     locality: Amsterdam
     country_name: Netherlands
+tags:
+  - i4Hp1
 ---

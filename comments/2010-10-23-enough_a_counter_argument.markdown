@@ -1,6 +1,7 @@
 ---
 title: "Enough: A counter argument"
-article_id: a48R1
+tags:
+  - a48R1
 comments:
   - author:
       name: Aegir

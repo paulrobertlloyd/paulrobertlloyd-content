@@ -1,6 +1,7 @@
 ---
 title: 28 days
-article_id: a3xw1
+tags:
+  - a3xw1
 comments:
   - author:
       name: Jon Roobottom

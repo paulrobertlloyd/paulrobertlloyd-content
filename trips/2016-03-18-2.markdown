@@ -7,4 +7,6 @@ itinerary:
   - label: Bristol Temple Meads (BRI)
     locality: Bristol
     country_name: England
+tags:
+  - i4gH1
 ---

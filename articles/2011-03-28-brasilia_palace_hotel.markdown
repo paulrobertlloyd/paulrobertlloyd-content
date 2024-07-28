@@ -16,6 +16,7 @@ category:
   - brazil
 tags:
   - featured
+  - i4Ai1
 ---
 
 ![The Brasília Palace Hotel.](/media/2011/087/a1/image.jpg)

@@ -7,4 +7,6 @@ itinerary:
   - label: Bahnhof Basel SBB
     locality: Basel
     country_name: Switzerland
+tags:
+  - i4jE1
 ---

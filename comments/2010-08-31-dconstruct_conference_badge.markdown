@@ -1,6 +1,7 @@
 ---
 title: A greener conference badge for dConstruct
-article_id: a47Y1
+tags:
+  - a47Y1
 comments:
   - author:
       name: Simon Edwards

@@ -6,6 +6,8 @@ photo:
     alt: "The complex dome of Cappella della Sacra Sindone in the foreground, and the distinctive slender and high-pointed dome of Mole Antonelliana in the background."
 syndication:
   - https://mastodon.social/@paulrobertlloyd/110878400171625503
+tags:
+  - i5SJ1
 ---
 
 Climbed a worryingly creaky and vertiginous staircase to reach the top of Turin Cathedral’s bell tower, but worth it for this photo of the distinctive domes of _Cappella della Sacra Sindone_{lang=it} and _Mole Antonelliana_{lang=it}, I reckon.

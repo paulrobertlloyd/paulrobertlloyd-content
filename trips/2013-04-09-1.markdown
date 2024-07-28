@@ -10,4 +10,6 @@ itinerary:
   - label: Greenwich (GNW)
     locality: Greenwich
     country_name: England
+tags:
+  - i4PQ1
 ---

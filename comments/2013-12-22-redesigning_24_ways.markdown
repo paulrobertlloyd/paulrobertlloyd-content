@@ -1,6 +1,7 @@
 ---
 title: Redesigning 24 ways
-article_id: a4Tg1
+tags:
+  - a4Tg1
 comments:
   - author:
       name: Yannik

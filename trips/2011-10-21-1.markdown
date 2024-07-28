@@ -10,4 +10,6 @@ itinerary:
   - label: Washington Dulles International Airport (IAD)
     locality: Dulles
     country_name: United States
+tags:
+  - i4EU1
 ---

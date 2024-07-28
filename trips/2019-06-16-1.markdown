@@ -13,4 +13,6 @@ itinerary:
   - label: Brighton (BTN)
     locality: Brighton
     country_name: England
+tags:
+  - i50w1
 ---

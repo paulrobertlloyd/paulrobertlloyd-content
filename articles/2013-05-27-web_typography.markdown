@@ -9,6 +9,8 @@ category:
   - bradshaws_guide
   - typography
   - web
+tags:
+  - w4sD1
 accent_color: "#e6772e"
 ---
 

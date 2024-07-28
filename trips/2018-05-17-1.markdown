@@ -10,4 +10,6 @@ itinerary:
   - label: Cabis Bay (CBB)
     locality: St Ives
     country_name: England
+tags:
+  - i4uS1
 ---

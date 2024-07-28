@@ -1,6 +1,7 @@
 ---
 title: New and improved
-article_id: a4Cz1
+tags:
+  - a4Cz1
 comments:
   - author:
       name: Francis

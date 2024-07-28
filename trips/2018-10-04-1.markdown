@@ -25,4 +25,6 @@ itinerary:
   - label: Malmö Central
     locality: Malmö
     country_name: Sweden
+tags:
+  - i4wa1
 ---

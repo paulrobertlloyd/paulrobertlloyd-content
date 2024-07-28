@@ -16,4 +16,6 @@ itinerary:
   - label: Preston Park (PRP)
     locality: Brighton
     country_name: England
+tags:
+  - i4PQ1
 ---

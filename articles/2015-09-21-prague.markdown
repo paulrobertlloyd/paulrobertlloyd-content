@@ -13,6 +13,8 @@ category:
   - czechia
   - europe
   - travel
+tags:
+  - i4dF1
 ---
 
 ![Prague Castle and St. Vitus Cathedral.](/media/2015/264/a1/st_vitrus_cathedral.jpg "Prague Castle and St. Vitus Cathedral viewed from the Charles Bridge.")

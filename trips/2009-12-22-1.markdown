@@ -7,4 +7,6 @@ itinerary:
   - label: Picton
     locality: Picton Ferry Terminal
     country_name: New Zealand
+tags:
+  - i43F1
 ---

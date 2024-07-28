@@ -1,6 +1,7 @@
 ---
 title: "Christian Bale rant: Batman edition"
-bookmark_id: b3y11
+tags:
+  - b3y11
 comments:
   - author:
       name: Fabricio Zuardi

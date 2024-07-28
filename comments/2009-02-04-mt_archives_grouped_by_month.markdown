@@ -1,6 +1,7 @@
 ---
 title: Entry Archives, Grouped by Month in Movable Type
-article_id: a3xz1
+tags:
+  - a3xz1
 comments:
   - author:
       name: Ben

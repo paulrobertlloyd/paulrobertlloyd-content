@@ -10,4 +10,6 @@ photo:
     alt: Symmetrical metal work on one corner of Dublin City Hall.
   - url: /media/2017/131/p1/4.jpg
     alt: James Joyce Bridge, Dublin.
+tags:
+  - i4oG1
 ---

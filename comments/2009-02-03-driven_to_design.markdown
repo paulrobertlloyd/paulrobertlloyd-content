@@ -1,6 +1,7 @@
 ---
 title: Driven to design
-article_id: a3xy1
+tags:
+  - a3xy1
 comments:
   - author:
       name: Jon Roobottom

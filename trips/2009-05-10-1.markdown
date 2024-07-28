@@ -13,4 +13,6 @@ itinerary:
   - label: Köln
     locality: Cologne
     country_name: Germany
+tags:
+  - i3z_1
 ---

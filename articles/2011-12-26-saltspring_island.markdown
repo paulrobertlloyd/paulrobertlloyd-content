@@ -10,7 +10,7 @@ category:
   - salt_spring_island
   - canada
 tags:
-  - north_america_2011
+  - i4EU1
 ---
 
 ![Sun setting over a calm sea.](/media/2011/360/a1/approach.jpg "Looking across the Salish Sea.")

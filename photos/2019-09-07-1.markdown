@@ -18,6 +18,8 @@ photo:
     alt: The historic center of Sintra with Moors Castle on hilltop above.
   - url: /media/2019/249/p1/8.jpg
     alt: Derelict yet colourful wall on a Sintra backstreet.
+tags:
+  - i52L1
 ---
 
 Lisbon is a beautiful city, but nearby Sintra is simply on another level. Views of and from _Castelo dos Mouros_{lang=pt} (Castle of the Moors) and _Palácio Nacional da Pena_{lang=pt} (Pena National Palace) are astounding, with the historic town below equally as picturesque. Wow!

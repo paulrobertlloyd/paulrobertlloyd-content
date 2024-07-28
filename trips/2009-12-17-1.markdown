@@ -10,4 +10,6 @@ itinerary:
   - label: Auckland Airport (AKL)
     locality: Auckland
     country_name: New Zealand
+tags:
+  - i43F1
 ---

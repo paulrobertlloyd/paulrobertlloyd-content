@@ -10,4 +10,6 @@ itinerary:
   - label: Milton Keynes Central (MKC)
     locality: Milton Keynes
     country_name: England
+tags:
+  - i4S71
 ---

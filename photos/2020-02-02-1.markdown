@@ -4,6 +4,8 @@ time_zone: Europe/Oslo
 photo:
   - url: /media/2020/033/p1/1.jpg
     alt: "Headstone reads: “In loving memory of George Bradshaw of Manchester, England who died at Christiania September 6th 1853 aged 53 years”."
+tags:
+  - i54k1
 ---
 
 Surprisingly emotional as I visit the grave of George Bradshaw in Oslo. As fate would have it, the old town’s graveyard is sat right next to a railway.

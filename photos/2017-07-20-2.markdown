@@ -10,6 +10,8 @@ photo:
     alt: UP#3 (Lang/Baumann, 2017).
   - url: /media/2017/201/p2/4.jpg
     alt: Colors on the Beach (Karel Martens, 2017).
+tags:
+  - i4pS1
 ---
 
 First morning exploring Le Havre.

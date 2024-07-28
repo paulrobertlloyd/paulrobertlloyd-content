@@ -1,6 +1,3 @@
 ---
 title: Newquay
-trip_id:
-  - t5DD1
-  - t5DG1
 ---

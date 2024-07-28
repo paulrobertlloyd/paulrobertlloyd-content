@@ -10,4 +10,6 @@ itinerary:
   - label: Wien
     locality: Vienna
     country_name: Austria
+tags:
+  - i5Wt1
 ---

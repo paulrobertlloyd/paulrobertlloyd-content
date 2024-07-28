@@ -16,4 +16,6 @@ itinerary:
   - label: Guernsey Ferry Port
     locality: St. Peter Port
     country_name: Guernsey
+tags:
+  - i4JD1
 ---

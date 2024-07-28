@@ -22,4 +22,6 @@ itinerary:
   - label: Dublin Port
     locality: Dublin
     country_name: Ireland
+tags:
+  - i4oG1
 ---

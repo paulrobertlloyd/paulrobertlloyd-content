@@ -14,6 +14,8 @@ photo:
     alt: Sigriður Tómasdóttir memorial.
   - url: /media/2018/322/p1/6.jpg
     alt: Gullfoss waterfall from above.
+tags:
+  - i4xW1
 ---
 
 Photos from my brief tour around Iceland’s Golden Circle. Featuring the tectonic plate boundary at Þingvellir, the geysers at Haukadalur and the stunning waterfall at Gullfoss.

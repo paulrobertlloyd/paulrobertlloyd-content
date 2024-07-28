@@ -7,4 +7,6 @@ itinerary:
   - label: Innsbruck
     locality: Innsbruck
     country_name: Austria
+tags:
+  - i3z_1
 ---

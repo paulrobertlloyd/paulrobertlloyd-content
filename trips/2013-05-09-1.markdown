@@ -13,4 +13,6 @@ itinerary:
   - label: Newport (NWP)
     locality: Newport
     country_name: Wales
+tags:
+  - i4Pu1
 ---

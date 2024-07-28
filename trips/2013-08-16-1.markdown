@@ -22,4 +22,6 @@ itinerary:
   - label: Shanklin (SHN)
     locality: Shanklin
     country_name: England
+tags:
+  - i4RZ1
 ---

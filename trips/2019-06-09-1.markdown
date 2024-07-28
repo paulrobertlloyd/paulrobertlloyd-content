@@ -16,4 +16,6 @@ itinerary:
   - label: Maastricht
     locality: Maastricht
     country_name: Netherlands
+tags:
+  - i50w1
 ---

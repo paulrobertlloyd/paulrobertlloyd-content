@@ -6,6 +6,8 @@ photo:
     alt: Pen sketch of Hôtel de ville du Havre.
   - url: /media/2017/204/p3/2.jpg
     alt: Pen sketch of fishing boats in Quai Notre Dame.
+tags:
+  - i4pS1
 ---
 
 For the first time in _decades_, I sat down and drew… with reasonable success?

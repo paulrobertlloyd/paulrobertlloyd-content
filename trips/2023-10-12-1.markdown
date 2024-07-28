@@ -7,4 +7,6 @@ itinerary:
   - label: Angmering (ANG)
     locality: East Preston
     country_name: England
+tags:
+  - i5TN1
 ---

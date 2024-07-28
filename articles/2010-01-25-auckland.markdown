@@ -10,7 +10,7 @@ category:
   - new_zealand
   - auckland
 tags:
-  - australasia_2009
+  - i43F1
 ---
 
 ![Auckland’s CBD viewed from atop Mount Eden.](/media/2010/025/a1/cbd.jpg "Auckland’s CBD viewed from atop Mount Eden.")

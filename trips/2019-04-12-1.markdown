@@ -10,4 +10,6 @@ itinerary:
   - label: Margate (MAR)
     locality: Margate
     country_name: England
+tags:
+  - i4zy1
 ---

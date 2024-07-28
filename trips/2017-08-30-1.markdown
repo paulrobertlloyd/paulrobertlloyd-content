@@ -13,4 +13,6 @@ itinerary:
   - label: Newquay (NQY)
     locality: Newquay
     country_name: England
+tags:
+  - i4q51
 ---

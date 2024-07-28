@@ -16,4 +16,6 @@ itinerary:
   - label: Walsall (WSL)
     locality: Walsall
     country_name: England
+tags:
+  - i4vm1
 ---

@@ -7,4 +7,6 @@ itinerary:
   - label: London Heathrow Airport (LHR)
     locality: London
     country_name: England
+tags:
+  - i3xp1
 ---

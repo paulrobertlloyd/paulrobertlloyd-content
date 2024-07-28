@@ -12,7 +12,7 @@ category:
   - united_states
 tags:
   - featured
-  - north_america_2008
+  - i3vs1
 ---
 
 ![The Space Needle with the Experience Music Project in the foreground.](/media/2008/280/a1/seattle_center.jpg "The Space Needle with the Experience Music Project in the foreground.")

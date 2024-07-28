@@ -13,4 +13,6 @@ itinerary:
   - label: Düsseldorf
     locality: Düsseldorf
     country_name: Germany
+tags:
+  - i5Wt1
 ---

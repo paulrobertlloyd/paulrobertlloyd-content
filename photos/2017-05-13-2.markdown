@@ -4,6 +4,8 @@ time_zone: Europe/Dublin
 photo:
   - url: /media/2017/133/p2/1.jpg
     alt: A friendly horse.
+tags:
+  - i4oG1
 ---
 
 Also, this guy.

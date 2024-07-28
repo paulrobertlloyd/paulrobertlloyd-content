@@ -11,7 +11,7 @@ category:
   - los_angeles
   - immigration
 tags:
-  - australasia_2009
+  - i43F1
 ---
 
 [![The Encounter Restaurant at LAX.](/media/2010/023/a1/image.jpg "The Encounter Restaurant at LAX, where I would have eaten that evening had I not been interviewed by immigration officers. Photograph: J Brew")][i1]

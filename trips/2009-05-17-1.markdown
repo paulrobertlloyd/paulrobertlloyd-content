@@ -10,4 +10,6 @@ itinerary:
   - label: Lucerne
     locality: Lucerne
     country_name: Switzerland
+tags:
+  - i3z_1
 ---

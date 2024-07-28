@@ -10,7 +10,9 @@ photo:
   - url: /media/2024/080/p1/4.jpg
     alt: "A large concrete suspension bridge in the distance, with rocky shoreline in the foreground."
 syndication:
-- https://mastodon.social/@paulrobertlloyd/112130041750626307
+  - https://mastodon.social/@paulrobertlloyd/112130041750626307
+tags:
+  - i5Vv1
 ---
 
 Back on the Caledonian Sleeper after spending a relaxing week in Inverness. I’ve thoroughly enjoyed exploring this small part of the Scottish Highlands, especially this splendid city.

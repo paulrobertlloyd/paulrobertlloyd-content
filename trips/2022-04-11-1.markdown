@@ -13,4 +13,6 @@ itinerary:
   - label: Aberdeen (ABD)
     locality: Aberdeen
     country_name: Scotland
+tags:
+  - i5JD1
 ---

@@ -1,6 +1,7 @@
 ---
 title: Tailored for England
-article_id: a3ys1
+tags:
+  - a3ys1
 comments:
 - author:
     name: trovster

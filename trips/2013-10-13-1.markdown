@@ -7,4 +7,6 @@ itinerary:
   - label: Gatwick Airport (LGW)
     locality: Gatwick
     country_name: England
+tags:
+  - i4SR1
 ---

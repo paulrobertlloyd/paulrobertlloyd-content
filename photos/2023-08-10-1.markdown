@@ -20,6 +20,8 @@ photo:
     alt: "Sun catches the trees in the behind a stone amphitheatre, casting a rainbow over the photo."
 syndication:
   - https://mastodon.social/@paulrobertlloyd/110867379168381437
+tags:
+  - i5SJ1
 ---
 
 Brief stop in Lyon en route to Turin. A beautiful and peaceful city bisected by two verdant rivers, Rhône and Saône. Crepes for lunch, quick dash up the hill to Fourvière on a funicular railway to see the Roman amphitheatres before heading to the railway station and on to my next stop.

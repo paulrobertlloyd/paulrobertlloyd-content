@@ -10,6 +10,8 @@ photo:
     alt: Boats moored on Outer Alster Lake.
   - url: /media/2018/283/p1/4.jpg
     alt: Vivid sunset over Binnenalster with cityscape in the distance.
+tags:
+  - i4wa1
 ---
 
 What a treat, to visit such an amazing city during the most colourful time of the year. _Wir sehen uns bald wieder, Hamburg!_{lang=de}

@@ -1,7 +1,4 @@
 ---
 title: Walsall
 summary: Kris’ stag night.
-trip_id:
-  - t4Q91
-  - t4QC1
 ---

@@ -10,4 +10,6 @@ itinerary:
   - label: Brussels-South
     locality: Brussels
     country_name: Belgium
+tags:
+  - i4Re1
 ---

@@ -1,6 +1,7 @@
 ---
 title: Nothing green about SXSW
-article_id: a3yd1
+tags:
+  - a3yd1
 comments:
   - author:
       name: Jon Roobottom

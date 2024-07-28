@@ -7,4 +7,6 @@ itinerary:
   - label: Rome Ciampino Giovan Battista Pastine Airport (CIA)
     locality: Rome
     country_name: Italy
+tags:
+  - i3h51
 ---

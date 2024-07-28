@@ -1,6 +1,7 @@
 ---
 title: Learning to sketch
-article_id: a4601
+tags:
+  - a4601
 comments:
   - author:
       name: Ken

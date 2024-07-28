@@ -7,4 +7,6 @@ itinerary:
   - label: McCarran International Airport (LAS)
     locality: Las Vegas
     country_name: United States
+tags:
+  - i3kY1
 ---

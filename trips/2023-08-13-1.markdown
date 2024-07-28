@@ -7,4 +7,6 @@ itinerary:
   - label: Milano Centrale
     locality: Milan
     country_name: Italy
+tags:
+  - i5SJ1
 ---

@@ -16,4 +16,6 @@ itinerary:
   - label: Amsterdam Amstel
     locality: Amsterdam
     country_name: Netherlands
+tags:
+  - i4hn1
 ---

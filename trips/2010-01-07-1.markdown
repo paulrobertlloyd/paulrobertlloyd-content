@@ -10,4 +10,6 @@ itinerary:
   - label: London Heathrow Airport (LHR)
     locality: London
     country_name: England
+tags:
+  - i43F1
 ---

@@ -16,4 +16,6 @@ itinerary:
   - label: Portland International Airport (PDX)
     locality: Portland
     country_name: United States
+tags:
+  - i4Kv1
 ---

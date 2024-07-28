@@ -33,6 +33,8 @@ photo:
     alt: Sculpture.
   - url: /media/2015/061/p2/16.jpg
     alt: Olympic Swimming Pool.
+tags:
+  - i4_W1
 ---
 
 A common aspect of my travels is visiting former Olympic stadiums, and my trip to Berlin was no different.

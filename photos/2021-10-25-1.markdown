@@ -9,6 +9,8 @@ photo:
     alt: Red brick tower above Hamilton Square station advertising ‘frequent electric trains’.
   - url: /media/2021/298/p1/4.jpg
     alt: Underground platforms of Hamilton Square station.
+tags:
+  - i5FN1
 ---
 
 A few more photos from my weekend trip to Merseyside. On Sunday, I took the train under the river and over to New Brighton – how could I not – before walking down to Birkenhead and back under again. Plenty of transport infrastructure to get excited about!

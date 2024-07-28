@@ -10,4 +10,6 @@ itinerary:
   - label: Paris-Gare-de-Lyon
     locality: Paris
     country_name: France
+tags:
+  - i4dF1
 ---

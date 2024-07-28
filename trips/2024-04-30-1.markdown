@@ -19,4 +19,6 @@ itinerary:
   - label: Leeds (LDS)
     locality: Leeds
     country_name: England
+tags:
+  - i5Wi1
 ---

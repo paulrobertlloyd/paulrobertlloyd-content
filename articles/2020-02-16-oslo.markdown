@@ -18,7 +18,7 @@ category:
   - railways
 tags:
   - featured
-  - scandinavian_sojourn
+  - i54k1
 geojson:
   _height: 360
   _width: 360

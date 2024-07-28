@@ -4,6 +4,8 @@ time_zone: Europe/Dublin
 photo:
   - url: /media/2017/132/p1/1.jpg
     alt: Paper cup with an illustration of the Coffeework + Press building on its side.
+tags:
+  - i4oG1
 ---
 
 There’s a lovely illustration on this coffee cup.

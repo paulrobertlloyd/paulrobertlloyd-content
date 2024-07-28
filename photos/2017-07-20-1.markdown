@@ -4,6 +4,8 @@ time_zone: Europe/Paris
 photo:
   - url: /media/2017/201/p1/1.jpg
     alt: Fluted concrete column.
+tags:
+  - i4pS1
 ---
 
 This is some damn sexy concrete! 😍

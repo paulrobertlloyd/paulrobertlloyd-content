@@ -1,6 +1,7 @@
 ---
 title: Lanyards. What are they good for?
-article_id: a4c21
+tags:
+  - a4c21
 comments:
   - author:
       name: Richard Rutter

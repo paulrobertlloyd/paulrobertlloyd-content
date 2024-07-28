@@ -12,6 +12,8 @@ category:
   - travel
   - san_francisco
   - united_states
+tags:
+  - i4Ai1
 ---
 
 ![Boats docked in Fisherman’s Wharf.](/media/2011/082/a1/fishermans_wharf.jpg "Boats docked in Fisherman’s Wharf.")

@@ -1,6 +1,7 @@
 ---
 title: "The pursuit of laziness: thoughts from Responsive Day Out"
-article_id: a4Wt1
+tags:
+  - a4Wt1
 comments:
   - author:
       name: Ida Aalen

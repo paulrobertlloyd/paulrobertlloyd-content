@@ -1,6 +1,7 @@
 ---
 title: An Apple by any other name
-article_id: a3yN1
+tags:
+  - a3yN1
 comments:
   - author:
       name: Mark Otto

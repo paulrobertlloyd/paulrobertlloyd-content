@@ -1,6 +1,7 @@
 ---
 title: British triumph coming shortly
-article_id: a3yQ1
+tags:
+  - a3yQ1
 comments:
   - author:
       name: Jon Roobottom

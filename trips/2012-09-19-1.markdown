@@ -10,4 +10,6 @@ itinerary:
   - label: São Paulo-Guarulhos International Airport (GRU)
     locality: Guarulhos
     country_name: Brazil
+tags:
+  - i4Kv1
 ---

@@ -7,4 +7,6 @@ itinerary:
   - label: Emeryville
     locality: Emeryville
     country_name: United States
+tags:
+  - i3vs1
 ---

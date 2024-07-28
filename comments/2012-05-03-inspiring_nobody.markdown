@@ -1,6 +1,7 @@
 ---
 title: Inspiring nobody
-article_id: a4Hi1
+tags:
+  - a4Hi1
 comments:
   - author:
       name: Jonathon Blok

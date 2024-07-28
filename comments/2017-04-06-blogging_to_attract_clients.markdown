@@ -1,6 +1,7 @@
 ---
 title: Using your blog to attract new clients
-article_id: a4nh1
+tags:
+  - a4nh1
 comments:
   - author:
       name: Dmitry Dragilev

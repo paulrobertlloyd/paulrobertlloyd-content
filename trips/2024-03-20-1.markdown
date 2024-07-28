@@ -7,4 +7,6 @@ itinerary:
   - label: London Euston (EUS)
     locality: London
     country_name: England
+tags:
+  - i5Vv1
 ---

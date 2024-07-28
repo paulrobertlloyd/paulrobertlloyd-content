@@ -7,4 +7,6 @@ itinerary:
   - label: Florence Santa Maria Novella
     locality: Florence
     country_name: Italy
+tags:
+  - i3h51
 ---

@@ -1,6 +1,7 @@
 ---
 title: Historic counties and Psychoville
-article_id: a40J1
+tags:
+  - a40J1
 comments:
   - author:
       name: Cole

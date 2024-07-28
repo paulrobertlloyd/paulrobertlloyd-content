@@ -7,4 +7,6 @@ itinerary:
   - label: Rouen-Rive-Droite
     locality: Rouen
     country_name: France
+tags:
+  - i4pS1
 ---

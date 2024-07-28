@@ -16,6 +16,7 @@ category:
   - travel
 tags:
   - featured
+  - i5Jx1
 accent_color: "#ff8000"
 ---
 

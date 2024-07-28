@@ -1,6 +1,7 @@
 ---
 title: Simply Walsall
-article_id: a3y51
+tags:
+  - a3y51
 comments:
   - author:
       name: Kris

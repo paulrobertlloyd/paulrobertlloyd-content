@@ -34,4 +34,6 @@ itinerary:
   - label: Southampton Cruise Terminal
     locality: Southampton
     country_name: England
+tags:
+  - i4um1
 ---

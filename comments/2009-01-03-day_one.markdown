@@ -1,6 +1,7 @@
 ---
 title: Day one
-article_id: a3xT1
+tags:
+  - a3xT1
 comments:
   - author:
       name: Jonathan Aquino

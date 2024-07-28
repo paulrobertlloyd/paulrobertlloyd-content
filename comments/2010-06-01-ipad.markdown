@@ -1,6 +1,7 @@
 ---
 title: Four hundred and twenty-nine pounds
-article_id: a4611
+tags:
+  - a4611
 comments:
   - author:
       name: devolute

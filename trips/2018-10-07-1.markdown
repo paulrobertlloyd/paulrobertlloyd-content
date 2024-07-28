@@ -13,4 +13,6 @@ itinerary:
   - label: Hamburg
     locality: Hamburg
     country_name: Germany
+tags:
+  - i4wa1
 ---

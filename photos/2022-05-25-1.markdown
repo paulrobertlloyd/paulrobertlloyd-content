@@ -6,6 +6,8 @@ photo:
     alt: Gare de Nice Ville railway station as dusk sets in.
 syndication:
   - https://glass.photo/paulrobertlloyd/UEaQxFGPh6O9eMOkoY0tn
+tags:
+  - i5Jx1
 ---
 
 Nice train station.

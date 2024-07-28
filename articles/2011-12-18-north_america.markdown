@@ -7,7 +7,7 @@ category:
   - united_states
   - canada
 tags:
-  - north_america_2011
+  - i4EU1
 ---
 
 At the end of last year I stated that [I’d only be taking one long-haul trip this year][1], one that would take in Austin, San Francisco and Canada. Between then and March, my itinerary changed so that I could visit my brother in Brazil (and indulge in a [bit of utopian architecture][2] on the way) but it was a tough decision. Ever since visiting [Montreal in 2007][3], I’ve long wanted to see more of Canada.

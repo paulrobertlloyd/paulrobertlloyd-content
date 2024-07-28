@@ -10,7 +10,7 @@ category:
   - san_francisco
   - united_states
 tags:
-  - north_america_2011
+  - i4EU1
 ---
 
 ![Three surfers walking into the sunset on Ocean Beach.](/media/2012/001/a1/ocean_beach.jpg "Sun setting over Ocean Beach.")

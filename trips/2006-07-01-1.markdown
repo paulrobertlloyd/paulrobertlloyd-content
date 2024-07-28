@@ -7,4 +7,6 @@ itinerary:
   - label: London Luton Airport (LTN)
     locality: Luton
     country_name: England
+tags:
+  - i3h51
 ---

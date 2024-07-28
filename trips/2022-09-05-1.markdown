@@ -7,4 +7,6 @@ itinerary:
   - label: Madrid Chamartín
     locality: Madrid
     country_name: Spain
+tags:
+  - i5LS1
 ---

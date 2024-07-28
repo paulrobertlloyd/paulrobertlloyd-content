@@ -10,4 +10,6 @@ itinerary:
   - label: Sydney Airport (SYD)
     locality: Sydney
     country_name: Australia
+tags:
+  - i3Ry1
 ---

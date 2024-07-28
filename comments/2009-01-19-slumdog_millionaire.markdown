@@ -1,6 +1,7 @@
 ---
 title: Slumdog Millionaire
-article_id: a3xi1
+tags:
+  - a3xi1
 comments:
   - author:
       name: trovster

@@ -1,6 +1,7 @@
 ---
 title: I’m running a marathon (and a half)
-article_id: a4Fv1
+tags:
+  - a4Fv1
 comments:
   - author:
       name: Jon Roobottom

@@ -7,4 +7,6 @@ itinerary:
   - label: Caesars Palace Hotel & Casino
     locality: Las Vegas
     country_name: United States
+tags:
+  - i4Gn1
 ---

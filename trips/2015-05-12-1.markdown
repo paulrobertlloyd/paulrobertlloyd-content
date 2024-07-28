@@ -7,4 +7,6 @@ itinerary:
   - label: Bath Spa (BTH)
     locality: Bath
     country_name: England
+tags:
+  - i4b71
 ---

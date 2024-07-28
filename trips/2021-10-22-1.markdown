@@ -13,4 +13,6 @@ itinerary:
   - label: Liverpool Lime Street (LIV)
     locality: Liverpool
     country_name: England
+tags:
+  - i5FN1
 ---

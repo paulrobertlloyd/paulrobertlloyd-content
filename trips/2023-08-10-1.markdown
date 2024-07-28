@@ -7,4 +7,6 @@ itinerary:
   - label: Torino Porta Susa
     locality: Turin
     country_name: Italy
+tags:
+  - i5SJ1
 ---

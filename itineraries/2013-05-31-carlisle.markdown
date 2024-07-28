@@ -1,7 +1,4 @@
 ---
 title: Carlisle
 summary: University reunion.
-trip_id:
-  - t4QG1
-  - t4QJ1
 ---

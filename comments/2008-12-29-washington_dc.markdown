@@ -1,6 +1,7 @@
 ---
 title: "Washington, DC: A monumental city"
-article_id: a3xN1
+tags:
+  - a3xN1
 comments:
   - author:
       name: Jonathan Aquino

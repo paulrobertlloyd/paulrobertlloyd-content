@@ -7,4 +7,6 @@ itinerary:
   - label: Melbourne Airport (MEL)
     locality: Melbourne
     country_name: Australia
+tags:
+  - i43F1
 ---

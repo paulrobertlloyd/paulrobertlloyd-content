@@ -5,6 +5,8 @@ photo:
     alt: Front of a RENFE Class 730 with its long sweeping nose.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/108889557309987967
+tags:
+  - i5LS1
 ---
 
 Nose job.

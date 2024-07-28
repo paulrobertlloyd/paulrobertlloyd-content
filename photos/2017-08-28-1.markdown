@@ -9,6 +9,8 @@ photo:
     alt: Night Riviera Sleeper carriage.
   - url: /media/2017/240/p1/4.jpg
     alt: Open door to one of the carriages.
+tags:
+  - i4q51
 ---
 
 Crossing “travel on both British sleeper trains” off from my bucket list. 🚆🛌💤

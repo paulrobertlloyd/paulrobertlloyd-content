@@ -16,4 +16,6 @@ itinerary:
   - label: Lyon-Part-Dieu
     locality: Lyon
     country_name: France
+tags:
+  - i5SJ1
 ---

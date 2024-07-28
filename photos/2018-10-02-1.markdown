@@ -4,6 +4,8 @@ time_zone: Europe/Berlin
 photo:
   - url: /media/2018/275/p1/1.jpg
     alt: Highly contrasting lines on a glass covered building.
+tags:
+  - i4wa1
 ---
 
 Potsdamer Platz.

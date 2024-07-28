@@ -13,4 +13,6 @@ itinerary:
   - label: Glasgow Central (GLC)
     locality: Glasgow
     country_name: Scotland
+tags:
+  - i4WU1
 ---

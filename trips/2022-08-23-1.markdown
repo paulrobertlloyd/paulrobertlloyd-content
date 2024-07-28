@@ -10,4 +10,6 @@ itinerary:
   - label: Amara Donostia
     locality: Donostia-San Sebastián
     country_name: Spain
+tags:
+  - i5LS1
 ---

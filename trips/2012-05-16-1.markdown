@@ -10,4 +10,6 @@ itinerary:
   - label: Copenhagen Airport, Kastrup (CPH)
     locality: Kastrup
     country_name: Denmark
+tags:
+  - i4Hw1
 ---

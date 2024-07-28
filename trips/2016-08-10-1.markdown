@@ -13,4 +13,6 @@ itinerary:
   - label: Nottingham (NOT)
     locality: Nottingham
     country_name: England
+tags:
+  - i4ii1
 ---

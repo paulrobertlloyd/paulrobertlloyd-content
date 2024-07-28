@@ -7,4 +7,6 @@ itinerary:
   - label: Como San Giovanni
     locality: Como
     country_name: Italy
+tags:
+  - i5SJ1
 ---

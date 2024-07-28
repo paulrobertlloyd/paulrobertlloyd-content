@@ -10,4 +10,6 @@ itinerary:
   - label: Oslo Central
     locality: Oslo
     country_name: Norway
+tags:
+  - i54k1
 ---

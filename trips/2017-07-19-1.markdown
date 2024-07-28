@@ -22,4 +22,6 @@ itinerary:
   - label: Le Havre
     locality: Le Harve
     country_name: France
+tags:
+  - i4pS1
 ---

@@ -1,6 +1,7 @@
 ---
 title: 28 days later
-article_id: a3yP1
+tags:
+  - a3yP1
 comments:
   - author:
       name: Fabricio Zuardi

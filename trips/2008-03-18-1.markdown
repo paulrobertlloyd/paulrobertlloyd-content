@@ -7,4 +7,6 @@ itinerary:
   - label: Union Station
     locality: Chicago
     country_name: United States
+tags:
+  - i3sQ1
 ---

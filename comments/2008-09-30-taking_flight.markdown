@@ -1,6 +1,7 @@
 ---
 title: Taking flight
-article_id: a3vs1
+tags:
+  - a3vs1
 comments:
   - author:
       name: Fabricio Zuardi

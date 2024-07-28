@@ -10,7 +10,7 @@ category:
   - washington_dc
   - united_states
 tags:
-  - north_america_2011
+  - i4EU1
 ---
 
 ![Shannon looking towards the Lincoln Memorial.](/media/2011/353/a1/lincoln_memorial.jpg "Shannon looking towards the Lincoln Memorial.")

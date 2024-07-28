@@ -7,4 +7,6 @@ itinerary:
   - label: Stirling (STG)
     locality: Stirling
     country_name: Scotland
+tags:
+  - i4WU1
 ---

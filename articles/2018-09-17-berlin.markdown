@@ -12,6 +12,8 @@ category:
   - travel
   - personal
   - freelancing
+tags:
+  - i4wa1
 ---
 
 It occurred to me the other day that it’s been almost ten years since I [moved to the South Coast][1], briefly living in Littlehampton before settling in Brighton. This milestone coincides with thoughts to the future, and whether I want to remain in Brighton for the foreseeable, or look for my next adventure.

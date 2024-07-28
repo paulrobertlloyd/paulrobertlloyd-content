@@ -7,4 +7,6 @@ itinerary:
   - label: Littlehampton (LIT)
     locality: Littlehampton
     country_name: England
+tags:
+  - i5Qh1
 ---

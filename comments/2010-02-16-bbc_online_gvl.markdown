@@ -1,6 +1,7 @@
 ---
 title: A new visual design language for BBC Online
-article_id: a44G1
+tags:
+  - a44G1
 comments:
   - author:
       name: Paul Annett

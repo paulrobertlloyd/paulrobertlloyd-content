@@ -1,6 +1,7 @@
 ---
 title: Trimming the fat
-article_id: a4Lk1
+tags:
+  - a4Lk1
 comments:
   - author:
       name: Marc Falk

@@ -11,6 +11,8 @@ photo:
 category:
   - bradshaws_guide
   - travel
+tags:
+  - w4sD1
 accent_color: "#e6772e"
 ---
 

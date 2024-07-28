@@ -13,4 +13,6 @@ itinerary:
   - label: Carlisle (CAR)
     locality: Carlisle
     country_name: England
+tags:
+  - i4QG1
 ---

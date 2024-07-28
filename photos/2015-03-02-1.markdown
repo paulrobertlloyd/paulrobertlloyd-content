@@ -41,6 +41,8 @@ photo:
     alt: Star.
   - url: /media/2015/061/p1/20.jpg
     alt: Berlin Fernsehturm (Television Tower) at night.
+tags:
+  - i4_W1
 ---
 
 Scenes from central Berlin, during my brief visit in February 2015.

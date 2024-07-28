@@ -6,6 +6,8 @@ photo:
     alt: An old Dutch church at the end of a tree-lined canal.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/110508512587632703
+tags:
+  - i5RF1
 ---
 
 Spending 2 days inside Amsterdam’s Zuiderkerk, care the of the wonderful folk at CSS Day. With so many powerful new front-end features to dig into, much like the weather, it’s a glorious time to be a web developer.

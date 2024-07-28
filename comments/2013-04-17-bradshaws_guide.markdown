@@ -1,6 +1,7 @@
 ---
 title: (Re)introducing Bradshaw’s Guide
-article_id: a4PX1
+tags:
+  - a4PX1
 comments:
   - author:
       name: Nick Harewood

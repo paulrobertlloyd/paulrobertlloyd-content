@@ -1,6 +1,7 @@
 ---
 title: iWant
-article_id: a48g1
+tags:
+  - a48g1
 comments:
   - author:
       name: Tanya

@@ -17,6 +17,7 @@ category:
   - history
 tags:
   - featured
+  - i4wa1
 ---
 
 Stood below the immense canopy that covers the apron of Berlin’s [Tempelhof Airport][1], our guide starts his tour with a passionate defence of the building’s design: “This is not Nazi architecture, this is modern architecture. Hitler never stepped inside – he hated it”.

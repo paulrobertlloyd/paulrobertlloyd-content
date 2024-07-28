@@ -10,6 +10,8 @@ photo:
     alt: Farm Track.
   - url: /media/2017/133/p1/4.jpg
     alt: The Aisling Siobhan moored at Roundstone Quay.
+tags:
+  - i4oG1
 ---
 
 Photos from around Connemara, a truly awe-inspiring location.

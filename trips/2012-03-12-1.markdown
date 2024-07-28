@@ -7,4 +7,6 @@ itinerary:
   - label: Holiday Inn Express & Suites Albuquerque Historic Old Town
     locality: Albuquerque
     country_name: United States
+tags:
+  - i4Gn1
 ---

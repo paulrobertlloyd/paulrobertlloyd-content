@@ -1,6 +1,7 @@
 ---
 title: "Auckland: A city in search of itself"
-article_id: a43u1
+tags:
+  - a43u1
 comments:
   - author:
       name: Jon Roobottom

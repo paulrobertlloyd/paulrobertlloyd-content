@@ -13,6 +13,8 @@ category:
   - germany
   - europe
   - travel
+tags:
+  - i4_W1
 ---
 
 ![The Brandeburg Gate.](/media/2015/061/a1/brandenburg_gate.jpg "The Brandeburg Gate.")

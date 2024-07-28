@@ -1,6 +1,7 @@
 ---
 title: Conferences shouldn’t cost the Earth
-article_id: a4iy1
+tags:
+  - a4iy1
 comments:
   - author:
       name: Chris Armstrong

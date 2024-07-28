@@ -13,4 +13,6 @@ itinerary:
   - label: Brasília–Presidente Juscelino Kubitschek International Airport (BSB)
     locality: Brasília
     country_name: Brazil
+tags:
+  - i4Ai1
 ---

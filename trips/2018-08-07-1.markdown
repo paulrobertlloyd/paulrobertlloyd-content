@@ -7,4 +7,6 @@ itinerary:
   - label: Edinburgh Waverley (EDB)
     locality: Edinburgh
     country_name: Scotland
+tags:
+  - i4vm1
 ---

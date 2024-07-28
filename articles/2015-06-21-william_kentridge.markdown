@@ -12,6 +12,8 @@ category:
   - art
   - exhibitions
   - william_kentridge
+tags:
+  - i4bc1
 accent_color: "#812"
 ---
 

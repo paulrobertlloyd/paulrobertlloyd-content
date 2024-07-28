@@ -11,7 +11,7 @@ category:
   - washington_dc
   - united_states
 tags:
-  - north_america_2008
+  - i3vs1
 ---
 
 ![Red and white roses set against the black marble of the Vietnam Veterans Memorial.](/media/2008/364/a1/vietnam_memorial.jpg "The Vietnam Veterans Memorial.")

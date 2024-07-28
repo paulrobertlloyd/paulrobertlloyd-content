@@ -16,4 +16,6 @@ itinerary:
   - label: Brighton (BTN)
     locality: Brighton
     country_name: England
+tags:
+  - i5Ta1
 ---

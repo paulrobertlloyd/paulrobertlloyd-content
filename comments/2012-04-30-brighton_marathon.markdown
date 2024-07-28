@@ -1,6 +1,7 @@
 ---
 title: Marathon man
-article_id: a4Hf1
+tags:
+  - a4Hf1
 comments:
   - author:
       name: Jon Roobottom

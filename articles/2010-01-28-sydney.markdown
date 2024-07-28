@@ -11,7 +11,7 @@ category:
   - sydney
   - new_years
 tags:
-  - australasia_2009
+  - i43F1
 ---
 
 ![View of Sydney Harbour from above.](/media/2010/028/a1/harbour.jpg "View of Sydney Harbour on the approach to Sydney Airport.")

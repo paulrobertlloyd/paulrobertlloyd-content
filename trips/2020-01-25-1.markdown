@@ -7,4 +7,6 @@ itinerary:
   - label: Copenhagen Central
     locality: Copenhagen
     country_name: Denmark
+tags:
+  - i54k1
 ---

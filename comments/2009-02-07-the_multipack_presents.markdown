@@ -1,6 +1,7 @@
 ---
 title: The Multipack Presents…
-article_id: a3y21
+tags:
+  - a3y21
 comments:
   - author:
       name: Jon Roobottom

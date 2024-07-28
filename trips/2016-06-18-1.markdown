@@ -7,4 +7,6 @@ itinerary:
   - label: Utrecht Centraal
     locality: Utrecht
     country_name: Netherlands
+tags:
+  - i4hn1
 ---

@@ -12,6 +12,8 @@ photo:
     alt: Looking up at a tall and slender concrete communications tower with two glass-frontend floors that spread outwards near the top. A red and white mast sits on the very top of the structure.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112439784863793109
+tags:
+  - i5Wt1
 ---
 
 Evening in Düsseldorf: Christoph Pöggeler’s _The Photographer_ positioned opposite the _Hauptbahnhof_{lang=de}, Guery Buildings in _Medienhafen_{lang=de}, contrasting architecture near _Graf-Adolz-Platz_{lang=de} and the iconic _Reihnturm_{lang=de} telecommunications tower.

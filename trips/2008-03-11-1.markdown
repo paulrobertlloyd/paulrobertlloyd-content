@@ -10,4 +10,6 @@ itinerary:
   - label: Norman Y. Mineta San Jose International Airport (SJC)
     locality: San Jose
     country_name: United States
+tags:
+  - i3sQ1
 ---

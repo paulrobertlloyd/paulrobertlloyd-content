@@ -1,6 +1,7 @@
 ---
 title: One hour in Belgium
-article_id: a3z_1
+tags:
+  - a3z_1
 comments:
   - author:
       name: Jonathan Aquino

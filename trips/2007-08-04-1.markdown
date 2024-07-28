@@ -7,4 +7,6 @@ itinerary:
   - label: John F. Kennedy International Airport (JFK)
     locality: New York
     country_name: United States
+tags:
+  - i3op1
 ---

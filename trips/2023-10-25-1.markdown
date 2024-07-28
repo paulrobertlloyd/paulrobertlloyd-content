@@ -16,4 +16,6 @@ itinerary:
   - label: Nürnberg
     locality: Nürnberg
     country_name: Germany
+tags:
+  - i5Ta1
 ---

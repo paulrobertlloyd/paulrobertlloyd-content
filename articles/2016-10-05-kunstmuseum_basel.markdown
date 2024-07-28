@@ -13,6 +13,7 @@ category:
   - exhibitions
 tags:
   - featured
+  - i4jE1
 ---
 
 [![The new building of the Kunstmuseum Basel.](/media/2016/279/a1/extension.jpg "The new building of the Kunstmuseum Basel. Photograph: Julian Salinas.")](https://kmb.picturepark.com/Go/JLVo8XZu)

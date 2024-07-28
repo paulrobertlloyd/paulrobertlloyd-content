@@ -10,6 +10,8 @@ category:
   - italy
   - railways
   - travel
+tags:
+  - i5SJ1
 accent_color: "#d51d2a"
 ---
 

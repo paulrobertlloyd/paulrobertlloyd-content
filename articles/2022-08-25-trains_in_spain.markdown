@@ -8,6 +8,8 @@ summary: Turns out using an Interrail pass in Spain isn’t straight-forward.
 category:
   - spain
   - travel
+tags:
+  - i5LS1
 ---
 
 I’m in San Sebastián, the second stop of a [late-Summer Interrail adventure across the Iberian peninsula][1].

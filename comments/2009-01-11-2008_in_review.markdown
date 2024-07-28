@@ -1,6 +1,7 @@
 ---
 title: 2008 in review
-article_id: a3xa1
+tags:
+  - a3xa1
 comments:
   - author:
       name: Jonathan Aquino

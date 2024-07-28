@@ -1,6 +1,7 @@
 ---
 title: 2010 in review
-article_id: a49j1
+tags:
+  - a49j1
 comments:
   - author:
       name: Andy

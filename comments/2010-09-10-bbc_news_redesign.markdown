@@ -1,6 +1,7 @@
 ---
 title: Thoughts on the BBC News Redesign
-article_id: a47h1
+tags:
+  - a47h1
 comments:
   - author:
       name: Tim Print
