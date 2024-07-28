@@ -2,9 +2,9 @@
 date: 2010-01-26T00:07:49Z
 title: A small taste of the South Island
 summary: Having arranged my flights into and out of New Zealand before deciding upon an itinerary, meant I had little time to really explore the South Island.
-photo:
-  - url: /media/2010/026/a1/overlander.jpg
-    alt: The Overlander during its lunchtime stop at National Park railway station.
+featured:
+  url: /media/2010/026/a1/overlander.jpg
+  alt: The Overlander during its lunchtime stop at National Park railway station.
 category:
   - travel
   - new_zealand

@@ -1,9 +1,9 @@
 ---
 title: Channel 4 News
 summary: Reinventing Channel 4’s news presence on the iPad.
-photo:
-  - url: /media/projects/channel_4_news/image.jpg
-    alt: Channel 4 logo.
+featured:
+  url: /media/projects/channel_4_news/image.jpg
+  alt: Channel 4 logo.
 tags:
   - interaction_design
 accent_color: "#889"

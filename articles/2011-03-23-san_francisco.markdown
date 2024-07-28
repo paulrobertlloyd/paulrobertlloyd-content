@@ -5,9 +5,9 @@ location:
   locality: Brasília
   country_name: Brazil
 summary: As I walked the streets of San Francisco, buoyed by their comfortable familiarity and unique soundtrack, I knew that this was still a city I could never call home.
-photo:
-  - url: /media/2011/082/a1/fishermans_wharf.jpg
-    alt: Boats docked in Fisherman’s Wharf.
+featured:
+  url: /media/2011/082/a1/fishermans_wharf.jpg
+  alt: Boats docked in Fisherman’s Wharf.
 category:
   - travel
   - san_francisco

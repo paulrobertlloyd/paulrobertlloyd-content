@@ -5,9 +5,9 @@ location:
   locality: Stockholm
   country_name: Sweden
 summary: Finding colour amidst the grey.
-photo:
-  - url: /media/2020/031/a1/nyhavn.jpg
-    alt: The brightly coloured town houses at Nyhavn
+featured:
+  url: /media/2020/031/a1/nyhavn.jpg
+  alt: The brightly coloured town houses at Nyhavn
 category:
   - copenhagen
   - denmark
@@ -18,7 +18,6 @@ category:
   - travel
   - railways
 tags:
-  - featured
   - i54k1
 geojson:
   _height: 360

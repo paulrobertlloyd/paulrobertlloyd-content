@@ -2,9 +2,9 @@
 date: 2011-12-20T22:57:23Z
 title: Onwards to Ottawa
 summary: After Washington, it was on to another North American capital, Ottawa, a city with no end of ATMs unwilling to accept my debit card.
-photo:
-  - url: /media/2011/354/a1/parliament.jpg
-    alt: Canadian parliament buildings in Ottawa.
+featured:
+  url: /media/2011/354/a1/parliament.jpg
+  alt: Canadian parliament buildings in Ottawa.
 category:
   - travel
   - ottawa

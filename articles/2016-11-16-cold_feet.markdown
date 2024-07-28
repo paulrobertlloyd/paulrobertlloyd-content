@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: Observations made while watching the first five series of ""Cold Feet"". When it was originally broadcast, mobile phones were just becoming mainstream, and the Internet was still a novelty. Simpler times.
-photo:
-  - url: /media/2016/321/a1/image.jpg
-    alt: Pete logs onto the Internet.
+featured:
+  url: /media/2016/321/a1/image.jpg
+  alt: Pete logs onto the Internet.
 category:
   - television
   - technology

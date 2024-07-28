@@ -2,9 +2,9 @@
 date: 2009-01-19T01:08:41Z
 title: Slumdog Millionaire
 summary: Slumdog Millionaire is the story of an impoverished Indian teen who is one question away from winning the top prize in the Indian version of Who Wants To Be A Millionaire.
-photo:
-  - url: /media/2009/019/a1/image.jpg
-    alt: Ayush Mahesh Khedekar as the young Jamal Malik.
+featured:
+  url: /media/2009/019/a1/image.jpg
+  alt: Ayush Mahesh Khedekar as the young Jamal Malik.
 category:
   - film
 ---

@@ -6,15 +6,13 @@ location:
   locality: Brighton
   country_name: England
 summary: Reflections on Keanu Reeves’ Brawn GP documentary and how Formula 1 has changed over the last 14 years.
-photo:
-  - url: /media/2023/336/a2/image.jpg
-    alt: Keanu Reeves looks over the BGP 001 car.
+featured:
+  url: /media/2023/336/a2/image.jpg
+  alt: Keanu Reeves looks over the BGP 001 car.
 accent_color: "#fff204"
 category:
   - formula_1
   - television
-tags:
-  - featured
 ---
 
 A few weeks ago I watched [""Brawn: The Impossible Formula 1 Story""][1] on Disney+. By the end of it I felt surprisingly emotional for what is ultimately the story of a management buyout.

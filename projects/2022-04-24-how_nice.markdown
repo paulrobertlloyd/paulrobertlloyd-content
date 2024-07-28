@@ -1,9 +1,9 @@
 ---
 title: How Nice
 summary: A nice logo for a dog-owning delivery manager.
-photo:
-  - url: /media/projects/how_nice/image.png
-    alt: How Nice logo.
+featured:
+  url: /media/projects/how_nice/image.png
+  alt: How Nice logo.
 tags:
   - brand_identity
 accent_color: "#fd0"

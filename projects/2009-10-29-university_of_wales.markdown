@@ -1,9 +1,9 @@
 ---
 title: University of Wales
 summary: Modular design language for international university.
-photo:
-  - url: /media/projects/university_of_wales/image.jpg
-    alt: University of Wales logo.
+featured:
+  url: /media/projects/university_of_wales/image.jpg
+  alt: University of Wales logo.
 tags:
   - interaction_design
 accent_color: "#26b"

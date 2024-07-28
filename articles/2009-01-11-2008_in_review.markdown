@@ -8,7 +8,6 @@ summary: Before such a post becomes embarrassingly late (although I fear we may 
 category:
   - personal
 tags:
-  - featured
   - year_in_review
 ---
 

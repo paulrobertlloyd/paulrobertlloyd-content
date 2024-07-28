@@ -1,11 +1,10 @@
 ---
 title: CharityConnect
 summary: Designing a tool to help people in the charity sector connect with each other to share ideas and resources.
-photo:
-  - url: /media/projects/charityconnect/image.jpg
-    alt: CharityConnect logo.
+featured:
+  url: /media/projects/charityconnect/image.jpg
+  alt: CharityConnect logo.
 tags:
-  - featured
   - interaction_design
 accent_color: "#672949"
 ---

@@ -6,11 +6,9 @@ location:
   locality: London
   country_name: England
 summary: How designers can record decisions and cultivate a fun and inclusive culture within their team.
-photo:
-  - url: /media/2023/174/s1/image.jpg
-    alt: The Becoming a Teacher team working around a long table.
-tags:
-  - featured
+featured:
+  url: /media/2023/174/s1/image.jpg
+  alt: The Becoming a Teacher team working around a long table.
 accent_color: "#fa6"
 slides:
   - url: /media/2023/174/s1/1.png

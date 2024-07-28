@@ -5,9 +5,9 @@ location:
   locality: Littlehampton
   country_name: England
 summary: The appointment of Fabio Capello has brought about a more stylish and confident England. Now they have a kit to match.
-photo:
-  - url: /media/2009/088/a1/crest.jpg
-    alt: The England crest as it appears on the new shirt.
+featured:
+  url: /media/2009/088/a1/crest.jpg
+  alt: The England crest as it appears on the new shirt.
 category:
   - design
   - football

@@ -4,9 +4,9 @@ title: Write documentation using markdown and publish it using GOV.UK styles
 canonical:
   url: https://x-govuk.github.io/posts/govuk-eleventy-plugin/
 summary: The GOV.UK Eleventy Plugin makes it easy to start writing documentation rather than spend time building a website for it.
-photo:
-  - url: /media/2022/094/a1/image.png
-    alt: The homepage illustration for the GOV.UK Eleventy Plugin.
+featured:
+  url: /media/2022/094/a1/image.png
+  alt: The homepage illustration for the GOV.UK Eleventy Plugin.
 category:
   - design
   - projects

@@ -5,15 +5,13 @@ location:
   locality: Amsterdam
   country_name: Netherlands
 summary: The question on the ballot paper demands a simple black or white answer, yet a study of the issues only offers shades of grey.
-photo:
-  - url: /media/2016/174/a1/image.jpg
-    alt: Pastiche of Michelangelo’s ‘The Creation of Adam’.
+featured:
+  url: /media/2016/174/a1/image.jpg
+  alt: Pastiche of Michelangelo’s ‘The Creation of Adam’.
 category:
   - politics
   - european_union
   - brexit
-tags:
-  - featured
 accent_color: "#039"
 ---
 

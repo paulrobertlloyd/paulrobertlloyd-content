@@ -1,9 +1,9 @@
 ---
 title: Universal Networks
 summary: Design for NBCUniversal’s international channel portfolio.
-photo:
-  - url: /media/projects/universal_networks/image.jpg
-    alt: Universal Networks logo.
+featured:
+  url: /media/projects/universal_networks/image.jpg
+  alt: Universal Networks logo.
 tags:
   - interaction_design
 accent_color: "#d9d7d4"

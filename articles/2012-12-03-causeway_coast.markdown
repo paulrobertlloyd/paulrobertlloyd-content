@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: After attending Build in Belfast last month, Chris Armstrong gave Ethan Marcotte, Chris Shifflet and myself a tour of the Causeway Coast which, as the name suggests, is home to the famed Giant’s Causeway.
-photo:
-  - url: /media/2012/338/a1/1.jpg
-    alt: Causeway Coast.
+featured:
+  url: /media/2012/338/a1/1.jpg
+  alt: Causeway Coast.
 category:
   - travel
   - photography

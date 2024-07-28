@@ -4,9 +4,9 @@ title: Rapidly prototype with data using this set of helpful template filters
 canonical:
   url: https://x-govuk.github.io/posts/govuk-prototype-filters/
 summary: Introducing a plugin for the GOV.UK Prototype Kit that adds a helpful collection of Nunjucks template filters. Rapidly modify and transform data while ensuring it follows the GOV.UK style guide.
-photo:
-  - url: /media/2023/144/a1/image.png
-    alt: Illustration of an interface with checkboxes and radio buttons being generated from code, floating above a laptop.
+featured:
+  url: /media/2023/144/a1/image.png
+  alt: Illustration of an interface with checkboxes and radio buttons being generated from code, floating above a laptop.
 category:
   - design
   - projects

@@ -5,15 +5,13 @@ location:
   locality: Brighton
   country_name: England
 summary: In thinking about the fabric of the web, I unpick a few threads and tie myself in knots.
-photo:
-  - url: /media/2018/325/p1/3.jpg
-    alt: Close-up of stacked grey fish nets.
+featured:
+  url: /media/2018/325/p1/3.jpg
+  alt: Close-up of stacked grey fish nets.
 category:
   - blogging
   - indieweb
   - web
-tags:
-  - featured
 ---
 
 Earlier this month I had the good fortune to attend [Material][1], a conference that explores the concept of the web as a material and all the intrinsic characteristics that entails. The variety of talks provided new perspectives on what it means to build for – and with – the web, and prompted me to note down a few related thoughts.

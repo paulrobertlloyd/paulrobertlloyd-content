@@ -6,9 +6,9 @@ canonical:
   edition: No. 427
   url: https://alistapart.com/article/thinking-responsively-a-framework-for-future-learning
 summary: Responsive web design changed everything about how we think and work on the web. Five years on, we’re still exploring the best ways to approach our practice. If we want a web that is truly universal, we must consider our users, our medium, and our teams in new, adaptable ways. Looking at where we’ve come from and where we’re going, I propose a philosophical framework for our work on the responsive web.
-photo:
-  - url: /media/2015/237/a1/image.png
-    alt: Illustration by Brad Colbow.
+featured:
+  url: /media/2015/237/a1/image.png
+  alt: Illustration by Brad Colbow.
 category:
   - responsive_design
   - web

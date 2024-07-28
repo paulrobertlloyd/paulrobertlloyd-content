@@ -2,9 +2,9 @@
 date: 2011-12-24T19:25:00Z
 title: A taste of Toronto
 summary: Some cities are best arrived at by air, while some are best approached by car. Others are best suited to arrival by train. Toronto is one such city.
-photo:
-  - url: /media/2011/358/a1/skyline.jpg
-    alt: Toronto’s skyline, as seen from Casa Loma.
+featured:
+  url: /media/2011/358/a1/skyline.jpg
+  alt: Toronto’s skyline, as seen from Casa Loma.
 category:
   - travel
   - toronto

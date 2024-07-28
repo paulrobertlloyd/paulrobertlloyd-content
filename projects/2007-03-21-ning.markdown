@@ -1,9 +1,9 @@
 ---
 title: Ning
 summary: Lead design for customisable social media platform.
-photo:
-  - url: /media/projects/ning/image.jpg
-    alt: Ning logo.
+featured:
+  url: /media/projects/ning/image.jpg
+  alt: Ning logo.
 tags:
   - brand_identity
   - front_end_development

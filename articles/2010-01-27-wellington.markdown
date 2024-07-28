@@ -2,9 +2,9 @@
 date: 2010-01-27T23:12:23Z
 title: Absolutely, Positively, Wellington
 summary: Wellington will remain the most memorable stop on my brief tour of New Zealand, although perhaps not entirely for the right reasons.
-photo:
-  - url: /media/2010/027/a1/cable_car.jpg
-    alt: The Wellington Cable Car takes passengers from Lambton Quay in the CBD to the suburb of Kelburn, and the Wellington Botanic Garden.
+featured:
+  url: /media/2010/027/a1/cable_car.jpg
+  alt: The Wellington Cable Car takes passengers from Lambton Quay in the CBD to the suburb of Kelburn, and the Wellington Botanic Garden.
 category:
   - travel
   - new_zealand

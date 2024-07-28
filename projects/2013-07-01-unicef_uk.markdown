@@ -1,9 +1,9 @@
 ---
 title: UNICEF UK
 summary: Mobile-first redesign for leading children’s charity.
-photo:
-  - url: /media/projects/unicef_uk/image.jpg
-    alt: UNICEF logo.
+featured:
+  url: /media/projects/unicef_uk/image.jpg
+  alt: UNICEF logo.
 tags:
   - front_end_development
   - interaction_design

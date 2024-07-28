@@ -5,14 +5,13 @@ location:
   locality: San Francisco
   country_name: United States
 summary: Based on the 1866 edition of George Bradshaw’s handbook for tourists using Britain’s nascent railway network, my latest project puts his historical insights into the hands of a new generation, many of whom use the same routes he described 150 years ago.
-photo:
-  - url: /media/2013/106/a1/iphone.png
-    alt: Bradshaw’s Guide being viewed on an iPhone.
+featured:
+  url: /media/2013/106/a1/iphone.png
+  alt: Bradshaw’s Guide being viewed on an iPhone.
 category:
   - bradshaws_guide
   - travel
 tags:
-  - featured
   - w4sD1
 accent_color: "#e6772e"
 ---

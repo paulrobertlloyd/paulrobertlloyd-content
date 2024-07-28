@@ -1,11 +1,10 @@
 ---
 title: Snyk
 summary: Making it easier for developers to keep their projects secure and vulnerability free.
-photo:
-  - url: /media/projects/snyk/image.jpg
-    alt: Snyk logo.
+featured:
+  url: /media/projects/snyk/image.jpg
+  alt: Snyk logo.
 tags:
-  - featured
   - interaction_design
 accent_color: "#6b698e"
 ---

@@ -5,15 +5,13 @@ location:
   locality: Littlehampton
   country_name: England
 summary: I’ve long been interested in the popular geography of Great Britain, but also annoyed by the continual government reorganisation that seeks to confuse it.
-photo:
-  - url: /media/2009/174/a1/image.jpg
-    alt: Scene from Psychoville.
+featured:
+  url: /media/2009/174/a1/image.jpg
+  alt: Scene from Psychoville.
 category:
   - television
   - government
   - england
-tags:
-  - featured
 ---
 
 ![Scene from Psychoville, showing an addressed envelope.](/media/2009/174/a1/image.jpg "Scene from Psychoville.")

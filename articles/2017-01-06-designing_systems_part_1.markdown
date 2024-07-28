@@ -5,9 +5,9 @@ location:
   locality: Bexhill-on-Sea
   country_name: England
 summary: "In the first part of a three-part essay about design systems, I review two approaches for the creation of something equally as complex: a city."
-photo:
-  - url: /media/2017/006/a1/brasilia_satellite.jpg
-    alt: Brasília, seen from above, looks like a bird or a plane.
+featured:
+  url: /media/2017/006/a1/brasilia_satellite.jpg
+  alt: Brasília, seen from above, looks like a bird or a plane.
 category:
   - architecture
   - brasília
@@ -16,7 +16,6 @@ category:
   - design_systems
 tags:
   - designing_systems
-  - featured
 ---
 
 [![Brasília, seen from above, looks like a bird or a plane.](/media/2017/006/a1/brasilia_satellite.jpg "Brasília, seen from above, looks like a bird or a plane. Image: NASA Earth Observatory.")](http://earthobservatory.nasa.gov/IOTD/view.php?id=43743)

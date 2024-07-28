@@ -6,11 +6,9 @@ location:
   locality: Amsterdam
   country_name: Netherlands
 summary: Responsive design made us think about how we could accommodate a diversity of connected devices; now we need to ensure our work can adapt to the rapidly changing world around us.
-photo:
-  - url: /media/2015/163/s1/image.jpg
-    alt: Many different gloves.
-tags:
-  - featured
+featured:
+  url: /media/2015/163/s1/image.jpg
+  alt: Many different gloves.
 slides:
   - url: /media/2015/163/s1/1.png
     caption: |

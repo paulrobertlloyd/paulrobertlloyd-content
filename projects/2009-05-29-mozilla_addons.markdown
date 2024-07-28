@@ -1,9 +1,9 @@
 ---
 title: Mozilla Add-ons
 summary: Bringing browser add-ons to a mainstream audience.
-photo:
-  - url: /media/projects/mozilla_addons/image.jpg
-    alt: Mozilla logo.
+featured:
+  url: /media/projects/mozilla_addons/image.jpg
+  alt: Mozilla logo.
 tags:
   - interaction_design
 accent_color: "#235"

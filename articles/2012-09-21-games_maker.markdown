@@ -5,16 +5,14 @@ location:
   locality: São Paulo
   country_-_name: Brazil
 summary: They say change is as good as a rest. With early morning commutes, a distinctive uniform and interaction with the general public, volunteering at the London 2012 Paralympic Games couldn’t have been further removed from the desk-bound job I’d become weary of.
-photo:
-  - url: /media/2012/265/a1/olympic_park.jpg
-    alt: Me and my fellow Games Makers in the Olympic Park.
+featured:
+  url: /media/2012/265/a1/olympic_park.jpg
+  alt: Me and my fellow Games Makers in the Olympic Park.
 category:
   - personal
   - paralympics
   - london_2012
   - volunteering
-tags:
-  - featured
 ---
 
 ![Me and my fellow Games Makers in the Olympic Park.](/media/2012/265/a1/olympic_park.jpg "Me and my fellow Games Makers in the Olympic Park.")

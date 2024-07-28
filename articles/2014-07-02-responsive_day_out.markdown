@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: Last Friday I attended Responsive Day Out 2. While the format was the same as last year, the tenor was a little different. Gone were the theoretical presentations, instead speakers focused on the work; getting into the nitty-gritty.
-photo:
-  - url: /media/2014/183/a1/image.jpg
-    alt: Jeremy Keith interviewing Ethan Marcotte.
+featured:
+  url: /media/2014/183/a1/image.jpg
+  alt: Jeremy Keith interviewing Ethan Marcotte.
 category:
   - web
   - responsive_design

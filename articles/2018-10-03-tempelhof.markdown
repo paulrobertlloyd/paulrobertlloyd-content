@@ -5,9 +5,9 @@ location:
   locality: Berlin
   country_name: Germany
 summary: On German Unity Day, a tour of Tempelhof Airport proved to be a powerful act of remembrance.
-photo:
-  - url: /media/2018/276/a1/reception.jpg
-    alt: The terminal’s reception hall.
+featured:
+  url: /media/2018/276/a1/reception.jpg
+  alt: The terminal’s reception hall.
 category:
   - berlin
   - germany
@@ -16,7 +16,6 @@ category:
   - architecture
   - history
 tags:
-  - featured
   - i4wa1
 ---
 

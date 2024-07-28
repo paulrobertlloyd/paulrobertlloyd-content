@@ -5,14 +5,12 @@ location:
   locality: Littlehampton
   country_name: England
 summary: Continuing the trend of this blog documenting events that happened several weeks ago, this month saw me become the ninth member of the Brighton based web agency Clearleft.
-photo:
-  - url: /media/2009/172/a1/image.jpg
-    alt: The Clearleft team.
+featured:
+  url: /media/2009/172/a1/image.jpg
+  alt: The Clearleft team.
 category:
   - personal
   - clearleft
-tags:
-  - featured
 ---
 
 [![The Clearleft team.](/media/2009/172/a1/image.jpg "The Clearleft team. Photograph: Jack Barnes.")](https://www.flickr.com/photos/paulannett/3256245742/)

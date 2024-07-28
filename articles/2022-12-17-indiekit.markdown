@@ -9,8 +9,6 @@ category:
   - projects
   - indiekit
   - indieweb
-tags:
-  - featured
 accent_color: "#60c"
 ---
 

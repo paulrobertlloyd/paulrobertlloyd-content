@@ -2,11 +2,9 @@
 date: 2021-03-04T14:00:00Z
 title: Using a design history to document your work
 summary: How documenting design decisions can help your team keep track of how a service has developed over time.
-photo:
-  - url: /media/2021/063/s1/image.jpg
-    alt: A collection of spiral bound notebooks.
-tags:
-  - featured
+featured:
+  url: /media/2021/063/s1/image.jpg
+  alt: A collection of spiral bound notebooks.
 accent_color: "#1d70b8"
 slides:
   - url: /media/2021/063/s1/1.png

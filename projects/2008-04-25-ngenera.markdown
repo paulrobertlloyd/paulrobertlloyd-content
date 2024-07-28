@@ -1,9 +1,9 @@
 ---
 title: nGenera
 summary: Brand identity for on demand enterprise technology platform.
-photo:
-  - url: /media/projects/ngenera/image.jpg
-    alt: nGenera logo.
+featured:
+  url: /media/projects/ngenera/image.jpg
+  alt: nGenera logo.
 tags:
   - brand_identity
   - front_end_development

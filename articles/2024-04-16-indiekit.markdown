@@ -6,8 +6,6 @@ category:
   - projects
   - indiekit
   - indieweb
-tags:
-  - featured
 location:
   type: adr
   locality: Brighton

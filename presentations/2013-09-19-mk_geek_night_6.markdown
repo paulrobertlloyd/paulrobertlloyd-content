@@ -6,11 +6,9 @@ location:
   type: adr
   locality: Milton Keynes
   country_name: England
-photo:
-  - url: /media/2013/262/s1/image.jpg
-    alt: A corrupted image of the California state flag.
-tags:
-  - featured
+featured:
+  url: /media/2013/262/s1/image.jpg
+  alt: A corrupted image of the California state flag.
 slides:
   - url: /media/2013/262/s1/1.png
     caption: |

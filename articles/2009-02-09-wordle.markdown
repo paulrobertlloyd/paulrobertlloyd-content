@@ -2,9 +2,9 @@
 date: 2009-02-09T10:04:40Z
 title: Wordle
 summary: A word cloud generated from content that has appeared on my site over the last few months.
-photo:
-  - url: /media/2009/040/a1/image.png
-    alt: Word cloud.
+featured:
+  url: /media/2009/040/a1/image.png
+  alt: Word cloud.
 category:
   - blogging
 ---

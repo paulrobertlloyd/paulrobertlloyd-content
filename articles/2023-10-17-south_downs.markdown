@@ -5,16 +5,15 @@ location:
   locality: Brighton
   country_name: England
 summary: Walking from Petersfield to Winchester with Jon and my new camera.
-photo:
-  - url: /media/2023/290/a1/old-winchester-hill.jpg
-    alt: Rolling countryside around Old Winchester Hill.
+featured:
+  url: /media/2023/290/a1/old-winchester-hill.jpg
+  alt: Rolling countryside around Old Winchester Hill.
 accent_color: "#a595bd"
 category:
   - travel
   - personal
   - photography
 tags:
-  - featured
   - i5TN1
 geojson:
   _height: 400

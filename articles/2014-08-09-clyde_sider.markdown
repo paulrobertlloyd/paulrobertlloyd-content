@@ -5,15 +5,13 @@ location:
   locality: Brighton
   country_name: England
 summary: Earlier this month I spent a week volunteering at the XX Commonwealth Games in Glasgow.
-photo:
-  - url: /media/2014/221/a1/hampden.jpg
-    alt: 13 volunteers holding large green foam fingers.
+featured:
+  url: /media/2014/221/a1/hampden.jpg
+  alt: 13 volunteers holding large green foam fingers.
 category:
   - commonwealth_games
   - glasgow_2014
   - volunteering
-tags:
-  - featured
 ---
 
 ![13 volunteers holding large green foam fingers.](/media/2014/221/a1/hampden.jpg "The team I worked with during my penultimate shift outside Hampden Park.")

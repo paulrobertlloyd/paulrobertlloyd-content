@@ -1,9 +1,9 @@
 ---
 title: dConstruct
 summary: Collaborative design for grassroots digital conference.
-photo:
-  - url: /media/projects/dconstruct/image.jpg
-    alt: dConstruct logo.
+featured:
+  url: /media/projects/dconstruct/image.jpg
+  alt: dConstruct logo.
 tags:
   - interaction_design
 accent_color: "#370"

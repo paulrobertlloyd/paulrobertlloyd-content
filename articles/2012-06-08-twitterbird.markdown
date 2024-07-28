@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: With a worsening financial crisis and continued destruction of the world’s natural resources, there are undoubtedly more important things to worry about than Twitter’s slightly tweaked bird logo. Yet here we are.
-photo:
-  - url: /media/2012/159/a1/logo.jpg
-    alt: The new Twitter logo.
+featured:
+  url: /media/2012/159/a1/logo.jpg
+  alt: The new Twitter logo.
 category:
   - brand_identity
   - design

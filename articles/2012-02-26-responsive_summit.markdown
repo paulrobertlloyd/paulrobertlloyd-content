@@ -5,14 +5,12 @@ location:
   locality: Brighton
   country_name: England
 summary: Last week I was invited to Responsive Summit, a face-to-face discussion about Responsive Web Design. We talked about what we’ve learnt so far, the problems we’re continuing to face and things we’d like to change.
-photo:
-  - url: /media/2012/057/a1/image.jpg
-    alt: Scene from Dr. Strangelove.
+featured:
+  url: /media/2012/057/a1/image.jpg
+  alt: Scene from Dr. Strangelove.
 category:
   - web
   - responsive_design
-tags:
-  - featured
 ---
 
 ![Scene from Dr. Strangelove.](/media/2012/057/a1/image.jpg "Scene from Dr. Strangelove.")

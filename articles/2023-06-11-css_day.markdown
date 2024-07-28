@@ -9,8 +9,6 @@ category:
   - conferences
   - css
   - web
-tags:
-  - featured
 accent_color: "#93c"
 ---
 

@@ -5,16 +5,15 @@ location:
   locality: Brighton
   country_name: England
 summary: In need of a break, I headed to Galway and the far western reaches of the British Isles.
-photo:
-  - url: /media/2017/134/a1/galway_harbour.jpg
-    alt: A green boat and several swans sat in a harbour.
+featured:
+  url: /media/2017/134/a1/galway_harbour.jpg
+  alt: A green boat and several swans sat in a harbour.
 category:
   - galway
   - ireland
   - europe
   - travel
 tags:
-  - featured
   - i4oG1
 ---
 

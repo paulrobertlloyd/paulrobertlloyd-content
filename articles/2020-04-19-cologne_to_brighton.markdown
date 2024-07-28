@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: Concluding my short adventure across Northern Europe.
-photo:
-  - url: /media/2020/110/a1/love_locks.jpg
-    alt: Love locks on the Hohenzollern Bridge.
+featured:
+  url: /media/2020/110/a1/love_locks.jpg
+  alt: Love locks on the Hohenzollern Bridge.
 category:
   - cologne
   - germany
@@ -15,7 +15,6 @@ category:
   - travel
   - railways
 tags:
-  - featured
   - i54k1
 geojson:
   _height: 360

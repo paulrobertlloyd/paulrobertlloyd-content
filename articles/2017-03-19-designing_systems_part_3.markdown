@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: The final part of my three-part essay based on the talk I gave at Smashing Conference. I look at how we might build components and consider their wider composition.
-photo:
-  - url: /media/2017/078/a1/brasilia_motifs.jpg
-    alt: Common architectural motifs can be seen across many of Brasília’s civic buildings.
+featured:
+  url: /media/2017/078/a1/brasilia_motifs.jpg
+  alt: Common architectural motifs can be seen across many of Brasília’s civic buildings.
 category:
   - design
   - design_systems

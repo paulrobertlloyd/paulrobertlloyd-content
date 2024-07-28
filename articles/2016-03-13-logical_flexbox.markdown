@@ -5,13 +5,11 @@ location:
   locality: Brighton
   country_name: England
 summary: Because it uses logical values, Flexbox layouts will automatically align according to a document’s text-direction. Well, almost.
-photo:
-  - url: /media/2016/073/a1/image.jpg
-    alt: Mr. Spock browsing the web on his tablet device.
+featured:
+  url: /media/2016/073/a1/image.jpg
+  alt: Mr. Spock browsing the web on his tablet device.
 category:
   - web
-tags:
-  - featured
 ---
 
 [![Mr. Spock using a handheld computer.](/media/2016/073/a1/image.jpg "Mr. Spock browsing the web on his tablet device. Photograph: NBC Television")][i1]

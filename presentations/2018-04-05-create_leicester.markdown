@@ -6,11 +6,9 @@ location:
   locality: Leicester
   country_name: England
 summary: When the prevailing culture permits the creation of products that undermine and exploit users, will designers stand up to protect them?
-photo:
-  - url: /media/2018/095/s1/image.jpg
-    alt: Mark Zuckerberg.
-tags:
-  - featured
+featured:
+  url: /media/2018/095/s1/image.jpg
+  alt: Mark Zuckerberg.
 slides:
   - url: /media/2018/095/s1/1.png
     caption: |

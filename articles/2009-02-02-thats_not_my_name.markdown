@@ -5,9 +5,9 @@ location:
   locality: San Francisco
   country_name: United States
 summary: As I approach the end of my latest trip to America, I continue to fight the losing battle that is getting people to understand me when I say my first name.
-photo:
-  - url: /media/2009/033/a1/image.jpg
-    alt: ‘Coll’ written on the side of a Starbucks cup.
+featured:
+  url: /media/2009/033/a1/image.jpg
+  alt: ‘Coll’ written on the side of a Starbucks cup.
 category:
   - personal
   - travel

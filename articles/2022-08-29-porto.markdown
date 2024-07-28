@@ -5,16 +5,15 @@ location:
   locality: Porto
   country_name: Portugal
 summary: So wrong it’s right.
-photo:
-  - url: /media/2022/241/a1/image.jpg
-    alt: A small yellow boat sits below the Dom Luís I Bridge during golden hour.
+featured:
+  url: /media/2022/241/a1/image.jpg
+  alt: A small yellow boat sits below the Dom Luís I Bridge during golden hour.
 category:
   - europe
   - photography
   - portugal
   - travel
 tags:
-  - featured
   - i5LS1
 accent_color: "#0f2f7f"
 ---

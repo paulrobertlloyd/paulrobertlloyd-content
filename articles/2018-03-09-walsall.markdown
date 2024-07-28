@@ -5,9 +5,9 @@ location:
   locality: Bexhill-on-Sea
   country_name: England
 summary: With a pile of rubble sat before me, confirmation that a chapter of my life has reached its conclusion.
-photo:
-  - url: /media/2018/068/a1/oak_park.jpg
-    alt: The former site of Oak Park Leisure Centre.
+featured:
+  url: /media/2018/068/a1/oak_park.jpg
+  alt: The former site of Oak Park Leisure Centre.
 category:
   - personal
   - friends

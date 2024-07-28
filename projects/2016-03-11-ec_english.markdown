@@ -1,11 +1,10 @@
 ---
 title: EC English
 summary: Testable prototype for English language school.
-photo:
-  - url: /media/projects/ec_english/image.jpg
-    alt: EC English logo.
+featured:
+  url: /media/projects/ec_english/image.jpg
+  alt: EC English logo.
 tags:
-  - featured
   - front_end_development
   - interaction_design
 accent_color: "#f70"

@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: Saved by the snow.
-photo:
-  - url: /media/2020/047/a1/barcode_project.jpg
-    alt: A portion of Barcode Project buildings, as seen from the roof of the opera house.
+featured:
+  url: /media/2020/047/a1/barcode_project.jpg
+  alt: A portion of Barcode Project buildings, as seen from the roof of the opera house.
 category:
   - oslo
   - norway
@@ -17,7 +17,6 @@ category:
   - travel
   - railways
 tags:
-  - featured
   - i54k1
 geojson:
   _height: 360

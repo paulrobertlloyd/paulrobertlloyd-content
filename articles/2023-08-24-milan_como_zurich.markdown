@@ -5,16 +5,15 @@ location:
   locality: Brighton
   country_name: England
 summary: A two-week Italian adventure finds a familiar Germanic conclusion.
-photo:
-  - url: /media/2023/236/a1/image.jpg
-    alt: Looking across rooftops towards a distant part of town featuring a cluster of large skyscrapers. In the foreground, a statue facing towards this view.
+featured:
+  url: /media/2023/236/a1/image.jpg
+  alt: Looking across rooftops towards a distant part of town featuring a cluster of large skyscrapers. In the foreground, a statue facing towards this view.
 category:
   - europe
   - italy
   - switzerland
   - travel
 tags:
-  - featured
   - i5SJ1
 accent_color: "#0078bf"
 ---

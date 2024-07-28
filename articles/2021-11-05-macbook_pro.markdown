@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: Good things come to those who wait.
-photo:
-  - url: /media/2021/309/a1/image.jpg
-    alt: The 14- and 16-inch MacBook Pro.
+featured:
+  url: /media/2021/309/a1/image.jpg
+  alt: The 14- and 16-inch MacBook Pro.
 vocabulary:
   - entry
   - review

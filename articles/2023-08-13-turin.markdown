@@ -5,16 +5,15 @@ location:
   locality: Turin
   country_name: Italy
 summary: Hang on a minute lads, I’ve got a great idea…
-photo:
-  - url: /media/2023/225/a1/image.jpg
-    alt: View over Turin with a church dome in the foreground and the faint outline of the Alps in the distance.
+featured:
+  url: /media/2023/225/a1/image.jpg
+  alt: View over Turin with a church dome in the foreground and the faint outline of the Alps in the distance.
 category:
   - europe
   - italy
   - olympics
   - travel
 tags:
-  - featured
   - i5SJ1
 ---
 

@@ -6,15 +6,13 @@ location:
   locality: Brighton
   country_name: England
 summary: Come for the talks, stay for the Bitterballen, leave with a better understanding of a beautifully comprehensive tool for design.
-photo:
-  - url: /media/2024/161/a1/css_day_mug.jpg
-    alt: A ‘CSS Day is awesome’ mug sat next to a laptop.
+featured:
+  url: /media/2024/161/a1/css_day_mug.jpg
+  alt: A ‘CSS Day is awesome’ mug sat next to a laptop.
 category:
   - conferences
   - css
   - web
-tags:
-  - featured
 accent_color: "#cd853f"
 ---
 

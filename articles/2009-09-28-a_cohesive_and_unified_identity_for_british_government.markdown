@@ -6,8 +6,6 @@ category:
   - design
   - brand_identity
   - government
-tags:
-  - featured
 ---
 
 _This article is [also available in Portuguese][pt-BR]{hreflang="pt-BR" rel="alternate external"}_

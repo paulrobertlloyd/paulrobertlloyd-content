@@ -2,9 +2,9 @@
 date: 2010-01-29T23:42:47Z
 title: Magical Melbourne
 summary: After two and a half weeks exploring various cities, it was finally on to Melbourne, the final stop on my short tour of Australasia.
-photo:
-  - url: /media/2010/029/a1/royal_exhibition_building.jpg
-    alt: Royal Exhibition Building, Melbourne.
+featured:
+  url: /media/2010/029/a1/royal_exhibition_building.jpg
+  alt: Royal Exhibition Building, Melbourne.
 category:
   - travel
   - australia

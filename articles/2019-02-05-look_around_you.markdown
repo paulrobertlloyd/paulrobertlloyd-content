@@ -4,14 +4,12 @@ title: Look around you
 canonical:
   url: https://newadventuresconf.com/articles/look-around-you
 summary: For all their claims of changing the world, it would seem designers have not only failed to address its more pressing problems, but exaggerated many of its existing ones.
-photo:
-  - url: /media/2019/036/a1/image.png
-    alt: Illustration of three birds with their heads in the sand, a fourth not but look around in alarm.
+featured:
+  url: /media/2019/036/a1/image.png
+  alt: Illustration of three birds with their heads in the sand, a fourth not but look around in alarm.
 category:
   - design
   - technology
-tags:
-  - featured
 ---
 
 ![Illustration of three birds with their heads in the sand, a fourth not but look around in alarm.](/media/2019/036/a1/image.png "Illustration: Geri Coady.")

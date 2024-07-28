@@ -5,14 +5,12 @@ location:
   locality: Brighton
   country_name: England
 summary: A remarkable present for my 40th birthday.
-photo:
-  - url: /media/2020/234/a1/image.png
-    alt: Stills of 10 performers from the video.
+featured:
+  url: /media/2020/234/a1/image.png
+  alt: Stills of 10 performers from the video.
 category:
   - design
   - personal
-tags:
-  - featured
 ---
 
 2020 is turning out to be a remarkable year. Besides adapting my lifestyle in response to a global pandemic, I’ve also entered my fifth decade.

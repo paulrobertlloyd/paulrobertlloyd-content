@@ -5,13 +5,12 @@ location:
   locality: Brighton
   country_name: England
 summary: Living for the weekday.
-photo:
-  - url: /media/2020/141/p2/1.jpg
-    alt: Posters with positive messages on a green wall.
+featured:
+  url: /media/2020/141/p2/1.jpg
+  alt: Posters with positive messages on a green wall.
 category:
   - personal
 tags:
-  - featured
   - year_in_review
 ---
 

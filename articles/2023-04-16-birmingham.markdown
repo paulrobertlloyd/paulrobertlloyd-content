@@ -5,14 +5,12 @@ location:
   locality: Bexhill-on-Sea
   country_name: England
 summary: Birmingham has undergone a radical transformation. Has it gone too far?
-photo:
-  - url: /media/2023/106/a1/chamberlain_square.jpg
-    alt: Looking across towards a tall, spire-like memorial at the center of a public square, and the four buildings that surround it.
+featured:
+  url: /media/2023/106/a1/chamberlain_square.jpg
+  alt: Looking across towards a tall, spire-like memorial at the center of a public square, and the four buildings that surround it.
 category:
   - architecture
   - birmingham
-tags:
-  - featured
 ---
 
 I have a weird fascination with concrete, at least in its most brutalist forms. I’ve visited cities like [Brasília][1] and [Le Harve][2] that embraced the material and retain much of their original design. Closer to home and I’ve searched for the remains of carbuncles like Glasgow’s bridges to nowhere or [Newcastle’s elevated skywalks][3].

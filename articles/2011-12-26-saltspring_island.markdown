@@ -2,9 +2,9 @@
 date: 2011-12-26T15:05:26Z
 title: Across the Salish Sea
 summary: After eight days exploring North America, it was time to visit its more westerly extremities, starting with Saltspring Island.
-photo:
-  - url: /media/2011/360/a1/approach.jpg
-    alt: Looking across the Salish Sea.
+featured:
+  url: /media/2011/360/a1/approach.jpg
+  alt: Looking across the Salish Sea.
 category:
   - travel
   - salt_spring_island

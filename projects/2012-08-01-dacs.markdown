@@ -1,11 +1,10 @@
 ---
 title: DACS
 summary: Responsive redesign for non-profit artists’ rights organisation.
-photo:
-  - url: /media/projects/dacs/image.jpg
-    alt: DACS logo.
+featured:
+  url: /media/projects/dacs/image.jpg
+  alt: DACS logo.
 tags:
-  - featured
   - front_end_development
   - interaction_design
 accent_color: "#b4b6b8"

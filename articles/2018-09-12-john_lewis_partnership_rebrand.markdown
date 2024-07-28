@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: Another identity from the offices of Pentagram that elicits a feeling somewhere between despair and indifference.
-photo:
-  - url: /media/2018/255/a1/logos.png
-    alt: New logos and brandlines for John Lewis, Waitrose and the Partnership.
+featured:
+  url: /media/2018/255/a1/logos.png
+  alt: New logos and brandlines for John Lewis, Waitrose and the Partnership.
 category:
   - design
   - brand_identity

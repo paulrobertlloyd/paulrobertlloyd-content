@@ -2,9 +2,9 @@
 date: 2008-12-29T20:49:25Z
 title: "Washington, DC: A monumental city"
 summary: The final stop in my four-city tour of the US in October was Washington, D.C.
-photo:
-  - url: /media/2008/364/a1/vietnam_memorial.jpg
-    alt: Red and white roses set against the black marble of the Vietnam Veterans Memorial.
+featured:
+  url: /media/2008/364/a1/vietnam_memorial.jpg
+  alt: Red and white roses set against the black marble of the Vietnam Veterans Memorial.
 category:
   - architecture
   - travel

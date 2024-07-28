@@ -1,9 +1,9 @@
 ---
 title: BookFHR
 summary: Visual and user experience design for provider of airport travel services.
-photo:
-  - url: /media/projects/bookfhr/image.jpg
-    alt: BookFHR logo
+featured:
+  url: /media/projects/bookfhr/image.jpg
+  alt: BookFHR logo
 tags:
   - interaction_design
 accent_color: "#002f70"

@@ -2,9 +2,9 @@
 date: 2011-12-29T00:57:39Z
 title: Vibrant Vancouver
 summary: In the front seat of a float plane, I enjoyed a breathtaking view of Vancouver as I descended into its harbour. For such a densely populated city, I’d arrived somewhere small and friendly.
-photo:
-  - url: /media/2011/363/a1/marina.jpg
-    alt: Vancouver waterfront from Stanley Park.
+featured:
+  url: /media/2011/363/a1/marina.jpg
+  alt: Vancouver waterfront from Stanley Park.
 category:
   - travel
   - vancouver

@@ -1,9 +1,9 @@
 ---
 title: Groopix
 summary: A tool for curating and printing group-based photo albums.
-photo:
-  - url: /media/projects/groopix/image.jpg
-    alt: Groopix logo.
+featured:
+  url: /media/projects/groopix/image.jpg
+  alt: Groopix logo.
 tags:
   - brand_identity
   - interaction_design

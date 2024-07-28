@@ -5,16 +5,14 @@ location:
   locality: Brighton
   country_name: England
 summary: What fresh hell is this?
-photo:
-  - url: /media/2023/157/a1/image.jpg
-    alt: A person sat on a sofa wearing the Apple Vision Pro.
+featured:
+  url: /media/2023/157/a1/image.jpg
+  alt: A person sat on a sofa wearing the Apple Vision Pro.
 category:
   - apple
   - design
   - facebook
   - technology
-tags:
-  - featured
 accent_color: "#754"
 ---
 

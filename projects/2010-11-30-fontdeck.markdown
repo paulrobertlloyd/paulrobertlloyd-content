@@ -1,9 +1,9 @@
 ---
 title: Fontdeck
 summary: Distinctive lead design for purveyor of the finest web fonts.
-photo:
-  - url: /media/projects/fontdeck/image.jpg
-    alt: Fontdeck logo.
+featured:
+  url: /media/projects/fontdeck/image.jpg
+  alt: Fontdeck logo.
 tags:
   - interaction_design
 accent_color: "#e9242e"

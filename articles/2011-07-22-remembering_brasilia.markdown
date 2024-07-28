@@ -5,16 +5,14 @@ location:
   locality: Brighton
   country_name: England
 summary: Thoughts on Brasília, which I visited back in March.
-photo:
-  - url: /media/2011/203/a1/dom_bosco.jpg
-    alt: The breathtaking interior of Santuário Dom Bosco.
+featured:
+  url: /media/2011/203/a1/dom_bosco.jpg
+  alt: The breathtaking interior of Santuário Dom Bosco.
 category:
   - travel
   - brazil
   - brasília
   - oscar_niemeyer
-tags:
-  - featured
 ---
 
 Somewhat forgotten in the last few months have been my thoughts on Brasília, which I visited all the way back in March. For such an incredible experience it seems remiss not to record my thoughts before they fade into distant memory. I’ve written separately about [my architectural impression of the city][1], but here is a brief summary of the three days I spent there.

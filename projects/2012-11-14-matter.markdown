@@ -1,9 +1,9 @@
 ---
 title: Matter
 summary: Beautiful reading experience for publisher of unmissable journalism.
-photo:
-  - url: /media/projects/matter/image.jpg
-    alt: Matter logo.
+featured:
+  url: /media/projects/matter/image.jpg
+  alt: Matter logo.
 tags:
   - brand_identity
   - interaction_design

@@ -5,14 +5,12 @@ location:
   locality: Littlehampton
   country_name: England
 summary: Architecture has never been kind to Birmingham, but then Birmingham has never been kind to its architecture.
-photo:
-  - url: /media/2010/180/a1/artists_impression_1.jpg
-    alt: Artists impression of the new Library of Birmingham.
+featured:
+  url: /media/2010/180/a1/artists_impression_1.jpg
+  alt: Artists impression of the new Library of Birmingham.
 category:
   - architecture
   - birmingham
-tags:
-  - featured
 ---
 
 ![Artists impression of the new Library of Birmingham.](/media/2010/180/a1/artists_impression_1.jpg "Artists impression of the new Library of Birmingham.")

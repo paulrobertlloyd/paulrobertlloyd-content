@@ -6,11 +6,9 @@ location:
   locality: Brighton
   country_name: England
 summary: In an attempt to understand our work, digital designers may look towards architects for inspiration. But as much as we can learn from their success, we should also draw lessons from their failures, too.
-photo:
-  - url: /media/2017/181/s1/image.jpg
-    alt: The National Congress in Brasília.
-tags:
-  - featured
+featured:
+  url: /media/2017/181/s1/image.jpg
+  alt: The National Congress in Brasília.
 slides:
   - url: /media/2017/181/s1/1.png
     caption: |

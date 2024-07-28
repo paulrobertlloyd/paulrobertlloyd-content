@@ -1,9 +1,9 @@
 ---
 title: Slapdashery
 summary: An off-the-cuff logo for an off-the-cuff writing challenge.
-photo:
-  - url: /media/projects/slapdashery/image.jpg
-    alt: Slapdashery logo.
+featured:
+  url: /media/projects/slapdashery/image.jpg
+  alt: Slapdashery logo.
 tags:
   - brand_identity
 accent_color: "#1c3fff"

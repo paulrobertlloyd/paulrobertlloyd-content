@@ -5,9 +5,9 @@ canonical:
   issn: 1355-7602
   edition: Issue 264
 summary: Answers to questions about responsive design put to me by readers of ""net Magazine"".
-photo:
-  - url: /media/2015/027/a1/image.png
-    alt: The Guardian’s website navigation on a small displays.
+featured:
+  url: /media/2015/027/a1/image.png
+  alt: The Guardian’s website navigation on a small displays.
 category:
   - responsive_design
   - web

@@ -1,11 +1,10 @@
 ---
 title: 24 ways
 summary: Award-winning redesign for popular web geek advent calendar.
-photo:
-  - url: /media/projects/24_ways/image.jpg
-    alt: 24 ways logo.
+featured:
+  url: /media/projects/24_ways/image.jpg
+  alt: 24 ways logo.
 tags:
-  - featured
   - brand_identity
   - front_end_development
   - interaction_design

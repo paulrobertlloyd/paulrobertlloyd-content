@@ -2,9 +2,9 @@
 date: 2009-02-08T11:44:27Z
 title: Important things
 summary: One of my favourite comedians stars in a new show starting on Comedy Central this week.
-photo:
-  - url: /media/2009/039/a1/image.png
-    alt: Promotion for Important Things.
+featured:
+  url: /media/2009/039/a1/image.png
+  alt: Promotion for Important Things.
 category:
   - comedy
   - television

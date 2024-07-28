@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: The last two weeks have been amazing. I tried my best to sample as much of the Olympic fever as I could, but with so much going on, the spectacle was overwhelming. So much to see, so little time to see it.
-photo:
-  - url: /media/2012/227/a1/image.jpg
-    alt: London 2012 Closing Ceremony.
+featured:
+  url: /media/2012/227/a1/image.jpg
+  alt: London 2012 Closing Ceremony.
 category:
   - olympics
   - london_2012

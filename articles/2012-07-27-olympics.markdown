@@ -5,14 +5,12 @@ location:
   locality: Brighton
   country_name: England
 summary: Olympics happen once every four years. Most are unlikely to ever experience them in their own country. I get shivers whenever I see banners with the Olympic Rings on them. This is once in a lifetime event, and I intend to make the very most of it.
-photo:
-  - url: /media/2012/209/a1/image.jpg
-    alt: Olympic Opening Ceremony rehearsals.
+featured:
+  url: /media/2012/209/a1/image.jpg
+  alt: Olympic Opening Ceremony rehearsals.
 category:
   - olympics
   - london_2012
-tags:
-  - featured
 ---
 
 ![Olympic Opening Ceremony rehearsals.](/media/2012/209/a1/image.jpg "Olympic Opening Ceremony rehearsals.")

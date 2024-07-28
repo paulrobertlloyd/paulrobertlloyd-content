@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: "Earlier this month, Team Clearleft headed up to London for a day of design related exhibitions: Bauhaus: Art as Life at the Barbican and (after a ride across the city on a ‘Boris Bike’) British Design 1948-2012 and Heatherwick Studio: Designing the Extraordinary at the V&A."
-photo:
-  - url: /media/2012/237/a1/olympic_cauldron.jpg
-    alt: Olympic Cauldron design by Heatherwick Studio.
+featured:
+  url: /media/2012/237/a1/olympic_cauldron.jpg
+  alt: Olympic Cauldron design by Heatherwick Studio.
 category:
   - design
   - exhibitions

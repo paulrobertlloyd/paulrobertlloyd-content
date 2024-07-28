@@ -1,11 +1,10 @@
 ---
 title: Refigure
 summary: Brand identity and application design for personalised meditation service.
-photo:
-  - url: /media/projects/refigure/image.jpg
-    alt: Refigure logo.
+featured:
+  url: /media/projects/refigure/image.jpg
+  alt: Refigure logo.
 tags:
-  - featured
   - brand_identity
   - interaction_design
 accent_color: "#551f70"

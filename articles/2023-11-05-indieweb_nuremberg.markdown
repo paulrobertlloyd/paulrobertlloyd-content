@@ -5,16 +5,15 @@ location:
   locality: Brighton
   country_name: England
 summary: How I spent my weekend at 2023’s lone IndieWebCamp.
-photo:
-  - url: /media/2023/309/a1/image.jpg
-    alt: Twenty IndieWebCamp participants standing smiling roughly in 3-4 rows on an outdoors inclined driveway, with yellow leaves and grass on the ground and a canopy of trees overhead.
+featured:
+  url: /media/2023/309/a1/image.jpg
+  alt: Twenty IndieWebCamp participants standing smiling roughly in 3-4 rows on an outdoors inclined driveway, with yellow leaves and grass on the ground and a canopy of trees overhead.
 accent_color: "#ff5c00"
 category:
   - indieweb
   - travel
   - germany
 tags:
-  - featured
   - i5Ta1
 ---
 

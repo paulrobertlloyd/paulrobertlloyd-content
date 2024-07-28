@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: dConstruct has long combined its conference programme with the name badge, a simple yet cost-effective design. This year we hope to go one better.
-photo:
-  - url: /media/2010/243/a1/image.jpg
-    alt: This years dConstruct conference badge.
+featured:
+  url: /media/2010/243/a1/image.jpg
+  alt: This years dConstruct conference badge.
 category:
   - clearleft
   - conferences

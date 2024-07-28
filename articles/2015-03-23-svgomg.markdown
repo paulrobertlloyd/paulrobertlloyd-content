@@ -8,7 +8,6 @@ summary: I asked Jake Archibald a few questions about how he designed and develo
 category:
   - web
 tags:
-  - featured
   - interviews
 ---
 

@@ -6,11 +6,9 @@ location:
   locality: London
   country_name: England
 summary: An insight into the many opportunities and challenges facing web designers in 2013.
-photo:
-  - url: /media/2013/212/s1/image.jpg
-    alt: Macaulay Culkin in Home Alone
-tags:
-  - featured
+featured:
+  url: /media/2013/212/s1/image.jpg
+  alt: Macaulay Culkin in Home Alone
 slides:
   - url: /media/2013/212/s1/1.jpg
     caption: |

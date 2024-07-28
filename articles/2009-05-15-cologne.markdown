@@ -5,9 +5,9 @@ location:
   locality: Innsbruck
   country_name: Austria
 summary: The first stop on my nine city tour of Europe, was Cologne in Northern Germany.
-photo:
-  - url: /media/2009/135/a1/image.jpg
-    alt: Cologne Cathedral and Hohenzollern Bridge.
+featured:
+  url: /media/2009/135/a1/image.jpg
+  alt: Cologne Cathedral and Hohenzollern Bridge.
 category:
   - travel
   - europe

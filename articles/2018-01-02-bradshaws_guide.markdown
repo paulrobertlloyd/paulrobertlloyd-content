@@ -5,9 +5,9 @@ location:
   locality: Bexhill-on-Sea
   country_name: England
 summary: Having copied, pasted and formatted another 115 pages of OCR’d text, ""Bradshaw’s Guide"" now contains tours throughout South West England, the West Midlands, Wales and Ireland.
-photo:
-  - url: /media/2018/002/a1/map.png
-    alt: Routes currently covered by Bradshaw’s Guide.
+featured:
+  url: /media/2018/002/a1/map.png
+  alt: Routes currently covered by Bradshaw’s Guide.
 category:
   - bradshaws_guide
   - travel

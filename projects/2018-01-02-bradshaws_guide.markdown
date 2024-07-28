@@ -1,11 +1,10 @@
 ---
 title: Bradshaw’s Guide
 summary: Digital revival of a popular Victorian railway guide.
-photo:
-  - url: /media/projects/bradshaws_guide/image.jpg
-    alt: Bradshaw’s Guide logo.
+featured:
+  url: /media/projects/bradshaws_guide/image.jpg
+  alt: Bradshaw’s Guide logo.
 tags:
-  - featured
   - front_end_development
   - interaction_design
 accent_color: "#e6772e"

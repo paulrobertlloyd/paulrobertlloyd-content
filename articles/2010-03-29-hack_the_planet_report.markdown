@@ -4,9 +4,9 @@ title: Reflecting on Hack The Planet
 canonical:
   url: https://agreenfocus.tumblr.com/post/481315894/hacktheplanetreport
 summary: A follow-up on Hack The Planet, our hack day held in Birmingham last month.
-photo:
-  - url: /media/2010/088/a1/image.jpg
-    alt: The two teams at work.
+featured:
+  url: /media/2010/088/a1/image.jpg
+  alt: The two teams at work.
 category:
   - sustainability
   - web

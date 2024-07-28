@@ -9,8 +9,6 @@ category:
   - programming
   - projects
   - web
-tags:
-  - featured
 accent_color: "#939"
 ---
 

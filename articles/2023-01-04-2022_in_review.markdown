@@ -5,13 +5,12 @@ location:
   locality: Bexhill-on-Sea
   country_name: England
 summary: Everything back to normal.
-photo:
-  - url: /media/2023/004/a1/dunnet_bay.jpg
-    alt: The sun setting over an empty beach.
+featured:
+  url: /media/2023/004/a1/dunnet_bay.jpg
+  alt: The sun setting over an empty beach.
 category:
   - personal
 tags:
-  - featured
   - year_in_review
 ---
 

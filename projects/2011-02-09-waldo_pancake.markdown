@@ -1,9 +1,9 @@
 ---
 title: Waldo Pancake
 summary: A new home for Jim Smith, illustrator and copywriter.
-photo:
-  - url: /media/projects/waldo_pancake/image.jpg
-    alt: Waldo Pancake logo.
+featured:
+  url: /media/projects/waldo_pancake/image.jpg
+  alt: Waldo Pancake logo.
 tags:
   - front_end_development
   - interaction_design

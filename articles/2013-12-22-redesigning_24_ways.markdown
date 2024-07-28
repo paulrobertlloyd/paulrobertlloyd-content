@@ -5,15 +5,14 @@ location:
   locality: Brighton
   country_name: England
 summary: The tail end of this year has been rather hectic. If moving house and changing jobs weren’t enough to be getting on with, I was also busy redesigning 24 ways.
-photo:
-  - url: /media/2013/356/a1/website.png
-    alt: 24 ways viewed on an iPad mini.
+featured:
+  url: /media/2013/356/a1/website.png
+  alt: 24 ways viewed on an iPad mini.
 category:
   - 24_ways
   - design
   - web
 tags:
-  - featured
   - w4TL1
 accent_color: "#f04"
 ---

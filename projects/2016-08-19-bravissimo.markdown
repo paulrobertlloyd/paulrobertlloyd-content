@@ -1,11 +1,10 @@
 ---
 title: Bravissimo
 summary: Developing a component library for a lingerie and clothing company for big boobed women.
-photo:
-  - url: /media/projects/bravissimo/image.jpg
-    alt: Bravissimo logo.
+featured:
+  url: /media/projects/bravissimo/image.jpg
+  alt: Bravissimo logo.
 tags:
-  - featured
   - front_end_development
 accent_color: "#53cccc"
 ---

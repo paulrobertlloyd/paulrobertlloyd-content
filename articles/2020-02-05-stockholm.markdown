@@ -5,9 +5,9 @@ location:
   locality: Gothenburg
   country_name: Sweden
 summary: Cloudy with a chance of meatballs.
-photo:
-  - url: /media/2020/036/a1/gamla_stan.jpg
-    alt: Gamla Stan as viewed from Skeppsholmen island.
+featured:
+  url: /media/2020/036/a1/gamla_stan.jpg
+  alt: Gamla Stan as viewed from Skeppsholmen island.
 category:
   - stockholm
   - sweden
@@ -15,7 +15,6 @@ category:
   - travel
   - railways
 tags:
-  - featured
   - i54k1
 geojson:
   _height: 360

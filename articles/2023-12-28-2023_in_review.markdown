@@ -9,7 +9,6 @@ accent_color: "#e2a"
 category:
   - personal
 tags:
-  - featured
   - year_in_review
 ---
 

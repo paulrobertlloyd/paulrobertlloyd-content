@@ -5,9 +5,9 @@ location:
   locality: Brighton
   country_name: England
 summary: At the third time of asking, myself and Cennydd went to the Monaco Grand Prix.
-photo:
-  - url: /media/2022/154/a1/image.jpg
-    alt: The McLaren garage at the Monaco Grand Prix.
+featured:
+  url: /media/2022/154/a1/image.jpg
+  alt: The McLaren garage at the Monaco Grand Prix.
 category:
   - europe
   - formula_1
@@ -15,7 +15,6 @@ category:
   - monaco
   - travel
 tags:
-  - featured
   - i5Jx1
 accent_color: "#ff8000"
 ---

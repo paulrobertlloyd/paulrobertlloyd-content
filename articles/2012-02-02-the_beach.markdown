@@ -2,9 +2,9 @@
 date: 2012-02-02T21:14:40Z
 title: The beach
 summary: They call this place Ocean Beach, perhaps because both take up most of the view. The sky is hard to truly make out, with only a faint line separating two sweeping blue canvases, each in many ways a reflection of the other.
-photo:
-  - url: /media/2012/033/a1/image.jpg
-    alt: Sunset over a sandy beach.
+featured:
+  url: /media/2012/033/a1/image.jpg
+  alt: Sunset over a sandy beach.
 category:
   - creative_writing
 ---

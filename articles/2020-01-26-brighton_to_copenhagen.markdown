@@ -5,9 +5,9 @@ location:
   locality: Copenhagen
   country_name: Denmark
 summary: Like all great railway journeys, this one starts with a cancellation.
-photo:
-  - url: /media/2020/026/a1/wanderer_above_the_sea_of_fog.jpg
-    alt: ‘Wanderer above the Sea of Fog’ by Caspar David Friedrich
+featured:
+  url: /media/2020/026/a1/wanderer_above_the_sea_of_fog.jpg
+  alt: ‘Wanderer above the Sea of Fog’ by Caspar David Friedrich
 category:
   - hamburg
   - germany
@@ -17,7 +17,6 @@ category:
   - travel
   - railways
 tags:
-  - featured
   - i54k1
 geojson:
   _height: 360

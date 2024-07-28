@@ -5,8 +5,6 @@ title: IndieWeb principles
 summary: When people ask what is the IndieWeb, and who is it for, do its principles hinder more than they help?
 category:
   - indieweb
-tags:
-  - featured
 location:
   locality: Somewhere near Passau
   country_name: Germany

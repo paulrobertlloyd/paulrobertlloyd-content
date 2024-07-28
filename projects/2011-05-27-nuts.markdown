@@ -1,9 +1,9 @@
 ---
 title: Nuts.com
 summary: Incremental redesign for family run, customer-focused food retailer.
-photo:
-  - url: /media/projects/nuts/image.jpg
-    alt: Nuts logo.
+featured:
+  url: /media/projects/nuts/image.jpg
+  alt: Nuts logo.
 tags:
   - interaction_design
 accent_color: "#c50"

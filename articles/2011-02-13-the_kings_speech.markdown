@@ -2,9 +2,9 @@
 date: 2011-02-13T23:13:23Z
 title: The King’s Speech
 summary: The King’s Speech is undoubtedly one of the most successful independent British films ever made, yet some see this popularity as problematic given the artistic licence given to the events it portrays.
-photo:
-  - url: /media/2011/044/a1/image.jpg
-    alt: Colin Firth in The King’s Speech.
+featured:
+  url: /media/2011/044/a1/image.jpg
+  alt: Colin Firth in The King’s Speech.
 vocabulary:
   - entry
   - review

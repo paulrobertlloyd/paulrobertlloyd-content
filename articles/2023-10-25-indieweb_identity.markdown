@@ -10,8 +10,6 @@ category:
   - brand_identity
   - design
   - indieweb
-tags:
-  - featured
 ---
 
 While Twitter’s current owner continues to seek the spotlight, his manic stewardship of the platform has seen most peoples attention move to alternative social networks and ways of connecting with each other.

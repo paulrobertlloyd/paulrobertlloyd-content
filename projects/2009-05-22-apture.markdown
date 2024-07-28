@@ -1,9 +1,9 @@
 ---
 title: Apture
 summary: Designing a powerful publishing tool for the web’s content creators.
-photo:
-  - url: /media/projects/apture/image.jpg
-    alt: Apture logo.
+featured:
+  url: /media/projects/apture/image.jpg
+  alt: Apture logo.
 tags:
   - brand_identity
   - front_end_development

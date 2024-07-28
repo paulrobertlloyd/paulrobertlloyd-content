@@ -1,11 +1,10 @@
 ---
 title: The Week
 summary: Award-winning iPad app for weekly current affairs magazine.
-photo:
-  - url: /media/projects/the_week/image.jpg
-    alt: The Week logo.
+featured:
+  url: /media/projects/the_week/image.jpg
+  alt: The Week logo.
 tags:
-  - featured
   - interaction_design
 accent_color: "#b00"
 ---

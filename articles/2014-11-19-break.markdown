@@ -9,7 +9,6 @@ category:
   - design
   - conferences
 tags:
-  - featured
   - i4Z61
 ---
 
