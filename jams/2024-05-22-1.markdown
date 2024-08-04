@@ -2,7 +2,7 @@
 date: 2024-05-22T17:36:13.813+01:00
 jam_of:
   type: cite
-  url: https://music.apple.com/gb/album/things-can-only-get-better/1326274693?i=1326275073
+  url: https://music.apple.com/gb/album/things-can-only-get-better/1364068455?i=1364068461
   name: Things Can Only Get Better
   author: D:Ream
 ---
