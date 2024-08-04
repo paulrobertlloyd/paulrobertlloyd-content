@@ -4,7 +4,7 @@ summary: An overview of the typographic and layout styles available for content 
 url: /styleguide/
 ---
 
-The content on this page lies within the `.s-linear` scope[^1].
+The content on this page lies within `flow-content`[^1].
 
 ## Second-level heading
 
@@ -234,4 +234,4 @@ If you use these elements, you must use every element. They should appear in thi
 *[BBC]: British Broadcasting Corporation
 *[Staffs.]: Staffordshire
 
-[^1]: This scope may also include footnotes.
+[^1]: This may also include footnotes.
