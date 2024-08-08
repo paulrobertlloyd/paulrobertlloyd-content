@@ -301,7 +301,7 @@ It followed that with a new corporate identity, most elements of the corporation
 
 - ![Small ‘2’ figures hit against a paint pot.](/media/2002/152/a1/bbc_two_ident_1997_paint_pot.jpg "Paint Pot, a new addition at this time, showed the strength of the identity. This featured a simple paint-pot that mimicked one of the first idents Paint.")
 
-- ![A kebab in the shape of a figure ‘2’.](/media/2002/152/a1/bbc_two_ident_1997_kebab.jpg "Some additions no longer featured the viridian colour – such as Kebab shown above – weakening the brand.")
+- ![A kebab in the shape of a figure ‘2’.](/media/2002/152/a1/bbc_two_ident_1997_kebab.jpg "Some additions no longer featured the viridian colour – such as Kebab shown above – weakening the brand.")
 
 BBC1 retained the globe, however it was given a new twist by using an orange air balloon styled as a globe, and floating it above different landmarks and regions across Britain, Lambie-Nairn again aiming to reposition the channel. The use of bright orange for the balloon was in strong contrast to the earthy browns, greens and yellows as well as the blues within the sky.
 

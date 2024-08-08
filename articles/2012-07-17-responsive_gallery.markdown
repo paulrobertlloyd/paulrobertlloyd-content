@@ -1,6 +1,6 @@
 ---
 date: 2012-07-17T12:00:00+01:00
-title: Responsive Gallery – Summer 2012
+title: Responsive Gallery – Summer 2012
 canonical:
   issn: 1355-7602
   edition: Issue 231

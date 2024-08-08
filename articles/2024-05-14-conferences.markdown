@@ -22,7 +22,7 @@ What is it about conferences that agitates me?
 
 Maybe I don’t like listening to other people! I certainly find myself becoming overly critical, mentally marking the content of a talk against my own ideas and value system (such that it is), grumbling under my breath whenever I don’t agree with something.
 
-I also know that for a presentation to be engaging and effective, nuance can give way to oversimplification and exaggeration. Should a speaker start lecturing an audience – and a few do – I can barely contain my annoyance.
+I also know that for a presentation to be engaging and effective, nuance can give way to oversimplification and exaggeration. Should a speaker start lecturing an audience – and a few do – I can barely contain my annoyance.
 
 And I really don’t like being around large groups of people.
 
@@ -34,7 +34,7 @@ Thing is, I’ve always enjoyed my own company. I also learn by doing, which is 
 
 While it’s tempting to adopt a no conference policy, to lean into the more unsociable and introverted parts of my personality, this isn’t the way to live a healthy and fulfilling life.
 
-Perhaps the answer lies in the [unconference][7]; smaller events with the option to present on a topic without it being a big pressured thing. That includes events like [IndieWebCamp][8] – the excuse I used to visit Düsseldorf. It has a format that involves active participation and provides a more creative and collaborative space.
+Perhaps the answer lies in the [unconference][7]; smaller events with the option to present on a topic without it being a big pressured thing. That includes events like [IndieWebCamp][8] – the excuse I used to visit Düsseldorf. It has a format that involves active participation and provides a more creative and collaborative space.
 
 I almost proposed a talk for this year’s [UX Camp Brighton][9], perhaps I should commit to attending next year’s event.
 

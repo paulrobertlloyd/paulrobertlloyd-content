@@ -17,11 +17,11 @@ category:
 > Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.
 > — Steve Jobs
 
-The [IndieWeb][1] – the community of independent and personal websites built around open standards – fascinates and frustrates me in equal measure.
+The [IndieWeb][1] – the community of independent and personal websites built around open standards – fascinates and frustrates me in equal measure.
 
 The web is a democratic publishing platform but its [inherent limitations][2] means there’s a thriving market for centralised services that focus on frictionless user experience, often at the expense of control and agency.
 
-The IndieWeb however is, like humans, messy. There’s great power (and pragmatism) developing technologies based on usage – rough consensus and running code. Yet, as a recovering perfectionist, it’s this mess, this roughness, that so often frustrates me.
+The IndieWeb however is, like humans, messy. There’s great power (and pragmatism) developing technologies based on usage – rough consensus and running code. Yet, as a recovering perfectionist, it’s this mess, this roughness, that so often frustrates me.
 
 I’m trying to smooth over some of these bumps with [Indiekit][3]. Alongside usability, I’m also focused on accessibility, extensibility, customisation, localisation and much more besides. My over-designed CMS might have become a [worry stone][4].
 

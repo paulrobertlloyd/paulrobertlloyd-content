@@ -62,7 +62,7 @@ Thinking through the problem a little more over the last few days, I’m forming
 3. **🥳 Have fun!**
    When the web took off in the 90’s people began designing personal sites with garish backgrounds and animated GIFs. It may have been ugly but it was fun. Let’s keep the web weird and interesting.
 
-Every activity, event, technology and protocol supporting the indie web should be in service of these 3 principles. If you have a website at your own domain – and you’re having fun with it – you’re part of the indie web.
+Every activity, event, technology and protocol supporting the indie web should be in service of these 3 principles. If you have a website at your own domain – and you’re having fun with it – you’re part of the indie web.
 
 If you’re building a service that makes it easy for people to publish content to a website at their own domain while providing them with access and control of their content, you’re part of the indie web.
 
@@ -102,9 +102,9 @@ A way to summarise these might be to say that IndieWeb software should address t
 
 ## Putting these principles to the test
 
-Is a profile on Mastodon part of the IndieWeb? No. What if you’re using your domain name in your username? Still no; you don’t have control of your own data, even though there’s a degree of portability. What if you’re running your own ActivityPub server? Maybe in this case, yes – though I doubt you’ll be having much fun!
+Is a profile on Mastodon part of the IndieWeb? No. What if you’re using your domain name in your username? Still no; you don’t have control of your own data, even though there’s a degree of portability. What if you’re running your own ActivityPub server? Maybe in this case, yes – though I doubt you’ll be having much fun!
 
-Is ActivityPub an IndieWeb technology? Maybe? It’s an open standard. Whether it’s interoperable, modular and durable, I’ll let others be the judge. It’s also difficult to implement, but building a Webmention endpoint is no walk in the park, either.
+Is ActivityPub an IndieWeb technology? Maybe? It’s an open standard. Whether it’s interoperable, modular and durable, I’ll let others be the judge. It’s also difficult to implement, but building a Webmention endpoint is no walk in the park, either.
 
 Is a website on Squarespace part of the IndieWeb? If it’s at your own domain, I guess so. But what if Squarespace were to disappear tomorrow? Who knows what horrors lie in store [now that it’s set to go private][8]. Would you be able to export your content, and could it then be hosted elsewhere? Possibly, but it all feels very proprietary, with a good deal of lock-in (although that’s true of every CMS).
 

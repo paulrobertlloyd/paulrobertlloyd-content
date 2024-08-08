@@ -31,13 +31,13 @@ Indiekit is extensible via a [plug-in API][4] and localised for use in [a growin
 
 This project has been in development for over 3 years (it’s 40 months to the day since [I released v0.0.1][6]), and there’s still more work to do. But as the saying goes, if you’re not embarrassed by your first release, you’ve waited too long.
 
-That said, what I’m announcing today is a public beta – I’d like to get a few more people using Indiekit to iron out any outstanding issues before I call it done for version 1.0.0 and move on to [the next set of features][7].
+That said, what I’m announcing today is a public beta – I’d like to get a few more people using Indiekit to iron out any outstanding issues before I call it done for version 1.0.0 and move on to [the next set of features][7].
 
 ## Why I built Indiekit (or how I accidentally became a programmer)
 
 I first became interested in the IndieWeb while working with [Jeremy][8] at Clearleft. I attended the [second IndieWebCamp in the UK in 2013][9], and returned for [the Brighton edition in 2015][10].
 
-Both times I felt a mixture of excitement and frustration. I enjoyed learning how different IndieWeb protocols enabled you to own and control your content (websites like those of [Aaron][11] and [Barry][12] still make me envious). Yet, while I met the basic criteria – I had a website at my own domain – the most arresting ideas seemed out of reach without a deeper technical understanding.
+Both times I felt a mixture of excitement and frustration. I enjoyed learning how different IndieWeb protocols enabled you to own and control your content (websites like those of [Aaron][11] and [Barry][12] still make me envious). Yet, while I met the basic criteria – I had a website at my own domain – the most arresting ideas seemed out of reach without a deeper technical understanding.
 
 Instead I had to rely on the work of others. I spent the next few years using tools like Pelle Wessman’s [Micropub to GitHub][13] and later Hans Gerwitz’s [Sitewriter][14], both projects subject to my many bug reports and feature requests. But there was no avoiding the fact that neither was flexible enough for my needs. And so, having [gotten to grips with JavaScript][15], I began building my own Node.js application [in February 2019][16].
 

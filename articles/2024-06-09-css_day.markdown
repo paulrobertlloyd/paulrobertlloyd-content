@@ -87,7 +87,7 @@ Meanwhile, Roma Komarov adapted CSS’s new-found ability to create scroll-based
 
 ---
 
-I’ve only covered a small portion of what was presented – some of which I missed given I took a relaxed approach getting from my hotel to the venue each morning.
+I’ve only covered a small portion of what was presented – some of which I missed given I took a relaxed approach getting from my hotel to the venue each morning.
 
 As CSS Day celebrates its milestone anniversary, I was reminded how lucky we are to have events that bring together two constituent parties of the web: implementors and authors (with Sara Soueidan’s talk about the relationship between CSS and accessibility reminding us of the users we ultimately build for). My only complaint is that there are not more events like this; single track, tight subject focus (and amazing catering).
 

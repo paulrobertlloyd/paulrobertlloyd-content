@@ -18,7 +18,7 @@ I’ll be giving a condensed version of the talk I gave at UX London about keepi
 
 If you’re working in government, this should be right up your street, but I’m sure there will be plenty of insights for those who don’t.
 
-As someone who tends to prefer working in the later design phases – actively avoiding discoveries if I’m honest – I’m keen to hear what Jon has to say about placing potential services on firm foundations. And since my appearance at UX London, I’ve been intrigued by the talk Giles has been giving this year about how different teams attempt to document design decisions to ensure the hard work isn’t lost once everyone has left the building.
+As someone who tends to prefer working in the later design phases – actively avoiding discoveries if I’m honest – I’m keen to hear what Jon has to say about placing potential services on firm foundations. And since my appearance at UX London, I’ve been intrigued by the talk Giles has been giving this year about how different teams attempt to document design decisions to ensure the hard work isn’t lost once everyone has left the building.
 
 So, come and join us at the Globe Room at Brighton Projects. Drinks and pizza will be provided, with talks starting at 7pm. [Tickets cost £15][4].
 

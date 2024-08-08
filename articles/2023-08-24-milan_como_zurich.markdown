@@ -38,7 +38,7 @@ The majesty of its many churches and chapels, each with delicate frescos, awesom
 
 - ![A path stretches into a distance towards woodland.](/media/2023/236/a1/brunate-dome.jpg "Dome of Chiesa di Sant’Andrea Apostolo, Brunate.")
 
-As much as I dream of being a travel writer, I neither possess the confidence to interact with strangers nor the gastronomic curiosity to seek out local dishes. Sat in Milan’s [Starbucks Reserve][4] roastery – a sort of Disneyland for lovers of mediocre coffee – I consign myself to being pretty basic.
+As much as I dream of being a travel writer, I neither possess the confidence to interact with strangers nor the gastronomic curiosity to seek out local dishes. Sat in Milan’s [Starbucks Reserve][4] roastery – a sort of Disneyland for lovers of mediocre coffee – I consign myself to being pretty basic.
 
 I also lack an ability to plan effectively. With enough research I’d have known that Turin’s metro would be closed for a month, that Milan Cathedral is partially covered in scaffolding, Como’s waterfront is a construction site and that Zürich’s museums are closed on Mondays.
 

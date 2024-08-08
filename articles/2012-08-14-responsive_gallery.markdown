@@ -1,7 +1,7 @@
 ---
 date: 2012-08-14T12:00:00+01:00
 type_index: 2
-title: Responsive Gallery – September 2012
+title: Responsive Gallery – September 2012
 canonical:
   issn: 1355-7602
   edition: Issue 232

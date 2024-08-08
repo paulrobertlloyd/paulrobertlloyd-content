@@ -46,7 +46,7 @@ For all these trade-offs, there are no hand controllers. Instead, outward facing
 
 Unlike Meta, they’ve not tried to recreate the entire world in a virtual reality space (complete with disembodied avatars) but rather allow users to choose a level of immersion suitable for a given task.
 
-Unsurprisingly, Apple have flexed their design chops and employed a degree of emotional intelligence to create something that can resonate with an audience beyond gamers – or at least once the price is more hospitable.
+Unsurprisingly, Apple have flexed their design chops and employed a degree of emotional intelligence to create something that can resonate with an audience beyond gamers – or at least once the price is more hospitable.
 
 ## Deception, disinformation and despair
 
@@ -70,7 +70,7 @@ I’m left questioning the purpose of spatial computing.
 
 I’m not sure Apple gave much of an answer, at least not during this keynote. Beyond a limited set of industrial and educational applications, how does spatial computing improve people’s lives or make us more productive?
 
-Clearly it’s not much help when designing a Formula 1 car – I snorted when they mentioned the Vision Pro being used to develop Alfa Romeo’s car, with the team languishing near the bottom of the constructors’ championship.
+Clearly it’s not much help when designing a Formula 1 car – I snorted when they mentioned the Vision Pro being used to develop Alfa Romeo’s car, with the team languishing near the bottom of the constructors’ championship.
 
 You could make the case that a single device that replaces many can reduce electronic waste over time; they mentioned the Vision Pro providing a better experience than a big screen television, surround sound speakers and a computer combined. This promise never delivers; technology only ever accumulates.
 
@@ -87,7 +87,7 @@ When demonstrating visionOS, I was excited by the new UI paradigms and the possi
 
 Parts of the presentation wouldn’t have looked out of place in an episode of [Black Mirror][5], which isn’t a great look. As [Daniel Jalkut said][6], even Apple can’t humanise the dystopian hell scape we’re evolving into.
 
-Fundamentally, this is a device founded on the premise that reality needs improvement – and only Apple can do this.
+Fundamentally, this is a device founded on the premise that reality needs improvement – and only Apple can do this.
 
 With a war raging in Europe and the climate on the brink of irreparable damage, who wouldn’t want an escape. But is withdrawal from the real world the answer?
 

@@ -30,7 +30,7 @@ IndieWebCamp has [a clear and well-defined logo][7] which has proven adaptable e
 
 Others have reached the same conclusion: that there should be a set of related icons to represent these protocols.
 
-In 2016, Shane Becker – designer of the current IndieWebCamp logo – while [considering a logo to represent the IndieWeb][14] wrote:
+In 2016, Shane Becker – designer of the current IndieWebCamp logo – while [considering a logo to represent the IndieWeb][14] wrote:
 
 > Part of my thinking for this design was to build it in such a way that it could be a part of larger design system for indie web related things. Namely, I want to design logos for all of the building blocks […] and those building block logos to be able to work together in a coherent way.
 
@@ -46,7 +46,7 @@ While not by any means my final proposal, what I’m sharing here, I think, coul
 
 ![A set of six icons arranged in a grid.](/media/2023/298/a1/image.png "Initial icon proposal for POSSE, Micropub, Webmention, IndieAuth, Microsub and Vouch.")
 
-This design attempts to bring together a set of icons that share the concept of a node – a line and a point – and use this to add counters to each letter shape. This serves as a nod to [the original logo for IndieWebCamp designed in 2013 by Crystal Beasley][16], and reflects [the POSSE diagram][17] drawn by Tantek.
+This design attempts to bring together a set of icons that share the concept of a node – a line and a point – and use this to add counters to each letter shape. This serves as a nod to [the original logo for IndieWebCamp designed in 2013 by Crystal Beasley][16], and reflects [the POSSE diagram][17] drawn by Tantek.
 
 I’ve tried to incorporate existing ideas where available while trying to create a relationship between each icon. For example, the IndieAuth icon retains the shape of the existing icon while adjusting the counter to use the node motif, while the Webmention icon retains the top right arrow.
 

@@ -70,7 +70,7 @@ This app is really fast, to the extent that it often feels as if you’re using 
 
 Furthermore, the initial download is only 5kb, rendering within 1.5s, even on a 3G connection. <q>It really bothers me that so many sites wait on JavaScript for their first render, some even require scripts to make further requests before rendering. This pushes render time towards 10s — as a mobile user I know I wouldn’t put up with that</q>. Subsequent visits use ServiceWorker, so render almost instantly, whatever connection the user has.
 
-> This is quite the sexy SVG optimiser from @jaffathecake@twitter.com – great use of the Material Design framework too.
+> This is quite the sexy SVG optimiser from @jaffathecake@twitter.com – great use of the Material Design framework too.
 > — Si Jobling (@Si@twitter.com)
 
 ---

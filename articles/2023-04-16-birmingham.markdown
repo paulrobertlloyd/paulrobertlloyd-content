@@ -52,7 +52,7 @@ The industrial revolution lead to its emergence as the UK’s second largest cit
 
 [Promotional film for Bull Ring Shopping Centre (1965)](https://www.youtube.com/watch?v=aWglgu--Wvc)
 
-While his ideas proved to be a complete failure, I find myself strangely mournful that so little of his vision – beyond the road network – remains.
+While his ideas proved to be a complete failure, I find myself strangely mournful that so little of his vision – beyond the road network – remains.
 
 I spent 15 minutes looking for signs of where the former bridge from the brutalist Central Library connected with the museum and art gallery. I imagined this connection having knocked through the older building’s brickwork, showing the same reverence for the past as that given to the original Victorian library it replaced. Yet the only hint of the bridge I could find was two new windows; the building was untouched.
 
@@ -60,7 +60,7 @@ Why does this point in Birmingham’s architectural history hold such a fascinat
 
 [Telly Savalas Looks at Birmingham](https://www.youtube.com/watch?v=EoHVO1eSMFc "I don’t think anyone saw Birmingham in quite the same glowing terms as Telly Savalas apparently did in 1981.")
 
-As the 20th century came to a close, Birmingham embarked on a second period of reinvention, largely focused on areas around the city’s extensive canal network. While the NIA, ICC and Symphony Hall weren’t enough to convince the IOC to bring the Olympics to Birmingham in 1992, they did play host to the G8 and Eurovision in 1998.
+As the 20th century came to a close, Birmingham embarked on a second period of reinvention, largely focused on areas around the city’s extensive canal network. While the NIA, ICC and Symphony Hall weren’t enough to convince the IOC to bring the Olympics to Birmingham in 1992, they did play host to the G8 and Eurovision in 1998.
 
 It wasn’t until the demolition of the Bull Ring Centre in 2000 that it felt as if Birmingham could finally move forward. It remains a matter of deep regret that I never visited the old shopping centre, flawed as it was. My only memory is of a large hole in the ground after it had been bulldozed.
 

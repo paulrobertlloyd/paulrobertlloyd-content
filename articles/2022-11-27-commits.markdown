@@ -68,7 +68,7 @@ I now have several folders on my desktop for the different projects I’m workin
 
 My last tip is the same as Simon’s. Sometimes you just need to go hog wild on an idea; after all, nothing crushes creativity like a formal process! Once I’m happy with a feature, I’ll create a WIP branch before reviewing it for any changes that I can pull into a separate commit.
 
-With those changes merged, I’ll then rebase the main branch into this WIP branch. Repeating this process many times over allows this branch to become more focused. Using the interactive rebase, I can then merge, edit or split apart different commits, and tidy up commit messages, leaving me with the _Perfect Commit_.
+With those changes merged, I’ll then rebase the main branch into this WIP branch. Repeating this process many times over allows this branch to become more focused. Using the interactive rebase, I can then merge, edit or split apart different commits, and tidy up commit messages, leaving me with the _Perfect Commit_.
 
 *[WIP]: work in progress
 

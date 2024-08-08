@@ -80,7 +80,7 @@ When will v1.0.0 be released? Well, there are a few gnarly issues that are preve
 
     The speed in which a syndicator can return a URL to its syndicated copy would dictate which event they should hook into.
 
-    For example, the Mastodon syndicator could respond to a `publish.before` event, syndicate a post, append the returned URL to post data prior to this being sent on to the content store. Meanwhile, the Internet Archive syndicator could respond to a `publish.after` event, where it would query the Internet Archive API and only update a post once an archived URL had been created.
+    For example, the Mastodon syndicator could respond to a `publish.before` event, syndicate a post, append the returned URL to post data prior to this being sent on to the content store. Meanwhile, the Internet Archive syndicator could respond to a `publish.after` event, where it would query the Internet Archive API and only update a post once an archived URL had been created.
 
     I’d also like syndicators to provide equivalent methods when a post is updated or deleted. This would allow syndicated copies to remain in sync with content published to a website.
 

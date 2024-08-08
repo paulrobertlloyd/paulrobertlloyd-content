@@ -12,7 +12,7 @@ category:
 
 After sharing a list of the [places I’ve been][1], time to join in with another popular blogging topic which involves [people sharing the default apps][2] they currently use.
 
-As you’ll see, I score pretty highly on my dependence on the ‘default’ default apps, and so the less said about my reliance on Apple’s offerings, the better.
+As you’ll see, I score pretty highly on my dependence on the ‘default’ default apps, and so the less said about my reliance on Apple’s offerings, the better.
 
 📨 Mail client
 : macOS ""Mail"".
@@ -75,13 +75,13 @@ As you’ll see, I score pretty highly on my dependence on the ‘default’ def
 : [Apple Music](https://www.apple.com/uk/apple-music/).
 
 🎤 Podcasts
-: [""Overcast""](https://overcast.fm) – a rare divergence from Apple’s default.
+: [""Overcast""](https://overcast.fm) – a rare divergence from Apple’s default.
 
 📐 Design
 : [""Sketch""](https://www.sketch.com) and the [GOV.UK Prototype Kit](https://prototype-kit.service.gov.uk/docs/). Never ""Figma"".
 
 👨🏼‍💻 Code
-: [""Visual Studio Code""](https://code.visualstudio.com) – though I’d really like to say [""Nova""](https://nova.app).
+: [""Visual Studio Code""](https://code.visualstudio.com) – though I’d really like to say [""Nova""](https://nova.app).
 
 📁 Cloud file storage
 : iCloud Drive, with [""Transmit""](https://www.panic.com/transmit/) used to access my FTP server.
