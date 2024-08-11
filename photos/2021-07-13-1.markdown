@@ -3,11 +3,11 @@ date: 2021-07-13T22:29:10.324+01:00
 photo:
   - url: /media/2021/194/p1/1.jpg
     alt: People rock climbing.
-  - url: /media/2021/194/p1/1.jpg
+  - url: /media/2021/194/p1/2.jpg
     alt: Boulders.
-  - url: /media/2021/194/p1/1.jpg
+  - url: /media/2021/194/p1/3.jpg
     alt: Ridge line contrasting with green moorland bordering it.
-  - url: /media/2021/194/p1/1.jpg
+  - url: /media/2021/194/p1/4.jpg
     alt: Stones, heather and distant moorland.
 ---
 

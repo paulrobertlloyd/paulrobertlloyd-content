@@ -3,9 +3,9 @@ date: 2021-07-15T20:46:52.774+01:00
 photo:
   - url: /media/2021/196/p2/1.jpg
     alt: Disused railway viaduct crossing a valley.
-  - url: /media/2021/196/p2/1.jpg
+  - url: /media/2021/196/p2/2.jpg
     alt: Inside a disused railway tunnel.
-  - url: /media/2021/196/p2/1.jpg
+  - url: /media/2021/196/p2/3.jpg
     alt: Disused railway station at Great Longstone.
 ---
 
