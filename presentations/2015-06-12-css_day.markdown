@@ -9,6 +9,7 @@ summary: Responsive design made us think about how we could accommodate a divers
 featured:
   url: /media/2015/163/s1/image.jpg
   alt: Many different gloves.
+accent_color: "#9dd"
 slides:
   - url: /media/2015/163/s1/1.png
     caption: |

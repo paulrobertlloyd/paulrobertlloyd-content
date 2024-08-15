@@ -9,6 +9,7 @@ location:
 featured:
   url: /media/2013/262/s1/image.jpg
   alt: A corrupted image of the California state flag.
+accent_color: "#f6a"
 slides:
   - url: /media/2013/262/s1/1.png
     caption: |

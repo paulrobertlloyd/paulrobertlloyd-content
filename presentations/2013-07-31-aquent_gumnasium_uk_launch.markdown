@@ -9,6 +9,7 @@ summary: An insight into the many opportunities and challenges facing web design
 featured:
   url: /media/2013/212/s1/image.jpg
   alt: Macaulay Culkin in Home Alone
+accent_color: "#e82"
 slides:
   - url: /media/2013/212/s1/1.jpg
     caption: |

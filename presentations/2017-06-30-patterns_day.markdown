@@ -9,6 +9,7 @@ summary: In an attempt to understand our work, digital designers may look toward
 featured:
   url: /media/2017/181/s1/image.jpg
   alt: The National Congress in Brasília.
+accent_color: "#0000e4"
 slides:
   - url: /media/2017/181/s1/1.png
     caption: |

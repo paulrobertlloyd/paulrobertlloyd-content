@@ -9,6 +9,7 @@ summary: When the prevailing culture permits the creation of products that under
 featured:
   url: /media/2018/095/s1/image.jpg
   alt: Mark Zuckerberg.
+accent_color: "#13b"
 slides:
   - url: /media/2018/095/s1/1.png
     caption: |
