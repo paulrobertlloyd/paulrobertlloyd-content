@@ -3,7 +3,7 @@ date: 2018-05-09T17:00:00+01:00
 title: Getting to grips with JavaScript
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: My relationship with JavaScript? It’s complicated.
 category:
   - javascript

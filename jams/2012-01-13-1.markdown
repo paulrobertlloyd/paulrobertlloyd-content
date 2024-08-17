@@ -1,6 +1,6 @@
 ---
 date: 2012-01-13
-jam_of:
+jamOf:
   type: cite
   name: Hoppípolla
   author: Sigur Rós

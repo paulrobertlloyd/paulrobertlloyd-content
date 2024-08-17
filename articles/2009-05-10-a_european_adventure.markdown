@@ -3,7 +3,7 @@ date: 2009-05-10T01:33:58+01:00
 title: A European adventure
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: After a number of years focusing my travels around big American cities, today I start a three week jaunt across Europe.
 geojson:
   _height: 480

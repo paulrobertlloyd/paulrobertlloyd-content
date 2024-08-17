@@ -1,6 +1,6 @@
 ---
 date: 2014-06-06
-jam_of:
+jamOf:
   type: cite
   name: Magic
   author: Coldplay

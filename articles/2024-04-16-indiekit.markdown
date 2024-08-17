@@ -9,8 +9,8 @@ category:
 location:
   type: adr
   locality: Brighton
-  country_name: England
-accent_color: "#60c"
+  countryName: England
+color: "#60c"
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112280596458556654
 ---

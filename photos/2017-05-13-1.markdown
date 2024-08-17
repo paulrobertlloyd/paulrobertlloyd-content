@@ -1,6 +1,6 @@
 ---
 date: 2017-05-13T00:31:59+01:00
-time_zone: Europe/Dublin
+timeZone: Europe/Dublin
 photo:
   - url: /media/2017/133/p1/1.jpg
     alt: Walking Trail, Connemara National Park.

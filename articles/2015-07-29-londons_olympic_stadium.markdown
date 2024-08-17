@@ -3,7 +3,7 @@ date: 2015-07-29T00:20:12+01:00
 title: "London’s Olympic Stadium: A legacy lost"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Following a £272m conversion programme, London’s Olympic Stadium can now host both football and athletics. Has this secured it legacy?
 featured:
   url: /media/2015/209/a1/image.jpg
@@ -13,7 +13,7 @@ category:
   - london_2012
   - politics
   - olympics
-accent_color: "#e6007e"
+color: "#e6007e"
 ---
 
 ![Birds eye view of the Olympic Stadium in London.](/media/2015/209/a1/image.jpg "The Olympic Stadium nearing its completion in 2012.")

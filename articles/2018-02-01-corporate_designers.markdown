@@ -3,7 +3,7 @@ date: 2018-02-01T14:30:00Z
 title: Hostage Situation
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Why do some designers choose to work for ‘evil’ corporations – and what happens to them when they get there?
 category:
   - design

@@ -3,19 +3,19 @@ start: 2023-08-09
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Paris-Nord
     locality: Paris
-    country_name: France
+    countryName: France
   - label: Paris-Gare-de-Lyon
     locality: Paris
-    country_name: France
+    countryName: France
   - label: Lyon-Part-Dieu
     locality: Lyon
-    country_name: France
+    countryName: France
 tags:
   - i5SJ1
 ---

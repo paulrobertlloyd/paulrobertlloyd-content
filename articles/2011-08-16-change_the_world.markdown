@@ -3,7 +3,7 @@ date: 2011-08-16T00:45:20+01:00
 title: Change the world
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Facebook’s continuing hoovering up of top design talent has been worrying me for some months. The shopping spree continued earlier this month with the acquisition of Push Pop Press, a promising start-up building an innovative digital publishing platform.
 category:
   - design

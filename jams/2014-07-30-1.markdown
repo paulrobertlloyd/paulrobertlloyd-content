@@ -1,6 +1,6 @@
 ---
 date: 2014-07-30
-jam_of:
+jamOf:
   type: cite
   name: I’m On My Way
   author: The Proclaimers

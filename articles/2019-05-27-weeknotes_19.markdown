@@ -3,7 +3,7 @@ date: 2019-05-27T23:15:00+01:00
 title: "Weeknotes #19"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: They say the best thing to do when you fall off a bike is to get back on. Perhaps the same holds true for weeknotes.
 tags:
   - weeknotes

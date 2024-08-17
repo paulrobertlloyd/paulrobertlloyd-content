@@ -1,7 +1,7 @@
 ---
 date: 2012-07-10T18:54:55+01:00
 title: Nest happy homes
-bookmark_of: https://nest.com/blog/2012/07/10/nest-happy-homes-video/
+bookmarkOf: https://nest.com/blog/2012/07/10/nest-happy-homes-video/
 category:
   - advertising
   - nest

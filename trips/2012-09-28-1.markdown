@@ -3,19 +3,19 @@ start: 2012-09-28
 itinerary:
   - label: São Paulo-Guarulhos International Airport (GRU)
     locality: Guarulhos
-    country_name: Brazil
+    countryName: Brazil
   - label: Frankfurt Airport (FRA)
     locality: Frankfurt am Main
-    country_name: Germany
+    countryName: Germany
   - label: London Heathrow Airport (LHR)
     locality: London
-    country_name: England
+    countryName: England
   - label: London Victoria (VIC)
     locality: London
-    country_name: England
+    countryName: England
   - label: Preston Park (PRP)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4Kv1
 ---

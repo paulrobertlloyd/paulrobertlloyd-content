@@ -7,7 +7,7 @@ featured:
 tags:
   - front_end_development
   - interaction_design
-accent_color: "#00aeef"
+color: "#00aeef"
 ---
 
 - ![Home page.](/media/projects/unicef_uk/home.png#screenshot)

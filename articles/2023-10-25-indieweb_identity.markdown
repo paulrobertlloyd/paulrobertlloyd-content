@@ -3,9 +3,9 @@ date: 2023-10-25T20:45:00+02:00
 title: A cohesive and unified identity for IndieWeb protocols
 location:
   locality: Somewhere near Nuremberg
-  country_name: Germany
+  countryName: Germany
 summary: Noodling on nodes.
-accent_color: "#ff5c00"
+color: "#ff5c00"
 category:
   - brand_identity
   - design

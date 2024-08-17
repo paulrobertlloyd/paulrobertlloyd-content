@@ -3,7 +3,7 @@ date: 2012-10-06T00:37:42+01:00
 title: Thoughts on Adobe Edge
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Adobe recently announced a new suite a products and services for web developers, called Adobe Edge. "".net Magazine"" asked me to provide some thoughts.
 category:
   - adobe

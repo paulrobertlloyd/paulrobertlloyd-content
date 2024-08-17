@@ -1,7 +1,7 @@
 ---
 date: 2012-12-19T13:15:18Z
 title: Instagram didn’t get the tone wrong
-bookmark_of: https://asburyandasbury.typepad.com/blog/2012/12/instagram-didnt-get-the-tone-wrong.html
+bookmarkOf: https://asburyandasbury.typepad.com/blog/2012/12/instagram-didnt-get-the-tone-wrong.html
 category:
   - instagram
   - facebook

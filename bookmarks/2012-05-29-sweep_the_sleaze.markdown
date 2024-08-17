@@ -1,7 +1,7 @@
 ---
 date: 2012-05-29T14:14:01+01:00
 title: Sweep the sleaze
-bookmark_of: https://ia.net/topics/sweep-the-sleaze
+bookmarkOf: https://ia.net/topics/sweep-the-sleaze
 category:
   - social_media
   - web

@@ -3,13 +3,13 @@ date: 2022-06-27T22:15:00+01:00
 title: Memory almost full
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Wings? Only the band the Beatles could have been.
 category:
   - music
   - family
   - london_2012
-accent_color: "#c09"
+color: "#c09"
 ---
 
 [Paul McCartney - I’ve Got a Feeling (feat. John Lennon)](https://www.youtube.com/watch?v=g4UsXksoGNg)

@@ -3,7 +3,7 @@ date: 2023-08-14T21:30:00+02:00
 title: Italian railways
 location:
   locality: Milan
-  country_name: Italy
+  countryName: Italy
 summary: A few things I’ve noticed while travelling around Italy by train.
 category:
   - europe
@@ -12,7 +12,7 @@ category:
   - travel
 tags:
   - i5SJ1
-accent_color: "#d51d2a"
+color: "#d51d2a"
 ---
 
 - Many mainline stations look like airports thanks to their long departure halls with high ceilings. I’ve found this to be the case at [Torino’s Porta Susa][1] and [Porta Nova][2], and thought this to be especially true when I visited [Roma Termini][3] many years ago.

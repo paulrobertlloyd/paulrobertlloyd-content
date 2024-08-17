@@ -3,10 +3,10 @@ start: 2009-05-12
 itinerary:
   - label: Köln
     locality: Cologne
-    country_name: Germany
+    countryName: Germany
   - label: Munich Pasing
     locality: Munich
-    country_name: Germany
+    countryName: Germany
 tags:
   - i3z_1
 ---

@@ -7,7 +7,7 @@ featured:
 tags:
   - brand_identity
   - interaction_design
-accent_color: "#6e9d00"
+color: "#6e9d00"
 ---
 
 - ![Groops page.](/media/projects/groopix/groops.png#screenshot)

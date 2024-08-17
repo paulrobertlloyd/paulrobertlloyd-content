@@ -1,7 +1,7 @@
 ---
 date: 2019-01-12T14:45:00Z
 title: Are pop lyrics getting more repetitive?
-bookmark_of: https://pudding.cool/2017/05/song-repetition/
+bookmarkOf: https://pudding.cool/2017/05/song-repetition/
 category:
   - compression
   - music

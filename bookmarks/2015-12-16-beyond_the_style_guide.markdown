@@ -1,7 +1,7 @@
 ---
 date: 2015-12-17T23:30:00Z
 title: Beyond the style guide
-bookmark_of: https://24ways.org/2015/beyond-the-style-guide/
+bookmarkOf: https://24ways.org/2015/beyond-the-style-guide/
 category:
   - writing
   - 24_ways

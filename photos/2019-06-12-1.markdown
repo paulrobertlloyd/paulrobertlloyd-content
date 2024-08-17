@@ -1,6 +1,6 @@
 ---
 date: 2019-06-12T13:41:09+02:00
-time_zone: Europe/Amsterdam
+timeZone: Europe/Amsterdam
 photo:
   - url: /media/2019/163/p1/1.jpg
     alt: View down Eikelstraat, a small cobbled street.

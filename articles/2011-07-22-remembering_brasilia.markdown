@@ -3,7 +3,7 @@ date: 2011-07-22T22:31:56+01:00
 title: Remembering Brasília
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Thoughts on Brasília, which I visited back in March.
 featured:
   url: /media/2011/203/a1/dom_bosco.jpg

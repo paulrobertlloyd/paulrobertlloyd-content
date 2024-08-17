@@ -3,7 +3,7 @@ date: 2010-07-23T01:42:20+01:00
 title: Are web design conferences becoming too safe?
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: Earlier this week, Simon Collison revealed the first fruits of his newly established private entrepreneurship. *New Adventures In Web Design* is an affordable one-day conference landing in Nottingham on 20th January 2011.
 category:
   - conferences

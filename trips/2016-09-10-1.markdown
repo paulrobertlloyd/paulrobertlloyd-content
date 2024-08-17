@@ -3,22 +3,22 @@ start: 2016-09-10
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Paris-Nord
     locality: Paris
-    country_name: France
+    countryName: France
   - label: Paris-Est
     locality: Paris
-    country_name: France
+    countryName: France
   - label: Strasbourg-Ville
     locality: Strasbourg
-    country_name: France
+    countryName: France
   - label: Freiburg
     locality: Freiburg im Breisgau
-    country_name: Germany
+    countryName: Germany
 tags:
   - i4jE1
 ---

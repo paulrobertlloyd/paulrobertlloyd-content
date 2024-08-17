@@ -3,7 +3,7 @@ date: 2015-06-25T22:55:52+01:00
 title: Rotterdam reflections
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Some thoughts after spending a few days in the Netherlands’ second city.
 featured:
   url: /media/2015/176/a1/centraal_station.jpg

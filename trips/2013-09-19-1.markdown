@@ -3,13 +3,13 @@ start: 2013-09-19
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: Clapham Junction (CLJ)
     locality: Clapham
-    country_name: England
+    countryName: England
   - label: Milton Keynes Central (MKC)
     locality: Milton Keynes
-    country_name: England
+    countryName: England
 tags:
   - i4S71
 ---

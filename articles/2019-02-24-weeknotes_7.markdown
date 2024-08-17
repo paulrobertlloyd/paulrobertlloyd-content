@@ -3,7 +3,7 @@ date: 2019-02-24T23:10:00Z
 title: "Weeknotes #7"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Instead of writing these weeknotes, I could be writing code.
 tags:
   - weeknotes

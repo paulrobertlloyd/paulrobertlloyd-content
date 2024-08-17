@@ -3,7 +3,7 @@ date: 2014-03-02T01:32:03Z
 title: British government identity, revisited
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: With the British government now able to count itself among the few countries sporting a coherent identity programme, a follow up to my 2009 post on the subject.
 category:
   - brand_identity

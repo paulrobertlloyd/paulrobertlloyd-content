@@ -1,7 +1,7 @@
 ---
 date: 2014-12-22T12:35:26Z
 title: Naming things
-bookmark_of: https://24ways.org/2014/naming-things/
+bookmarkOf: https://24ways.org/2014/naming-things/
 category:
   - writing
   - 24_ways

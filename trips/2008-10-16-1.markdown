@@ -3,10 +3,10 @@ start: 2008-10-16
 itinerary:
   - label: Chicago Midway International Airport (MDW)
     locality: Chicago
-    country_name: United States
+    countryName: United States
   - label: Washington Dulles International Airport (IAD)
     locality: Dulles
-    country_name: United States
+    countryName: United States
 tags:
   - i3vs1
 ---

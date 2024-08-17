@@ -3,7 +3,7 @@ date: 2010-02-16T23:34:04Z
 title: A new visual design language for BBC Online
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: I’m a huge supporter of the BBC, yet for many years I was unimpressed with much of it’s online output, where inconsistent design and poor implementation reflected badly upon one of our country’s greatest institutions.
 category:
   - design

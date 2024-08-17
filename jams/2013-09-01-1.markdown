@@ -1,6 +1,6 @@
 ---
 date: 2013-09-01
-jam_of:
+jamOf:
   type: cite
   name: White Nights
   author: Oh Land

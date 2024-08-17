@@ -3,13 +3,13 @@ start: 2009-12-17
 itinerary:
   - label: London Heathrow Airport (LHR)
     locality: London
-    country_name: England
+    countryName: England
   - label: Los Angeles International Airport (LAX)
     locality: Los Angeles
-    country_name: United States
+    countryName: United States
   - label: Auckland Airport (AKL)
     locality: Auckland
-    country_name: New Zealand
+    countryName: New Zealand
 tags:
   - i43F1
 ---

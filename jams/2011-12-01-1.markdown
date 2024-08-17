@@ -1,6 +1,6 @@
 ---
 date: 2011-12-01
-jam_of:
+jamOf:
   type: cite
   name: Goodbye Kiss
   author: Kasabin

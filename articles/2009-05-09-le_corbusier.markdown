@@ -3,7 +3,7 @@ date: 2009-05-09T22:12:38+01:00
 title: Le Corbusier - The Art of Architecture
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: Yesterday I went to see the Le Corbusier exhibition, currently showing at the Barbican Art Gallery in London.
 featured:
   url: /media/2009/129/a1/image.jpg

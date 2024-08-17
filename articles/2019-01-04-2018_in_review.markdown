@@ -3,7 +3,7 @@ date: 2019-01-04T19:10:00Z
 title: 2018 in review
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: Looking back on a well-travelled yet otherwise directionless year.
 featured:
   url: /media/2019/004/a1/oban_bay.jpg

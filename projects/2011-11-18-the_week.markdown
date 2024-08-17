@@ -6,7 +6,7 @@ featured:
   alt: The Week logo.
 tags:
   - interaction_design
-accent_color: "#b00"
+color: "#b00"
 ---
 
 - ![Cover screen.](/media/projects/the_week/cover.png#screenshot)

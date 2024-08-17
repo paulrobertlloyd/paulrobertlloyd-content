@@ -1,7 +1,7 @@
 ---
 date: 2011-10-06T20:32:05+01:00
 title: The crazy ones
-bookmark_of: https://www.youtube.com/watch?v=-z4NS2zdrZc
+bookmarkOf: https://www.youtube.com/watch?v=-z4NS2zdrZc
 category:
   - steve_jobs
   - apple

@@ -1,6 +1,6 @@
 ---
 date: 2017-11-05T18:09:19+01:00
-time_zone: Europe/Berlin
+timeZone: Europe/Berlin
 photo:
   - url: /media/2017/309/p2/1.jpg
     alt: Tempelhof Airport.

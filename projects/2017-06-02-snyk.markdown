@@ -6,7 +6,7 @@ featured:
   alt: Snyk logo.
 tags:
   - interaction_design
-accent_color: "#6b698e"
+color: "#6b698e"
 ---
 
 ![Projects page.](/media/projects/snyk/projects.png#screenshot)

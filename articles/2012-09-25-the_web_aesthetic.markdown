@@ -9,7 +9,7 @@ summary: "When every device begs to be connected, it has become easier – almos
 featured:
   url: /media/2012/283/a1/illustration.png
   alt: Illustration by Kevin Cornell.
-accent_color: "#eee"
+color: "#eee"
 category:
   - responsive_design
   - web

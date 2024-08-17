@@ -1,7 +1,7 @@
 ---
 date: 2010-12-13T11:04:00Z
 title: Ascent
-bookmark_of: https://www.youtube.com/watch?v=W2VygftZSCs
+bookmarkOf: https://www.youtube.com/watch?v=W2VygftZSCs
 category:
   - space
 ---

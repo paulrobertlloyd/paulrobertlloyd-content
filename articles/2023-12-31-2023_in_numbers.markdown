@@ -3,9 +3,9 @@ title: 2023 in numbers
 date: 2023-12-31T14:45:00Z
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: It’s time to begin, now count it in, five, six, seven, eight.
-accent_color: "#e2a"
+color: "#e2a"
 category:
   - events
   - formula_1

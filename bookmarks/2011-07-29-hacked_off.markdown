@@ -1,7 +1,7 @@
 ---
 date: 2011-07-29T14:16:02+01:00
 title: Hacked off
-bookmark_of: https://twitter.com/sniffpetrol/status/96848013997260801
+bookmarkOf: https://twitter.com/sniffpetrol/status/96848013997260801
 category:
   - b_sky_b
   - television

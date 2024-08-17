@@ -3,13 +3,13 @@ start: 2007-01-05
 itinerary:
   - label: Birmingham Airport (BHX)
     locality: Birmingham
-    country_name: England
+    countryName: England
   - label: Amsterdam Airport Schiphol (AMS)
     locality: Amsterdam
-    country_name: Netherlands
+    countryName: Netherlands
   - label: San Francisco International Airport (SFO)
     locality: San Francisco
-    country_name: United States
+    countryName: United States
 tags:
   - i3kJ1
 ---

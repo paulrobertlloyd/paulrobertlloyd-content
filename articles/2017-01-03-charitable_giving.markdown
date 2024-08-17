@@ -3,7 +3,7 @@ date: 2017-01-03T19:25:00Z
 title: Sharing is caring
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: I’m attempting to deal with the string of unfortunate events in current affairs by being more generous.
 category:
   - charity

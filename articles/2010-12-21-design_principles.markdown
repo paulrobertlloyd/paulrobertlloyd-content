@@ -3,7 +3,7 @@ date: 2010-12-21T23:22:30Z
 title: Design principles
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: I’ve been thinking about redesigning this website for the last six months, but haven’t been able to find a strategy for making these changes happen. To keep this project on course, I’ve defined a set of design principles.
 category:
   - design

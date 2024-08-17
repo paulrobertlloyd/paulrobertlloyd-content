@@ -3,7 +3,7 @@ date: 2011-03-23T00:17:33Z
 title: I never left my heart in San Francisco
 location:
   locality: Brasília
-  country_name: Brazil
+  countryName: Brazil
 summary: As I walked the streets of San Francisco, buoyed by their comfortable familiarity and unique soundtrack, I knew that this was still a city I could never call home.
 featured:
   url: /media/2011/082/a1/fishermans_wharf.jpg

@@ -3,7 +3,7 @@ date: 2023-08-24T15:50:00+01:00
 title: The trip to Italy
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: A two-week Italian adventure finds a familiar Germanic conclusion.
 featured:
   url: /media/2023/236/a1/image.jpg
@@ -15,7 +15,7 @@ category:
   - travel
 tags:
   - i5SJ1
-accent_color: "#0078bf"
+color: "#0078bf"
 ---
 
 ![Looking across rooftops towards a distant part of town featuring a cluster of large skyscrapers. In the foreground, a statue facing towards this view.](/media/2023/236/a1/image.jpg "Tall buildings in the Porta Nuova district, as seen from the roof of Milan Cathedral.")

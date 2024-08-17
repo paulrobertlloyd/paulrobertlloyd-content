@@ -1,6 +1,6 @@
 ---
 date: 2012-01-21
-jam_of:
+jamOf:
   type: cite
   name: Right Back Where We Started From
   author: Maxine Nightingale

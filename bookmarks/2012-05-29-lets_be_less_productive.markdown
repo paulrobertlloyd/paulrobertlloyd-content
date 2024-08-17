@@ -1,7 +1,7 @@
 ---
 date: 2012-05-29T12:26:41+01:00
 title: Let’s be less productive
-bookmark_of: https://www.nytimes.com/2012/05/27/opinion/sunday/lets-be-less-productive.html
+bookmarkOf: https://www.nytimes.com/2012/05/27/opinion/sunday/lets-be-less-productive.html
 category:
   - society
 ---

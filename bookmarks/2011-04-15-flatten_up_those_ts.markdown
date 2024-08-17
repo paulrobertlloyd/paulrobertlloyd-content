@@ -1,7 +1,7 @@
 ---
 date: 2011-04-15T18:21:13+01:00
 title: Flatten up those T’s
-bookmark_of: http://markdotto.com/2011/04/15/fatten-up-those-ts/
+bookmarkOf: http://markdotto.com/2011/04/15/fatten-up-those-ts/
 category:
   - web
 ---

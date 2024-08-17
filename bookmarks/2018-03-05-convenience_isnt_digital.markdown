@@ -1,7 +1,7 @@
 ---
 date: 2018-03-05T01:03:00Z
 title: Convenience isn’t digital
-bookmark_of: https://www.hollidazed.co.uk/2017/11/19/convenience-isnt-digital/
+bookmarkOf: https://www.hollidazed.co.uk/2017/11/19/convenience-isnt-digital/
 category:
   - design
   - digital

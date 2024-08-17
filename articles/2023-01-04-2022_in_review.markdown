@@ -3,7 +3,7 @@ title: "As it was: 2022 in review"
 date: 2023-01-04T22:45:00Z
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: Everything back to normal.
 featured:
   url: /media/2023/004/a1/dunnet_bay.jpg

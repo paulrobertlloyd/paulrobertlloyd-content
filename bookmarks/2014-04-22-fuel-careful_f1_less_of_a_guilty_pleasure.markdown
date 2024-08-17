@@ -1,7 +1,7 @@
 ---
 date: 2014-04-22T21:51:23Z
 title: Fuel-careful F1 less of a guilty pleasure
-bookmark_of: https://apnews.com/b56e431cca0f4bccbd980675084ee9bf
+bookmarkOf: https://apnews.com/b56e431cca0f4bccbd980675084ee9bf
 category:
   - formula_1
 ---

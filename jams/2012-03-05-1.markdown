@@ -1,6 +1,6 @@
 ---
 date: 2012-03-05
-jam_of:
+jamOf:
   type: cite
   name: We Have All The Time In The World
   author: Louis Armstrong

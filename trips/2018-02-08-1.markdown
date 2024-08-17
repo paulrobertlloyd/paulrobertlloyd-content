@@ -3,10 +3,10 @@ start: 2018-02-08
 itinerary:
   - label: Glasgow Queen Street (GLQ)
     locality: Glasgow
-    country_name: Scotland
+    countryName: Scotland
   - label: Oban (OBN)
     locality: Oban
-    country_name: Scotland
+    countryName: Scotland
 tags:
   - i4sp1
 ---

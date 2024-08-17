@@ -4,12 +4,12 @@ title: "Time team: Documenting decisions & marking milestones"
 location:
   type: adr
   locality: London
-  country_name: England
+  countryName: England
 summary: How designers can record decisions and cultivate a fun and inclusive culture within their team.
 featured:
   url: /media/2023/174/s1/image.jpg
   alt: The Becoming a Teacher team working around a long table.
-accent_color: "#fa6"
+color: "#fa6"
 slides:
   - url: /media/2023/174/s1/1.png
     caption: |

@@ -4,12 +4,12 @@ title: Keep up!
 location:
   type: adr
   locality: London
-  country_name: England
+  countryName: England
 summary: An insight into the many opportunities and challenges facing web designers in 2013.
 featured:
   url: /media/2013/212/s1/image.jpg
   alt: Macaulay Culkin in Home Alone
-accent_color: "#e82"
+color: "#e82"
 slides:
   - url: /media/2013/212/s1/1.jpg
     caption: |

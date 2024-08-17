@@ -3,10 +3,10 @@ start: 2023-08-20
 itinerary:
   - label: Como San Giovanni
     locality: Como
-    country_name: Italy
+    countryName: Italy
   - label: Zürich
     locality: Zurich
-    country_name: Switzerland
+    countryName: Switzerland
 tags:
   - i5SJ1
 ---

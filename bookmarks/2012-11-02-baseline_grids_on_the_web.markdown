@@ -1,7 +1,7 @@
 ---
 date: 2012-11-02T00:31:50Z
 title: Baseline grids on the web
-bookmark_of: http://jasonsantamaria.com/articles/baseline-grids-on-the-web
+bookmarkOf: http://jasonsantamaria.com/articles/baseline-grids-on-the-web
 category:
   - web
   - typography

@@ -3,9 +3,9 @@ title: Small dents in the IndieWeb
 date: 2024-02-25T15:40:00Z
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: I’ve been on a bit of a mission lately.
-accent_color: "#2255ee"
+color: "#2255ee"
 category:
   - design
   - indieweb

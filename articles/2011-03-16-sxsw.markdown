@@ -3,7 +3,7 @@ date: 2011-03-16T18:05:15Z
 title: The worst SXSW ever was my best SXSW ever
 location:
   locality: San Francisco
-  country_name: United States
+  countryName: United States
 summary: This years SXSW Interactive saw 1,041 sessions presented by 1,648 speakers, growing to such extent that its size now rivals that of the more popular music festival. Yet bigger doesn’t necessarily mean better.
 featured:
   url: /media/2011/075/a1/austin_sign.jpg

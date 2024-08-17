@@ -3,7 +3,7 @@ date: 2018-09-17T15:10:00+01:00
 title: Berlin bound
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Ich bin ein Berliner?
 category:
   - berlin

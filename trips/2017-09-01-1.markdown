@@ -3,19 +3,19 @@ start: 2017-09-01
 itinerary:
   - label: Newquay (NQY)
     locality: Newquay
-    country_name: England
+    countryName: England
   - label: Par (PAR)
     locality: Par
-    country_name: England
+    countryName: England
   - label: Reading (RDG)
     locality: Reading
-    country_name: England
+    countryName: England
   - label: Gatwick (GTW)
     locality: Gatwick Airport
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4q51
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2018-11-21T12:13:04Z
-time_zone: Atlantic/Reykjavik
+timeZone: Atlantic/Reykjavik
 photo:
   - url: /media/2018/325/p1/1.jpg
     alt: ‘Endurfæðing’, a sculpture hung from a green wall and made of fish nets.

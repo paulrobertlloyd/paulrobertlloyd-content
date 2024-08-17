@@ -3,7 +3,7 @@ date: 2009-02-02T22:07:44Z
 title: That’s not my name!
 location:
   locality: San Francisco
-  country_name: United States
+  countryName: United States
 summary: As I approach the end of my latest trip to America, I continue to fight the losing battle that is getting people to understand me when I say my first name.
 featured:
   url: /media/2009/033/a1/image.jpg

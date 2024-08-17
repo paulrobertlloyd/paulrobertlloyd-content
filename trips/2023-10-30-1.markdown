@@ -3,19 +3,19 @@ start: 2023-10-30
 itinerary:
   - label: Nürnberg
     locality: Nürnberg
-    country_name: Germany
+    countryName: Germany
   - label: Frankfurt (Main)
     locality: Frankfurt
-    country_name: Germany
+    countryName: Germany
   - label: Brussels-South
     locality: Brussels
-    country_name: Belgium
+    countryName: Belgium
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i5Ta1
 ---

@@ -3,13 +3,13 @@ start: 2010-01-07
 itinerary:
   - label: Melbourne Airport (MEL)
     locality: Melbourne
-    country_name: Australia
+    countryName: Australia
   - label: Dubai International Airport (DXB)
     locality: Dubai
-    country_name: United Arab Emirates
+    countryName: United Arab Emirates
   - label: London Heathrow Airport (LHR)
     locality: London
-    country_name: England
+    countryName: England
 tags:
   - i43F1
 ---

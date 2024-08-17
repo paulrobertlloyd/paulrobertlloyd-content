@@ -3,12 +3,12 @@ title: IndieWebCamp Brighton 2024
 date: 2024-02-01T17:30:00Z
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: The first IndieWebCamp of 2024 is coming to Brighton in March.
 featured:
   url: /media/2024/032/a1/image.png
   alt: Illustration of a light grey laptop covered in IndieWeb-related stickers.
-accent_color: "#00CCB1"
+color: "#00CCB1"
 category:
   - brighton
   - indieweb

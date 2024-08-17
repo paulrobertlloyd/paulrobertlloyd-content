@@ -3,13 +3,13 @@ start: 2009-05-17
 itinerary:
   - label: Innsbruck
     locality: Innsbruck
-    country_name: Austria
+    countryName: Austria
   - label: Zürich
     locality: Zurich
-    country_name: Switzerland
+    countryName: Switzerland
   - label: Lucerne
     locality: Lucerne
-    country_name: Switzerland
+    countryName: Switzerland
 tags:
   - i3z_1
 ---

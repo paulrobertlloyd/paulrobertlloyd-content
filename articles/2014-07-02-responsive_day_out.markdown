@@ -3,7 +3,7 @@ date: 2014-07-02T13:44:54Z
 title: "The pursuit of laziness: thoughts from Responsive Day Out"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Last Friday I attended Responsive Day Out 2. While the format was the same as last year, the tenor was a little different. Gone were the theoretical presentations, instead speakers focused on the work; getting into the nitty-gritty.
 featured:
   url: /media/2014/183/a1/image.jpg

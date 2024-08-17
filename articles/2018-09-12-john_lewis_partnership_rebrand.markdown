@@ -3,7 +3,7 @@ date: 2018-09-12T14:00:00+01:00
 title: Undersold
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Another identity from the offices of Pentagram that elicits a feeling somewhere between despair and indifference.
 featured:
   url: /media/2018/255/a1/logos.png

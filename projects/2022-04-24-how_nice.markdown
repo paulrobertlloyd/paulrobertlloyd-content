@@ -6,7 +6,7 @@ featured:
   alt: How Nice logo.
 tags:
   - brand_identity
-accent_color: "#fd0"
+color: "#fd0"
 ---
 
 - ![A page from the brand guidelines showing recommended logo usage.](/media/projects/how_nice/guide_logo.png#screenshot "Brand guidelines for logo usage…")

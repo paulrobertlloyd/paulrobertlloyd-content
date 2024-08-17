@@ -3,7 +3,7 @@ date: 2015-08-26T17:02:00+01:00
 title: "Thinking responsively: A framework for future learning"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Three years after the Web Aesthetic, comes my second article for A List Apart. Intended to inform a broader discussion about the principles that underline our work, I thought I would share some background as to how this article came about.
 category:
   - responsive_design

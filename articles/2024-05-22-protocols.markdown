@@ -1,6 +1,6 @@
 ---
 date: 2024-05-23T00:40:00+02:00
-time_zone: Europe/Vienna
+timeZone: Europe/Vienna
 title: Protocols, platforms and priorities
 summary: Another federated outrage.
 category:
@@ -9,8 +9,8 @@ category:
   - social_media
 location:
   locality: Vienna
-  country_name: Austria
-accent_color: "#f80"
+  countryName: Austria
+color: "#f80"
 ---
 
 Over the last few days, [Manton Reece shared some thoughts on OpenAI][1] and the fall out after [Scarlett Johansson revealed the company wanted to use her voice][2].

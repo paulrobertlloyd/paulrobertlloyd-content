@@ -3,7 +3,7 @@ date: 2010-06-01T01:34:19+01:00
 title: Four hundred and twenty-nine pounds
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: As the masses on Twitter congratulate themselves on their latest technology purchase, I feel strangely removed from all the excitement.
 category:
   - sustainability

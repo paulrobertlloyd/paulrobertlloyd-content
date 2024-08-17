@@ -1,6 +1,6 @@
 ---
 date: 2018-10-02T09:54:17+02:00
-time_zone: Europe/Berlin
+timeZone: Europe/Berlin
 photo:
   - url: /media/2018/275/p1/1.jpg
     alt: Highly contrasting lines on a glass covered building.

@@ -1,6 +1,6 @@
 ---
 date: 2012-02-12
-jam_of:
+jamOf:
   type: cite
   name: Wanna Dance With Somebody
   author: Whitney Houston

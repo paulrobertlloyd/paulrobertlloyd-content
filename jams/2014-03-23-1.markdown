@@ -1,6 +1,6 @@
 ---
 date: 2014-03-23
-jam_of:
+jamOf:
   type: cite
   name: One Way Ticket
   author: The Darkness

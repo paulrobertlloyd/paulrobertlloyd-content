@@ -3,12 +3,12 @@ date: 2014-02-02T16:57:58Z
 title: net Awards 2014
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: The net Awards return for their fifteenth year, and I’m more than a little surprised to be nominated for Designer of the Year.
 category:
   - awards
   - web
-accent_color: "#c1a312"
+color: "#c1a312"
 ---
 
 ![net Awards 2014 nominee](/media/2014/033/a1/net_awards_nominee.png) [The net Awards][1] return for their fifteenth year, and I’m more than a little surprised to find myself nominated for _Designer of the Year_. Beyond the other nominees, having worked alongside [James Bates][2] – who has helped me solve a number of tricky design problems over the year – to be included in this line-up feels slightly fraudulent.

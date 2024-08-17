@@ -3,7 +3,7 @@ date: 2023-08-13T17:40:00+02:00
 title: The Italian Jaunt
 location:
   locality: Turin
-  country_name: Italy
+  countryName: Italy
 summary: Hang on a minute lads, I’ve got a great idea…
 featured:
   url: /media/2023/225/a1/image.jpg

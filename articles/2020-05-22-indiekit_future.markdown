@@ -5,7 +5,7 @@ canonical:
   url: https://github.com/getindiekit/indiekit/issues/228
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Returning to this project with a fresh perspective and desire to take a more managed approach to its development.
 category:
   - indiekit

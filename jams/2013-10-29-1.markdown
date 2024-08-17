@@ -1,6 +1,6 @@
 ---
 date: 2013-10-29
-jam_of:
+jamOf:
   type: cite
   name: Annie, Let’s Not Wait
   author: Guillemots

@@ -3,7 +3,7 @@ date: 2019-01-21T00:40:00Z
 title: "Weeknotes #2"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Only the second edition of weeknotes, and yet the year is already 5% done. Blimey.
 tags:
   - weeknotes

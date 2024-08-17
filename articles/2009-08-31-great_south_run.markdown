@@ -3,7 +3,7 @@ date: 2009-08-31T23:37:10+01:00
 title: Please sponsor my Great South Run
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: In less than two months time, I will once again be donning my running shoes to raise money for Cancer Research UK.
 category:
   - charity

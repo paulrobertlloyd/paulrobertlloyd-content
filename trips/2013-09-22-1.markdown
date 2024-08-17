@@ -3,13 +3,13 @@ start: 2013-09-22
 itinerary:
   - label: Birmingham Moor Street (BMO)
     locality: Birmingham
-    country_name: England
+    countryName: England
   - label: London Marylebone (MYB)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4S81
 ---

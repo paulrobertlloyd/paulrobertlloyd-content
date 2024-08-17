@@ -3,10 +3,10 @@ start: 2009-05-22
 itinerary:
   - label: Zürich
     locality: Zurich
-    country_name: Switzerland
+    countryName: Switzerland
   - label: Barcelona França
     locality: Barcelona
-    country_name: Spain
+    countryName: Spain
 tags:
   - i3z_1
 ---

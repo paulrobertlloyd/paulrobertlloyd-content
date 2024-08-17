@@ -3,10 +3,10 @@ start: 2016-09-14
 itinerary:
   - label: Freiburg
     locality: Freiburg im Breisgau
-    country_name: Germany
+    countryName: Germany
   - label: Bahnhof Basel SBB
     locality: Basel
-    country_name: Switzerland
+    countryName: Switzerland
 tags:
   - i4jE1
 ---

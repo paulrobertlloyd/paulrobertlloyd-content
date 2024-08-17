@@ -7,7 +7,7 @@ featured:
 tags:
   - front_end_development
   - interaction_design
-accent_color: "#ff3"
+color: "#ff3"
 ---
 
 - ![Home page.](/media/projects/waldo_pancake/about.png#screenshot)

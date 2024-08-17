@@ -3,13 +3,13 @@ start: 2022-08-23
 itinerary:
   - label: Paris-Montparnasse
     locality: Paris
-    country_name: France
+    countryName: France
   - label: Hendaye
     locality: Hendaye
-    country_name: France
+    countryName: France
   - label: Amara Donostia
     locality: Donostia-San Sebastián
-    country_name: Spain
+    countryName: Spain
 tags:
   - i5LS1
 ---

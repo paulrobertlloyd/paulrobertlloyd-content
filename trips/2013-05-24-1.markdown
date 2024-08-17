@@ -3,19 +3,19 @@ start: 2013-05-24
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London Marylebone (MYB)
     locality: London
-    country_name: England
+    countryName: England
   - label: Birmingham Moor Street (BMO)
     locality: Birmingham
-    country_name: England
+    countryName: England
   - label: Birmingham New Street (BHM)
     locality: Birmingham
-    country_name: England
+    countryName: England
   - label: Walsall (WSL)
     locality: Walsall
-    country_name: England
+    countryName: England
 tags:
   - i4Q91
 ---

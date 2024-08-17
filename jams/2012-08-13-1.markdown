@@ -1,6 +1,6 @@
 ---
 date: 2012-08-13
-jam_of:
+jamOf:
   type: cite
   name: And I Will Kiss (feat. Dame Evelyn Glennie)
   author: Underworld

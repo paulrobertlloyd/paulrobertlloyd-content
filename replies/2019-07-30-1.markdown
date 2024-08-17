@@ -1,6 +1,6 @@
 ---
 date: 2019-07-30T00:03:14.658+00:00
-in_reply_to: https://paulrobertlloyd.com/2019/202/p1/
+inReplyTo: https://paulrobertlloyd.com/2019/202/p1/
 ---
 
 …and if everything is hooked up correctly, this should be the first reply to a post that is hosted on my own website.

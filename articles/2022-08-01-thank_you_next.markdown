@@ -3,7 +3,7 @@ date: 2022-08-01T11:45:00+01:00
 title: Thank you, next
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Taking a break before finding my next project.
 category:
   - personal

@@ -3,16 +3,16 @@ start: 2018-08-05
 itinerary:
   - label: Chorley (CRL)
     locality: Chorley
-    country_name: England
+    countryName: England
   - label: Manchester Victoria (MCV)
     locality: Manchester
-    country_name: England
+    countryName: England
   - label: York (YRK)
     locality: York
-    country_name: England
+    countryName: England
   - label: Newcastle (NCL)
     locality: Newcastle
-    country_name: England
+    countryName: England
 tags:
   - i4vm1
 ---

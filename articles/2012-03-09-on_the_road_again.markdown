@@ -3,7 +3,7 @@ date: 2012-03-09T23:53:40Z
 title: On the road again
 location:
   locality: Austin
-  country_name: United States
+  countryName: United States
 summary: Once again, I’m in Austin for SXSW Interactive; the forth time I’ve attended an event I find easy to disparage. Yet this is the first stop on a trip that will take in several hundred miles of Interstate highway between here and San Francisco; two points of familiarity on an itinerary that promises to be anything but predictable.
 featured:
   url: /media/2012/069/a1/image.jpg
@@ -16,7 +16,7 @@ category:
   - sxsw
 tags:
   - i4Gn1
-accent_color: "#f50"
+color: "#f50"
 ---
 
 ![Road sign which says ‘Special event ahead’.](/media/2012/069/a1/image.jpg "Road block in Austin.")

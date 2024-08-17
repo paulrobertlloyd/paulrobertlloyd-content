@@ -6,7 +6,7 @@ featured:
   alt: Slapdashery logo.
 tags:
   - brand_identity
-accent_color: "#1c3fff"
+color: "#1c3fff"
 ---
 
 ![The Shapdashery publication on Medium.](/media/projects/slapdashery/homepage.png#screenshot)

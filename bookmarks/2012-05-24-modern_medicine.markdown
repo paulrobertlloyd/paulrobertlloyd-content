@@ -1,7 +1,7 @@
 ---
 date: 2012-05-24T01:42:30+01:00
 title: Modern medicine
-bookmark_of: https://farmerandfarmer.org/medicine/
+bookmarkOf: https://farmerandfarmer.org/medicine/
 category:
   - social_media
   - software_development

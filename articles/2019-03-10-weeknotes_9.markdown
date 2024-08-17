@@ -3,7 +3,7 @@ date: 2019-03-10T21:45:00Z
 title: "Weeknotes #9"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Starting as I mean to go on.
 tags:
   - weeknotes

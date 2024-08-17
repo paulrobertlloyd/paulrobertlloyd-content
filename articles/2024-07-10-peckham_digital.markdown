@@ -4,14 +4,14 @@ title: Speaking at Peckham Digital
 location:
   type: adr
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: I’ll be presenting a beginner’s guide to the IndieWeb.
 category:
   - conferences
   - indieweb
   - speaking
   - web
-accent_color: "#f59ecb"
+color: "#f59ecb"
 ---
 
 I’ll be speaking at Peckham Digital’s [3rd Festival of Creative Computing][1] next Friday, 19 July.

@@ -3,10 +3,10 @@ start: 2015-09-21
 itinerary:
   - label: Prague
     locality: Prague
-    country_name: Czechia
+    countryName: Czechia
   - label: Budapest Keleti
     locality: Budapest
-    country_name: Hungary
+    countryName: Hungary
 tags:
   - i4dF1
 ---

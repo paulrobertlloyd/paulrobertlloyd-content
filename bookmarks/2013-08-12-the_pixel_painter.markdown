@@ -1,7 +1,7 @@
 ---
 date: 2013-08-12T21:33:38+01:00
 title: The pixel painter
-bookmark_of: https://vimeo.com/70748579
+bookmarkOf: https://vimeo.com/70748579
 category:
   - art
 ---

@@ -3,7 +3,7 @@ date: 2019-01-19T18:30:00Z
 title: Several people are outraged
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Slack has a new logo, and everyone hates it.
 featured:
   url: /media/2019/019/a1/image.jpg
@@ -11,7 +11,7 @@ featured:
 category:
   - design
   - brand_identity
-accent_color: "#4a154b"
+color: "#4a154b"
 ---
 
 ![The new logo for Slack.](/media/2019/019/a1/image.jpg "The new logo for Slack. Image: Pentagram.")

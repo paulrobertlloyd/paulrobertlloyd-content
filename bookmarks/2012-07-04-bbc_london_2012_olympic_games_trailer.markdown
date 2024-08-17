@@ -1,7 +1,7 @@
 ---
 date: 2012-07-04T17:38:48+01:00
 title: BBC London 2012 Olympic Games trailer
-bookmark_of: https://www.youtube.com/watch?v=4ViLiXA0E70
+bookmarkOf: https://www.youtube.com/watch?v=4ViLiXA0E70
 category:
   - advertising
   - bbc

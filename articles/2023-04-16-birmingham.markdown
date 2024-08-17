@@ -3,7 +3,7 @@ date: 2023-04-16T20:00:00+01:00
 title: Birmingham’s do-over
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: Birmingham has undergone a radical transformation. Has it gone too far?
 featured:
   url: /media/2023/106/a1/chamberlain_square.jpg

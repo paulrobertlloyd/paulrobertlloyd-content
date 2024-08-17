@@ -3,9 +3,9 @@ title: A brief history of Twitter, in 280 characters
 date: 2024-01-15T23:50:00Z
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: In lieu of flowers.
-accent_color: "#1d9bf0"
+color: "#1d9bf0"
 category:
   - twitter
 ---

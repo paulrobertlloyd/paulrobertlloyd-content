@@ -3,25 +3,25 @@ start: 2013-08-16
 itinerary:
   - label: Preston Park (PRP)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: Havant (HAV)
     locality: Havant
-    country_name: England
+    countryName: England
   - label: Portsmouth Harbour (PMH)
     locality: Portsmouth
-    country_name: England
+    countryName: England
   - label: Portsmouth Harbour Station Pier
     locality: Portsmouth
-    country_name: England
+    countryName: England
   - label: Ryde Pier Head
     locality: Ryde
-    country_name: England
+    countryName: England
   - label: Ryde Pier Head (RYP)
     locality: Ryde
-    country_name: England
+    countryName: England
   - label: Shanklin (SHN)
     locality: Shanklin
-    country_name: England
+    countryName: England
 tags:
   - i4RZ1
 ---

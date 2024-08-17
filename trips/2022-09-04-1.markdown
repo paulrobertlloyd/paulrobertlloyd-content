@@ -3,10 +3,10 @@ start: 2022-09-04
 itinerary:
   - label: Porto Campanha
     locality: Porto
-    country_name: Portugal
+    countryName: Portugal
   - label: Vigo-Guixar
     locality: Vigo
-    country_name: Spain
+    countryName: Spain
 tags:
   - i5LS1
 ---

@@ -3,7 +3,7 @@ date: 2019-06-21T00:35:00+01:00
 title: Years and Years
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: An odd little drama.
 category:
   - television

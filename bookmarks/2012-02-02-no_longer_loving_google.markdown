@@ -1,7 +1,7 @@
 ---
 date: 2012-02-02T20:05:11Z
 title: No longer loving Google
-bookmark_of: https://www.somebits.com/weblog/tech/no-longer-loving-google.html
+bookmarkOf: https://www.somebits.com/weblog/tech/no-longer-loving-google.html
 category:
   - google
   - duckduckgo

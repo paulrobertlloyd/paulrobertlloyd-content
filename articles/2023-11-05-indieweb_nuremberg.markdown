@@ -3,12 +3,12 @@ date: 2023-11-05T20:00:00Z
 title: IndieWebCamp Nuremberg
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: How I spent my weekend at 2023’s lone IndieWebCamp.
 featured:
   url: /media/2023/309/a1/image.jpg
   alt: Twenty IndieWebCamp participants standing smiling roughly in 3-4 rows on an outdoors inclined driveway, with yellow leaves and grass on the ground and a canopy of trees overhead.
-accent_color: "#ff5c00"
+color: "#ff5c00"
 category:
   - indieweb
   - travel

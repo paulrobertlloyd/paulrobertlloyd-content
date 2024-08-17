@@ -3,7 +3,7 @@ date: 2009-02-14T23:37:18Z
 title: An inconvenient update
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: In what has become something of a rarity, I sat down in front of the television yesterday evening. Upon turning on the set-top box, I was greeted with an interesting message.
 category:
   - technology

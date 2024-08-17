@@ -3,7 +3,7 @@ date: 2019-02-03T16:55:00Z
 title: "Weeknotes #4"
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: Seeking solace in the Court of King Dyer.
 tags:
   - weeknotes

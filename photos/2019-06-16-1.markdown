@@ -1,6 +1,6 @@
 ---
 date: 2019-06-16T13:21:19+02:00
-time_zone: Europe/Amsterdam
+timeZone: Europe/Amsterdam
 photo:
   - url: /media/2019/167/p1/1.jpg
     alt: Historic windmills of Zaanse Schans.

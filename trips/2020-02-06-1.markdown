@@ -3,13 +3,13 @@ start: 2020-02-06
 itinerary:
   - label: Copenhagen Central
     locality: Copenhagen
-    country_name: Denmark
+    countryName: Denmark
   - label: Hamburg
     locality: Hamburg
-    country_name: Germany
+    countryName: Germany
   - label: Köln
     locality: Cologne
-    country_name: Germany
+    countryName: Germany
 tags:
   - i54k1
 ---

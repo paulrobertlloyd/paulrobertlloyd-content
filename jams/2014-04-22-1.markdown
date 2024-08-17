@@ -1,6 +1,6 @@
 ---
 date: 2014-04-22
-jam_of:
+jamOf:
   type: cite
   name: Coming Home
   author: Kaiser Chiefs

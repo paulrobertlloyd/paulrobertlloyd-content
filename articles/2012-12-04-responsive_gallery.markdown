@@ -10,7 +10,7 @@ category:
   - web
 tags:
   - responsive_gallery
-accent_color: "#d8127e"
+color: "#d8127e"
 ---
 
 ## Quartz

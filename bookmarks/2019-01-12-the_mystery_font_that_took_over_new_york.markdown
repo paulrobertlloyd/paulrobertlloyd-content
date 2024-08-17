@@ -1,7 +1,7 @@
 ---
 date: 2019-01-12T15:55:00Z
 title: The mystery font that took over New York
-bookmark_of: https://www.nytimes.com/interactive/2018/11/21/nyregion/new-york-storefronts-mystery-font.html
+bookmarkOf: https://www.nytimes.com/interactive/2018/11/21/nyregion/new-york-storefronts-mystery-font.html
 category:
   - typography
   - new_york_city

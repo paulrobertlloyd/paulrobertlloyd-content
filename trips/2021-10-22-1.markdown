@@ -3,16 +3,16 @@ start: 2021-10-22
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: London Euston (EUS)
     locality: London
-    country_name: England
+    countryName: England
   - label: Liverpool Lime Street (LIV)
     locality: Liverpool
-    country_name: England
+    countryName: England
 tags:
   - i5FN1
 ---

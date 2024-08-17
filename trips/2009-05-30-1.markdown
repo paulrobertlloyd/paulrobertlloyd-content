@@ -3,13 +3,13 @@ start: 2009-05-30
 itinerary:
   - label: Paris-Nord
     locality: Paris
-    country_name: France
+    countryName: France
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Littlehampton (LIT)
     locality: Littlehampton
-    country_name: England
+    countryName: England
 tags:
   - i3z_1
 ---

@@ -7,7 +7,7 @@ canonical:
 summary: A selection of websites of sensational design and superb development.
 category:
   - web
-accent_color: "#e40052"
+color: "#e40052"
 ---
 
 ## TSB

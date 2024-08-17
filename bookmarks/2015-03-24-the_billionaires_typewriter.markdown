@@ -1,7 +1,7 @@
 ---
 date: 2015-03-24T12:59:18Z
 title: The billionaire’s typewriter
-bookmark_of: https://practicaltypography.com/billionaires-typewriter.html
+bookmarkOf: https://practicaltypography.com/billionaires-typewriter.html
 category:
   - ethics
   - silicon_valley

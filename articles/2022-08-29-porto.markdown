@@ -3,7 +3,7 @@ date: 2022-08-29T23:00:00+01:00
 title: Porto’s paradox
 location:
   locality: Porto
-  country_name: Portugal
+  countryName: Portugal
 summary: So wrong it’s right.
 featured:
   url: /media/2022/241/a1/image.jpg
@@ -15,7 +15,7 @@ category:
   - travel
 tags:
   - i5LS1
-accent_color: "#0f2f7f"
+color: "#0f2f7f"
 ---
 
 One of the many YouTube channels I watch without quite knowing why is [Drive + Protect with Larry Kosilla][1]. It’s basically a guy detailing cars in order to flog cleaning products, but it’s weirdly captivating.

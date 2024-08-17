@@ -1,7 +1,7 @@
 ---
 date: 2010-06-02T20:15:00+01:00
 title: Star Wars iPad briefing
-bookmark_of: https://www.dailymotion.com/video/xfgk3r
+bookmarkOf: https://www.dailymotion.com/video/xfgk3r
 category:
   - comedy
   - apple

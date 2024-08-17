@@ -3,16 +3,16 @@ start: 2014-06-29
 itinerary:
   - label: Glasgow Central (GLC)
     locality: Glasgow
-    country_name: Scotland
+    countryName: Scotland
   - label: London Euston (EUS)
     locality: London
-    country_name: England
+    countryName: England
   - label: London Victoria (VIC)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4Wo1
 ---

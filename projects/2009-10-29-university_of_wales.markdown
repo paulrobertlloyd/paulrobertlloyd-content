@@ -6,7 +6,7 @@ featured:
   alt: University of Wales logo.
 tags:
   - interaction_design
-accent_color: "#26b"
+color: "#26b"
 ---
 
 - ![Home page.](/media/projects/university_of_wales/homepage.png#screenshot)

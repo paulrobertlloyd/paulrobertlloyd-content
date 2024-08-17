@@ -3,13 +3,13 @@ start: 2003-11-02
 itinerary:
   - label: London Heathrow Airport (LHR)
     locality: London
-    country_name: England
+    countryName: England
   - label: Suvarnabhumi Airport (BKK)
     locality: Bang Phli
-    country_name: Thailand
+    countryName: Thailand
   - label: Sydney Airport (SYD)
     locality: Sydney
-    country_name: Australia
+    countryName: Australia
 tags:
   - i3Ry1
 ---

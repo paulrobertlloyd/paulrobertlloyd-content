@@ -1,6 +1,6 @@
 ---
 date: 2014-04-13
-jam_of:
+jamOf:
   type: cite
   name: Stardust
   author: Lena

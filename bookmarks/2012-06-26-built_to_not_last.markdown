@@ -1,7 +1,7 @@
 ---
 date: 2012-06-26T00:00:45+01:00
 title: Built to not last
-bookmark_of: https://www.subtraction.com/2012/06/19/built-to-not-last/
+bookmarkOf: https://www.subtraction.com/2012/06/19/built-to-not-last/
 category:
   - apple
   - sustainability

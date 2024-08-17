@@ -1,6 +1,6 @@
 ---
 date: 2024-05-15T21:11:33.000+02:00
-time_zone: Europe/Berlin
+timeZone: Europe/Berlin
 syndication:
   - https://mastodon.social/@paulrobertlloyd/112446698023283655
 ---

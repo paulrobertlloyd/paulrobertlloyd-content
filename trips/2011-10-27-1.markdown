@@ -3,10 +3,10 @@ start: 2011-10-27
 itinerary:
   - label: Ottawa Train Station
     locality: Ottawa
-    country_name: Canada
+    countryName: Canada
   - label: Toronto Union Station
     locality: Toronto
-    country_name: Canada
+    countryName: Canada
 tags:
   - i4EU1
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2013-01-22T01:11:17Z
 title: Front-end performance for web designers and front-end developers
-bookmark_of: https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+bookmarkOf: https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
 category:
   - web_performance
 ---

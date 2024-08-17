@@ -1,7 +1,7 @@
 ---
 date: 2012-01-24T19:47:07Z
 title: Yosemite HD
-bookmark_of: https://vimeo.com/35396305
+bookmarkOf: https://vimeo.com/35396305
 category:
   - photography
   - yosemite_national_park

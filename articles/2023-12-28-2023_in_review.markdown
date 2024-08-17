@@ -3,9 +3,9 @@ title: 2023 in review
 date: 2023-12-28T21:40:00Z
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: In the pink.
-accent_color: "#e2a"
+color: "#e2a"
 category:
   - personal
 tags:

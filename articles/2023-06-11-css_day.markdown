@@ -3,13 +3,13 @@ date: 2023-06-11T14:55:00+02:00
 title: "The continuing tragedy of CSS: thoughts from CSS Day 2023"
 location:
   locality: Amsterdam
-  country_name: Netherlands
+  countryName: Netherlands
 summary: A golden age of CSS was evident in Amsterdam, but to whose benefit?
 category:
   - conferences
   - css
   - web
-accent_color: "#93c"
+color: "#93c"
 ---
 
 I promised myself I wouldn’t attend any web conferences this year, yet here I am writing about [CSS Day][1] just two weeks before [I speak at UX London][2].

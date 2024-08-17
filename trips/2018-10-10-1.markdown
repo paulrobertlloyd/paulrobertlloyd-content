@@ -3,19 +3,19 @@ start: 2018-10-10
 itinerary:
   - label: Hamburg
     locality: Hamburg
-    country_name: Germany
+    countryName: Germany
   - label: Köln
     locality: Cologne
-    country_name: Germany
+    countryName: Germany
   - label: Brussels-South
     locality: Brussels
-    country_name: Belgium
+    countryName: Belgium
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4wa1
 ---

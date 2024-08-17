@@ -3,7 +3,7 @@ date: 2014-11-19T01:41:32Z
 title: Break
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Last Thursday I was in Belfast for Break Conference, the spiritual successor to Build.
 category:
   - design

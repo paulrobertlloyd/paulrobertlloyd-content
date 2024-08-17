@@ -1,7 +1,7 @@
 ---
 date: 2015-12-22T15:00:00Z
 title: Why you should take a black cab, not an Uber, this Christmas
-bookmark_of: https://londonist.com/2015/12/why-you-should-take-a-black-cab-not-an-uber-this-christmas
+bookmarkOf: https://londonist.com/2015/12/why-you-should-take-a-black-cab-not-an-uber-this-christmas
 category:
   - uber
   - london

@@ -3,16 +3,16 @@ start: 2009-05-10
 itinerary:
   - label: Littlehampton (LIT)
     locality: Littlehampton
-    country_name: England
+    countryName: England
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brussels-South
     locality: Brussels
-    country_name: Belgium
+    countryName: Belgium
   - label: Köln
     locality: Cologne
-    country_name: Germany
+    countryName: Germany
 tags:
   - i3z_1
 ---

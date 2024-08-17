@@ -3,16 +3,16 @@ start: 2013-05-09
 itinerary:
   - label: Preston Park (PRP)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London Victoria (VIC)
     locality: London
-    country_name: England
+    countryName: England
   - label: London Paddington (PAD)
     locality: London
-    country_name: England
+    countryName: England
   - label: Newport (NWP)
     locality: Newport
-    country_name: Wales
+    countryName: Wales
 tags:
   - i4Pu1
 ---

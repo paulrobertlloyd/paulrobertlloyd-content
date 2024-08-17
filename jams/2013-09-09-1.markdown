@@ -1,6 +1,6 @@
 ---
 date: 2013-09-09
-jam_of:
+jamOf:
   type: cite
   name: Show Me the Wonder
   author: Manic Street Preachers

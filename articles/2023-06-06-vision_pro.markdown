@@ -3,7 +3,7 @@ date: 2023-06-06T02:15:00+01:00
 title: Apple’s Black Mirror
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: What fresh hell is this?
 featured:
   url: /media/2023/157/a1/image.jpg
@@ -13,7 +13,7 @@ category:
   - design
   - facebook
   - technology
-accent_color: "#754"
+color: "#754"
 ---
 
 ![Front view of the Apple Vision Pro.](/media/2023/157/a1/vision_pro.jpg)

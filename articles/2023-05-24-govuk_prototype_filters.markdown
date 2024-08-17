@@ -11,7 +11,7 @@ category:
   - design
   - projects
   - web
-accent_color: "#28a"
+color: "#28a"
 ---
 
 ![Illustration of an interface with checkboxes and radio buttons being generated from code, floating above a laptop.](/media/2023/144/a1/image.png)

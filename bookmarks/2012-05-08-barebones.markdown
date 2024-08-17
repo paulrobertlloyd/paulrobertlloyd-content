@@ -1,7 +1,7 @@
 ---
 date: 2012-05-08T12:20:24+01:00
 title: Barebones
-bookmark_of: http://barebones.paulrobertlloyd.com/
+bookmarkOf: http://barebones.paulrobertlloyd.com/
 category:
   - projects
   - web

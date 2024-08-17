@@ -5,11 +5,11 @@ summary: "We have become increasingly reliant upon a small number of web service
 location:
   type: adr
   locality: Milton Keynes
-  country_name: England
+  countryName: England
 featured:
   url: /media/2013/262/s1/image.jpg
   alt: A corrupted image of the California state flag.
-accent_color: "#f6a"
+color: "#f6a"
 slides:
   - url: /media/2013/262/s1/1.png
     caption: |

@@ -1,6 +1,6 @@
 ---
 date: 2019-09-07T01:15:44+02:00
-time_zone: Europe/Lisbon
+timeZone: Europe/Lisbon
 photo:
   - url: /media/2019/249/p1/1.jpg
     alt: View over the walls of Castelo dos Mouros (Castle of the Moors).

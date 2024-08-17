@@ -3,16 +3,16 @@ start: 2016-01-24
 itinerary:
   - label: York (YRK)
     locality: York
-    country_name: England
+    countryName: England
   - label: London King’s Cross (KGX)
     locality: London
-    country_name: England
+    countryName: England
   - label: Three Bridges (TBD)
     locality: Three Bridges
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4fN1
 ---

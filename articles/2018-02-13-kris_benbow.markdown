@@ -3,7 +3,7 @@ date: 2018-02-13T21:00:00Z
 title: So long Kris, and thanks for all the trips
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Kris Benbow, 1981-2018
 category:
   - personal

@@ -3,7 +3,7 @@ date: 2012-01-26T21:56:34Z
 title: Steve Jobs by Walter Isaacson
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: After enough subtle hints, I was happy to unwrap a copy of the Steve Jobs biography at Christmas.
 vocabulary:
   - entry

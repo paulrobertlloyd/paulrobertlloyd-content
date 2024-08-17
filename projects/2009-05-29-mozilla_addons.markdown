@@ -6,7 +6,7 @@ featured:
   alt: Mozilla logo.
 tags:
   - interaction_design
-accent_color: "#235"
+color: "#235"
 ---
 
 - ![Home page.](/media/projects/mozilla_addons/homepage.png#screenshot)

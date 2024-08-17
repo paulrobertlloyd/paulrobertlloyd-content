@@ -3,7 +3,7 @@ date: 2019-04-22T23:30:00+01:00
 title: "Weeknotes #15"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: “A little bit more than a hot dog, know what I mean?”
 tags:
   - weeknotes

@@ -1,7 +1,7 @@
 ---
 date: 2011-03-18T18:21:14Z
 title: The streets of San Francisco
-bookmark_of: https://twitter.com/paulrobertlloyd/status/48554999638278144
+bookmarkOf: https://twitter.com/paulrobertlloyd/status/48554999638278144
 category:
   - travel
   - san_francisco

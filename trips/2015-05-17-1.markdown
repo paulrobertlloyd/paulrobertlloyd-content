@@ -3,16 +3,16 @@ start: 2015-05-17
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London Victoria (VIC)
     locality: London
-    country_name: England
+    countryName: England
   - label: London Euston (EUS)
     locality: London
-    country_name: England
+    countryName: England
   - label: Manchester Piccadilly (MAN)
     locality: Manchester
-    country_name: England
+    countryName: England
 tags:
   - i4bC1
 ---

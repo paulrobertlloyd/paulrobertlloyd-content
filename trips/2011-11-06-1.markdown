@@ -3,13 +3,13 @@ start: 2011-11-06
 itinerary:
   - label: San Francisco International Airport (SFO)
     locality: San Francisco
-    country_name: United States
+    countryName: United States
   - label: Toronto Pearson International Airport (YYZ)
     locality: Toronto
-    country_name: Canada
+    countryName: Canada
   - label: London Heathrow Airport (LHR)
     locality: London
-    country_name: England
+    countryName: England
 tags:
   - i4EU1
 ---

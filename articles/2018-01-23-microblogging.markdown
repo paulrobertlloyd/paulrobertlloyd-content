@@ -3,7 +3,7 @@ date: 2018-01-23T17:15:00Z
 title: Microblogging
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Twitter is a place I visit to get annoyed. I need an alternative. That alternative could be my very own website.
 category:
   - indieweb

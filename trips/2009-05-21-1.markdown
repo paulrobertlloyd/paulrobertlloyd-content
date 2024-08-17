@@ -3,10 +3,10 @@ start: 2009-05-21
 itinerary:
   - label: Lucerne
     locality: Lucerne
-    country_name: Switzerland
+    countryName: Switzerland
   - label: Zürich
     locality: Zurich
-    country_name: Switzerland
+    countryName: Switzerland
 tags:
   - i3z_1
 ---

@@ -5,7 +5,7 @@ photo:
     alt: "I’m on a 365 day language learning streak on Duolingo."
 syndication:
   - https://mastodon.social/@paulrobertlloyd/111036963332725801
-accent_color: "#fe9602"
+color: "#fe9602"
 ---
 
 Speaking of languages, reached a significant milestone learning Portuguese on Duolingo today. Muito bom!

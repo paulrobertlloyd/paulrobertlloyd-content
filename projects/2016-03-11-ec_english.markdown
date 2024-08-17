@@ -7,7 +7,7 @@ featured:
 tags:
   - front_end_development
   - interaction_design
-accent_color: "#f70"
+color: "#f70"
 ---
 
 ![New York school page.](/media/projects/ec_english/school.png#screenshot)

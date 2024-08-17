@@ -3,7 +3,7 @@ date: 2017-01-18T23:30:00Z
 title: Here’s to the Doctor
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: Dr. James Paul Dicks, 1980-2017
 category:
   - personal

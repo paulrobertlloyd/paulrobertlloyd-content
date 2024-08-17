@@ -3,7 +3,7 @@ date: 2018-08-06T15:40:00+01:00
 title: Concrete on the Tyne
 location:
   locality: Gateshead
-  country_name: England
+  countryName: England
 summary: Exploring Newcastle’s former ambition to become “Brasília Of The North”.
 category:
   - architecture

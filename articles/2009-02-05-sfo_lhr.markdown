@@ -3,7 +3,7 @@ date: 2009-02-05T11:44:34Z
 title: SFO/LHR
 location:
   locality: Hounslow
-  country_name: England
+  countryName: England
 summary: Today was largely taken up by a flight back to London from San Francisco, where I spent the last ten days.
 category:
   - friends

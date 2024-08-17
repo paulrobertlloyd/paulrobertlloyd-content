@@ -8,7 +8,7 @@ tags:
   - brand_identity
   - front_end_development
   - interaction_design
-accent_color: "#f04"
+color: "#f04"
 ---
 
 ![Article page.](/media/projects/24_ways/article.png#screenshot)

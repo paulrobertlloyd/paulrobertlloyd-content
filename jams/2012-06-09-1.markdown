@@ -1,6 +1,6 @@
 ---
 date: 2012-06-09
-jam_of:
+jamOf:
   type: cite
   name: Jive Talkin’
   author: Bee Gees

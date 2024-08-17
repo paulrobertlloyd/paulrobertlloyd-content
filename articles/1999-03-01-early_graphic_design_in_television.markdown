@@ -3,7 +3,7 @@ date: 1999-03-01
 title: Early graphic design in television
 location:
   locality: Walsall
-  country_name: England
+  countryName: England
 summary: The launch of television in 1936 saw the birth of a medium that could be easily exploited and enhanced by graphic design. However the early story of graphic design in television was one of limited resources and under investment.
 category:
   - design

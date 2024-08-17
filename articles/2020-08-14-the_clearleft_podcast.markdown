@@ -3,7 +3,7 @@ date: 2020-08-14T09:30:00+01:00
 title: The Clearleft podcast and the decline of design
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: The first season of the Clearleft podcast concluded this week, and in what feels like a rare event these days, I need to have a little rant about what I heard.
 category:
   - clearleft

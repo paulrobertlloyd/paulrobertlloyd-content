@@ -3,7 +3,7 @@ date: 2010-06-26T21:39:20+01:00
 title: Enough
 location:
   locality: Walsall
-  country_name: England
+  countryName: England
 summary: I can wait another year before upgrading my iPhone.
 featured:
   url: /media/2010/177/a1/image.jpg

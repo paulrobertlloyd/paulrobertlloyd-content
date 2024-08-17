@@ -1,6 +1,6 @@
 ---
 date: 2014-02-18
-jam_of:
+jamOf:
   type: cite
   name: Never Gonna Give You Up
   author: The Black Keys

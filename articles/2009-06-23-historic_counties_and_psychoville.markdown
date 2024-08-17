@@ -3,7 +3,7 @@ date: 2009-06-23T01:30:00+01:00
 title: Historic counties and Psychoville
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: I’ve long been interested in the popular geography of Great Britain, but also annoyed by the continual government reorganisation that seeks to confuse it.
 featured:
   url: /media/2009/174/a1/image.jpg

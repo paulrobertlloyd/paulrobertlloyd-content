@@ -1,7 +1,7 @@
 ---
 date: 2018-05-06T23:20:00+01:00
 title: Paramore - Hard Times
-bookmark_of: https://www.youtube.com/watch?v=AEB6ibtdPZc
+bookmarkOf: https://www.youtube.com/watch?v=AEB6ibtdPZc
 category:
   - music_videos
 ---

@@ -3,7 +3,7 @@ date: 2009-10-11T15:59:31+01:00
 title: The Multipack turns four
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: The web development community has certainly grown up in the last four years.
 category:
   - multipack

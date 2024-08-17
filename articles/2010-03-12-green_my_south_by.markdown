@@ -3,7 +3,7 @@ date: 2010-03-12T02:42:00Z
 title: Green my South By
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: Once again, I feel the duty falls upon me to remind those attending this year’s SXSW festival in Austin, that you really need not pick up that big, heavy, cumbersome and frankly useless bag of marketing junk.
 category:
   - sustainability

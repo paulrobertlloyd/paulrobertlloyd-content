@@ -1,7 +1,7 @@
 ---
 date: 2012-08-28T14:38:10+01:00
 title: "Usable yet useless: Why every business needs product discovery"
-bookmark_of: https://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery
+bookmarkOf: https://alistapart.com/article/usable-yet-useless-why-every-business-needs-product-discovery
 category:
   - web
   - design

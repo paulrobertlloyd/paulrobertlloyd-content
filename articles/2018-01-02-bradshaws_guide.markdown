@@ -3,7 +3,7 @@ date: 2018-01-02T13:00:00Z
 title: Back to Bradshaw’s
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: Having copied, pasted and formatted another 115 pages of OCR’d text, ""Bradshaw’s Guide"" now contains tours throughout South West England, the West Midlands, Wales and Ireland.
 featured:
   url: /media/2018/002/a1/map.png
@@ -13,7 +13,7 @@ category:
   - travel
 tags:
   - w4sD1
-accent_color: "#e6772e"
+color: "#e6772e"
 ---
 
 [""Bradshaw’s Guide""][1] is a hyperlinked revival of a popular Victorian guide to Britain and Ireland’s nascent railway network. It’s also a personal project that lies at the intersection of my interests: design, technology, trains… the preservation of [historic English counties][2].

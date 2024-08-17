@@ -3,7 +3,7 @@ date: 2019-05-06T23:30:00+01:00
 title: "Weeknotes #17"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Decisions, decisions, decisions.
 tags:
   - weeknotes

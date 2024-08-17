@@ -3,7 +3,7 @@ date: 2013-12-22T22:53:51Z
 title: Redesigning 24 ways
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: The tail end of this year has been rather hectic. If moving house and changing jobs weren’t enough to be getting on with, I was also busy redesigning 24 ways.
 featured:
   url: /media/2013/356/a1/website.png
@@ -14,7 +14,7 @@ category:
   - web
 tags:
   - w4TL1
-accent_color: "#f04"
+color: "#f04"
 ---
 
 ![24 ways website viewed on an iPad mini.](/media/2013/356/a1/website.png "24 ways viewed on an iPad mini.")

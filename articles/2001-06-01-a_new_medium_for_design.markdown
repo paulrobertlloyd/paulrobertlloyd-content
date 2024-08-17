@@ -3,7 +3,7 @@ date: 2001-06-01
 title: "The World Wide Web: a new medium for design"
 location:
   locality: Carlisle
-  country_name: England
+  countryName: England
 summary: The development of graphic design on the Internet, the problems associated with designing for this medium and some of the solutions.
 category:
   - web

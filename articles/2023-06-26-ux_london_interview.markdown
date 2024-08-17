@@ -3,13 +3,13 @@ date: 2023-06-26T22:00:00+01:00
 title: Interview for UX London
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Prior to UX London, I was asked a few questions about me and my talk.
 category:
   - ux_london
 tags:
   - interviews
-accent_color: "#069"
+color: "#069"
 ---
 
 Prior to [UX London][1], I was asked a few questions about me and my talk[^1]. I’m reproducing my answers here because I like putting words on my website.

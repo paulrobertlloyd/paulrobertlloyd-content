@@ -7,7 +7,7 @@ featured:
 tags:
   - brand_identity
   - interaction_design
-accent_color: "#551f70"
+color: "#551f70"
 ---
 
 - ![Welcome screen.](/media/projects/refigure/app_welcome.png#screenshot)

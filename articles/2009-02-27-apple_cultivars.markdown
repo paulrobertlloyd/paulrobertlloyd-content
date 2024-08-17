@@ -3,7 +3,7 @@ date: 2009-02-27T17:28:20Z
 title: An Apple by any other name
 location:
   locality: Walsall
-  country_name: England
+  countryName: England
 summary: Earlier this month I wrote about my love of organisation and systems. One such example is how I name the devices I attach to my Mac.
 category:
   - technology

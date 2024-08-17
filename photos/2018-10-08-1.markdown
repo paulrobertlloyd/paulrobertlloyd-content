@@ -1,6 +1,6 @@
 ---
 date: 2018-10-08T20:57:39+01:00
-time_zone: Europe/Berlin
+timeZone: Europe/Berlin
 photo:
   - url: /media/2018/281/p1/1.jpg
     alt: Hamburg’s TV Tower is reflected in a pool of water scattered with fallen autumnal leaves.

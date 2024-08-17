@@ -1,6 +1,6 @@
 ---
 date: 2012-08-14T12:00:00+01:00
-type_index: 2
+typeIndex: 2
 title: Responsive Gallery – September 2012
 canonical:
   issn: 1355-7602
@@ -11,7 +11,7 @@ category:
   - web
 tags:
   - responsive_gallery
-accent_color: "#d8127e"
+color: "#d8127e"
 ---
 
 ## Passenger Focus

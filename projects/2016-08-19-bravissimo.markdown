@@ -6,7 +6,7 @@ featured:
   alt: Bravissimo logo.
 tags:
   - front_end_development
-accent_color: "#53cccc"
+color: "#53cccc"
 ---
 
 - ![Page listing swimwear available for sale.](/media/projects/bravissimo/swimwear.png#screenshot "Component preview and underlying code shown within Brastrap.")

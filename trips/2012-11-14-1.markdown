@@ -3,13 +3,13 @@ start: 2012-11-14
 itinerary:
   - label: Preston Park (PRP)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: Gatwick Airport (LGW)
     locality: Gatwick
-    country_name: England
+    countryName: England
   - label: Belfast International Airport (BFS)
     locality: Belfast
-    country_name: Northern Ireland
+    countryName: Northern Ireland
 tags:
   - i4Ly1
 ---

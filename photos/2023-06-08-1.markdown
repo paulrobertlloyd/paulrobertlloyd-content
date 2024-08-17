@@ -1,6 +1,6 @@
 ---
 date: 2023-06-08T14:08:03.187+02:00
-time_zone: Europe/Amsterdam
+timeZone: Europe/Amsterdam
 photo:
   - url: /media/2023/159/p1/1.jpg
     alt: An old Dutch church at the end of a tree-lined canal.

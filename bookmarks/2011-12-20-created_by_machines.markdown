@@ -1,7 +1,7 @@
 ---
 date: 2011-12-20T00:06:51Z
 title: Created by machines
-bookmark_of: http://log.scifihifi.com/post/14250409420
+bookmarkOf: http://log.scifihifi.com/post/14250409420
 category:
   - google
   - design

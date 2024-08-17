@@ -3,13 +3,13 @@ start: 2012-05-09
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: Gatwick Airport (LGW)
     locality: Gatwick
-    country_name: England
+    countryName: England
   - label: Amsterdam Airport Schiphol (AMS)
     locality: Amsterdam
-    country_name: Netherlands
+    countryName: Netherlands
 tags:
   - i4Hp1
 ---

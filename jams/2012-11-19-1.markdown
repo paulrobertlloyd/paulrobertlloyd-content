@@ -1,6 +1,6 @@
 ---
 date: 2012-11-19
-jam_of:
+jamOf:
   type: cite
   name: We Are Young (feat. Janelle Monáe)
   author: Fun

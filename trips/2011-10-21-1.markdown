@@ -3,13 +3,13 @@ start: 2011-10-21
 itinerary:
   - label: London Heathrow Airport (LHR)
     locality: London
-    country_name: England
+    countryName: England
   - label: Montréal–Trudeau International Airport (YUL)
     locality: Montréal
-    country_name: Canada
+    countryName: Canada
   - label: Washington Dulles International Airport (IAD)
     locality: Dulles
-    country_name: United States
+    countryName: United States
 tags:
   - i4EU1
 ---

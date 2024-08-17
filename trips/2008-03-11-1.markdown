@@ -3,13 +3,13 @@ start: 2008-03-11
 itinerary:
   - label: Austin-Bergstrom International Airport (AUS)
     locality: Austin
-    country_name: United States
+    countryName: United States
   - label: Phoenix Sky Harbor International Airport (PHX)
     locality: Phoenix
-    country_name: United States
+    countryName: United States
   - label: Norman Y. Mineta San Jose International Airport (SJC)
     locality: San Jose
-    country_name: United States
+    countryName: United States
 tags:
   - i3sQ1
 ---

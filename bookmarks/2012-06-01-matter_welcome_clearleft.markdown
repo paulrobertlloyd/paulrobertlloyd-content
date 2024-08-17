@@ -1,7 +1,7 @@
 ---
 date: 2012-06-01T22:39:40+01:00
 title: "MATTER: Welcome Clearleft"
-bookmark_of: http://blog.readmatter.com/post/24208310277/welcome-clearleft
+bookmarkOf: http://blog.readmatter.com/post/24208310277/welcome-clearleft
 category:
   - clearleft
   - matter

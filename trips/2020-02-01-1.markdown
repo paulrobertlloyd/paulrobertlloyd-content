@@ -3,13 +3,13 @@ start: 2020-02-01
 itinerary:
   - label: Stockholm Central
     locality: Stockholm
-    country_name: Sweden
+    countryName: Sweden
   - label: Gothenburg Central
     locality: Gothenburg
-    country_name: Sweden
+    countryName: Sweden
   - label: Oslo Central
     locality: Oslo
-    country_name: Norway
+    countryName: Norway
 tags:
   - i54k1
 ---

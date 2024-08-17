@@ -3,7 +3,7 @@ date: 2010-06-12T22:27:40+01:00
 title: Winning the World Cup would be the worst thing to happen to English football
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: Much like the wider economy, football in this country is an overinflated bubble ready to burst. Two years after failing to qualify for the European Championships, let us see further embarrassment with an early exit from the World Cup. Then let us seize this opportunity to properly scrutinise the national game and its failings, rather than single out the manger or individual members of the squad.
 category:
   - sport

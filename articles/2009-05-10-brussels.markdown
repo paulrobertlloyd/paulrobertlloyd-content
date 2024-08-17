@@ -3,7 +3,7 @@ date: 2009-05-10T17:18:24+01:00
 title: One hour in Belgium
 location:
   locality: Cologne
-  country_name: Germany
+  countryName: Germany
 summary: Brussels will quickly be forgotten.
 category:
   - travel

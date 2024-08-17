@@ -3,10 +3,10 @@ start: 2009-12-29
 itinerary:
   - label: Wellington International Airport (WLG)
     locality: Wellington
-    country_name: New Zealand
+    countryName: New Zealand
   - label: Sydney Airport (SYD)
     locality: Sydney
-    country_name: Australia
+    countryName: Australia
 tags:
   - i43F1
 ---

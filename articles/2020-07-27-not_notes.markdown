@@ -3,7 +3,7 @@ date: 2020-07-27T18:48:00+01:00
 title: Not notes
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: 10 random things I avoided saying over the last six months.
 ---
 

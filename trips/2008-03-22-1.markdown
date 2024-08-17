@@ -3,13 +3,13 @@ start: 2008-03-22
 itinerary:
   - label: O’Hare International Airport (ORD)
     locality: Chicago
-    country_name: United States
+    countryName: United States
   - label: Newark Liberty International Airport (EWR)
     locality: Newark
-    country_name: United States
+    countryName: United States
   - label: Birmingham Airport (BHX)
     locality: Birmingham
-    country_name: England
+    countryName: England
 tags:
   - i3sQ1
 ---

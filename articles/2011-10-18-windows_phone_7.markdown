@@ -3,7 +3,7 @@ date: 2011-10-18T23:49:26+01:00
 title: A week with Windows Phone 7
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: With three years of iPhone ownership I’ve become accustomed to the design and behaviour of iOS, yet at the same time ignorant of other smartphone platforms. Thanks to Clearleft’s new mobile testing environment, I can now spend a week or so with different operating systems to get a feel for how they differ. First up; Windows Phone 7.
 featured:
   url: /media/2011/291/a1/image.jpg

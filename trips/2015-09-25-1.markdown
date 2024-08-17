@@ -3,13 +3,13 @@ start: 2015-09-25
 itinerary:
   - label: Budapest Keleti
     locality: Budapest
-    country_name: Hungary
+    countryName: Hungary
   - label: Zürich
     locality: Zurich
-    country_name: Switzerland
+    countryName: Switzerland
   - label: Paris-Gare-de-Lyon
     locality: Paris
-    country_name: France
+    countryName: France
 tags:
   - i4dF1
 ---

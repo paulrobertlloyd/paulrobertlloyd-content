@@ -3,13 +3,13 @@ start: 2022-08-26
 itinerary:
   - label: San Sebastián
     locality: Donostia-San Sebastián
-    country_name: Spain
+    countryName: Spain
   - label: Madrid Chamartín
     locality: Madrid
-    country_name: Spain
+    countryName: Spain
   - label: Vigo-Urzáiz
     locality: Vigo
-    country_name: Spain
+    countryName: Spain
 tags:
   - i5LS1
 ---

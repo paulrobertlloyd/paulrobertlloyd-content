@@ -4,12 +4,12 @@ title: "Fantasies of the future: Design in a world being eaten by software"
 location:
   type: adr
   locality: Leicester
-  country_name: England
+  countryName: England
 summary: When the prevailing culture permits the creation of products that undermine and exploit users, will designers stand up to protect them?
 featured:
   url: /media/2018/095/s1/image.jpg
   alt: Mark Zuckerberg.
-accent_color: "#13b"
+color: "#13b"
 slides:
   - url: /media/2018/095/s1/1.png
     caption: |

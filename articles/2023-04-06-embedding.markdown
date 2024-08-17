@@ -3,12 +3,12 @@ title: Thinking out loud about embedding content
 date: 2023-04-08T18:00:00+01:00
 location:
   locality: Birmingham
-  country_name: England
+  countryName: England
 summary: Embedding content is a pain. There’s got to be another way.
 category:
   - website
   - web
-accent_color: "#809"
+color: "#809"
 ---
 
 Continuing on from [my last post][1] about changes I’m considering as I redesign this website, today I want to talk about embedding content. In short: I’m tired of it.

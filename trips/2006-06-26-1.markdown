@@ -3,10 +3,10 @@ start: 2006-06-26
 itinerary:
   - label: London Luton Airport (LTN)
     locality: Luton
-    country_name: England
+    countryName: England
   - label: Rome Ciampino Giovan Battista Pastine Airport (CIA)
     locality: Rome
-    country_name: Italy
+    countryName: Italy
 tags:
   - i3h51
 ---

@@ -4,37 +4,37 @@ end: 2018-06-16
 itinerary:
   - label: Southampton Cruise Terminal
     locality: Southampton
-    country_name: England
+    countryName: England
   - label: Haugesund
     locality: Haugesund
-    country_name: Norway
+    countryName: Norway
   - label: Flåm
     locality: Flåm
-    country_name: Norway
+    countryName: Norway
   - label: Ålesund
     locality: Ålesund
-    country_name: Norway
+    countryName: Norway
   - label: Åndalsnes
     locality: Åndalsnes
-    country_name: Norway
+    countryName: Norway
   - label: Trondheim
     locality: Trondheim
-    country_name: Norway
+    countryName: Norway
   - label: Hellesylt
     locality: Hellesylt
-    country_name: Norway
+    countryName: Norway
   - label: Geiranger
     locality: Geiranger
-    country_name: Norway
+    countryName: Norway
   - label: Olden
     locality: Olden
-    country_name: Norway
+    countryName: Norway
   - label: Port of Strevanger
     locality: Strevanger
-    country_name: Norway
+    countryName: Norway
   - label: Southampton Cruise Terminal
     locality: Southampton
-    country_name: England
+    countryName: England
 tags:
   - i4um1
 ---

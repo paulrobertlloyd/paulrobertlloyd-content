@@ -3,7 +3,7 @@ date: 2013-04-17T00:48:12+01:00
 title: (Re)introducing Bradshaw’s Guide
 location:
   locality: San Francisco
-  country_name: United States
+  countryName: United States
 summary: Based on the 1866 edition of George Bradshaw’s handbook for tourists using Britain’s nascent railway network, my latest project puts his historical insights into the hands of a new generation, many of whom use the same routes he described 150 years ago.
 featured:
   url: /media/2013/106/a1/iphone.png
@@ -13,7 +13,7 @@ category:
   - travel
 tags:
   - w4sD1
-accent_color: "#e6772e"
+color: "#e6772e"
 ---
 
 ![Bradshaw’s Guide being viewed on an iPhone.](/media/2013/106/a1/iphone.png "Bradshaw’s Guide being viewed on an iPhone.")

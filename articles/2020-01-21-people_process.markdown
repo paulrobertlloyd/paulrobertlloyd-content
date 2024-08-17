@@ -3,7 +3,7 @@ date: 2020-01-21T09:00:00Z
 title: People > Process
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Only one thing determines the quality of software.
 category:
   - design

@@ -3,10 +3,10 @@ start: 2023-08-10
 itinerary:
   - label: Lyon-Part-Dieu
     locality: Lyon
-    country_name: France
+    countryName: France
   - label: Torino Porta Susa
     locality: Turin
-    country_name: Italy
+    countryName: Italy
 tags:
   - i5SJ1
 ---

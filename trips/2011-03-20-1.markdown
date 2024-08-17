@@ -3,16 +3,16 @@ start: 2011-03-20
 itinerary:
   - label: San Francisco International Airport (SFO)
     locality: San Francisco
-    country_name: United States
+    countryName: United States
   - label: Toronto Pearson International Airport (YYZ)
     locality: Toronto
-    country_name: Canada
+    countryName: Canada
   - label: São Paulo-Guarulhos International Airport (GRU)
     locality: Guarulhos
-    country_name: Brazil
+    countryName: Brazil
   - label: Brasília–Presidente Juscelino Kubitschek International Airport (BSB)
     locality: Brasília
-    country_name: Brazil
+    countryName: Brazil
 tags:
   - i4Ai1
 ---

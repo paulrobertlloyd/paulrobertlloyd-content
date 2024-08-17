@@ -3,7 +3,7 @@ date: 2014-03-09T20:19:08Z
 title: How valuable are CSS and HTML skills now browsers have matured?
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: For this month’s net magazine, Martin Cooper asked me to provide some thoughts on this question prompted by a recent exchange between Jeff Croft and Jeffrey Zeldman.
 category:
   - web

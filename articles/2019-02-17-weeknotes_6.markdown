@@ -3,7 +3,7 @@ date: 2019-02-17T20:20:00Z
 title: "Weeknotes #6"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: I wasn’t expecting this exercise in weekly updates to endure, but here I am, six weeks later, with another weekly round up.
 tags:
   - weeknotes

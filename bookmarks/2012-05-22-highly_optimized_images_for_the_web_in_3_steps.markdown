@@ -1,7 +1,7 @@
 ---
 date: 2012-05-22T02:05:15+01:00
 title: Highly optimized images for the web in 3 steps
-bookmark_of: http://pasz.nl/blog/highly-optimized-images-for-the-web-in-three-steps/
+bookmarkOf: http://pasz.nl/blog/highly-optimized-images-for-the-web-in-three-steps/
 category:
   - web
   - web_performance

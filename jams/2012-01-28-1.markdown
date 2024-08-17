@@ -1,6 +1,6 @@
 ---
 date: 2012-01-28
-jam_of:
+jamOf:
   type: cite
   name: The Heroes
   author: Shed Seven

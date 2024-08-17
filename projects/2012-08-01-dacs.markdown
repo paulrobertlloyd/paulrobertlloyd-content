@@ -7,7 +7,7 @@ featured:
 tags:
   - front_end_development
   - interaction_design
-accent_color: "#b4b6b8"
+color: "#b4b6b8"
 ---
 
 ![Home page.](/media/projects/dacs/homepage.png#screenshot)

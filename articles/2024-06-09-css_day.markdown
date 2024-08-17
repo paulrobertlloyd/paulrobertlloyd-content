@@ -4,7 +4,7 @@ title: "With great power, comes great creativity: thoughts from CSS Day 2024"
 location:
   type: adr
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Come for the talks, stay for the Bitterballen, leave with a better understanding of a beautifully comprehensive tool for design.
 featured:
   url: /media/2024/161/a1/css_day_mug.jpg
@@ -13,7 +13,7 @@ category:
   - conferences
   - css
   - web
-accent_color: "#cd853f"
+color: "#cd853f"
 ---
 
 For the last month I’ve been conducting an almost mini tour of Europe. Designed to coincide with a few events I wanted to attend ([or avoid][2]), it ended with my now traditional trip to Amsterdam for [CSS Day][1], which this year celebrated its tenth edition.

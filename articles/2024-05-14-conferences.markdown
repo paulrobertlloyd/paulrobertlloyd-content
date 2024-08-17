@@ -1,6 +1,6 @@
 ---
 date: 2024-05-15T00:45:00+02:00
-time_zone: Europe/Berlin
+timeZone: Europe/Berlin
 title: Unconference
 summary: I’m a person-person not a people-person.
 category:
@@ -8,8 +8,8 @@ category:
   - personal
 location:
   locality: Düsseldorf
-  country_name: Germany
-accent_color: "#6cd616"
+  countryName: Germany
+color: "#6cd616"
 ---
 
 I’ve been in Düsseldorf since Friday evening, but not for [Beyond Tellerand][1]. I was in Leeds at the beginning of May, but not for [All Day Hey][2]. Being in the same city as a conference, yet not in attendance, is a running theme.

@@ -3,12 +3,12 @@ date: 2013-01-28T23:00:24Z
 title: And the award goes to…
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: When awards are given out, they should encourage everyone to be finer practitioners, not louder personalities. Instead of putting people – however deserving – on pedestals out of reach of new talent, when done right, they can promote inclusivity and celebrate our collective achievement.
 category:
   - awards
   - microsoft
-accent_color: "#e72861"
+color: "#e72861"
 ---
 
 Last week I attended [New Adventures][1] in Nottingham. This year’s line-up featured a fertile mix of practical advice (Jon Tan), thoughtful reflection (Stephanie Troeth), live coding (Seb Lee-Delisle) and characterful inspiration (Wayne Hemingway), with a few sweary truisms thrown in for good measure.

@@ -1,7 +1,7 @@
 ---
 date: 2016-09-29T14:40:00+01:00
 title: Climb Dance
-bookmark_of: https://www.youtube.com/watch?v=HiIjLMr33Xc
+bookmarkOf: https://www.youtube.com/watch?v=HiIjLMr33Xc
 category:
   - cinema
   - motorsport

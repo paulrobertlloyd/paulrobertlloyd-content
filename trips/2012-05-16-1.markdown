@@ -3,13 +3,13 @@ start: 2012-05-16
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: Gatwick Airport (LGW)
     locality: Gatwick
-    country_name: England
+    countryName: England
   - label: Copenhagen Airport, Kastrup (CPH)
     locality: Kastrup
-    country_name: Denmark
+    countryName: Denmark
 tags:
   - i4Hw1
 ---

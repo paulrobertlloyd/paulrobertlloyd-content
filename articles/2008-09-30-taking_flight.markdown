@@ -3,7 +3,7 @@ date: 2008-09-30T09:34:24+01:00
 title: Taking flight
 location:
   locality: Solihull
-  country_name: England
+  countryName: England
 summary: It’s probably no coincidence that my return to blogging comes while sitting in the departure lounge of Birmingham International Airport.
 category:
   - website

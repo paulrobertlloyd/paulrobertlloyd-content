@@ -11,7 +11,7 @@ featured:
 category:
   - responsive_design
   - web
-accent_color: "#4cc6df"
+color: "#4cc6df"
 ---
 
 ![Screenshot of the Guardian’s mobile website with navigation in closed and open states.](/media/2015/027/a1/image.png "The Guardian’s navigation on smaller displays prioritises page signposting, but all site sections can still be accessed with one tap.")

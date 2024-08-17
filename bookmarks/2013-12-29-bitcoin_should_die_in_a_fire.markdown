@@ -1,7 +1,7 @@
 ---
 date: 2013-12-29T22:34:16Z
 title: Why I want Bitcoin to die in a fire
-bookmark_of: http://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html
+bookmarkOf: http://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html
 category:
   - politics
   - economics

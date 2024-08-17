@@ -3,19 +3,19 @@ start: 2015-02-26
 itinerary:
   - label: Berlin
     locality: Berlin
-    country_name: Germany
+    countryName: Germany
   - label: Köln
     locality: Cologne
-    country_name: Germany
+    countryName: Germany
   - label: Brussels-South
     locality: Brussels
-    country_name: Belgium
+    countryName: Belgium
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4_W1
 ---

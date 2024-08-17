@@ -3,7 +3,7 @@ date: 2018-07-21T21:30:00+01:00
 title: Brands renewed
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: An appreciation for identity programmes that seek to refine rather than reinvent.
 featured:
   url: /media/2018/202/a1/image.png
@@ -11,7 +11,7 @@ featured:
 category:
   - design
   - brand_identity
-accent_color: "#638c1c"
+color: "#638c1c"
 ---
 
 ![Previous variations of Tate’s logo, versus the singular version that replaced it in 2016.](/media/2018/202/a1/image.png "Previous variations of Tate’s logo, versus the singular version that replaced it in 2016.")

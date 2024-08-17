@@ -1,6 +1,6 @@
 ---
 date: 2017-07-20T23:32:40+02:00
-time_zone: Europe/Paris
+timeZone: Europe/Paris
 photo:
   - url: /media/2017/201/p3/1.jpg
     alt: Catène de Containers (Vincent Ganivet, 2017).

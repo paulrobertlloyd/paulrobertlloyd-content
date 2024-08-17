@@ -3,22 +3,22 @@ start: 2017-11-04
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London Victoria (VIC)
     locality: London
-    country_name: England
+    countryName: England
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brussels-South
     locality: Brussels
-    country_name: Belgium
+    countryName: Belgium
   - label: Köln
     locality: Cologne
-    country_name: Germany
+    countryName: Germany
   - label: Berlin
     locality: Berlin
-    country_name: Germany
+    countryName: Germany
 tags:
   - i4rE1
 ---

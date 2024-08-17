@@ -3,7 +3,7 @@ date: 2012-03-03T00:21:20Z
 title: DuckDuckGo
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Not a week passes without there being a controversy involving Google. If they’re not pilfering a Kenyan business directory, then they’re jumping into bed with opponents of net neutrality or subverting default cookie settings. Even if you ignore these concerns, it’s hard to deny that their search engine is starting to suffer too. Fortunately, there’s an alternative.
 category:
   - duckduckgo

@@ -3,9 +3,9 @@ title: These are my jams
 date: 2024-01-05T15:30:00Z
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Want jam, have jam.
-accent_color: "#ffff2e"
+color: "#ffff2e"
 category:
   - indieweb
   - music

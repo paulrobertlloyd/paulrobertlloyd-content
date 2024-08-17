@@ -3,7 +3,7 @@ date: 2016-11-16T22:50:00Z
 title: Cold Feet’s unevenly distributed future
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Observations made while watching the first five series of ""Cold Feet"". When it was originally broadcast, mobile phones were just becoming mainstream, and the Internet was still a novelty. Simpler times.
 featured:
   url: /media/2016/321/a1/image.jpg

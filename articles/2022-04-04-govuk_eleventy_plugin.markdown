@@ -11,7 +11,7 @@ category:
   - design
   - projects
   - web
-accent_color: "#28a"
+color: "#28a"
 ---
 
 ![The homepage illustration for the GOV.UK Eleventy Plugin.](/media/2022/094/a1/image.png)

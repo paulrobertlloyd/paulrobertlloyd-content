@@ -3,12 +3,12 @@ date: 2023-05-10T12:00:00+01:00
 title: Speaking at UX London 2023
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Just when I thought I was out of the speaking racket, Clearleft pull me back in.
 category:
   - speaking
   - ux_london
-accent_color: "#069"
+color: "#069"
 syndication:
   - https://www.linkedin.com/posts/paulrobertlloyd_ux-london-2023-activity-7062018700685537280-eqP4
 ---

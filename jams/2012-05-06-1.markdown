@@ -1,6 +1,6 @@
 ---
 date: 2012-05-06
-jam_of:
+jamOf:
   type: cite
   name: When The Going Gets Tough, The Tough Get Going
   author: Billy Ocean

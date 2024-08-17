@@ -1,7 +1,7 @@
 ---
 date: 2020-03-07T20:25:00Z
 title: Alan Partridge on the importance of cleanliness
-bookmark_of: https://www.youtube.com/watch?v=77IZttD_pU8
+bookmarkOf: https://www.youtube.com/watch?v=77IZttD_pU8
 category:
   - television
 ---

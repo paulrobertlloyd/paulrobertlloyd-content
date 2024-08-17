@@ -3,7 +3,7 @@ date: 2009-01-11T23:42:49Z
 title: 2008 in review
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: Before such a post becomes embarrassingly late (although I fear we may already have passed such a point) here is a quick run down of what I got up to last year.
 category:
   - personal

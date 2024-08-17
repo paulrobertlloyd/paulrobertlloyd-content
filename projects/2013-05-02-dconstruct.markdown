@@ -6,7 +6,7 @@ featured:
   alt: dConstruct logo.
 tags:
   - interaction_design
-accent_color: "#370"
+color: "#370"
 ---
 
 ![Home page for the 2010 website.](/media/projects/dconstruct/2010.png#screenshot)

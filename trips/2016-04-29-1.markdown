@@ -3,19 +3,19 @@ start: 2016-04-29
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London Victoria (VIC)
     locality: London
-    country_name: England
+    countryName: England
   - label: Birmingham Moor Street (BMO)
     locality: Birmingham
-    country_name: England
+    countryName: England
   - label: Birmingham New Street (BHM)
     locality: Birmingham
-    country_name: England
+    countryName: England
   - label: Bloxwich North (BWN)
     locality: Walsall
-    country_name: England
+    countryName: England
 tags:
   - i4h01
 ---

@@ -1,15 +1,15 @@
 ---
 date: 2023-12-02T22:00:00Z
-type_index: 2
+typeIndex: 2
 title: The impossible dream
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Reflections on Keanu Reeves’ Brawn GP documentary and how Formula 1 has changed over the last 14 years.
 featured:
   url: /media/2023/336/a2/image.jpg
   alt: Keanu Reeves looks over the BGP 001 car.
-accent_color: "#fff204"
+color: "#fff204"
 category:
   - formula_1
   - television

@@ -1,7 +1,7 @@
 ---
 date: 2012-05-24T01:48:46+01:00
 title: Hold Your Horses - 70 Million
-bookmark_of: https://www.youtube.com/watch?v=erbd9cZpxps
+bookmarkOf: https://www.youtube.com/watch?v=erbd9cZpxps
 category:
   - music_videos
 ---

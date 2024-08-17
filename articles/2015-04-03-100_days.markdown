@@ -3,7 +3,7 @@ date: 2015-04-03T17:53:00+01:00
 title: 100 days
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: I’ve returned to 68 Middle Street just in time for the start of *100 days*, a collaborative project where the aim is to complete a creative process every day for one hundred days.
 category:
   - clearleft

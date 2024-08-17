@@ -1,6 +1,6 @@
 ---
 date: 2012-04-17
-jam_of:
+jamOf:
   type: cite
   name: Rust
   author: Echo & the Bunnymen

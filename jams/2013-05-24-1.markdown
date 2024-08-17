@@ -1,6 +1,6 @@
 ---
 date: 2013-05-24
-jam_of:
+jamOf:
   type: cite
   name: Get Lucky (feat. Pharrell Williams)
   author: Daft Punk

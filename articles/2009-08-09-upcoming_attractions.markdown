@@ -3,7 +3,7 @@ date: 2009-08-09T18:33:56+01:00
 title: Upcoming attractions
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: As Summer hurtles towards it’s conclusion (and let’s assume for a second that it actually started) so the anticipation for two very special geeky events can begin.
 category:
   - conferences

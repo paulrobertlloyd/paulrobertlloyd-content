@@ -3,16 +3,16 @@ start: 2013-05-12
 itinerary:
   - label: Cardiff Central (CDF)
     locality: Cardiff
-    country_name: Wales
+    countryName: Wales
   - label: London Paddington (PAD)
     locality: London
-    country_name: England
+    countryName: England
   - label: London Victoria (VIC)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4Pu1
 ---

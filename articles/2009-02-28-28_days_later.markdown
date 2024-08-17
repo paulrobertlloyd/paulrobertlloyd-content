@@ -3,7 +3,7 @@ date: 2009-02-28T11:24:34Z
 title: 28 days later
 location:
   locality: Walsall
-  country_name: England
+  countryName: England
 summary: February coming to a close means I can conclude my month long challenge to post to this blog each day. Having only written 14 entries, it’s a challenge for which I only half succeeded.
 category:
   - website

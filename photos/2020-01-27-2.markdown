@@ -1,6 +1,6 @@
 ---
 date: 2020-01-27T16:09:48.309+01:00
-time_zone: Europe/Copenhagen
+timeZone: Europe/Copenhagen
 photo:
   - url: /media/2020/027/p2/1.jpg
     alt: A pedestrian street with puddles reflecting the red Chinese lanterns hung overhead.

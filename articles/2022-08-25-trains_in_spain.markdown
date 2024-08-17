@@ -3,7 +3,7 @@ date: 2022-08-25T01:00:00+02:00
 title: The trains in Spain are mostly a pain
 location:
   locality: Donostia-San Sebastián
-  country_name: Spain
+  countryName: Spain
 summary: Turns out using an Interrail pass in Spain isn’t straight-forward.
 category:
   - spain

@@ -3,13 +3,13 @@ date: 2023-09-29T17:00:00+01:00
 title: Classnames
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: I made a thing; a small website to provide inspiration when naming things.
 category:
   - programming
   - projects
   - web
-accent_color: "#939"
+color: "#939"
 ---
 
 Upgrading my computer’s operating system is an opportunity to undertake a digital detox; reviewing which applications are still needed, deciding where folders should live and which files should be deleted.

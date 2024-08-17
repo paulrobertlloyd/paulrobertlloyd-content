@@ -6,7 +6,7 @@ featured:
   alt: Fontdeck logo.
 tags:
   - interaction_design
-accent_color: "#e9242e"
+color: "#e9242e"
 ---
 
 ![Home page.](/media/projects/fontdeck/homepage.png#screenshot)

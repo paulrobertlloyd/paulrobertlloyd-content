@@ -6,7 +6,7 @@ featured:
   alt: Universal Playback logo.
 tags:
   - interaction_design
-accent_color: "#bbb"
+color: "#bbb"
 ---
 
 - ![Home page.](/media/projects/universal_playback/homepage.png#screenshot)

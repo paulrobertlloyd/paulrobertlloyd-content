@@ -1,7 +1,7 @@
 ---
 date: 2013-01-22T00:04:17Z
 title: SX-70
-bookmark_of: https://www.youtube.com/watch?v=Lo_1pyQ7xvc
+bookmarkOf: https://www.youtube.com/watch?v=Lo_1pyQ7xvc
 category:
   - photography
   - product_design

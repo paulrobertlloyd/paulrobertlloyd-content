@@ -1,7 +1,7 @@
 ---
 date: 2016-04-20T21:25:00+01:00
 title: Street typography in action
-bookmark_of: https://vimeo.com/36167291
+bookmarkOf: https://vimeo.com/36167291
 category:
   - typography
 ---

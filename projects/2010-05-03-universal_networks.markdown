@@ -6,7 +6,7 @@ featured:
   alt: Universal Networks logo.
 tags:
   - interaction_design
-accent_color: "#d9d7d4"
+color: "#d9d7d4"
 ---
 
 - ![Syfy home page.](/media/projects/universal_networks/syfy_homepage.png#screenshot)

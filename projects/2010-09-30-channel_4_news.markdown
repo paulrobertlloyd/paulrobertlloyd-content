@@ -6,7 +6,7 @@ featured:
   alt: Channel 4 logo.
 tags:
   - interaction_design
-accent_color: "#889"
+color: "#889"
 ---
 
 - ![Home screen.](/media/projects/channel_4_news/home.png#screenshot)

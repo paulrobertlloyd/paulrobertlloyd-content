@@ -3,19 +3,19 @@ start: 2017-06-19
 itinerary:
   - label: Den Haag Centraal
     locality: The Hague
-    country_name: Denmark
+    countryName: Denmark
   - label: Amsterdam Centraal
     locality: Amsterdam
-    country_name: Netherlands
+    countryName: Netherlands
   - label: Brussels-South
     locality: Brussels
-    country_name: Belgium
+    countryName: Belgium
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4or1
 ---

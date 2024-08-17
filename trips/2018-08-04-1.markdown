@@ -3,16 +3,16 @@ start: 2018-08-04
 itinerary:
   - label: Walsall (WSL)
     locality: Walsall
-    country_name: England
+    countryName: England
   - label: Birmingham New Street (BHM)
     locality: Birmingham
-    country_name: England
+    countryName: England
   - label: Preston (PRE)
     locality: Preston
-    country_name: England
+    countryName: England
   - label: Chorley (CRL)
     locality: Chorley
-    country_name: England
+    countryName: England
 tags:
   - i4vm1
 ---

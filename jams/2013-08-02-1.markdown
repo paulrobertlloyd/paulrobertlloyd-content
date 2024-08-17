@@ -1,6 +1,6 @@
 ---
 date: 2013-08-02
-jam_of:
+jamOf:
   type: cite
   name: "Going Home: Theme of the Local Hero"
   author: Mark Knopfler

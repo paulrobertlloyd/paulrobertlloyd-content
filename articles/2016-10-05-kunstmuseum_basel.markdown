@@ -3,7 +3,7 @@ date: 2016-10-05T21:50:00+01:00
 title: Admiring the abstract in Basel’s Kunstmuseum
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: As I explored the exhibits in Basel’s recently extended art museum, I jotted down the artists whose work caught my attention. Here I share my findings.
 featured:
   url: /media/2016/279/a1/extension.jpg

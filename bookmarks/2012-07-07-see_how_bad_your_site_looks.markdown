@@ -1,7 +1,7 @@
 ---
 date: 2012-07-07T22:51:50+01:00
 title: See how bad your site looks
-bookmark_of: https://twitter.com/anna_debenham/status/221277339517067265
+bookmarkOf: https://twitter.com/anna_debenham/status/221277339517067265
 category:
   - web
 ---

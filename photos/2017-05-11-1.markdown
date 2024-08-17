@@ -1,6 +1,6 @@
 ---
 date: 2017-05-11T01:02:21+01:00
-time_zone: Europe/Dublin
+timeZone: Europe/Dublin
 photo:
   - url: /media/2017/131/p1/1.jpg
     alt: The Custom House, Dublin.

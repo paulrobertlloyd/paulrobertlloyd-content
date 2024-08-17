@@ -3,7 +3,7 @@ date: 2012-11-04T21:35:20Z
 title: Skyfall
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Fifty years after the release of ""Dr. No"", James Bond returns in ""Skyfall"", the twenty-third instalment of the longest continually-running film series in history.
 featured:
   url: /media/2012/309/a1/image.jpg
@@ -15,7 +15,7 @@ category:
   - film
   - review
   - james_bond
-accent_color: "#c96"
+color: "#c96"
 ---
 
 ![Daniel Craig as James Bond, standing in front of his Aston Martin DB5 in the Scottish Highlands.](/media/2012/309/a1/image.jpg "Daniel Craig in Skyfall.")

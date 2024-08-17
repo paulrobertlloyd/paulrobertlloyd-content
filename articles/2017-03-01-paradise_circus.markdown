@@ -3,7 +3,7 @@ date: 2017-03-01T22:45:00Z
 title: Paradise lost
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: I had braced myself for its eventual fate, but seeing footage of Birmingham Central Library being demolished still brought a tear to my eye.
 category:
   - architecture

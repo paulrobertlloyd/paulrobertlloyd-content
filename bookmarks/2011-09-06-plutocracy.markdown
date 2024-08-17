@@ -1,7 +1,7 @@
 ---
 date: 2011-09-06T21:38:08+01:00
 title: Osborne’s version of sustainable development
-bookmark_of: https://www.theguardian.com/commentisfree/2011/sep/05/george-osborne-motorway-sustainable-development
+bookmarkOf: https://www.theguardian.com/commentisfree/2011/sep/05/george-osborne-motorway-sustainable-development
 category:
   - politics
 ---

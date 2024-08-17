@@ -3,10 +3,10 @@ start: 2018-01-03
 itinerary:
   - label: London Heathrow Airport (LHR)
     locality: London
-    country_name: England
+    countryName: England
   - label: São Paulo-Guarulhos International Airport (GRU)
     locality: Guarulhos
-    country_name: Brazil
+    countryName: Brazil
 tags:
   - i4sE1
 ---

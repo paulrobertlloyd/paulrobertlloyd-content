@@ -10,7 +10,7 @@ category:
   - web
 tags:
   - w4TL1
-accent_color: "#f04"
+color: "#f04"
 ---
 
 I’ve been thinking recently about the nature of my work and which aspects of it I enjoy the most. In a role that will often straddle the realms of design and development, whether editing copy, evaluating the design of an interface or refactoring code, I’ve come to realise that my interests lie in the act of review and refinement.

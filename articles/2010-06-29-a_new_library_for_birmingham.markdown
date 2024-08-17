@@ -3,7 +3,7 @@ date: 2010-06-29T22:21:41+01:00
 title: A new library for Birmingham
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: Architecture has never been kind to Birmingham, but then Birmingham has never been kind to its architecture.
 featured:
   url: /media/2010/180/a1/artists_impression_1.jpg

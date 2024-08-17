@@ -3,13 +3,13 @@ start: 2018-05-17
 itinerary:
   - label: Exeter St David’s (EXD)
     locality: Exeter
-    country_name: England
+    countryName: England
   - label: St Erth (SER)
     locality: St Erth
-    country_name: England
+    countryName: England
   - label: Cabis Bay (CBB)
     locality: St Ives
-    country_name: England
+    countryName: England
 tags:
   - i4uS1
 ---

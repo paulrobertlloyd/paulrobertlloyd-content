@@ -3,16 +3,16 @@ start: 2018-10-07
 itinerary:
   - label: Malmö Central
     locality: Malmö
-    country_name: Sweden
+    countryName: Sweden
   - label: Copenhagen Central
     locality: Copenhagen
-    country_name: Denmark
+    countryName: Denmark
   - label: Fredericia
     locality: Fredericia
-    country_name: Denmark
+    countryName: Denmark
   - label: Hamburg
     locality: Hamburg
-    country_name: Germany
+    countryName: Germany
 tags:
   - i4wa1
 ---

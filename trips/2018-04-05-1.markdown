@@ -3,16 +3,16 @@ start: 2018-04-05
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London Victoria (VIC)
     locality: London
-    country_name: England
+    countryName: England
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Leicester (LEI)
     locality: Leicester
-    country_name: England
+    countryName: England
 tags:
   - i4tm1
 ---

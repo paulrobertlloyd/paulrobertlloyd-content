@@ -1,6 +1,6 @@
 ---
 date: 2017-05-13T00:32:37+01:00
-time_zone: Europe/Dublin
+timeZone: Europe/Dublin
 photo:
   - url: /media/2017/133/p2/1.jpg
     alt: A friendly horse.

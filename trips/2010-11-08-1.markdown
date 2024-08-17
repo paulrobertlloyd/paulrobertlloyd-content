@@ -3,28 +3,28 @@ start: 2010-11-08
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London Victoria (VIC)
     locality: London
-    country_name: England
+    countryName: England
   - label: London Euston (EUS)
     locality: London
-    country_name: England
+    countryName: England
   - label: Holyhead (HHD)
     locality: Holyhead
-    country_name: Wales
+    countryName: Wales
   - label: Port of Holyhead
     locality: Holyhead
-    country_name: Wales
+    countryName: Wales
   - label: Dublin Port
     locality: Dublin
-    country_name: Ireland
+    countryName: Ireland
   - label: Dublin Connolly
     locality: Dublin
-    country_name: Ireland
+    countryName: Ireland
   - label: Belfast Lanyon Place
     locality: Belfast
-    country_name: Northern Ireland
+    countryName: Northern Ireland
 tags:
   - i48g1
 ---

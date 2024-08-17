@@ -1,7 +1,7 @@
 ---
 date: 2018-10-08T00:18:00+02:00
 title: Vice
-bookmark_of: https://www.youtube.com/watch?v=g09a9laLh0k
+bookmarkOf: https://www.youtube.com/watch?v=g09a9laLh0k
 category:
   - film
 ---

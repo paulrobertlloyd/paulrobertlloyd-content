@@ -1,7 +1,7 @@
 ---
 date: 2012-07-14T01:17:50+01:00
 title: What if social networks just aren’t profitable?
-bookmark_of: http://powazek.com/posts/3024
+bookmarkOf: http://powazek.com/posts/3024
 category:
   - social_media
 ---

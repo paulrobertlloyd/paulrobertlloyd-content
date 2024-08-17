@@ -3,22 +3,22 @@ start: 2019-09-08
 itinerary:
   - label: Lisbon Orient
     locality: Lisbon
-    country_name: Portugal
+    countryName: Portugal
   - label: Hendaye
     locality: Hendaye
-    country_name: France
+    countryName: France
   - label: Paris-Montparnasse
     locality: Paris
-    country_name: France
+    countryName: France
   - label: Paris-Nord
     locality: Paris
-    country_name: France
+    countryName: France
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i52L1
 ---

@@ -3,16 +3,16 @@ start: 2017-06-14
 itinerary:
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
   - label: London St Pancras International (STP)
     locality: London
-    country_name: England
+    countryName: England
   - label: Brussels-South
     locality: Brussels
-    country_name: Belgium
+    countryName: Belgium
   - label: Amsterdam Centraal
     locality: Amsterdam
-    country_name: Netherlands
+    countryName: Netherlands
 tags:
   - i4or1
 ---

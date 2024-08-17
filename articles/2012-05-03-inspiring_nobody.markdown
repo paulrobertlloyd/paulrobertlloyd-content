@@ -3,7 +3,7 @@ date: 2012-05-03T11:49:26+01:00
 title: Inspiring nobody
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Rather than showcase British interactive design talent, the biggest cultural event of our generation has been represented online by an uninspired mess that flies the flag for the status quo.
 category:
   - design

@@ -3,7 +3,7 @@ date: 2020-04-19T15:45:00+01:00
 title: "Scandinavian sojourn: Cologne and home"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Concluding my short adventure across Northern Europe.
 featured:
   url: /media/2020/110/a1/love_locks.jpg

@@ -3,7 +3,7 @@ date: 2018-05-09T18:45:00+01:00
 title: Google Duplex
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: In a society where truth and trust are a scarce resource, Google introduce an incredibly foolish product.
 category:
   - technology

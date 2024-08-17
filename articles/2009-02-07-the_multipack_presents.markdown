@@ -3,7 +3,7 @@ date: 2009-02-07T22:29:57Z
 title: The Multipack Presents…
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: Every year the Multipack – a community of web developers based in the Midlands – seems  to undergo a renewal, finding confidence to try new things. This year is no different.
 category:
   - web

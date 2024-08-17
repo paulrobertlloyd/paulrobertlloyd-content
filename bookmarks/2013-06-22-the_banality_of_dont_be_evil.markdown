@@ -1,7 +1,7 @@
 ---
 date: 2013-06-22T02:00:23+01:00
 title: The banality of ‘Don’t be evil’
-bookmark_of: https://www.nytimes.com/2013/06/02/opinion/sunday/the-banality-of-googles-dont-be-evil.html
+bookmarkOf: https://www.nytimes.com/2013/06/02/opinion/sunday/the-banality-of-googles-dont-be-evil.html
 category:
   - google
   - julian_assange

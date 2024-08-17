@@ -3,7 +3,7 @@ date: 2019-04-14T11:30:00+01:00
 title: "Weeknotes #14"
 location:
   locality: Margate
-  country_name: England
+  countryName: England
 summary: It’ll pass.
 tags:
   - weeknotes

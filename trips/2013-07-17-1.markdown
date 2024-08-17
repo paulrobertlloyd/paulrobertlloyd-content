@@ -3,10 +3,10 @@ start: 2013-07-17
 itinerary:
   - label: Sheffield (SHF)
     locality: Sheffield
-    country_name: England
+    countryName: England
   - label: York (YRK)
     locality: York
-    country_name: England
+    countryName: England
 tags:
   - i4R21
 ---

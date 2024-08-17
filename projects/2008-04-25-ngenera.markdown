@@ -8,7 +8,7 @@ tags:
   - brand_identity
   - front_end_development
   - interaction_design
-accent_color: "#00b6dd"
+color: "#00b6dd"
 ---
 
 - ![Home page.](/media/projects/ngenera/homepage.png#screenshot)

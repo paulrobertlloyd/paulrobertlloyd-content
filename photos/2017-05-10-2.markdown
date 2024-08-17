@@ -1,6 +1,6 @@
 ---
 date: 2017-05-10T18:53:43+01:00
-time_zone: Europe/Dublin
+timeZone: Europe/Dublin
 photo:
   - url: /media/2017/130/p2/1.jpg
     alt: Irish coastline on the horizon.

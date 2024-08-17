@@ -1,7 +1,7 @@
 ---
 date: 2016-05-15T22:45:00+01:00
 title: Election expenses exposed
-bookmark_of: https://www.channel4.com/news/election-expenses-exposed
+bookmarkOf: https://www.channel4.com/news/election-expenses-exposed
 category:
   - politics
   - corruption

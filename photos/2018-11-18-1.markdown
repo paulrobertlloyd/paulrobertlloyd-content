@@ -1,6 +1,6 @@
 ---
 date: 2018-11-18T21:58:38+00:00
-time_zone: Atlantic/Reykjavik
+timeZone: Atlantic/Reykjavik
 photo:
   - url: /media/2018/322/p1/1.jpg
     alt: Þingvellir National Park.

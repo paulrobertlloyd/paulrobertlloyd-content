@@ -3,16 +3,16 @@ start: 2018-11-20
 itinerary:
   - label: Keflavík International Airport (KEF)
     locality: Keflavík
-    country_name: Iceland
+    countryName: Iceland
   - label: Gatwick Airport (LGW)
     locality: Gatwick
-    country_name: England
+    countryName: England
   - label: Gatwick (GTW)
     locality: Gatwick Airport
-    country_name: England
+    countryName: England
   - label: Brighton (BTN)
     locality: Brighton
-    country_name: England
+    countryName: England
 tags:
   - i4xW1
 ---

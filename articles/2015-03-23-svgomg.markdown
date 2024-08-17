@@ -3,7 +3,7 @@ date: 2015-03-23T13:26:25Z
 title: "Jake Archibald: Building SVGO’s missing GUI"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: I asked Jake Archibald a few questions about how he designed and developed his native-feeling SVG optimisation app.
 category:
   - web

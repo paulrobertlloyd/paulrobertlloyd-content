@@ -3,7 +3,7 @@ date: 2014-02-20T00:13:28Z
 title: Landmark Olympic websites, where art thou?
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Whereas the world’s foremost architects, graphic artists, typographers, iconographers and illustrators are asked to create their best work to celebrate each Olympic Games, still we wait for the Olympic movement to give equal consideration to the design of its websites.
 featured:
   url: /media/2014/051/a1/image.jpg
@@ -14,7 +14,7 @@ category:
   - olympics
   - sochi_2014
   - web
-accent_color: "#2cf"
+color: "#2cf"
 ---
 
 ![An olympian holds up her gold medal.](/media/2014/051/a1/image.jpg "Gold medallist Anastasiya Kuzmina of Slovakia celebrates during the medal ceremony for the Biathlon Women’s 7.5 km Sprint.")

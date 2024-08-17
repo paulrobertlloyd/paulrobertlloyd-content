@@ -1,7 +1,7 @@
 ---
 date: 2013-06-22T02:09:48+01:00
 title: "Andy Higgs: Journey into Africa"
-bookmark_of: https://justbeyondthebridge.co.uk/journey-into-africa-tanzania/
+bookmarkOf: https://justbeyondthebridge.co.uk/journey-into-africa-tanzania/
 category:
   - travel
   - africa

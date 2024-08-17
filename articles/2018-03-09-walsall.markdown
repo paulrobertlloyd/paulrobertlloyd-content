@@ -3,7 +3,7 @@ date: 2018-03-09T20:40:00Z
 title: Wallowing in Walsall
 location:
   locality: Bexhill-on-Sea
-  country_name: England
+  countryName: England
 summary: With a pile of rubble sat before me, confirmation that a chapter of my life has reached its conclusion.
 featured:
   url: /media/2018/068/a1/oak_park.jpg

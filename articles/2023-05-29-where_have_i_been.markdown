@@ -3,11 +3,11 @@ date: 2023-05-29T14:30:00+01:00
 title: Where have I been?
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: 28 countries and counting.
 category:
   - travel
-accent_color: "#f80"
+color: "#f80"
 ---
 
 First [Manton][1] did it, then a [few][2] [others][3] on [Micro.blog][4] followed. Ever one to jump on a bandwagon, I thought I’d list the countries I’ve visited as well.

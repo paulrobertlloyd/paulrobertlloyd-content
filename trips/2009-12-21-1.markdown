@@ -3,10 +3,10 @@ start: 2009-12-21
 itinerary:
   - label: Britomart Transport Centre
     locality: Auckland
-    country_name: New Zealand
+    countryName: New Zealand
   - label: Wellington
     locality: Wellington
-    country_name: New Zealand
+    countryName: New Zealand
 tags:
   - i43F1
 ---

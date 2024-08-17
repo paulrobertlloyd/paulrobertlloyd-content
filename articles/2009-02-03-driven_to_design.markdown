@@ -3,7 +3,7 @@ date: 2009-02-03T23:10:49Z
 title: Driven to design
 location:
   locality: San Francisco
-  country_name: United States
+  countryName: United States
 summary: In a recent conversation with a client, he asked why I got into design. Its something I’ve been meaning to write about for sometime, so I’ll try to publish my answer here.
 category:
   - design

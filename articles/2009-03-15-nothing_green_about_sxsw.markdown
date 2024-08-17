@@ -3,7 +3,7 @@ date: 2009-03-15T20:52:17Z
 title: Nothing green about SXSW
 location:
   locality: Walsall
-  country_name: England
+  countryName: England
 summary: "Friday saw the start of this years SXSW interactive, film and music festivals in Austin Texas, and once again they highlight the scourge of swag: the ‘stuff we all get’ that soon becomes the stuff we don’t want."
 category:
   - sustainability

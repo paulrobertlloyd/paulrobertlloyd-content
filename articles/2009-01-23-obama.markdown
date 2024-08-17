@@ -3,7 +3,7 @@ date: 2009-01-23T16:19:06Z
 title: Obama, America and me
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: Growing up, my brother was always the one in our family more interested in American culture. Whilst he followed the NBA and listened to Public Enemy, Wu-Tang Clan and Eminem, I stood to the National Anthem and worried about Britain’s growing closeness to Europe. America was of little importance to me.
 featured:
   url: /media/2009/023/a1/rally.jpg

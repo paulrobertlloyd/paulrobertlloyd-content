@@ -1,6 +1,6 @@
 ---
 date: 2024-05-14T14:55:00.000+02:00
-time_zone: Europe/Berlin
+timeZone: Europe/Berlin
 photo:
   - url: /media/2024/135/p2/1.jpg
     alt: A painted statue of a male figure atop and advertising pillar taking a photograph. Behind him, a colourful building featuring blue, red, and yellow extruding blocks.

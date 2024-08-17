@@ -3,7 +3,7 @@ date: 2016-03-13T00:55:00Z
 title: CSS Flexbox is entirely logical (almost)
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Because it uses logical values, Flexbox layouts will automatically align according to a document’s text-direction. Well, almost.
 featured:
   url: /media/2016/073/a1/image.jpg

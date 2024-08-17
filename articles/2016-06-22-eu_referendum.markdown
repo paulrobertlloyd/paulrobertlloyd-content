@@ -3,7 +3,7 @@ date: 2016-06-22T02:25:00+01:00
 title: "Breaking point: Why I’m voting to remain in the EU referendum"
 location:
   locality: Amsterdam
-  country_name: Netherlands
+  countryName: Netherlands
 summary: The question on the ballot paper demands a simple black or white answer, yet a study of the issues only offers shades of grey.
 featured:
   url: /media/2016/174/a1/image.jpg
@@ -12,7 +12,7 @@ category:
   - politics
   - european_union
   - brexit
-accent_color: "#039"
+color: "#039"
 ---
 
 ![Pastiche of Michelangelo’s ‘The Creation of Adam’.](/media/2016/174/a1/image.jpg "Pastiche of Michelangelo’s ""The Creation of Adam"", a modern reworking inspired by the same exercise I carried out twenty years ago.")

@@ -1,7 +1,7 @@
 ---
 date: 2012-06-25T23:58:47+01:00
 title: The slow web
-bookmark_of: https://jackcheng.com/the-slow-web
+bookmarkOf: https://jackcheng.com/the-slow-web
 category:
   - web
 ---

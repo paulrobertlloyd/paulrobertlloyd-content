@@ -7,7 +7,7 @@ featured:
 tags:
   - brand_identity
   - interaction_design
-accent_color: "#006aff"
+color: "#006aff"
 ---
 
 ![Home page.](/media/projects/matter/homepage.png#screenshot)

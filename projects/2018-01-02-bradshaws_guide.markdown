@@ -7,7 +7,7 @@ featured:
 tags:
   - front_end_development
   - interaction_design
-accent_color: "#e6772e"
+color: "#e6772e"
 ---
 
 ![Home page.](/media/projects/bradshaws_guide/homepage.png#screenshot)

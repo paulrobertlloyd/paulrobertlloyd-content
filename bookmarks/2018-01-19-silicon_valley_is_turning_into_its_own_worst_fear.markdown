@@ -1,7 +1,7 @@
 ---
 date: 2018-01-19T18:58:00Z
 title: Silicon Valley is turning into its own worst fear
-bookmark_of: https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway
+bookmarkOf: https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway
 category:
   - silicon_valley
   - artificial_intelligence

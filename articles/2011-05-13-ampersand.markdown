@@ -3,7 +3,7 @@ date: 2011-05-13T23:37:48+01:00
 title: Ampersand and more
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Much of the excitement has come in the form of web conferences, and looking back, I find it surprising just how many I’ve attended this year already.
 category:
   - ampersand_conference

@@ -1,14 +1,14 @@
 ---
 date: 2024-05-15T20:15:00+02:00
-time_zone: Europe/Berlin
+timeZone: Europe/Berlin
 title: IndieWeb principles
 summary: When people ask what is the IndieWeb, and who is it for, do its principles hinder more than they help?
 category:
   - indieweb
 location:
   locality: Somewhere near Passau
-  country_name: Germany
-accent_color: "#f00"
+  countryName: Germany
+color: "#f00"
 ---
 
 As [mentioned in my last post][1], I was in Düsseldorf last weekend for [IndieWebCamp][2]. Organisation was a little haphazard and attendance was lower than other camps I’ve attended, but it was still a good opportunity to meet and catch-up with other members of the community.

@@ -3,7 +3,7 @@ date: 2023-12-02T17:00:00Z
 title: Default apps 2023
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: A quick rundown of the apps I rely on to achieve common tasks.
 category:
   - apple

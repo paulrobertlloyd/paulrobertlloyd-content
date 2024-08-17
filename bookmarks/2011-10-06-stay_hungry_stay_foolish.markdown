@@ -1,7 +1,7 @@
 ---
 date: 2011-10-06T20:44:26+01:00
 title: Stay hungry. Stay foolish.
-bookmark_of: https://www.youtube.com/watch?v=UF8uR6Z6KLc
+bookmarkOf: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 category:
   - steve_jobs
 ---

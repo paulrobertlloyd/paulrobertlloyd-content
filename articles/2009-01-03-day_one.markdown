@@ -3,7 +3,7 @@ date: 2009-01-03T22:44:47Z
 title: Day one
 location:
   locality: Walsall
-  country_name: England
+  countryName: England
 summary: Having nothing arranged for New Year’s Eve, meant I wasn’t sure how I would be celebrating the arrival of 2009. Well, not until I heard a conversation on the radio.
 featured:
   url: /media/2009/003/a1/cannock_chase_1.jpg

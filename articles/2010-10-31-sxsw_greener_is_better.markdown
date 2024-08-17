@@ -3,7 +3,7 @@ date: 2010-10-31T22:09:00Z
 title: "SXSW: Greener is better"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: I’ve decided to attend next years SXSW Interactive festival followed by a tour of North America. The details of where I’ll be visiting and for how long remain undecided, but I imagine my itinerary will be varied and involve much travelling by train.
 category:
   - travel

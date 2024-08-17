@@ -1,6 +1,6 @@
 ---
 date: 2018-10-10T09:46:00+01:00
-time_zone: Europe/Berlin
+timeZone: Europe/Berlin
 photo:
   - url: /media/2018/283/p1/1.jpg
     alt: Wallgraben.

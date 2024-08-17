@@ -1,7 +1,7 @@
 ---
 date: 2012-06-30T23:14:02+01:00
 title: What makes Twitter Twitter?
-bookmark_of: http://adrianshort.org/2012/06/29/what-makes-twitter-twitter/
+bookmarkOf: http://adrianshort.org/2012/06/29/what-makes-twitter-twitter/
 category:
   - twitter
 ---

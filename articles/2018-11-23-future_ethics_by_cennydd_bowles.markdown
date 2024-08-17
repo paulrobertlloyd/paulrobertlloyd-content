@@ -3,7 +3,7 @@ date: 2018-11-23T20:15:00Z
 title: Future Ethics by Cennydd Bowles
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: If design is the application of ethics, then anyone designing digital products should see their role in a new light after reading this book.
 vocabulary:
   - entry

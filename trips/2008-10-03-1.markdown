@@ -3,10 +3,10 @@ start: 2008-10-03
 itinerary:
   - label: King Street Station
     locality: Seattle
-    country_name: United States
+    countryName: United States
   - label: Emeryville
     locality: Emeryville
-    country_name: United States
+    countryName: United States
 tags:
   - i3vs1
 ---

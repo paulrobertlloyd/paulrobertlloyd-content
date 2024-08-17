@@ -3,13 +3,13 @@ start: 2007-12-17
 itinerary:
   - label: San Francisco International Airport (SFO)
     locality: San Francisco
-    country_name: United States
+    countryName: United States
   - label: Dublin Airport (DUB)
     locality: Dublin
-    country_name: Ireland
+    countryName: Ireland
   - label: Birmingham Airport (BHX)
     locality: Birmingham
-    country_name: England
+    countryName: England
 tags:
   - i3pS1
 ---

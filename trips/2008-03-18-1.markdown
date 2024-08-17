@@ -3,10 +3,10 @@ start: 2008-03-18
 itinerary:
   - label: Emeryville
     locality: Emeryville
-    country_name: United States
+    countryName: United States
   - label: Union Station
     locality: Chicago
-    country_name: United States
+    countryName: United States
 tags:
   - i3sQ1
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2018-11-12T20:55:00Z
 title: For the love of the blog
-bookmark_of: https://www.hollidazed.co.uk/2018/11/09/for-the-love-of-the-blog/
+bookmarkOf: https://www.hollidazed.co.uk/2018/11/09/for-the-love-of-the-blog/
 category:
   - blogging
   - digital

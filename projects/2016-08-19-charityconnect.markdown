@@ -6,7 +6,7 @@ featured:
   alt: CharityConnect logo.
 tags:
   - interaction_design
-accent_color: "#672949"
+color: "#672949"
 ---
 
 ![Home page.](/media/projects/charityconnect/homepage.png#screenshot)

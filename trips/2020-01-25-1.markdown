@@ -3,10 +3,10 @@ start: 2020-01-25
 itinerary:
   - label: Hamburg
     locality: Hamburg
-    country_name: Germany
+    countryName: Germany
   - label: Copenhagen Central
     locality: Copenhagen
-    country_name: Denmark
+    countryName: Denmark
 tags:
   - i54k1
 ---

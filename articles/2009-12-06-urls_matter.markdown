@@ -3,7 +3,7 @@ date: 2009-12-06T01:18:00Z
 title: URLs matter
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: The humble URL has been on my mind a lot recently.
 category:
   - design

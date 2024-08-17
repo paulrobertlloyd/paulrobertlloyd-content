@@ -1,6 +1,6 @@
 ---
 date: 2024-05-14T14:05:00.026+02:00
-time_zone: Europe/Berlin
+timeZone: Europe/Berlin
 photo:
   - url: /media/2024/135/p1/1.jpg
     alt: A suspended railway with a blue train carriage suspended from it passes over a quiet street with cars parked along one side.

@@ -1,7 +1,7 @@
 ---
 date: 2013-02-10T20:15:43Z
 title: Paperman
-bookmark_of: https://www.youtube.com/watch?v=mM6cLnscmO8
+bookmarkOf: https://www.youtube.com/watch?v=mM6cLnscmO8
 category:
   - disney
   - animation

@@ -3,7 +3,7 @@ date: 2020-01-26T20:15:00+01:00
 title: "Scandinavian sojourn: Brighton to Copenhagen"
 location:
   locality: Copenhagen
-  country_name: Denmark
+  countryName: Denmark
 summary: Like all great railway journeys, this one starts with a cancellation.
 featured:
   url: /media/2020/026/a1/wanderer_above_the_sea_of_fog.jpg

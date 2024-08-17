@@ -3,7 +3,7 @@ date: 2000-04-01
 title: Beige to Bondi-Blue
 location:
   locality: Carlisle
-  country_name: England
+  countryName: England
 summary: A comparison between the Apple II (1977) and the iMac (1998).
 category:
   - apple

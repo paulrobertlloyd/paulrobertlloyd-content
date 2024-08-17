@@ -3,7 +3,7 @@ date: 2017-03-19T18:00:00Z
 title: "Designing systems, part 3: components and composition"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: The final part of my three-part essay based on the talk I gave at Smashing Conference. I look at how we might build components and consider their wider composition.
 featured:
   url: /media/2017/078/a1/brasilia_motifs.jpg

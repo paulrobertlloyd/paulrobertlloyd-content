@@ -3,7 +3,7 @@ date: 2019-01-13T20:25:00Z
 title: "Weeknotes #1"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Yup, that’s right, I’m jumping on the weeknotes bandwagon! Consider this an experiment, and we’ll see how long it lasts.
 tags:
   - weeknotes

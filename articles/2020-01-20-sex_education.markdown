@@ -3,7 +3,7 @@ date: 2020-01-20T21:10:00Z
 title: Sex Education
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Disorientating nostalgia.
 category:
   - television

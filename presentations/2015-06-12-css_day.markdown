@@ -4,12 +4,12 @@ title: Responsive principles
 location:
   type: adr
   locality: Amsterdam
-  country_name: Netherlands
+  countryName: Netherlands
 summary: Responsive design made us think about how we could accommodate a diversity of connected devices; now we need to ensure our work can adapt to the rapidly changing world around us.
 featured:
   url: /media/2015/163/s1/image.jpg
   alt: Many different gloves.
-accent_color: "#9dd"
+color: "#9dd"
 slides:
   - url: /media/2015/163/s1/1.png
     caption: |

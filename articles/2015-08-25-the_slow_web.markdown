@@ -3,7 +3,7 @@ date: 2015-08-25T12:48:00+01:00
 title: The slow web
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Just as blogging began to democratise publishing, social media arrived to undermine it.
 category:
   - web

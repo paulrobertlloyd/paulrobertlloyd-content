@@ -1,6 +1,6 @@
 ---
 date: 2011-12-15
-jam_of:
+jamOf:
   type: cite
   name: In These Arms
   author: Bon Jovi

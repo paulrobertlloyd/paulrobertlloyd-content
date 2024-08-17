@@ -3,7 +3,7 @@ date: 2016-04-02T15:55:00+01:00
 title: "Freelancing: Year one"
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: It’s been just over a year since I started working for myself, and during the last 12 months I’ve learnt a lot, both about the work, and myself. Having reached this milestone, time to take stock and review my goals for the year ahead.
 category:
   - freelancing

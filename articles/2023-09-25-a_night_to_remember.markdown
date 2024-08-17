@@ -3,7 +3,7 @@ date: 2023-09-25T13:45:00+01:00
 title: A night to remember
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Myself, Jon Roobottom and Giles Turnbull will be speaking at a special evening event for UX Brighton on Tuesday 10 October 2023.
 category:
   - speaking

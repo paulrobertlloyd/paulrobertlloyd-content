@@ -3,7 +3,7 @@ date: 2009-03-29T02:06:27+01:00
 title: Tailored for England
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: The appointment of Fabio Capello has brought about a more stylish and confident England. Now they have a kit to match.
 featured:
   url: /media/2009/088/a1/crest.jpg
@@ -12,7 +12,7 @@ category:
   - design
   - football
   - england_mens_national_football_team
-accent_color: "#06c"
+color: "#06c"
 ---
 
 ![The England crest as it appears on the new shirt.](/media/2009/088/a1/crest.jpg "The England crest as it appears on the new shirt.")

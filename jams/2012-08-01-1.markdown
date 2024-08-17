@@ -1,6 +1,6 @@
 ---
 date: 2012-08-01
-jam_of:
+jamOf:
   type: cite
   name: First Steps
   author: Elbow

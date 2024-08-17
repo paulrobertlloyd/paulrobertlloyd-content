@@ -3,7 +3,7 @@ date: 2010-02-19T16:47:08Z
 title: A green focus
 location:
   locality: Littlehampton
-  country_name: England
+  countryName: England
 summary: I ended my review of 2009 promising to write more about green issues and how I plan to lessen my impact on the environment. Now I expand on those ideas further.
 category:
   - sustainability

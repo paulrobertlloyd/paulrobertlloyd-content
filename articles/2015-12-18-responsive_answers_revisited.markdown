@@ -3,7 +3,7 @@ date: 2015-12-18T23:30:00Z
 title: Responsive answers revisited
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Justin Avery, who curates Responsive Design Weekly, asked me to revisit the four questions I answered as part of an interview series in 2013. Here are my answers.
 category:
   - responsive_design

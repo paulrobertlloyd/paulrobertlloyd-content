@@ -1,6 +1,6 @@
 ---
 date: 2012-05-28
-jam_of:
+jamOf:
   type: cite
   name: Guilty
   author: Barbra Streisand & Barry Gibb

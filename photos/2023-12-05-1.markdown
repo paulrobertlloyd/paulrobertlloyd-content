@@ -3,7 +3,7 @@ date: 2023-12-05T23:45:00.000Z
 photo:
   - url: /media/2023/339/p1/1.png
     alt: "The initials ‘p’, ‘r’ and ‘l’ made up of circles and rectangles."
-accent_color: "#0ef"
+color: "#0ef"
 syndication:
   - https://mastodon.social/@paulrobertlloyd/111530472819402403
 ---

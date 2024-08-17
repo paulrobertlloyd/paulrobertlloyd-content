@@ -1,7 +1,7 @@
 ---
 date: 2013-12-29T18:00:59Z
 title: Bitcoin, magical thinking, and political ideology
-bookmark_of: https://al3x.net/2013/12/18/bitcoin.html
+bookmarkOf: https://al3x.net/2013/12/18/bitcoin.html
 category:
   - economics
   - bitcoin

@@ -3,7 +3,7 @@ date: 2012-01-09T19:48:00Z
 title: Responsive answers
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Ethan Marcotte asked me some questions about the design of my site. He was writing a round up of his twenty favourite responsive websites for .net Magazine and wanted quotes from each creator.
 category:
   - web

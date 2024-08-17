@@ -3,7 +3,7 @@ date: 2016-04-15T16:10:00+01:00
 title: Habitables
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Having lived in my current flat for just over two years, I’m determined for this to be the year I finally make it feel like a home.
 featured:
   url: /media/2016/106/a1/sideboard.jpg

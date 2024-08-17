@@ -3,10 +3,10 @@ start: 2009-05-15
 itinerary:
   - label: Munich Pasing
     locality: Munich
-    country_name: Germany
+    countryName: Germany
   - label: Innsbruck
     locality: Innsbruck
-    country_name: Austria
+    countryName: Austria
 tags:
   - i3z_1
 ---

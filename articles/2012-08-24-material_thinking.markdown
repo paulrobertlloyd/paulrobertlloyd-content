@@ -3,7 +3,7 @@ date: 2012-08-24T01:44:10+01:00
 title: Material thinking
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: "Earlier this month, Team Clearleft headed up to London for a day of design related exhibitions: Bauhaus: Art as Life at the Barbican and (after a ride across the city on a ‘Boris Bike’) British Design 1948-2012 and Heatherwick Studio: Designing the Extraordinary at the V&A."
 featured:
   url: /media/2012/237/a1/olympic_cauldron.jpg

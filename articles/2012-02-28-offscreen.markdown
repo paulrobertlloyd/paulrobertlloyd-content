@@ -3,7 +3,7 @@ date: 2012-02-28T22:54:21Z
 title: Offscreen Magazine
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Offscreen is a new magazine edited, produced and beautifully designed by Kai Brach, focusing on the personalities behind the pixels – in a good way.
 featured:
   url: /media/2012/059/a1/image.jpg

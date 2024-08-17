@@ -1,7 +1,7 @@
 ---
 date: 2013-01-22T00:16:44Z
 title: The trend against skeuomorphic textures and effects in user interface design
-bookmark_of: https://daringfireball.net/2013/01/the_trend_against_skeuomorphism
+bookmarkOf: https://daringfireball.net/2013/01/the_trend_against_skeuomorphism
 category:
   - design
   - user_interface

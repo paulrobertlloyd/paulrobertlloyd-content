@@ -1,6 +1,6 @@
 ---
 date: 2012-05-22T12:00:00+01:00
-type_index: 2
+typeIndex: 2
 title: Responsive Gallery – July 2012
 canonical:
   issn: 1355-7602
@@ -14,7 +14,7 @@ category:
   - zurb
 tags:
   - responsive_gallery
-accent_color: "#d8127e"
+color: "#d8127e"
 ---
 
 ## Kiwibank

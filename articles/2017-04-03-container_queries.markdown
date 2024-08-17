@@ -3,7 +3,7 @@ date: 2017-04-03T02:30:00+01:00
 title: Questioning container queries
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Container queries are always a popular topic when discussing the future of responsive design. But do we actually need them any more?
 category:
   - responsive_design

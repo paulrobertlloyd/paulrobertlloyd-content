@@ -3,7 +3,7 @@ date: 2015-09-16T20:49:00+01:00
 title: Stephen Colbert’s Late Show
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: A few thoughts on the new ""Late Show with Stephen Colbert"".
 featured:
   url: /media/2015/259/a1/image.jpg
@@ -13,7 +13,7 @@ category:
   - entertainment
   - politics
   - television
-accent_color: "#148"
+color: "#148"
 ---
 
 ![Stephen Colbert interviewing George Clooney.](/media/2015/259/a1/image.jpg "Stephen Colbert interviewing George Clooney on his first night as host of the new ""Late Show"". Photograph: CBS")

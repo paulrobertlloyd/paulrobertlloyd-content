@@ -3,7 +3,7 @@ date: 2021-11-05T21:00:00Z
 title: The new MacBook Pro
 location:
   locality: Brighton
-  country_name: England
+  countryName: England
 summary: Good things come to those who wait.
 featured:
   url: /media/2021/309/a1/image.jpg
@@ -16,7 +16,7 @@ category:
   - design
   - review
   - technology
-accent_color: "#702"
+color: "#702"
 ---
 
 After 7 years, I have a new laptop.

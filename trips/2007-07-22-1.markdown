@@ -3,13 +3,13 @@ start: 2007-07-22
 itinerary:
   - label: Montréal–Trudeau International Airport (YUL)
     locality: Montréal
-    country_name: Canada
+    countryName: Canada
   - label: Los Angeles International Airport (LAX)
     locality: Los Angeles
-    country_name: United States
+    countryName: United States
   - label: San Francisco International Airport (SFO)
     locality: San Francisco
-    country_name: United States
+    countryName: United States
 tags:
   - i3oY1
 ---

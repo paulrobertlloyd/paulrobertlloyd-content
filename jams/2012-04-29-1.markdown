@@ -1,6 +1,6 @@
 ---
 date: 2012-04-29
-jam_of:
+jamOf:
   type: cite
   name: Afternoon Delight
   author: Will Ferrell
