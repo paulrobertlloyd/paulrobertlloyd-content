@@ -1,0 +1,21 @@
+---
+start: 2024-08-21
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: London King’s Cross (KGX)
+    locality: London
+    countryName: England
+  - label: Newark Northgate (NNG)
+    locality: Newark-on-Trent
+    countryName: England
+  - label: York (YRK)
+    locality: York
+    countryName: England
+tags:
+  - i5Yb1
+---

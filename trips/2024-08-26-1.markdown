@@ -1,0 +1,18 @@
+---
+start: 2024-08-26
+itinerary:
+  - label: York (YRK)
+    locality: York
+    countryName: England
+  - label: London King’s Cross (KGX)
+    locality: London
+    countryName: England
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+tags:
+  - i5Yb1
+---
