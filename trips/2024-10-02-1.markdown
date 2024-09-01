@@ -1,0 +1,27 @@
+---
+start: 2024-10-02
+itinerary:
+  - label: Munich East
+    locality: Munich
+    countryName: Germany
+  - label: Munich Pasing
+    locality: Munich
+    countryName: Germany
+  - label: Stuttgart
+    locality: Stuttgart
+    countryName: Germany
+  - label: Paris-Est
+    locality: Paris
+    countryName: France
+  - label: Paris-Nord
+    locality: Paris
+    countryName: France
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+tags:
+  - i5Z61
+---

@@ -1,0 +1,15 @@
+---
+start: 2024-09-28
+itinerary:
+  - label: Füssen
+    locality: Füssen
+    countryName: Germany
+  - label: Munich
+    locality: Munich
+    countryName: Germany
+  - label: Munich East
+    locality: Munich
+    countryName: Germany
+tags:
+  - i5Z61
+---

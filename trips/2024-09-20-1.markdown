@@ -1,0 +1,21 @@
+---
+start: 2024-09-20
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: Paris-Nord
+    locality: Paris
+    countryName: France
+  - label: Paris-Est
+    locality: Paris
+    countryName: France
+  - label: Stuttgart
+    locality: Stuttgart
+    countryName: Germany
+tags:
+  - i5Z61
+---

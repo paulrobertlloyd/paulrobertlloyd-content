@@ -1,0 +1,15 @@
+---
+start: 2024-09-22
+itinerary:
+  - label: Stuttgart
+    locality: Stuttgart
+    countryName: Germany
+  - label: Augsburg
+    locality: Augsburg
+    countryName: Germany
+  - label: Füssen
+    locality: Füssen
+    countryName: Germany
+tags:
+  - i5Z61
+---
