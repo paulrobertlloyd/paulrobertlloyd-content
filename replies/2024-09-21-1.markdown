@@ -1,6 +1,8 @@
 ---
 date: 2024-09-21T15:05:38.900+01:00
 inReplyTo: https://paulrobertlloyd.com/2024/265/n1/
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/113175939804508992
 ---
 
 If I were paying more attention – and had planned any part of this trip – I would’ve known that today is the opening day of the exhibition, and that she was there to give a talk about her work. Free admission, too.
