@@ -1,5 +1,8 @@
 ---
-date: 2024-09-21T15:06:00.000+01:00
+date: 2024-09-21T15:06:07+02:00
+timeZone: Europe/Berlin
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/113175689111989223
 ---
 
-At Stuttgart Kunstmuseum to see the Sarah Morris exhibition ""All Systems Fail"", and saw actual Sarah Morris. 🤩
+At Stuttgart Kunstmuseum to see the Sarah Morris exhibition [""All Systems Fail""](https://www.kunstmuseum-stuttgart.de/en/ausstellungen/sarah-morris), and saw actual Sarah Morris. 🤩
