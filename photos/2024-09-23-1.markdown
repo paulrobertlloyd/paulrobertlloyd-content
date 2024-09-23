@@ -2,10 +2,10 @@
 date: 2024-09-23T11:38:05.508+01:00
 photo:
   - url: /media/2024/267/p1/1.jpg
-    alt: Four young men kicking a ball about in front of a brightly coloured mural made up of blue, orange, yellow, black grey and white shapes.
-updated: 2024-09-23T11:43:05.115+01:00
+    alt: Four young men kicking a ball about in front of a brightly coloured wall made up of blue, orange, yellow, black grey and white shapes.
+updated: 2024-09-23T11:43:53.423+01:00
 syndication:
   - https://mastodon.social/@paulrobertlloyd/113186451281390310
 ---
 
-Earlier this year, I was captivated by this brightly coloured painting outside Düsseldorf Kunstsammlung K20. The artist? Sarah Morris. How beautifully circuitous.
+Earlier this year, I was captivated by this brightly coloured wall outside Düsseldorf Kunstsammlung K20. The artist? Sarah Morris. How beautifully circuitous.
