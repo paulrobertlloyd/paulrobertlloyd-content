@@ -1,5 +1,8 @@
 ---
 date: 2024-09-23T10:35:28.526+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/113186197691391311
+updated: 2024-09-23T10:38:36.937+01:00
 ---
 
 How should September be abbreviated?
