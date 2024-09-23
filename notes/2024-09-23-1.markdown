@@ -1,0 +1,13 @@
+---
+date: 2024-09-23T10:35:28.526+01:00
+---
+
+How should September be abbreviated?
+
+- Firefox: Sept
+- Chrome: Sept
+- Node.js: Sept
+- Deno: Sept
+- Safari: Sep 👀
+
+This is for `en-GB`, `en-AU` and `en-NZ` locales; for other English locales, everyone agrees it should be Sep. Standards!
