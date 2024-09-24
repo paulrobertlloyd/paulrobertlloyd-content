@@ -106,10 +106,6 @@ This was [another one-day build][13], cobbled together the evening of the day I 
 
 The [year of the personal website][14] continues into 2024.
 
----
-
-This post is for [Matt’s birthday][15].
-
 [1]: https://indieweb.org/This_Is_My_Jam
 [2]: https://thisismyjam.tumblr.com/post/126260430022/jam-preserves
 [3]: https://web.archive.org/web/20210926084455/https://www.thisismyjam.com/
@@ -124,4 +120,3 @@ This post is for [Matt’s birthday][15].
 [12]: /2024/004/j1/
 [13]: https://paulrobertlloyd.com/2023/272/a1/classnames/
 [14]: https://matthiasott.com/notes/2024-the-year-of-the-personal-website
-[15]: https://ma.tt/2024/01/birthday-gift/
