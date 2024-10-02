@@ -1,6 +1,8 @@
 ---
 date: 2024-10-02T14:19:27.986+01:00
-updated: 2024-10-02T14:21:22.527+01:00
+updated: 2024-10-02T14:25:55.836+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/113238052416209451
 ---
 
 Kinda wild watching a person sat on the train next to me using Twitter, and then posting an emotive, implicitly pro-Elon reply. Anyway, curiosity got the better of me and I logged in for the first time in ages; the site is unrecognisable, overflowing with spammy ads and pornography, with a user base of boiled frogs digging ever deeper trenches in one man’s manufactured culture war. It’s all very sad, bizarre and dare I say it, weird.
