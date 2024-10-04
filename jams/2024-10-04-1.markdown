@@ -1,0 +1,10 @@
+---
+date: 2024-10-04T12:41:38.015+01:00
+jamOf:
+  type: cite
+  url: https://music.apple.com/gb/album/is-this-love/334987302?i=334987471
+  name: Is This Love?
+  author: Alison Moyet
+---
+
+Read [an article in the Guardian](https://www.theguardian.com/culture/2024/sep/30/alison-moyet-dave-stewart-how-we-made-is-this-love) only to have this ear worm firmly lodged.
