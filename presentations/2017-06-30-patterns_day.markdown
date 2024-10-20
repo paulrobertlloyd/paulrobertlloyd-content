@@ -174,7 +174,7 @@ slides:
 
       Brad Frost’s [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) is a popular model for thinking about the construction of UI. To his credit, he takes into account templates and pages – the end product which an organisation is ultimately looking to have delivered.
 
-      And yet the focus always seems to be drawn to the smaller parts rather than the whole. I’ve heard more discussion about whether something is an atom, molecule or organism, than that regarding templates or pages. While the metaphor helps at one level, if hinders understanding at another.
+      And yet the focus always seems to be drawn to the smaller parts rather than the whole. I’ve heard more discussion about whether something is an atom, molecule or organism, than that regarding templates or pages. While the metaphor helps at one level, it hinders understanding at another.
   - url: /media/2017/181/s1/22.png
     caption: |
       And so to our favourite analogy, Lego.
