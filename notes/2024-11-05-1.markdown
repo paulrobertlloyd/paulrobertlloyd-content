@@ -1,5 +1,8 @@
 ---
 date: 2024-11-05T13:49:55.748Z
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/113430687441309433
+updated: 2024-11-05T13:55:33.351Z
 ---
 
 Prompted by their latest greenwashing campaign, only now twigged that [Esso is the phonetic pronunciation of S.O.](https://en.wikipedia.org/wiki/Esso) for Standard Oil. I prefer Jayesso, Just Stop Oil.
