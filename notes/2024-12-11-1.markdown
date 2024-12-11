@@ -1,5 +1,8 @@
 ---
 date: 2024-12-11T22:42:35.723Z
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/113636641406265159
+updated: 2024-12-11T22:52:21.507Z
 ---
 
 Went to Lewes Depot this evening to watch a screening of [Point Break (1991)](https://www.imdb.com/title/tt0102685/). Definitely one to file under ‘so bad it’s good’, with plenty of pithy one-liners to share for years to come.
