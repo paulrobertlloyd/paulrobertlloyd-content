@@ -13,6 +13,8 @@ category:
   - politics
   - travel
   - website
+tags:
+  - year_in_numbers
 ---
 
 Inspired by statistic-packed year-end summaries from [Jeremy][1] and [Diamond Geezer][2], I thought I’d count a few things myself. As these counts feature varying levels of accuracy, I’m including numbers from previous years to highlight any notable trends.
