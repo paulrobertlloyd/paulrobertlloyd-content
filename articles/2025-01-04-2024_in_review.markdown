@@ -1,0 +1,136 @@
+---
+title: 2024 in review
+date: 2025-01-04T15:35:00Z
+location:
+  locality: Bexhill-on-Sea
+  countryName: England
+summary: Before the new year gets into full swing, time to recap the year gone by.
+featured:
+  url: /media/2025/004/a1/oktoberfest.jpg
+  alt: A desert stand called ‘Süss & Fruchtig’ lit up with neon signage.
+color: "#0fc"
+category:
+  - personal
+  - travel
+tags:
+  - year_in_review
+---
+
+Before the new year gets into full swing, time to recap the year gone by.
+
+---
+
+Like many before it, a morning in early January began with breakfast at Moe’s, the friendly, art-filled coffee shop at the end of my street, albeit one declining into a smoke-filled, greasy spoon (it’s now Curio, a fancy cafe-come-wine-bar).
+
+It was here that, upon hearing _1234_ by Feist I fondly remembered _This Is My Jam_ and wondered how I might share the songs in my head. I added a new section to this site, created a web component to display Apple Music embeds, [wrote a blog post about it][1] and… only posted 4 jams since.
+
+This is a good summary of my year; lots of early activity and excitement, only to end it feeling largely ambivalent.
+
+During the first four months of 2024, I:
+
+- helped [update the design of the IndieWeb wiki][2]
+- designed [app icons for Micro.blog’s companion apps][3]
+- added [several new features and improvements to Indiekit][4]
+- co-organised [IndieWebCamp Brighton][5]
+
+![26 people gathered outside a building smiling for a group photo in the sun.](/media/2024/069/p1/1.jpg "Attendees at IndieWebCamp Brighton in March. A professional highlight.")
+
+In July, I gave [an hour-long introduction to the IndieWeb][6] at Peckham Digital’s Festival of Creative Computing, with a number of attendees telling me afterwards that they were inspired to create their own websites.
+
+In August, I subtly refreshed the design of my own, simplifying and refactoring large parts of the codebase while introducing a bit more colour into the design (putting pay to an earlier attempt to re-platform and re-design it).
+
+And yet, I ended the year feeling a bit disillusioned by the social web, independent or otherwise.
+
+My presentation deliberately focused on the different things you can publish on your own website, ignoring any of the IndieWeb building blocks. In doing so I may have inadvertently convinced myself that, beyond having your own domain and publishing whatever you like on it, the rest is just noise.
+
+I remain astonished by what I’ve built with [Indiekit][7], but its drifted from my original vision. I imagined a way to link together different publishing platforms and protocols, but have so far ended up with a sub-par CMS. Perhaps this explains my reluctance to ship 1.0?
+
+As per usual, I attended a few web conferences and left shrugging my shoulders. I remain [conflicted about such events][8]; neither happy if I attend or content if I avoid. It’s tempting to say I’m hard to please (this is true), but CSS Day once again [enthused and enlightened][9] me. This can’t be entirely attributed to the Bitterballen, can it?
+
+![View across the River Ness at low tide, with 4 church spires reflected in the water.](/media/2025/004/a1/inverness.jpg "Inverness")
+
+My first trip of the year was to [Inverness in March][10]. This provided me with a welcome change of scenery and a delightful meal at [McBain’s][11] (more so than the one served at [The Mustard Seed][12], a pretentious restaurant further along the river bank). I’m tempted to make a similar trip north again this year.
+
+In May, after spending the weekend at IndieWebCamp in Düsseldorf and then popping over to Wuppertal to [ride its monorail][13], I travelled south to Vienna. For much of the trip I was overwhelmed by the number of attractions, yet only a few were of interest. The large concrete [flak tower][14] near my hotel was disorienting and distressing; the architecture of [Friedensreich Hundertvasser][15] fascinating and fantastic. On my last day in the city I visited the [Belvedere][16] and found several art galleries I could have spent the entire trip immersed in.
+
+- ![A large concrete tower, partially hidden by a tree, next to a children’s playground.](/media/2025/004/a1/flak_tower.jpg "Flak Tower VIII G-Tower in Arenbergpark, Vienna.")
+
+- ![Brightly coloured apartments, with trees growing out from some of them.](/media/2025/004/a1/hundertwasser_building.jpg "Hundertvasserhaus, Vienna.")
+
+If that was the highlight of my Viennese waltz, the lowlight was being taken off the S-Bahn by ticket inspectors. The weekly ticket I’d brought was valid for the _following_ week. Pleas of being a clueless tourist and of poorly designed ticket machines went unheard and I got a €100 on-the-spot fine. An evening [watching model trains deliver burgers][17] at [_Vytopna_][18] just about made up for it.
+
+My summer holiday in late September was inspired by Duolingo. I’ve been continuing to learn German (or be easily manipulated by Duolingo’s game mechanics) and repeated mentions of [Neuschwanstein Castle][19] prompted me to visit it and spend a week in nearby Füssen.
+
+Again, I was underwhelmed. I also felt out-of-place at the Bavarian spa resort I was staying at (realising too late what that might entail – I sheepishly visited the sauna at the quietest time of day). No matter what time I arrived for dinner at the restaurant, I was apparently too late, or sat at the wrong table. I still get a thrill being around the angry-sounding friendliness that is German hospitality.
+
+More to my taste was the swanky aparthotel I stayed at in Munich, a city I last visited in 2009. This was an opportunity to experience another topic of discussion among Duolingo’s characters: Oktoberfest. A cross between a massive fairground and beer festival, with large temporary venues home to nightclubs with table service, with seemingly the entire city in attendance. I’ve never seen so much lederhosen!
+
+![A desert stand called ‘Süss & Fruchtig’ lit up with neon signage.](/media/2025/004/a1/oktoberfest.jpg "My favourite photo from Oktoberfest.")
+{.align-bleed}
+
+The nearby transport museum, [_Verkehrszentrum_][20], was one of the best I’ve visited; a wide range of vehicles and all brilliantly laid out and documented. The [Munich Residence][21] was another royal palace in which you could lose yourself in its endless opulence, though much of it a post-war recreation, for obvious reasons. I’d love to have seen more information about the restoration process.
+
+Before arriving in Bavaria, I stayed in Stuttgart for a few nights. Here I saw an exhibition of Sarah Morris’ paintings and films, and was immediately drawn to her [gigantic, glossy, graphic prints][22]. And then I almost bumped into her on the stairs! Turned out this was the first day of the exhibition, and she was giving a talk later that day. I’d realised too late that I could have got a ticket, so purchased the catalogue instead. Leafing through photos of her public murals, I spotted one I had seen earlier in the year in Düsseldorf:
+
+![Four young men kicking a ball about in front of a brightly coloured wall made up of blue, orange, yellow, black grey and white shapes.](/media/2025/004/a1/sarah_morris.jpg "Wall mosaic by Sarah Morris in Paul Klee-Platz, near K20, Dusseldorf.")
+
+Ordinarily I would have posted more photos from my travels, and certainly written about them. But again, I felt oddly restrained; unhappy with the photos I had taken, and unable to find the creative impetus to write about the places I’d visited in any detail.
+
+---
+
+![A circular badge featuring a polar bear protecting her 2 cubs.](/media/2025/004/a1/mavis_mission_patch.png) Between side-projects and side-travels, I was working with my Good Machine comrades to deliver an NHS service to help immunisation teams get consent for, record and report children’s vaccinations. A small pilot at the start of the year was the perfect opportunity to design a mission patch.
+
+This year, many of my former DfE colleagues – alongside other familiar faces – joined sister teams. The likes of [Frankie][23] and [Vicky][24] brought tonnes of energy and enthusiasm, which I seem unable to replicate. I’m happy being a quiet but reliable cog in the machine these days.
+
+That said, thanks to Frankie, I took part in Services Week, where a few us involved with [X-GOVUK][25] gave demos of our different projects. I was later arm-twisted into contributing a number of changes to the NHS design system. Turns out the way to get my attention is to do something not quite up to my high standards, then point me towards it!
+
+The rest of the time I was happily rebuilding and then over-engineering our prototype (a word I now surround with air quotes). Perhaps something for a separate post, but a thought that’s been rattling around in my head is that, the better I become at programming, the worse I become at design. These aren’t mutually exclusive skills of course, but there’s something about coding that feeds the more introverted parts of my personality, and this comes at the cost of openness and collaboration.
+
+In July, aware of my passion for railways, [Rich][26] kindly asked if I would be interested in joining Clearleft on an upcoming project for LNER. Limited to 10 days, I could potentially slot this in around the 4 days a week I was working on the NHS project. By the time everything was confirmed, work was ramping up towards the launch of our beta, yet Jake and Stu graciously allowed me to take some time away to spend on my dream project.
+
+In September, I got a behind the scenes tour of King’s Cross, spoke to the team at Newark station, and visited LNER’s head offices inside York’s former railway station. However, the reality of working on two projects at the same time soon became evident, context switching over the course of several weekends and evenings. I’m not sure how much value I added (in terms of deliverables, it was less than 30 seconds of a 3:30 minute video) or if I’m suited to the fast-paced, concept-led world of design agencies, if I ever was.
+
+Back at Good Machine, our beta launched just before Christmas. More teams are soon to be onboarded, and our own small team is set to grow by 150%. New faces, new office, new challenges. Exciting and terrifying, all at the same time.
+
+![The letters LNER painted on the side of a blue locomotive.](/media/2025/004/a1/lner.jpg "A trip to York of course meant a trip to the National Railway Museum.")
+{.align-bleed}
+
+I stayed up all night for the general election results in July, wanting to take advantage of a rare occasion where the results might go the right way. I didn’t stay up for the US election, but before I went to bed, suspecting my fears would be realised, deleted any remaining tweets, likes and favourites prior to closing long-dormant accounts on Elon’s website.
+
+The election result hit me hard. In response, I started regularly swimming and running again. In September, my personal trainer Jonny returned from China and before long I started weight training again. The final piece of the puzzle is the search for a rescue dog, though the few applications I’ve submitted so far have been unsuccessful.
+
+---
+
+All in all, a pretty average, uneventful year, if only personally; the declining state of the world the likely reason for my downbeat tone. The future is unwritten, and the best I can do is control what I can control. There’s something to be said for average and uneventful.
+
+[1]: /2024/005/a1/jams/
+[2]: /2024/056/a1/indieweb_dents/#updated_design_for_indie_web_org
+[3]: /2024/056/a1/indieweb_dents/#icons_for_micro_blog_s_companion_apps
+[4]: /2024/107/a1/indiekit/
+[5]: /2024/032/a1/indiewebcamp_brighton/
+[6]: /2024/201/s1/peckham_digital/
+[7]: https://getindiekit.com
+[8]: /2024/135/a1/conferences/
+[9]: /2024/161/a1/css_day/
+[10]: /2024/073/i1/inverness/
+[11]: https://mcbainsbytheriver.com
+[12]: https://www.mustardseedrestaurant.co.uk
+[13]: /2024/135/p1/
+[14]: https://en.wikipedia.org/wiki/Flak_tower
+[15]: https://hundertwasser.com/en
+[16]: https://www.belvedere.at/en
+[17]: https://www.youtube.com/watch?v=rPyIsJfk4zw
+[18]: https://www.vytopna.com/en/branch/vienna-naschmarkt
+[19]: https://en.wikipedia.org/wiki/Neuschwanstein_Castle
+[20]: https://www.deutsches-museum.de/en/verkehrszentrum
+[21]: https://en.wikipedia.org/wiki/Munich_Residenz
+[22]: https://sarahmorris.com
+[23]: https://frankieroberto.github.io/nhsnotes/
+[24]: https://www.vickyteinaki.com
+[25]: https://x-govuk.github.io
+[26]: https://clagnut.com
+
+*[CMS]: content management system
+*[DfE]: Department for Education
+*[LNER]: London North Eastern Railway
+*[NHS]: National Health Service
