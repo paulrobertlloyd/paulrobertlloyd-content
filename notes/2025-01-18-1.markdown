@@ -1,5 +1,8 @@
 ---
 date: 2025-01-18T16:59:59.863Z
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/113850461933615864
+updated: 2025-01-18T17:09:43.645Z
 ---
 
 Watched the penultimate performance of [""Elektra""](https://elektraplay.com) in Brighton this afternoon, before it transfers to the West End. Dense dialogue compensates for the short running time and an abrupt ending, yet the play is undermined by needless and nonsensical gimmicks (effect pedals, a random blimp, ink guns). Larson gave a forceful performance though, and was an absolute pro dealing with a mid-performance interruption (a cup fell from an upper circle).
