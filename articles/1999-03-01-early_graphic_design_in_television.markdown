@@ -60,9 +60,9 @@ The quality of television broadcasts and receivers was crude to say the least. I
 
 This meant graphics produced for television had a huge number of restrictions put on them. Lettering had to be large and bold with strong tonal contrast and illustrations had to use fairly heavy lines and lack detail (‘Op’ and ‘Pop’ art themes were common used during the end of the fifties). Designers also had to work from the center of the screen outwards, so as to ensure their work would be seen.
 
-![5 frames from the title sequence for Wednesday Magazine.](/media/1999/060/a1/wednesday_magazine.png "Title sequence from Wednesday Magazine. BBC/Bernard Lodge, 1958.")
+![5 frames from the title sequence for Wednesday Magazine.](../media/1999/060/a1/wednesday_magazine.png "Title sequence from Wednesday Magazine. BBC/Bernard Lodge, 1958.")
 
-![5 frames from the title sequence for Kingsley Amis Goes Pop.](/media/1999/060/a1/kingsley_amis_goes_pop.png "Title sequence from Kingsley Amis Goes Pop. Associated Rediffusion/John Tribe, 1962.")
+![5 frames from the title sequence for Kingsley Amis Goes Pop.](../media/1999/060/a1/kingsley_amis_goes_pop.png "Title sequence from Kingsley Amis Goes Pop. Associated Rediffusion/John Tribe, 1962.")
 
 In America, William Golden was making a name for himself in television and was arguably the medium’s first graphic designer. Golden was born in 1911 in New York, where he attended a vocational high school in which he studied commercial design and photoengraving. In 1937, he joined the CBS Radio Network and soon became their art director.
 
@@ -70,7 +70,7 @@ After his career was interrupted by World War II, he returned to CBS and produce
 
 However his greatest creation was his corporate identity for CBS Television the well-known CBS ‘eye’ (see below) first aired on the 6th November 1951. He died at the age of 49, only a few months after being awarded art director of the year by the New York Art Directors Club in 1959.
 
-![Corporate logo for CBS Television and William Golden.](/media/1999/060/a1/cbs_william_golden.png "Corporate logo for CBS Television and its designer, William Golden.")
+![Corporate logo for CBS Television and William Golden.](../media/1999/060/a1/cbs_william_golden.png "Corporate logo for CBS Television and its designer, William Golden.")
 
 It was Saul Bass though, who was to have the most influence on designers in the profession even though he had closer links with film than television. Saul Bass was also born in New York in 1920 where he studied at the Art Students League and Brooklyn College and worked for a number of years. In 1946 he moved to Los Angeles, were he began to produce graphics for advertising.
 
@@ -83,7 +83,7 @@ as well as ""Grand Prix"" and ""Walk on the Wild Side"". Bass later produced the
 
 Bass was also successful in designing many corporate identities with clients including AT&T, Exxon, Quaker Oats and Warner Communications.
 
-[![The Man with the Golden Arm.](/media/1999/060/a1/the_man_with_the_golden_arm.png)](https://www.youtube.com/watch?v=eGnpJ_KdqZE "Title sequence from The Man with the Golden Arm. United Artists/Saul Bass, 1967.")
+[![The Man with the Golden Arm.](../media/1999/060/a1/the_man_with_the_golden_arm.png)](https://www.youtube.com/watch?v=eGnpJ_KdqZE "Title sequence from The Man with the Golden Arm. United Artists/Saul Bass, 1967.")
 
 Bass had most influence on the early graphic designers in television due to the fact that it was a new medium with precedents for design having to be found elsewhere. Often this was from print but Bass was the only one who provided a potential influence. However, his influence was often hard to emulate on television with its many technical, time and budgetary constraints. In fact it was also difficult for them to find inspiration from anything they, their colleagues or their predecessors produced, because for a long time video was not used to keep a record of programme output. Advertisers also found they had the same problems when they encountered the moving image with the arrival of commercial television in 1955.
 
@@ -109,15 +109,15 @@ After its involvement, it became clear that the ‘experimental’ section had a
 
 Typical graphic design during the sixties saw a move to a greater use of photography and more detailed illustration, due mainly to the fact that 625-line transmissions when they were launched in 1964, allowed greater picture definition, allowing graphic designers more creativity. There was also a lot more innovation with the increasing knowledge of the effects a film rostrum camera could achieve. The greater use of calligraphy was apparent at this time too.
 
-[![The Avengers.](/media/1999/060/a1/the_avengers.png)](https://www.youtube.com/watch?v=tbIXxPt2YvY "Title sequence from The Avengers. ABC/Jerome Gask, 1963.")
+[![The Avengers.](../media/1999/060/a1/the_avengers.png)](https://www.youtube.com/watch?v=tbIXxPt2YvY "Title sequence from The Avengers. ABC/Jerome Gask, 1963.")
 
-![5 frames from the title sequence for Darkness at Noon.](/media/1999/060/a1/darkness_at_noon.png "Title sequence from Darkness at Noon. Associated Rediffusion/Arnold Schwartzman, 1964.")
+![5 frames from the title sequence for Darkness at Noon.](../media/1999/060/a1/darkness_at_noon.png "Title sequence from Darkness at Noon. Associated Rediffusion/Arnold Schwartzman, 1964.")
 
 The introduction, firstly of 625-line broadcasts and later colour, had obvious benefits to designers although in a way they were also a hindrance. It has to be remembered that even though these improvements were available, they were being broadcast alongside the old 405-line transmissions (which even with their quality weren’t suspended until early 1985). It was up to the audience to upgrade their sets and sales of colour receivers were unexpectedly low when colour television broadcasts began. Before the majority of viewers had 625-line and colour receivers, the designer still had to consider those watching on 405-lines and monochrome sets.
 
-![5 frames from the title sequence for I, Claudius.](/media/1999/060/a1/i_claudius.png "Title sequence from I, Claudius. BBC/Richard Bailey, 1976.")
+![5 frames from the title sequence for I, Claudius.](../media/1999/060/a1/i_claudius.png "Title sequence from I, Claudius. BBC/Richard Bailey, 1976.")
 
-[![The Old Grey Whistle Test.](/media/1999/060/a1/the_old_grey_whistle_test.png)](https://www.youtube.com/watch?v=KNNAfzKwRn4 "Title sequence from The Old Grey Whistle Test. BBC/Roger Ferrin, 1968.")
+[![The Old Grey Whistle Test.](../media/1999/060/a1/the_old_grey_whistle_test.png)](https://www.youtube.com/watch?v=KNNAfzKwRn4 "Title sequence from The Old Grey Whistle Test. BBC/Roger Ferrin, 1968.")
 
 These considerations were particularly true of the seventies, especially the early years. Colour wasn’t truly advantageous to the graphic designer as, although it allowed greater creativity, it had the major disadvantage in that mistakes were harder to conceal. Before colour and 625-lines, due to the quality of the medium, a lot of graphic designers managed to get things broadcast that wouldn’t be now with the mediums picture improvements. This meant graphic design wasn’t as straight forward, and designers had to think much more about what they were producing and pay much more attention to detail.
 
@@ -131,9 +131,9 @@ The history of graphic design in television has been relatively short yet it has
 
 After leaving the Royal College of Art, Bernard Lodge joined the BBC in 1959. It was here that he got the opportunity to design the title sequence for a new children’s series ""Doctor Who"" in 1963. By exploiting the effect that occurs when a television camera is pointed towards a monitor, he was able to convey the idea of time travel and space fiction and created what became the famous title sequence. When he reworked the sequence in 1973, he again used techniques that were new to the profession, by using a computer controlled rostrum camera. Lodge produced many more memorable title sequences before leaving the BBC in 1977 to form his own company which later became Lodge-Cheeseman when his former colleague, Colin Cheesman (who had become Head of Graphic Design at the BBC), joined him.
 
-[![Doctor Who (1963)](/media/1999/060/a1/doctor_who_1963.jpg)](https://www.youtube.com/watch?v=sjDFvoRNpOM "Title sequence from Doctor Who. BBC/Bernard Lodge 1963.")
+[![Doctor Who (1963)](../media/1999/060/a1/doctor_who_1963.jpg)](https://www.youtube.com/watch?v=sjDFvoRNpOM "Title sequence from Doctor Who. BBC/Bernard Lodge 1963.")
 
-[![Doctor Who (1973)](/media/1999/060/a1/doctor_who_1973.jpg)](https://www.youtube.com/watch?v=rMfB96pwcTA "Title sequence from Doctor Who. BBC/Bernard Lodge 1973.")
+[![Doctor Who (1973)](../media/1999/060/a1/doctor_who_1973.jpg)](https://www.youtube.com/watch?v=rMfB96pwcTA "Title sequence from Doctor Who. BBC/Bernard Lodge 1973.")
 
 Both Lodge and Cheesman were working at a time when the use of computers in the profession were being used to an ever greater extent, but both believed that the computer should be used “not as an end to itself, but as a key to open new creative doors”. (Merritt 1987: 10) Bernard Lodge enabled more doors to be opened by working with Filmflex Ltd. to develop new animation techniques with the computer controlled rostrum camera. These included ‘streak-timing’ to produce a drawn and blurred light effect and ‘slit-scan’, which could be used to create controlled distortions. Lodge-Cheeseman went on to produce work for television commercials and also graphic effects for the movies ""Alien"" and ""Bladerunner"".
 
@@ -145,14 +145,14 @@ In 1967, he left the BBC to join Associated Rediffusion however, when Rediffusio
 
 Here he worked on the on-screen graphics for the Apollo space missions including the near-disastrous Apollo 13 mission. An opportunity came up in 1970 with an open-brief for the design of a new company logo and title sequence for ITN’s flagship programme ""News at Ten"". However, the senior designer, Malcolm Beatson, had cornered the brief, but Lambie-Nairn had been asked to have ago at the brief himself by ITN’s Editor in Chief. When his ideas were chosen over Beatson’s, he was seen to be undermining him and resulted with the whole design department refusing to speak to him for a while. It was because of this, that he left ITN and joined LWT.
 
-![Cartoon of a pound symbol character using crutches.](/media/1999/060/a1/cartoon_pound.png "Typical still used up until the late 1970’s to illustrate current affairs or news items. If the item were to complicated to convey in a single still, it would be animated.")
+![Cartoon of a pound symbol character using crutches.](../media/1999/060/a1/cartoon_pound.png "Typical still used up until the late 1970’s to illustrate current affairs or news items. If the item were to complicated to convey in a single still, it would be animated.")
 {.align-pull}
 
 It was here that Martin Lambie-Nairn was to find his big break. ""Weekend World"" was LWT’s current affairs programme, was broadcast on Sunday lunchtimes and due to its topicality, required a graphic designer to work from midday Saturday to midday Sunday. As it was such an antisocial shift, the contract to produce its graphics was placed outside of LWT. At this time Lambie-Nairn had set up his own company with a fellow colleague Colin Robinson, and the contract presented a golden opportunity for Robinson Lambie-Nairn. They won the contract, and it was here that Lambie-Nairn revolutionised the graphic conventions used in presenting current-affairs related information graphically.
 
 This was traditionally based on newspaper cartoons – for example, if there was a story about the pound being weak, a cartoon drawing of a pound sign wearing bandages and using crutches was shown. Realising that this was at odds with communicating a serious news item, Lambie-Nairn developed a new method of presenting this sort of information in a more appropriate graphical manner. It was with this new approach that ""Weekend World"" became more successful, and this meant more work for Robinson Lambie-Nairn who found themselves “leaders in a field of one” (Lambie-Nairn, 1997).
 
-[![Weekend World.](/media/1999/060/a1/weekend_world.png)](https://www.youtube.com/watch?v=Nsf6zIxlOd8 "Title sequence from Weekend World. LWT/Robinson Lambie-Nairn, 1982.")
+[![Weekend World.](../media/1999/060/a1/weekend_world.png)](https://www.youtube.com/watch?v=Nsf6zIxlOd8 "Title sequence from Weekend World. LWT/Robinson Lambie-Nairn, 1982.")
 
 It was with the launch of Channel Four though were Martin Lambie-Nairn was to create waves in the television industry. Taking the idea that this new channel didn’t make its own programmes, but commissioned them from independent programme makers, Lambie-Nairn designed the innovative coloured building blocks that came together to form the channel’s figure 4 logo. This had to be produced in the United States, whose computer animation technology was far more advanced than in Britain. Lambie-Nairn also introduced many new concepts that were new in 1982, but common place in television nowadays.
 
@@ -160,7 +160,7 @@ He created a series of animations that were all based on the coming together of 
 
 Channel Four also had consistent on-screen branding, with programme menus, weather charts, on-screen promotions etc. all having the same look and feel often with the Channel Four logo used like a postage stamp in the top right hand corner of the screen. However prior to launch, it wasn’t liked by some of the channels executives, one of which wanted the logo to be rendered with a chrome effect and have the appearance of a turned off television. This showed that graphic design in television still wasn’t fully understood even by 1982. The Channel’s identity was so far ahead of its time, that it remained largely unchanged for 14 years, unheard of in today’s rapidly changing industry.
 
-[![Round and Back.](/media/1999/060/a1/channel_4_ident_1982.png)](https://www.youtube.com/watch?v=R86_TLuI51w "Round and Back. Channel Four/Robinson Lambie-Nairn, 1982.")
+[![Round and Back.](../media/1999/060/a1/channel_4_ident_1982.png)](https://www.youtube.com/watch?v=R86_TLuI51w "Round and Back. Channel Four/Robinson Lambie-Nairn, 1982.")
 
 On the back of this success, Lambie-Nairn was asked to design many other corporate identities for television companies. These included Anglia, in which Lambie-Nairn was responsible for the removal of the then much loved, but out of date, revolving silver knight and the satellite company British Satellite Broadcasting (BSB). However all five channel identities he created were replaced after only a couple of months when the company merged with Sky.
 
@@ -188,7 +188,7 @@ ITN led the way in 1959, with the introduction of the ‘Swingometer’ and intr
 
 Engineers at ITN, later designed their own system, the VT80 which helped to greatly improve the appearance of the on-screen graphics during the 1980 American elections. It was these advances that made the BBC realise how far behind it was in its use of computer technology. The need for this increased investment was made more apparent with the soon to be launched early morning service ""Breakfast Time"" in January 1982 (a result of the expansion of television broadcasting laws – ITV launched its own service, TVam in the February of that year). It was only then that the BBC employed a further 20 designers and invested in the much needed computer hardware and software.
 
-![A man looking through the lens of a film rostrum camera.](/media/1999/060/a1/rostrum.jpg "A film rostrum camera. Computer controlled rostrum cameras were introduced around the late 1970’s. Photograph: Jan-Eric Nyström")
+![A man looking through the lens of a film rostrum camera.](../media/1999/060/a1/rostrum.jpg "A film rostrum camera. Computer controlled rostrum cameras were introduced around the late 1970’s. Photograph: Jan-Eric Nyström")
 {.align-pull}
 
 The computers use throughout the rest of television graphics has followed a path of ever-increased usage – from its control of the rostrum camera, to being able to generate images for on-screen. Before computers, the film rostrum camera was used in many areas of television graphics. The rostrum camera is a vertically mounted camera that is able move up and down above a bench on which the artwork is placed, and it is the bench that is able to produce the majority of the movement. Used mostly in the filming of animated title sequences, it was also used for the filming compilations of stills (be them photographs, paintings or prepared artwork) and shooting cells or drawings a frame at a time ready for animation.
@@ -197,11 +197,11 @@ In 1958, the BBC adapted the film rostrum camera so that it was able to record s
 
 As for lettering this became easier and less time consuming than the original hand drawn methods, first of with the Masseeley hot press printing machine in 1955, and then with Letraset four years later, before character generators began to take over in 1969. Television graphics have reached a point now in which the vast majority in all aspects of graphic design is created on computer, and is becoming increasingly more integrated.
 
-[![Liquid Gold.](/media/1999/060/a1/yorkshire_television_ident_1986.jpg)](https://www.youtube.com/watch?v=fDT_-CpiNKI "Liquid Gold. Yorkshire Television/Jeff Parr, 1986.")
+[![Liquid Gold.](../media/1999/060/a1/yorkshire_television_ident_1986.jpg)](https://www.youtube.com/watch?v=fDT_-CpiNKI "Liquid Gold. Yorkshire Television/Jeff Parr, 1986.")
 
 However it was the eighties in which the computers use was more obvious to the viewer due to the fact that it had reached a stage in which it could be successfully used to create title-sequences or station indents and present graphical information. Green monitor output and wireframe graphics were fashionable at the start of the decade for use in station or programme promotions. As the technology improved, and greater effects could be achieved, so the fashion changed, meaning that during the mid to late eighties 3D animated computer graphics (usually with metallic or chrome rendering) were more commonly used.
 
-![5 frames from the title sequence for Ghosts in the Machine II.](/media/1999/060/a1/ghosts_in_the_machine_ii.png "Title sequence from Ghosts in the Machine II. Channel Four/Richard Markell, 1988.")
+![5 frames from the title sequence for Ghosts in the Machine II.](../media/1999/060/a1/ghosts_in_the_machine_ii.png "Title sequence from Ghosts in the Machine II. Channel Four/Richard Markell, 1988.")
 
 As for programme titles, they all seemed to embrace colour in a way that was not seen during the previous decade with the influence from Channel Four’s identity on graphic designers particularly evident at this time. Using a similar palette to that of new channels identity, designers and often mixed photographs with illustrations which were usually very stylistic and sometimes of a cartoon nature. It also saw a return of the familiar black background in titles – last seen in the fifties – and on most occasions, titles ended with a simple title on black.
 

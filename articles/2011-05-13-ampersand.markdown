@@ -20,7 +20,7 @@ Still, I’m an attendee at heart, and if there is one thing that governs my cho
 
 ## Ampersand
 
-![Ampersand logo.](/media/2011/133/a1/ampersand.svg)
+![Ampersand logo.](../media/2011/133/a1/ampersand.svg)
 {.align-pull}
 
 With that in mind, and excusing the obvious bias, I’m massively looking forward to [Ampersand][10], Clearleft’s new conference tightly focused around web typography. This is a topic which, as [Rich suggests][11], many designers would benefit from having a deeper understanding:

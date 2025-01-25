@@ -25,7 +25,7 @@ I often wonder what it might be like to travel back in time and revisit a place 
 
 Returning to Birmingham for the first time in 7 years meant I could test this idea in reverse. Walking across Victoria Square, up to Chamberlain Square, through the new [Paradise][4] development and towards Centenary Square was an odd and slightly unsettling experience. I found my hotel, but the journey there was unrecognisable.
 
-![Looking across towards a tall, spire-like memorial at the center of a public square, and the four buildings that surround it.](/media/2023/106/a1/chamberlain_square.jpg "Chamberlain Square. Photograph: Paradise Circus.")
+![Looking across towards a tall, spire-like memorial at the center of a public square, and the four buildings that surround it.](../media/2023/106/a1/chamberlain_square.jpg "Chamberlain Square. Photograph: Paradise Circus.")
 {.align-bleed}
 
 In place of [the old Central Library][5] sit two new buildings: One and Two Chamberlain Square. Both improve the appearance of this area immensely, accentuating features of the two Victorian buildings they share this space with; the Town Hall and Council House.
@@ -34,14 +34,14 @@ The Copthorne Hotel somehow clings on. This ugly black box has finally closed, w
 
 Its sister building, Chamberlain House, which sat on the other side of what was Centenary Walk has already gone. In its place stands One Centenary Way, a 13-storey office block with a visible black exoskeleton topped off with a large lantern that changes colour throughout the night.
 
-![Looking at One Centenary Way straight on, from the perspective of Centenary Square.](/media/2023/106/a1/one_centenary_way.jpg "One Centenary Way. Photograph: Paradise Circus.")
+![Looking at One Centenary Way straight on, from the perspective of Centenary Square.](../media/2023/106/a1/one_centenary_way.jpg "One Centenary Way. Photograph: Paradise Circus.")
 {.align-bleed}
 
 A brutish office block, it shares DNA with the minimalist international style. Its confident, sturdy appearance perfectly bookends Centenary Square, adding to the eclectic mix of architecture that already surrounds this public realm.
 
 On the other side sits Symphony Hall. Opened in 1991 alongside the ICC, its facia was recently remodelled to increase the size of its foyer. While not in keeping with the original building, it hides enough of it not to matter.
 
-![Sweeping white curves of the new Symphony Hall foyer.](/media/2023/106/a1/symphony_hall.jpg "The redesigned foyer of Symphony Hall. Photograph: Jack Hobhouse.")
+![Sweeping white curves of the new Symphony Hall foyer.](../media/2023/106/a1/symphony_hall.jpg "The redesigned foyer of Symphony Hall. Photograph: Jack Hobhouse.")
 {.align-bleed}
 
 ## Who loves ya?
@@ -66,7 +66,7 @@ It wasn’t until the demolition of the Bull Ring Centre in 2000 that it felt as
 
 In its place a new shopping precinct took shape. Future Systems’ organic and alien-looking facade for Selfridges soon became a landmark and announced Birmingham as a place where distinctive architecture could find a home. The [Library of Birmingham][8], a building now entering its second decade, still feels like something from the future. While not to my taste, [the Cube][9] continues in this tradition as well.
 
-[![The distinctive Selfridges store at the night.](/media/2023/106/a1/bullring.jpg "The Selfridges building has become a Birmingham landmark. Photograph: Bs0u10e0.")](https://www.flickr.com/photos/bs0u10e0/6837495909/)
+[![The distinctive Selfridges store at the night.](../media/2023/106/a1/bullring.jpg "The Selfridges building has become a Birmingham landmark. Photograph: Bs0u10e0.")](https://www.flickr.com/photos/bs0u10e0/6837495909/)
 
 ## From motorway to metro
 

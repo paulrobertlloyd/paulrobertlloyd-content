@@ -41,7 +41,7 @@ The project is reasonably well documented, both within the code and outside of i
 
 I’m really happy and proud with what I’ve built so far.
 
-![Screenshot of the Markdown editing interface in full screen mode.](/media/2024/107/a1/markdown_editor.png#screenshot)
+![Screenshot of the Markdown editing interface in full screen mode.](../media/2024/107/a1/markdown_editor.png#screenshot)
 {.align-bleed}
 
 ## The perpetual beta

@@ -11,7 +11,7 @@ category:
   - demetri_martin
 ---
 
-![Promotion poster for Important Things.](/media/2009/039/a1/image.png)
+![Promotion poster for Important Things.](../media/2009/039/a1/image.png)
 
 One of my favourite comedians stars in a new show starting on Comedy Central this week. I first came across [Demetri Martin][1] as his role as a youth correspondent on [The Daily Show][2] – a segment in which he was also able to showcase his signature use of self-drawn illustrations, graphs and diagrams in his comedy.
 

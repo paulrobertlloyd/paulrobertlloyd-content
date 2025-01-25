@@ -109,14 +109,14 @@ Here is another term.
 
 The `figure` element is used to annotate illustrations, diagrams, photos, code listings or provide a citation for an excerpted piece of content. The following examples show a section of pre-formatted text, a quotation and an image:
 
-![Photo taken during my drive on the Wild Atlantic Way.](/media/2017/134/a1/wild_atlantic_way.jpg "Single image, with supporting caption.")
+![Photo taken during my drive on the Wild Atlantic Way.](../media/2017/134/a1/wild_atlantic_way.jpg "Single image, with supporting caption.")
 
 For figures using the `.align-bleed` modifier, the content will stretch across the entire width of the page.
 
-![Photo of Salthill Diving Tower.](/media/2017/134/a1/salthill_diving_tower.jpg "Single image, with supporting caption.")
+![Photo of Salthill Diving Tower.](../media/2017/134/a1/salthill_diving_tower.jpg "Single image, with supporting caption.")
 {.align-bleed}
 
-![Photo of Roundstone Quay.](/media/2017/134/a1/roundstone_quay.jpg "Single image, with supporting caption.")
+![Photo of Roundstone Quay.](../media/2017/134/a1/roundstone_quay.jpg "Single image, with supporting caption.")
 {.align-pull}
 
 For figures using the `.align-pull` utility, the content will be floated to the right side of the page.

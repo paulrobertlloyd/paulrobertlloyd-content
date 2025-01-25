@@ -15,9 +15,9 @@ color: "#d8127e"
 
 ## XOXO
 
-![XOXO homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/311/a1/xoxo.png)
+![XOXO homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/311/a1/xoxo.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) [XOXO][1] is an arts and technology festival celebrating disruptive creativity, that took place in Portland, USA in September.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) [XOXO][1] is an arts and technology festival celebrating disruptive creativity, that took place in Portland, USA in September.
 
 The website builds on an identity created by [Factory North][2] with a striking colour palette and restrained type selection. Its wonderment is tightly packaged, too. Designer, [Paulo Zoom][3]: <q>As people would be visiting the website during the event, on a Wi-Fi network shared by almost 500 people, it was essential that few HTTP requests were made and that all the assets were optimised</q>.
 
@@ -28,7 +28,7 @@ Homepage requests/size
 
 ## Design Intellection
 
-![Design Intellection homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/311/a1/design_intellection.png)
+![Design Intellection homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/311/a1/design_intellection.png)
 
 [Design Intellection][4] is a small design studio located in Louisville, Kentucky, run by David Yeiser.
 
@@ -41,7 +41,7 @@ Homepage requests/size
 
 ## The Cut
 
-![The Cut homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/311/a1/the_cut.png)
+![The Cut homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/311/a1/the_cut.png)
 
 [The Cut][5] is a website about fashion, beauty, politics, sex and celebrity.
 

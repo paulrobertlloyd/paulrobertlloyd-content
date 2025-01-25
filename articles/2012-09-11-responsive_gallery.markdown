@@ -16,7 +16,7 @@ color: "#d8127e"
 
 ## From Wichita With Love
 
-![From Wichita With Love homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/255/a2/from_wichita_with_love.png)
+![From Wichita With Love homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/255/a2/from_wichita_with_love.png)
 
 [From Wichita With Love][1] is the brainchild of a group of friends who happily call the city their home. By distributing special postcards, this project aims to create interest in Wichita as a cultural and commercial destination.
 
@@ -29,7 +29,7 @@ Homepage requests/size
 
 ## Jessica Hische
 
-![Jessica Hische homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/255/a2/jessica_hische.png)
+![Jessica Hische homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/255/a2/jessica_hische.png)
 
 [Jessica Hische][5] is a renowned letterer and illustrator based in San Francisco, and this is the second responsive iteration of her site. <q>Much of the redesign had to do with a major IA overhaul, with my portfolio now one consolidated body of work. I tried to approach the site ‘mobile first’ which helped a great deal in reorganising the structure and content</q>.
 
@@ -42,9 +42,9 @@ Homepage requests/size
 
 ## Momentum
 
-![Momentum homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/255/a2/momentum.png)
+![Momentum homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/255/a2/momentum.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) [Momentum][6] is a small studio of designers, developers, photographers and video experts based in Colchester. Their site has an incredibly focused message and design, but we also appreciate the obvious attention paid to delivering a performant experience.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) [Momentum][6] is a small studio of designers, developers, photographers and video experts based in Colchester. Their site has an incredibly focused message and design, but we also appreciate the obvious attention paid to delivering a performant experience.
 
 Creative Director, Oliver Bon told us that he wanted a device agnostic site that retained its coherence. <q>I’d seen too many sites where people had only converted pixels to percentages and called it responsive. I didn’t want our site to squeeze itself to fit a screen, I wanted it to make sense</q>.
 

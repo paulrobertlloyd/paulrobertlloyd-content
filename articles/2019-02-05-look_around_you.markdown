@@ -12,7 +12,7 @@ category:
   - technology
 ---
 
-![Illustration of three birds with their heads in the sand, a fourth not but look around in alarm.](/media/2019/036/a1/image.png "Illustration: Geri Coady.")
+![Illustration of three birds with their heads in the sand, a fourth not but look around in alarm.](../media/2019/036/a1/image.png "Illustration: Geri Coady.")
 {.align-bleed}
 
 If the last few years have taught us anything, it’s that while designers have an amazing ability to change the world, it may not always be for the better.

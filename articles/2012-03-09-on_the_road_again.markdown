@@ -19,7 +19,7 @@ tags:
 color: "#f50"
 ---
 
-![Road sign which says ‘Special event ahead’.](/media/2012/069/a1/image.jpg "Road block in Austin.")
+![Road sign which says ‘Special event ahead’.](../media/2012/069/a1/image.jpg "Road block in Austin.")
 {.align-bleed}
 
 The unremarkable rusty orange exterior of the Hyatt Regency hotel in Austin serves only to make the interior more surprising – spectacular even. Its large triangular atrium reveals 17 floors from which 448 rooms can be accessed. Walking along its corridors feels strangely cinematic.

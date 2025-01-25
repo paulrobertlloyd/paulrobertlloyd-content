@@ -16,9 +16,9 @@ color: "#d8127e"
 
 ## BBC News Mobile
 
-![BBC News Mobile homepage on a mobile phone with a screenshot of the same page shown on a tablet behind.](/media/2012/171/a1/bbc_news_mobile.png)
+![BBC News Mobile homepage on a mobile phone with a screenshot of the same page shown on a tablet behind.](../media/2012/171/a1/bbc_news_mobile.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) For many years, the BBC News website was embarrassingly dated and accompanied by a range of different editions: mobile, PDA and text-only. A redesign in 2010 introduced the BBC’s Global Experience Language (GEL), heralding a fresh new design direction for the BBC’s digital services. Now, [the mobile news site][1] hopes to take the BBC towards a responsive future.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) For many years, the BBC News website was embarrassingly dated and accompanied by a range of different editions: mobile, PDA and text-only. A redesign in 2010 introduced the BBC’s Global Experience Language (GEL), heralding a fresh new design direction for the BBC’s digital services. Now, [the mobile news site][1] hopes to take the BBC towards a responsive future.
 
 Chris Russell heads up the BBC News product. <q>In parts of the world, the vast majority of users access the internet via a small screen and a keypad. This need for universality is why BBC News is enthusiastically developing responsive design solutions</q>.
 
@@ -33,7 +33,7 @@ Homepage size
 
 ## Weightshift
 
-![Weightshift homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/171/a1/weightshift.png)
+![Weightshift homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/171/a1/weightshift.png)
 
 [Weightshift][3] is a small digital design studio in San Francisco that’s worked with big clients like Microsoft, WordPress and Mozilla.
 
@@ -48,7 +48,7 @@ Homepage size
 
 ## SALT
 
-![SALT homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/171/a1/salt.png)
+![SALT homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/171/a1/salt.png)
 
 [SALT][4] is a collaboration between two surfers, Tyler Wolff and Nabil Samadani, who decided to bring well crafted surfboards to the thriving surf scene they discovered in New York City.
 

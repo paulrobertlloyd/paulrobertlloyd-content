@@ -144,20 +144,20 @@ If you’ve been considering making the switch, here are a few tips and tricks t
 
 Images can be found in the `media` folder, with paths using the following convention:
 
-`/media/{:year}/{:day}/{:post-type-prefix}{:type-index}/{filename}`
+`../media/{:year}/{:day}/{:post-type-prefix}{:type-index}/{filename}`
 
 #### Screenshots
 
 Use the `#screenshot` fragment to indicate that an image should be displayed as a screenshot. For example:
 
-`/media/projects/bradshaws_guide/homepage.png#screenshot`
+`../media/projects/bradshaws_guide/homepage.png#screenshot`
 
 #### Images with captions
 
 Although Markdown defines the content in quotes after the filename as the title for the image, it’s intended for this content to be shown in a figure caption:
 
 ```md
-![A small yellow boat sits below the Dom Luís I Bridge during golden hour.](/media/2022/241/a1/image.jpg "Dom Luís I Bridge, Porto.")
+![A small yellow boat sits below the Dom Luís I Bridge during golden hour.](../media/2022/241/a1/image.jpg "Dom Luís I Bridge, Porto.")
 ```
 
 ```html
@@ -172,9 +172,9 @@ Although Markdown defines the content in quotes after the filename as the title 
 Use unordered lists with an image or figure as the only item contained within each list item. Ensure each list item is separated by two line breaks to ensure compatibility when rendering figures with captions.
 
 ```md
-- ![Green and yellow heather below frost-covered trees.](/media/2023/236/a1/como-dome.jpg "Dome of Cattedrale di Santa Maria Assunta, Como.")
+- ![Green and yellow heather below frost-covered trees.](../media/2023/236/a1/como-dome.jpg "Dome of Cattedrale di Santa Maria Assunta, Como.")
 
-- ![A path stretches into a distance towards woodland.](/media/2023/236/a1/brunate-dome.jpg "Dome of Chiesa di Sant’Andrea Apostolo, Brunate.")
+- ![A path stretches into a distance towards woodland.](../media/2023/236/a1/brunate-dome.jpg "Dome of Chiesa di Sant’Andrea Apostolo, Brunate.")
 ```
 
 ```html

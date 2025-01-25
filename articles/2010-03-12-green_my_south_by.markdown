@@ -12,7 +12,7 @@ category:
 
 Once again, I feel the duty falls upon me to remind those attending this year’s SXSW festival in Austin, that you really need not pick up that big, heavy, cumbersome and frankly useless bag of marketing junk.
 
-![Poster.](/media/2010/071/a1/image.png "South By 2010: Tomorrow Happens Here.")
+![Poster.](../media/2010/071/a1/image.png "South By 2010: Tomorrow Happens Here.")
 
 Please take a moment to [read my thoughts about the SXSW Big Bag][1] that I posted last year, and [download the poster][2] from the [a.green:focus blog][3] and add it to your own website.
 

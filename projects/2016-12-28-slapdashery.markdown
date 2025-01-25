@@ -9,7 +9,7 @@ tags:
 color: "#1c3fff"
 ---
 
-![The Shapdashery publication on Medium.](/media/projects/slapdashery/homepage.png#screenshot)
+![The Shapdashery publication on Medium.](../media/projects/slapdashery/homepage.png#screenshot)
 {.align-bleed}
 
 [Slapdashery][1] was a writing challenge undertaken by [Ben Sauer][2] in 2017.
@@ -23,7 +23,7 @@ Planning to publish these posts on Medium, Ben asked me to design a logo that co
 
 In the spirit of the project, I too decided to create something within a limited time span, hoping something would fall out of the process that would be useful to Ben. This is the logo I arrived at:
 
-![The Slapdashery logo.](/media/projects/slapdashery/logo.svg "The Slapdashery logo.")
+![The Slapdashery logo.](../media/projects/slapdashery/logo.svg "The Slapdashery logo.")
 
 Each letter was composed using the shapes left having cut in half a square, a circle and a triangle. No doubt the mark could be refined, but in the spirit of the project, I stopped fiddling once I reached an hour’s worth of effort.
 

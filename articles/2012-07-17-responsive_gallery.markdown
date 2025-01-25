@@ -15,9 +15,9 @@ color: "#d8127e"
 
 ## Readlists
 
-![Readlists homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/199/a1/readlists.png)
+![Readlists homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/199/a1/readlists.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) A service from the smart folk at [Arc90][1] and [Readability][2], [Readlists][3] helps you collect articles found on the web and bundle them into a single e-book for reading later.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) A service from the smart folk at [Arc90][1] and [Readability][2], [Readlists][3] helps you collect articles found on the web and bundle them into a single e-book for reading later.
 
 Although not directly related to Readability (yet doubtless created to demonstrate what’s possible with their API and drive users to the service), Readlists shares a similar vernacular with its literally and highly crafted aesthetic – checkout the custom scrollbars! Tyler Gaw, front-end developer at Arc90: <q>The design process on Readlists was very iterative. I went through three or four full designs, markup and css included, before landing on the one that’s live now</q>.
 
@@ -30,7 +30,7 @@ Homepage size
 
 ## Contents Magazine
 
-![Contents Magazine homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/199/a1/contents_magazine.png)
+![Contents Magazine homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/199/a1/contents_magazine.png)
 
 [Contents][4] is an online magazine that covers content strategy, online publishing and editorial work, with issues rolling out over a six to eight week period. With a site designed by the father of Responsive Web Design, it warrants closer inspection.
 
@@ -43,7 +43,7 @@ Homepage size
 
 ## SVT Nyheter{lang=sv}
 
-![SVT Nyheter homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/199/a1/svt_nyheter.png)
+![SVT Nyheter homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/199/a1/svt_nyheter.png)
 
 [Last issue we looked at the BBC’s new responsive news site][6] that’s designed specifically for mobiles and tablets (at least for now). Providing an opportunity for comparison, Sweden’s national broadcaster [SVT][7]{lang=sv} have recently redesigned their news website too. Unlike the BBC, their site works on all devices. SVT’s lead interaction designer, Johan Hallberg: <q>In a world with a growing number of devices and screen sizes, we want to create sites that are both user friendly and technically scalable. For us responsive design is a step in that direction</q>.
 

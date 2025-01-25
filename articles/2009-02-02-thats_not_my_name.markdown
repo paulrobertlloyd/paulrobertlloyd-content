@@ -16,7 +16,7 @@ tags:
   - i3xp1
 ---
 
-![’Coll’ written on the side of a Starbucks cup.](/media/2009/033/a1/image.jpg)
+![’Coll’ written on the side of a Starbucks cup.](../media/2009/033/a1/image.jpg)
 
 As I approach the end of my latest trip to America, I continue to fight the losing battle that is getting people to understand me when I say my first name.
 

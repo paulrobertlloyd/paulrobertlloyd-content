@@ -14,7 +14,7 @@ category:
   - exhibitions
 ---
 
-![Le Corbusier in front of a blackboard with drawings of buildings.](/media/2009/129/a1/image.jpg "Le Corbusier. Photograph: Willy Rizzo")
+![Le Corbusier in front of a blackboard with drawings of buildings.](../media/2009/129/a1/image.jpg "Le Corbusier. Photograph: Willy Rizzo")
 
 Yesterday I went to see the Le Corbusier exhibition, currently showing at the Barbican Art Gallery in London.
 
@@ -24,7 +24,7 @@ Always eager to learn more about the discipline, this exhibition about [Le Corbu
 
 The exhibition is divided into three parts. _Context_ charts his early influences and features his early designs for villas in Switzerland and France. _Privacy and Publicity_ explores his passion and advocacy of ‘type-objects’ – lights, tables, chairs and other items for which he furnished his buildings or endorsed in his periodicals. The final section _Built Art_ is the largest of the three sections and perhaps where _The Art of Architecture_ is most evident. With many of his paintings, tapestries and sculptures on display, this section also features his later signature buildings such as the [Unité d’Habitation][5] in Marsilles, the [Philips Pavilion][6] for Expo 58 in Brussels, as well as his urban planning and architecture in [Chandigarh][7], the capital of Punjab and Haryana in India.
 
-![The Philips Pavilion at the 1958 World’s Fair in Brussels.](/media/2009/129/a1/phillips_pavilion.jpg "The Philips Pavilion at the 1958 World’s Fair in Brussels.")
+![The Philips Pavilion at the 1958 World’s Fair in Brussels.](../media/2009/129/a1/phillips_pavilion.jpg "The Philips Pavilion at the 1958 World’s Fair in Brussels.")
 
 The key story underlined throughout this exhibition, is that of his style and opinion changing and maturing as he got older, his designs becoming less rigid and more organic over time. With this in mind, I was left wondering what buildings he would have designed had he lived another 20 years or so.
 

@@ -10,9 +10,9 @@ tags:
 color: "#00aeef"
 ---
 
-- ![Home page.](/media/projects/unicef_uk/home.png#screenshot)
-- ![Internal page.](/media/projects/unicef_uk/info.png#screenshot)
-- ![Gallery page.](/media/projects/unicef_uk/gallery.png#screenshot)
+- ![Home page.](../media/projects/unicef_uk/home.png#screenshot)
+- ![Internal page.](../media/projects/unicef_uk/info.png#screenshot)
+- ![Gallery page.](../media/projects/unicef_uk/gallery.png#screenshot)
 
 [UNICEF UK][1] raises funds to protect children and the defend their rights worldwide.
 
@@ -24,9 +24,9 @@ Given a constrained budget, the software that managed content on the desktop was
 
 The site needed to degrade gracefully on older mobile devices and take into account the often imperfect nature of cellular connectivity. Put simply, we needed to employ mobile-first design principles with desktop-first content, rationalising and simplifying where possible. Although a mobile-focused project, we had a secondary ambition to design an experience that was better than the desktop site – even on larger screens.
 
-- ![Home page prioritisation exercise.](/media/projects/unicef_uk/homepage_prioritisation.jpg)
-- ![Pattern identification exercise.](/media/projects/unicef_uk/pattern_identification.jpg)
-- ![Pattern definition exercise.](/media/projects/unicef_uk/pattern_definition.jpg)
+- ![Home page prioritisation exercise.](../media/projects/unicef_uk/homepage_prioritisation.jpg)
+- ![Pattern identification exercise.](../media/projects/unicef_uk/pattern_identification.jpg)
+- ![Pattern definition exercise.](../media/projects/unicef_uk/pattern_definition.jpg)
 
 We asked key stakeholders on the project to dissect the homepage and a key internal page, placing component parts in order of importance. Working with UNICEF’s content editor, we pulled out common patterns, noting those which were essential and those that were superfluous. The relevant patterns were then sketched on a whiteboard where we imagined how they would adapt on smaller screens. These were then used as the basis for the front-end build. This pattern-based approach allowed us to simplify what was already there, rather than start again from scratch.
 

@@ -16,9 +16,9 @@ color: "#d8127e"
 
 ## Passenger Focus
 
-![Passenger Focus homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/227/a2/passenger_focus.png)
+![Passenger Focus homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/227/a2/passenger_focus.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) [Passenger Focus][1] is a consumer watchdog that protects the interests of rail and bus passengers in the UK. They will no doubt appreciate a new site which adapts to whichever device they Happen to be using, be it on the go, or at their desk.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) [Passenger Focus][1] is a consumer watchdog that protects the interests of rail and bus passengers in the UK. They will no doubt appreciate a new site which adapts to whichever device they Happen to be using, be it on the go, or at their desk.
 
 While the site, designed by [Browser][2], is a little utilitarian and includes a header that quite crowded at its fullest width, the underlying layout is incredibly smart and fluid.
 
@@ -29,7 +29,7 @@ Homepage requests/size
 
 ## O Music Awards
 
-![O Music Awards homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/227/a2/o_music_awards.png)
+![O Music Awards homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/227/a2/o_music_awards.png)
 
 The [O Music Awards][3] is an ongoing awards show presented by Viacom, that honours the intersections of music and technology. The most recent event took place during a 24-hour cross-country, record-breaking road trip with the Flaming Lips.
 
@@ -42,7 +42,7 @@ Homepage requests/size
 
 ## BBC TV
 
-![BBC One homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/227/a2/bbc_tv.png)
+![BBC One homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/227/a2/bbc_tv.png)
 
 Following the launch of the responsive news site earlier this year ([featured in issue 230][5]), the BBC continues to make more of its sites responsive. This includes the most recent update to its four main TV channel sites (for example [bbc.co.uk/bbcone/][6]).
 

@@ -15,9 +15,9 @@ color: "#d8127e"
 
 ## Skinny Ties
 
-![Skinny Ties homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2013/001/a1/skinny_ties.png)
+![Skinny Ties homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2013/001/a1/skinny_ties.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) A family-run company, [Skinny Ties][1] have been producing and selling neckties since 1971, and are now one of the largest retailers in the United States. [Brendan Falkowski][2] was asked to reinvent the brand’s identity and develop a future-friendly platform to ensure the continued success of the business.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) A family-run company, [Skinny Ties][1] have been producing and selling neckties since 1971, and are now one of the largest retailers in the United States. [Brendan Falkowski][2] was asked to reinvent the brand’s identity and develop a future-friendly platform to ensure the continued success of the business.
 
 Brendan’s design exhibits a beautiful attention to detail. The layout adapts sensibly – even the logo adjusts itself to suit different widths. <q>All interactive elements were built with touch and click usage in mind, which keeps the interface consistent and compact</q> says Brendan.
 
@@ -28,7 +28,7 @@ Homepage requests/size
 
 ## Microsoft
 
-![Microsoft homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2013/001/a1/microsoft.png)
+![Microsoft homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2013/001/a1/microsoft.png)
 
 This has been an important year for [Microsoft][3], with a slew of software and hardware releases including Windows 8 and its new Surface tablets. These products embrace the interface language formally known as Metro, as does the company’s recently updated brand.
 
@@ -43,7 +43,7 @@ Homepage requests/size
 
 ## Anna Debenham
 
-![Anna Debenham’s homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2013/001/a1/anna_debenham.png)
+![Anna Debenham’s homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2013/001/a1/anna_debenham.png)
 
 [Anna Debenham][7] is a freelance front-end developer based in Brighton. By redesigning her personal website with a focus on performance, led her to produce an intriguing stripped back aesthetic. We asked Anna about the reasoning behind the redesign: <q>I wanted to produce a design that didn’t rely heavily on images, gradients, web fonts or anything that would increase the size of the page</q>.
 

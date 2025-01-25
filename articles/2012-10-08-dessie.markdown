@@ -13,7 +13,7 @@ category:
   - family
 ---
 
-![Dessie.](/media/2012/282/a1/image.jpg)
+![Dessie.](../media/2012/282/a1/image.jpg)
 
 My family was never a cat family, so it was a strange day in 1997 when we decided to buy two kittens.
 

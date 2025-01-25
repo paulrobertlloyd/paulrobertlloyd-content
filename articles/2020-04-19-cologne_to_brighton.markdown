@@ -77,7 +77,7 @@ _I was halfway through writing this post before getting distracted by, well, eve
 
 ## Day 14
 
-![An art deco staircase.](/media/2020/110/a1/astoria_hotel.jpg "From the bright, refined interior of the Astoria Hotel…")
+![An art deco staircase.](../media/2020/110/a1/astoria_hotel.jpg "From the bright, refined interior of the Astoria Hotel…")
 {.align-pull}
 
 I’ve barely spent any time in the [Astoria][1], which is disappointing as its art deco styling is difficult to ignore. With my suitcase in one hand, I try and take as many photos of its interior as I can, while keeping an eye on the time. This hotel is certainly high on my list of places to stay next time I’m in Copenhagen.
@@ -88,7 +88,7 @@ Back at my old friend Hamburg’s Hauptbahnhof, there’s time some food and qui
 
 I arrive just after 9:30 pm, and head for [_Hotel im Wasserturm_{lang=de}][3]. This building has the potential to be a highlight of this trip. I’ve read mixed reviews, but spending a few nights in a converted water tower seemed like too good an opportunity to miss.
 
-![Brick arches inside a building.](/media/2020/110/a1/hotel_im_wasserturm.jpg "…to the dark, industrial vaults of *Hotel im Wasserturm*{lang=de}.")
+![Brick arches inside a building.](../media/2020/110/a1/hotel_im_wasserturm.jpg "…to the dark, industrial vaults of *Hotel im Wasserturm*{lang=de}.")
 {.align-pull}
 
 First impressions are not good. The entrance is via a set of glass doors, but these are all broken. But, the night manager seems friendly, and upon learning that I’m from England, is keen to tell me about the history of the building. “It was built by an English engineer called John Moore – not Roger Moore – in 1868”. With a diameter of 34 and a height of 35.5 metres, the water tower is the largest of its kind in Europe. Its interior structure is impressive and imposing, but arguably ill-suited for conversion to a hotel.
@@ -101,7 +101,7 @@ Before bed, I head to the restaurant on the top floor, eager to enjoy a pint of 
 
 ## Day 15
 
-![The front of a coffee shop. A person sits near the entrance, and a neon sign says ‘Van Dyke’.](/media/2020/110/a1/van_dyck_rosterei.jpg "_Van Dyck Rosterei_{lang=de} in Ehrenfeld.")
+![The front of a coffee shop. A person sits near the entrance, and a neon sign says ‘Van Dyke’.](../media/2020/110/a1/van_dyck_rosterei.jpg "_Van Dyck Rosterei_{lang=de} in Ehrenfeld.")
 {.align-bleed}
 
 Tomorrow I return home, but I have an entire day to spend in a German city, and that makes me very happy. Cologne is the first city I stayed at during a tour of Europe in 2009, but I’ve only ever passed through since.
@@ -112,7 +112,7 @@ The rest of the afternoon is spent inside the [Ludwig Museum][5], where I find m
 
 ## Day 16
 
-![Route map](/media/2020/110/a1/route_map.png "Copenhagen to Brighton via Cologne.")
+![Route map](../media/2020/110/a1/route_map.png "Copenhagen to Brighton via Cologne.")
 {.align-pull}
 
 I’m heading back home, from Cologne to Brighton via Brussels-Midi and London St. Pancras stations. The last few remaining miles allow me to reflect on the travels completed.
@@ -121,7 +121,7 @@ I had many hopes for this trip. It would be a creative expedition; I wanted to e
 
 And yet I ventured into this rushed and ill-prepared. Unable to decide, I picked too many destinations; three days is not nearly enough time to understand and appreciate a place. I also failed my golden rule of travel, which is to pack light. Who would have thought packing a suitcase the night before – and after several pints – would prove to be a bad idea! And frankly, I’ve spent way too much time on trains; even I have my limits. Yet, as the old saying goes, a change is as good as a rest, and I return remarkably rested.
 
-![Many padlocks.](/media/2020/110/a1/love_locks.jpg "Love locks on the Hohenzollern Bridge.")
+![Many padlocks.](../media/2020/110/a1/love_locks.jpg "Love locks on the Hohenzollern Bridge.")
 {.align-bleed}
 
 [1]: https://www.brochner-hotels.dk/hotel-astoria/

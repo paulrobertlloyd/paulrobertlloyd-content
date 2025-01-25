@@ -12,7 +12,7 @@ category:
 
 [Social Media Icons v1.5][1] adds a number of highly requested icons, including those for Dribbble, Foursquare, Gowalla, PayPal, Xbox Live and Zootool. As the jump in version number suggests, this update also brings a few design tweaks too. Outer borders are now alpha-transparent (icons should sit better on different coloured backgrounds), the inner bevel design has been modified and with [a.green:focus][2] in mind, icons files are now compressed with file sizes down 50% on average.
 
-![The 12 new icons in v1.5 update.](/media/2010/074/a1/image.png "The 12 new icons in v1.5 update.")
+![The 12 new icons in v1.5 update.](../media/2010/074/a1/image.png "The 12 new icons in v1.5 update.")
 
 Just as importantly, this update also removes two icons (the Fire Eagle Mascot icon was unnecessary and iMeem has been purchased and absorbed into MySpace). As the collection reaches 70 icons, I’d honestly like to remove more.
 

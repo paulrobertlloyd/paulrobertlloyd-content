@@ -21,7 +21,7 @@ My work on [24 ways][1] is a case in point. Since Drew McLellan asked me to rede
 
 In the intervening years, as tools have improved and best practices have matured, I’ve tweaked the design and refactored the code, and developed [a component library][3] in the process.
 
-![The 24 ways home page.](/media/2018/003/a1/homepage.png#screenshot)
+![The 24 ways home page.](../media/2018/003/a1/homepage.png#screenshot)
 {.align-bleed}
 
 ## A focus on accessibility
@@ -97,7 +97,7 @@ I’ve found that by thinking about an interface in terms of common interaction 
 
 ## Properly labelling elements
 
-![Screenshot of a navigation component showing its hover state.](/media/2018/003/a1/traverse.png "Navigation component that allows users to move between articles in a series.")
+![Screenshot of a navigation component showing its hover state.](../media/2018/003/a1/traverse.png "Navigation component that allows users to move between articles in a series.")
 {.align-pull}
 
 A good amount of accessibility comes down to labelling things that rely on visual appearance alone to convey meaning. Much like the `alt` attribute allows us to describe images, `aria-label` (and its relations) [extend this ability to other elements][13].
@@ -203,7 +203,7 @@ Adding `speak: none` had no effect (CSS aural properties have little support). H
 }
 ```
 
-![2 screenshots of links with similar arrow symbols at their end.](/media/2018/003/a1/continue.png "Continue links before and after improvements. While they look similar, the revised design sounds much better.")
+![2 screenshots of links with similar arrow symbols at their end.](../media/2018/003/a1/continue.png "Continue links before and after improvements. While they look similar, the revised design sounds much better.")
 
 I also made improvements to the styling of author names in article summaries. Originally, these were distinguished from the rest of the excerpt by styling them as uppercase text. Francis pointed out that some screen readers will spell out uppercase letters (regardless of whether they appear in the HTML or have been altered by CSS) if they don’t spell a known word. For example: VoiceOver and NVDA have trouble with Chris Coyier’s surname, so his name would be read aloud as <samp>Chris C-O-Y-I-E-R</samp>. The simple fix was to distinguish names using emboldened text instead.
 

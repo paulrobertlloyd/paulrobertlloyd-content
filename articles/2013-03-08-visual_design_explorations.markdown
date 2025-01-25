@@ -20,7 +20,7 @@ As a number of new projects have kicked-off recently, and with my own thoughts t
 
 ## Mood boards
 
-![Mood board for Family Nest.](/media/2013/067/a1/mood_board.png)
+![Mood board for Family Nest.](../media/2013/067/a1/mood_board.png)
 
 A tool typically used by interior designers, mood boards can be a great way of exploring different thematic approaches and stylistic treatments. These can be put together really quickly, as much of their content is sourced from existing work. They can be created digitally or simply by cutting up magazines and other print work and sticking them to some card.
 
@@ -28,7 +28,7 @@ We tend to use mood boards when there’s not a sense of any brand positioning o
 
 ## Style tiles
 
-![Style tiles for Channel 4 Scrapbook.](/media/2013/067/a1/style_tiles.png)
+![Style tiles for Channel 4 Scrapbook.](../media/2013/067/a1/style_tiles.png)
 
 Style tiles are intended to fall somewhere between mood boards and full mock-ups or comps. Devised by [Samantha Warren][7], she describes them as:
 
@@ -42,7 +42,7 @@ Although unintentional, style tiles have started to feel a little too prescripti
 
 ## Element collages
 
-![Element collage for a current project.](/media/2013/067/a1/element_collage.png)
+![Element collage for a current project.](../media/2013/067/a1/element_collage.png)
 
 Recently we’ve been using something a bit more akin to element collages, which [Dan Mall wrote about][9] last year:
 

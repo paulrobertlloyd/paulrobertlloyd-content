@@ -11,7 +11,7 @@ category:
 color: "#c1a312"
 ---
 
-![net Awards 2014 nominee](/media/2014/033/a1/net_awards_nominee.png) [The net Awards][1] return for their fifteenth year, and I’m more than a little surprised to find myself nominated for _Designer of the Year_. Beyond the other nominees, having worked alongside [James Bates][2] – who has helped me solve a number of tricky design problems over the year – to be included in this line-up feels slightly fraudulent.
+![net Awards 2014 nominee](../media/2014/033/a1/net_awards_nominee.png) [The net Awards][1] return for their fifteenth year, and I’m more than a little surprised to find myself nominated for _Designer of the Year_. Beyond the other nominees, having worked alongside [James Bates][2] – who has helped me solve a number of tricky design problems over the year – to be included in this line-up feels slightly fraudulent.
 
 I suspect this is partly due to [my redesign of 24 ways][3], which launched at the same time nominations were being sought. I had great fun working alongside Drew, Brian, Owen and Anna, and saw first-hand how much work goes into commissioning, producing, editing and publishing the website every December. Its nomination for _Best Collaborative Project_ is well deserved, and approaching its tenth year, a win would be a nice way to celebrate that milestone.
 

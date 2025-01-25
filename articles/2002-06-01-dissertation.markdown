@@ -64,17 +64,17 @@ This was a comfortable duopoly, where each network competed through its programm
 
 The quality of television broadcasts at this time were crude to say the least. Limited to black and white and with a low resolution, television was worsened by the quality of the receivers that tended to suffer from poor definition. Furthermore 20 percent of the screen was considered unusable due a lack of focus around the screens edge, and different television sets cropped the picture at different points. This restricted the graphic designer somewhat and resulted in large and bold lettering with strong tonal contrast, and illustrations with heavy lines and little detail. It’s not surprising that ‘op’ and ‘pop’ art themes were in common use throughout the fifties.
 
-![The Bat’s Wings symbol.](/media/2002/152/a1/bbc_bat_wings.png "The Bat’s Wings symbol for the BBC Television Service. BBC/Abram Games, 1953.")
+![The Bat’s Wings symbol.](../media/2002/152/a1/bbc_bat_wings.png "The Bat’s Wings symbol for the BBC Television Service. BBC/Abram Games, 1953.")
 
-![Title sequence from Wednesday Magazine.](/media/1999/060/a1/wednesday_magazine.png "Title sequence from Wednesday Magazine. BBC/Bernard Lodge, 1958.")
+![Title sequence from Wednesday Magazine.](../media/1999/060/a1/wednesday_magazine.png "Title sequence from Wednesday Magazine. BBC/Bernard Lodge, 1958.")
 
-![Title sequence from Kingsley Amis Goes Pop.](/media/1999/060/a1/kingsley_amis_goes_pop.png "Title sequence from Kingsley Amis Goes Pop. Associated Rediffusion/John Tribe, 1962.")
+![Title sequence from Kingsley Amis Goes Pop.](../media/1999/060/a1/kingsley_amis_goes_pop.png "Title sequence from Kingsley Amis Goes Pop. Associated Rediffusion/John Tribe, 1962.")
 
 The launch of BBC2 in 1964 saw the introduction of 625-line higher resolution broadcasts and three years later colour, both of great benefit to the designer although not straight away. BBC1 and ITV only began colour broadcasts in 1969 and the improved 625-line transmissions were still broadcast alongside those using 405-lines, which even with their low quality, weren’t suspended until early 1985. It was up to the audience to upgrade their sets, and sales of colour receivers were unexpectedly low when colour television broadcasts began. Before the majority of viewers had 625-line colour receivers, the designer still had to consider those watching on older sets. However, typical graphic design during the sixties saw a greater use of photography, more detailed illustration and a more apparent use of calligraphy.
 
-[![The Old Grey Whistle Test.](/media/1999/060/a1/the_old_grey_whistle_test.png)](https://www.youtube.com/watch?v=KNNAfzKwRn4 "Title sequence from The Old Grey Whistle Test. BBC/Roger Ferrin, 1968.")
+[![The Old Grey Whistle Test.](../media/1999/060/a1/the_old_grey_whistle_test.png)](https://www.youtube.com/watch?v=KNNAfzKwRn4 "Title sequence from The Old Grey Whistle Test. BBC/Roger Ferrin, 1968.")
 
-![5 frames from the title sequence for I, Claudius.](/media/1999/060/a1/i_claudius.png "Title sequence from I, Claudius. BBC/Richard Bailey, 1976.")
+![5 frames from the title sequence for I, Claudius.](../media/1999/060/a1/i_claudius.png "Title sequence from I, Claudius. BBC/Richard Bailey, 1976.")
 {.align-bleed}
 
 Graphic design was also starting to become more automated with an increasing knowledge of the effects a film rostrum camera could achieve. This was a vertically mounted camera that was able to move up and down above a bench on which artwork was placed, the bench providing the majority of the movement. Used mostly during the filming of animated title sequences, it was also used for filming compilations of stills (photographs, paintings or prepared artwork) and shooting cells a frame at a time ready for animation. Later computers became involved in order to control the rostrum camera and allowed complicated moves and techniques such as ‘slit-scan’ and ‘streak-timing’ to be achieved.
@@ -101,13 +101,13 @@ Although it was expensive to implement, it was radically different to its compet
 
 The idents were part of a consistent presentation style across the channel.
 
-- ![Clock.](/media/2002/152/a1/channel_4_1982_clock.png "Clock.")
+- ![Clock.](../media/2002/152/a1/channel_4_1982_clock.png "Clock.")
 
-- ![Programme menu.](/media/2002/152/a1/channel_4_1982_menu.png "Programme menu.")
+- ![Programme menu.](../media/2002/152/a1/channel_4_1982_menu.png "Programme menu.")
 
-- ![Presentation slide.](/media/2002/152/a1/channel_4_1982_slide_1.png "Presentation slide for One Night Stand.")
+- ![Presentation slide.](../media/2002/152/a1/channel_4_1982_slide_1.png "Presentation slide for One Night Stand.")
 
-- ![Presentation slide.](/media/2002/152/a1/channel_4_1982_slide_2.png "Presentation slide for The Friday Alternative.")
+- ![Presentation slide.](../media/2002/152/a1/channel_4_1982_slide_2.png "Presentation slide for The Friday Alternative.")
 
 Idents were paired with ""Fourscore"", a four-note signature tune composed by David Dundas that, like the figure four, could be adapted to suit a particular mood or theme. Compared to its rivals, Channel 4 used bright colours, movement, ground breaking technology with a consistent image both on and off screen. In turn, Channel 4 became the first channel to have a brand, a visual property to hang on to – something very important to a channel that was going to find it hard competing against three well established channels and a lot of bad press initially.
 
@@ -122,11 +122,11 @@ The viewer was suddenly confronted with an array of flying logos. Thames for exa
 
 The BBC for some part, also jumped on the computer generated bandwagon. In 1985, its famous globe became what it termed a COW (Computer Originated World) – a blue and gold revolving globe on a black background with ‘BBC1’ in large gold letters beneath. Its second channel BBC2 used a stencilled serif TWO that rose out of a grey background, with three portions coloured red, green and blue – the primary colours used to produce colour imagery in television.
 
-- ![Blue and gold globe above gold ‘BBC1’ letters.](/media/2002/152/a1/bbc_one_ident_1985.png "BBC1’s ‘Computer Originated World’.")
+- ![Blue and gold globe above gold ‘BBC1’ letters.](../media/2002/152/a1/bbc_one_ident_1985.png "BBC1’s ‘Computer Originated World’.")
 
-- ![Stencilled uppercase lettering spells out ‘TWO’.](/media/2002/152/a1/bbc_two_ident_1987.png "BBC TWO Ident.")
+- ![Stencilled uppercase lettering spells out ‘TWO’.](../media/2002/152/a1/bbc_two_ident_1987.png "BBC TWO Ident.")
 
-- ![Thames logo stylised as a shiny metallic floating slab.](/media/2002/152/a1/thames_ident_198x.png "Presentation asset for Thames Television.")
+- ![Thames logo stylised as a shiny metallic floating slab.](../media/2002/152/a1/thames_ident_198x.png "Presentation asset for Thames Television.")
 
 ---
 
@@ -147,21 +147,21 @@ Theme specific identities were also created for sport, drama and children’s pr
 
 [Channel ident for Tyne Tees Television. ITV Network/English Markell Pockett, 1989.](https://www.youtube.com/watch?v=KzKus6_b_rY)
 
-- ![ITV logo](/media/2002/152/a1/itv_ident_1989_generic.png "Generic ITV logo.")
+- ![ITV logo](../media/2002/152/a1/itv_ident_1989_generic.png "Generic ITV logo.")
 
-- ![Children’s ITV logo.](/media/2002/152/a1/itv_ident_1989_childrens.png "Children’s ITV logo.")
+- ![Children’s ITV logo.](../media/2002/152/a1/itv_ident_1989_childrens.png "Children’s ITV logo.")
 
-- ![ITV Sport logo.](/media/2002/152/a1/itv_ident_1989_sport.png "ITV Sport logo.")
+- ![ITV Sport logo.](../media/2002/152/a1/itv_ident_1989_sport.png "ITV Sport logo.")
 
-- ![ITV Drama logo.](/media/2002/152/a1/itv_ident_1989_drama.png "ITV Drama logo.")
+- ![ITV Drama logo.](../media/2002/152/a1/itv_ident_1989_drama.png "ITV Drama logo.")
 
-- ![Ident for Border Television.](/media/2002/152/a1/itv_ident_1989_border.png "Border Television.")
+- ![Ident for Border Television.](../media/2002/152/a1/itv_ident_1989_border.png "Border Television.")
 
-- ![Ident for London Weekend Television.](/media/2002/152/a1/itv_ident_1989_lwt.png "London Weekend Television.")
+- ![Ident for London Weekend Television.](../media/2002/152/a1/itv_ident_1989_lwt.png "London Weekend Television.")
 
-- ![Ident for Thames Television.](/media/2002/152/a1/itv_ident_1989_thames.png "Thames Television.")
+- ![Ident for Thames Television.](../media/2002/152/a1/itv_ident_1989_thames.png "Thames Television.")
 
-- ![Ident for Yorkshire Television.](/media/2002/152/a1/itv_ident_1989_yorkshire.png "Yorkshire Television.")
+- ![Ident for Yorkshire Television.](../media/2002/152/a1/itv_ident_1989_yorkshire.png "Yorkshire Television.")
 
 With both Channel 4 and ITV having modern idents, the BBC’s two channels were starting to look outdated and dull. The BBC has a special place in broadcasting, as it does in the nations cultural fabric (sometimes affectionately referred to as ‘Auntie’ Beeb).
 
@@ -180,21 +180,21 @@ For BBC2, Lambie-Nairn used a far more radical approach by creating a family of 
 
 Whilst BBC1’s image was designed to endure and remain graphically appealing, BBC2’s identity would be developed over time. Consistency was also brought to each channel, with all promotional material carrying the channel logos in fixed positions on screen, and all other information such as programme start times, menus, apologies etc. set in the Futura typeface.
 
-- ![Figure 1 centred over an abstract globe.](/media/2002/152/a1/bbc_one_ident_1991.png "BBC1 ident.")
+- ![Figure 1 centred over an abstract globe.](../media/2002/152/a1/bbc_one_ident_1991.png "BBC1 ident.")
 
-- ![Paint splashes the figure ‘2’.](/media/2002/152/a1/bbc_two_ident_1991_paint.jpg "BBC2 Paint ident.")
+- ![Paint splashes the figure ‘2’.](../media/2002/152/a1/bbc_two_ident_1991_paint.jpg "BBC2 Paint ident.")
 
-- ![The word ‘CHILDREN'S’ displayed using neon-like lights.](/media/2002/152/a1/bbc_childrens_ident_1991.png "Children’s BBC ident.")
+- ![The word ‘CHILDREN'S’ displayed using neon-like lights.](../media/2002/152/a1/bbc_childrens_ident_1991.png "Children’s BBC ident.")
 
 &nbsp;
 
-- ![The figure ‘2’ styled as a blade, one point stuck in a teal floor.](/media/2002/152/a1/bbc_two_ident_1991_blade.jpg "BBC2 Blade ident.")
+- ![The figure ‘2’ styled as a blade, one point stuck in a teal floor.](../media/2002/152/a1/bbc_two_ident_1991_blade.jpg "BBC2 Blade ident.")
 
-- ![The figure ‘2’ styled as a fluffy toy dog.](/media/2002/152/a1/bbc_two_ident_1991_dog.jpg "BBC2 Dog ident.")
+- ![The figure ‘2’ styled as a fluffy toy dog.](../media/2002/152/a1/bbc_two_ident_1991_dog.jpg "BBC2 Dog ident.")
 
-- ![The figure ’2’ styled as a remote control toy car.](/media/2002/152/a1/bbc_two_ident_1991_car.jpg "BBC2 Car ident.")
+- ![The figure ’2’ styled as a remote control toy car.](../media/2002/152/a1/bbc_two_ident_1991_car.jpg "BBC2 Car ident.")
 
-- ![The figure ‘2’ formed from a bed of flowers in a garden.](/media/2002/152/a1/bbc_two_ident_1991_garden.jpg "BBC2 Garden ident.")
+- ![The figure ‘2’ formed from a bed of flowers in a garden.](../media/2002/152/a1/bbc_two_ident_1991_garden.jpg "BBC2 Garden ident.")
 
 After what Lambie-Nairn described as a “repositioning” of the two channels, both were seen as more up-to-date and accessible, without destroying BBC1’s already strong image. The BBC2 identities became a particular hit, both with the public and within the design industry. With no change to its programming, BBC2 was now seen as sophisticated, witty and entertaining. The ‘2’ figure was developed further over the following years with idents such as ""Fluffy Dog"" in which an excitable figure two leaps into the air and somersaults, and ""Car"" in which the 2 becomes a remote controlled car that whizzes around the screen, both becoming firm favourites with the audience. Alan Yentob, controller of BBC2 at the time, was quoted as saying:
 
@@ -259,7 +259,7 @@ The original set of idents featured straight vertical bands of colour – someti
 
 The idents proved extremely versatile with variations for children’s programming and its teenage stand T4 continuing the theme – slanting the bands slightly to the right and using bright and vibrant consistent colours such as blue, yellow and orange. All promotional material also maintained the square logo’s position as seen on screen.
 
-![4 frames from an ident featuring Richard Whiteley.](/media/2002/152/a1/channel_4_1999_richard_whiteley.jpg "Richard Whiteley. Channel 4/Spin, 1999.")
+![4 frames from an ident featuring Richard Whiteley.](../media/2002/152/a1/channel_4_1999_richard_whiteley.jpg "Richard Whiteley. Channel 4/Spin, 1999.")
 {.align-bleed}
 
 The first reworking of the idents, designed in-house and by Static 2358, played about more with the logo, moving it horizontally across the screen whilst flipping it about, spinning it around, blurring or distorting it before returning it to its standard position – reminiscent of the launch idents of 1982.
@@ -270,20 +270,20 @@ The first reworking of the idents, designed in-house and by Static 2358, played 
 
 New captions for programme start times were introduced, where four squares were centred on screen, the first three containing an image relating to the programme, whilst the last contained the 4 in its square. It was also around this time that idents for use during daytime were introduced, and saw the square coloured to complement its background (an orange square on blue, and red on green).
 
-![A programme slide for ‘Smallville’.](/media/2002/152/a1/channel_4_1999_slide.png "All presentation carried the logo in the same position on screen.")
+![A programme slide for ‘Smallville’.](../media/2002/152/a1/channel_4_1999_slide.png "All presentation carried the logo in the same position on screen.")
 
 The latest update saw some narrative elements added, with the vertical lines being created by vapour trails, the movement of water, the beating of a heart, coloured lights and sound waves. Again the logo became more involved within the ident, and whilst still remaining in the same position on screen, it mimicked the action taking place behind it.
 
-![Lines are formed from ripples in water.](/media/2002/152/a1/channel_4_2002_ripples.jpg "Ripples. Channel 4/Spin, 2002.")
+![Lines are formed from ripples in water.](../media/2002/152/a1/channel_4_2002_ripples.jpg "Ripples. Channel 4/Spin, 2002.")
 {.align-bleed}
 
-- ![Lines are formed from coloured slots.](/media/2002/152/a1/channel_4_2002_slots.jpg "Slots.")
+- ![Lines are formed from coloured slots.](../media/2002/152/a1/channel_4_2002_slots.jpg "Slots.")
 
-- ![Lines are formed by trees in a forest.](/media/2002/152/a1/channel_4_2002_trees.jpg "Trees.")
+- ![Lines are formed by trees in a forest.](../media/2002/152/a1/channel_4_2002_trees.jpg "Trees.")
 
-- ![Lines are formed from vapour trails.](/media/2002/152/a1/channel_4_2002_vapour_trails.jpg "Vapour Trails.")
+- ![Lines are formed from vapour trails.](../media/2002/152/a1/channel_4_2002_vapour_trails.jpg "Vapour Trails.")
 
-- ![Lines are formed from birds flying across the screen.](/media/2002/152/a1/channel_4_2002_birds.jpg "Birds.")
+- ![Lines are formed from birds flying across the screen.](../media/2002/152/a1/channel_4_2002_birds.jpg "Birds.")
 
 In retrospect, Channel 4 made a mistake with its over eagerness to compete with Channel 5, a channel that had a very populist output at odds with Channel 4’s. It was admitted later that the connections identity was rushed out ahead of the Channel 5 launch, and by the end of the decade returned to an identity close to that of 1982 with a strong involvement of colour and movement.
 
@@ -297,19 +297,19 @@ In 1997, the BBC’s corporate identity across all divisions was updated, with t
 
 It followed that with a new corporate identity, most elements of the corporation would have to be redesigned or altered to work alongside it. On television, BBC2 kept the popular 2’s and although some idents were discontinued, for those that remained only the 2 was slightly enlarged and new BBC logo and channel name added, with further idents added to the collection over the following years.
 
-- ![Paint splashes the figure ‘2’.](/media/2002/152/a1/bbc_two_ident_1997_paint.jpg "BBC2’s existing idents such as Paint were largely left untouched.")
+- ![Paint splashes the figure ‘2’.](../media/2002/152/a1/bbc_two_ident_1997_paint.jpg "BBC2’s existing idents such as Paint were largely left untouched.")
 
-- ![Small ‘2’ figures hit against a paint pot.](/media/2002/152/a1/bbc_two_ident_1997_paint_pot.jpg "Paint Pot, a new addition at this time, showed the strength of the identity. This featured a simple paint-pot that mimicked one of the first idents Paint.")
+- ![Small ‘2’ figures hit against a paint pot.](../media/2002/152/a1/bbc_two_ident_1997_paint_pot.jpg "Paint Pot, a new addition at this time, showed the strength of the identity. This featured a simple paint-pot that mimicked one of the first idents Paint.")
 
-- ![A kebab in the shape of a figure ‘2’.](/media/2002/152/a1/bbc_two_ident_1997_kebab.jpg "Some additions no longer featured the viridian colour – such as Kebab shown above – weakening the brand.")
+- ![A kebab in the shape of a figure ‘2’.](../media/2002/152/a1/bbc_two_ident_1997_kebab.jpg "Some additions no longer featured the viridian colour – such as Kebab shown above – weakening the brand.")
 
 BBC1 retained the globe, however it was given a new twist by using an orange air balloon styled as a globe, and floating it above different landmarks and regions across Britain, Lambie-Nairn again aiming to reposition the channel. The use of bright orange for the balloon was in strong contrast to the earthy browns, greens and yellows as well as the blues within the sky.
 
-- ![A round orange air balloon floats above St Michael's Mount, Cornwall.](/media/2002/152/a1/bbc_one_ident_1997_st_michaels_mount.jpg "St Michael's Mount, Cornwall.")
+- ![A round orange air balloon floats above St Michael's Mount, Cornwall.](../media/2002/152/a1/bbc_one_ident_1997_st_michaels_mount.jpg "St Michael's Mount, Cornwall.")
 
-- ![A round orange air balloon floats above The Needles, Isle of Wight.](/media/2002/152/a1/bbc_one_ident_1997_the_needles.jpg "The Needles, Isle of Wight.")
+- ![A round orange air balloon floats above The Needles, Isle of Wight.](../media/2002/152/a1/bbc_one_ident_1997_the_needles.jpg "The Needles, Isle of Wight.")
 
-- ![People dance in a carnival, with a round orange air balloon seen above.](/media/2002/152/a1/bbc_one_ident_1997_carnival.jpg "Later idents, such as Carnival, included images of people.")
+- ![People dance in a carnival, with a round orange air balloon seen above.](../media/2002/152/a1/bbc_one_ident_1997_carnival.jpg "Later idents, such as Carnival, included images of people.")
 
 All of the BBC’s children’s output was given a new look, using just the colours yellow and black and drawn animations:
 
@@ -331,18 +331,18 @@ However this only lasted two years, before the inevitable happened and all three
 
 Yet again, the ITV network was divided and segregated. Almost ten years after English and Pockett designed its first identity, ITV now wanted an identity that “better reflected the channels mass appeal and unique position in British TV as the channel closest to peoples heart” and one that “moved away from a distant, corporate image to a more consumer friendly brand” (Futurebrand.com, 2002). English and Pockett was again the company responsible for this new image, and saw a new logo with yellow lowercase ITV initials set inside a blue rectangle. These colours were chosen to reflect the networks heritage and took colours predominating in the logos of most regional companies. A year later, its on-screen implementation was introduced, and again a dual branding system was devised for nine of the 14 regional companies.
 
-![4 scenes from the ‘Foundry’ ident. A man sands some iron work, the sparks from which, in addition to his hard hat, form a heart shape.](/media/2002/152/a1/itv_ident_1999_foundry_anglia.png "In this ident, a group of architects are seen working around a table, before the heat motif is revealed, followed by a regions name and logo. ITV Network/English and Pockett, 1999.")
+![4 scenes from the ‘Foundry’ ident. A man sands some iron work, the sparks from which, in addition to his hard hat, form a heart shape.](../media/2002/152/a1/itv_ident_1999_foundry_anglia.png "In this ident, a group of architects are seen working around a table, before the heat motif is revealed, followed by a regions name and logo. ITV Network/English and Pockett, 1999.")
 {.align-bleed}
 
 16 different street level sequences were created showing activities of ordinary people in Britain – such as moving house, hanging out the washing, painting a floor – that revealed the heart motive at the end of the sequence.
 
-- ![Two overlapping torch lights in dark woods form a heart shape.](/media/2002/152/a1/itv_ident_1999_search_lights.jpg "Search Lights")
+- ![Two overlapping torch lights in dark woods form a heart shape.](../media/2002/152/a1/itv_ident_1999_search_lights.jpg "Search Lights")
 
-- ![Two ferris wheels form a heart shape.](/media/2002/152/a1/itv_ident_1999_funfair.jpg "Funfair")
+- ![Two ferris wheels form a heart shape.](../media/2002/152/a1/itv_ident_1999_funfair.jpg "Funfair")
 
-- ![Sprinklers on a football pitch form a heart shape.](/media/2002/152/a1/itv_ident_1999_football_pitch.jpg "Football Pitch")
+- ![Sprinklers on a football pitch form a heart shape.](../media/2002/152/a1/itv_ident_1999_football_pitch.jpg "Football Pitch")
 
-- ![Footsteps of two children running on the beach form a heart shape.](/media/2002/152/a1/itv_ident_1999_beach.jpg "Beach")
+- ![Footsteps of two children running on the beach form a heart shape.](../media/2002/152/a1/itv_ident_1999_beach.jpg "Beach")
 
 That is not to say that the hearts identity was universally appropriate, as was proven in the LWT region. With a long-standing reputation as the region for producing the majority of the networks weekend entertainment, and in London exclusively seen as an identity for the weekend, the hearts theme in its original format just didn’t fit. A more appropriate version was devised in which a camera panned across a video wall showing clips from the previous hearts idents as well as LWT branding. The music was also changed to be far more upbeat.
 
@@ -350,11 +350,11 @@ That is not to say that the hearts identity was universally appropriate, as was 
 
 Only nine of the 14 regions used these idents. Ulster Television (UTV) had by now developed a completely separate identity to that of ITV, and the Scottish regions (Scottish and Grampian), both owned by Scottish Media Group, opted out and had a separate identity created involving a blue square and images of Scots of all ages in daily activities. Also, the three Carlton Communication owned regions (Central, Westcountry and Carlton) since renamed Carlton used an alternative – though still based on the hearts theme. The Lambie-Nairn produced idents indicated that Carlton was the star of the ITV network and was reflected on-screen with animations of various hearts that have a star in the corner before ending with a standardised Carlton title. In effect, ITV was now seemingly four different regions: UTV, and those owned by Carlton, Scottish and Granada media groups.
 
-- ![Carlton and ITV logos centred on a coloured background which shows enlarged stars.](/media/2002/152/a1/carlton_ident_1999.jpg "Ident for franchises owned by Carlton Communications in 1999.")
+- ![Carlton and ITV logos centred on a coloured background which shows enlarged stars.](../media/2002/152/a1/carlton_ident_1999.jpg "Ident for franchises owned by Carlton Communications in 1999.")
 
-- ![Scottish TV logo centred on the screen, with a moody landscape in the background.](/media/2002/152/a1/stv_ident_2000.jpg "In 2000, the two Scottish franchises introduced a separate identity which made no reference to ITV.")
+- ![Scottish TV logo centred on the screen, with a moody landscape in the background.](../media/2002/152/a1/stv_ident_2000.jpg "In 2000, the two Scottish franchises introduced a separate identity which made no reference to ITV.")
 
-- ![The UTV logo on a red background.](/media/2002/152/a1/utv_ident_2001.jpg "In Northern Ireland, UTV opted to use a different brand identity as well.")
+- ![The UTV logo on a red background.](../media/2002/152/a1/utv_ident_2001.jpg "In Northern Ireland, UTV opted to use a different brand identity as well.")
 
 Whilst the BBC tried to reflect its public service image (bringing the world to every corner of Britain), it brought with it a recognition of the rest of Britain. Indeed, it was the first time that BBC1 had used such strong regional elements in its identity. ITV was also trying to display its credentials as not only Britain’s most popular channel, but as that closest to peoples hearts. But this was at a time when many regional names and identities were disappearing, each providing a strong link with viewers. It turned out that whilst the BBC was becoming more regionalised (a fact reflected in its programme scheduling and budgets), ITV was becoming more centralised, both on and off screen.
 
@@ -366,23 +366,23 @@ This saw idents, end credits and other programme junctions being increasingly us
 
 This information in the past tended to be shown at the end of a programme. In addition, late 2001 saw channels start to use programme junctions and their associated idents to not only display information about what channel you were watching, but also contained menus (before only seen in separate promotions, or when there had been schedule changes), detailing up-coming programmes.
 
-- ![Chris Tarrant promotes ‘Who Wants to Be a Millionaire’ while the end credits for ‘Coronation Street’ are shown on the right of the screen.](/media/2002/152/a1/itv_ecp_2001.png "End credit promotion on ITV.")
+- ![Chris Tarrant promotes ‘Who Wants to Be a Millionaire’ while the end credits for ‘Coronation Street’ are shown on the right of the screen.](../media/2002/152/a1/itv_ecp_2001.png "End credit promotion on ITV.")
 
-- ![End credits roll on the left two-thirds of the screen, with the remaining third given over to a promotion for an upcoming programme.](/media/2002/152/a1/channel_4_1999_ecp.png "End credit promotion on Channel 4.")
+- ![End credits roll on the left two-thirds of the screen, with the remaining third given over to a promotion for an upcoming programme.](../media/2002/152/a1/channel_4_1999_ecp.png "End credit promotion on Channel 4.")
 
-- ![Red ‘Lines’ ident overlaid with text promoting upcoming programmes.](/media/2002/152/a1/channel_4_2001_programme_menu.png "Programme menu on Channel 4.")
+- ![Red ‘Lines’ ident overlaid with text promoting upcoming programmes.](../media/2002/152/a1/channel_4_2001_programme_menu.png "Programme menu on Channel 4.")
 
-- ![Next and later programmes shown on a field of yellow, with the ‘2’ character in the top right corner and the BBC Two logo in the bottom right.](/media/2002/152/a1/bbc_two_menu_2001.jpg "Programme menu on BBC2.")
+- ![Next and later programmes shown on a field of yellow, with the ‘2’ character in the top right corner and the BBC Two logo in the bottom right.](../media/2002/152/a1/bbc_two_menu_2001.jpg "Programme menu on BBC2.")
 
 In November 2001, BBC2 updated its ten-year-old idents, for which such menus were an integral part. Although the original and subsequent sets of idents contained the viridian colour branding, it was not compulsory, and later idents started not to feature the colour – for those that did the colour appeared in different places. The new idents involved giving the channel consistent co-ordinated colours – a white 2 on a deep yellow backdrop, as well as a single four note jingle that could be subtly adapted. Also nation specific idents have been designed – currently in Northern Ireland only, were part of the evening schedule is changed from the rest of the UK’s to suit its local audience. The channel insignia was changed also to a purple rectangle positioned in the bottom right of the screen.
 
-- ![The ‘2’ character bounced on a field of yellow.](/media/2002/152/a1/bbc_two_ident_2001_bounce.jpg "Bounce.")
+- ![The ‘2’ character bounced on a field of yellow.](../media/2002/152/a1/bbc_two_ident_2001_bounce.jpg "Bounce.")
 
-- ![The ‘2’ character points at a fallen domino.](/media/2002/152/a1/bbc_two_ident_2001_domino.jpg "Domino.")
+- ![The ‘2’ character points at a fallen domino.](../media/2002/152/a1/bbc_two_ident_2001_domino.jpg "Domino.")
 
-- ![The ‘2’ character fixes an incorrectly displayed BBC Two logo.](/media/2002/152/a1/bbc_two_ident_2001_logo.jpg "Logo.")
+- ![The ‘2’ character fixes an incorrectly displayed BBC Two logo.](../media/2002/152/a1/bbc_two_ident_2001_logo.jpg "Logo.")
 
-- ![The ‘2’ character floats among some fishes.](/media/2002/152/a1/bbc_two_ident_2001_fish.jpg "Fish.")
+- ![The ‘2’ character floats among some fishes.](../media/2002/152/a1/bbc_two_ident_2001_fish.jpg "Fish.")
 
 This was all aimed to give the channel a more contemporary feel “retaining and reinforcing the wit and personality the 2s have already established, whilst presenting a new and refreshed image for BBC2” (Wilkes, 2001). The first batch of idents featured the 2 bouncing, scaring of a shoal of mackerel, falling over like a domino, and growing a pair of robotic arms to turn round a portion of screen to reveal the BBC2 logo. There was also a change to the way junctions were handled with the idents including now, next and later information to guide viewers through what they might like to watch.
 
@@ -406,9 +406,9 @@ The BBC’s Breakfast News had titles involving a globe at the centre of a clock
 
 As for ITN, these images were used much less, preferring to use purely computer animated sequences involving the programme titles or in the case of News at Ten, a computer rendered London skyline before closing in on the familiar clock face of Big Ben.
 
-[![Title sequence for ITN News at 12:30.](/media/2002/152/a1/itn_news_at_1230_1991.jpg "ITN News at 12:30.")](https://www.youtube.com/watch?v=1CQ42OyudLE)
+[![Title sequence for ITN News at 12:30.](../media/2002/152/a1/itn_news_at_1230_1991.jpg "ITN News at 12:30.")](https://www.youtube.com/watch?v=1CQ42OyudLE)
 
-[![Title sequence for ITN News at Ten.](/media/2002/152/a1/itn_news_at_ten_1988.jpg "ITN News at Ten.")](https://www.youtube.com/watch?v=W7VArxi0Pv0)
+[![Title sequence for ITN News at Ten.](../media/2002/152/a1/itn_news_at_ten_1988.jpg "ITN News at Ten.")](https://www.youtube.com/watch?v=W7VArxi0Pv0)
 
 However both the BBC and ITN started their bulletins in exactly the same manor – their large initials being placed centre screen before launching into their respective animations, presumably as an indication of authority.
 
@@ -419,7 +419,7 @@ The first real change to come to this clichéd and computer orientated world was
 
 This resulted in a dark, yet subtly colourful animation featured lightning bolts and strong geometric lines and shapes criss-crossing the screen, before ending with radiating concentric rings beaming out from a mast, reminiscent of old newsreel footage. However Lambie-Nairn had no control over the music that was used, and again a traditional and urgent sounding score only served to emphasise the harsher aspects of the animation.
 
-[![Title sequence for BBC Nine O’Clock News.](/media/2002/152/a1/bbc_nine_oclock_news_1988.jpg "BBC Nine O’Clock News.")](https://www.youtube.com/watch?v=ejJeTiPTyrs)
+[![Title sequence for BBC Nine O’Clock News.](../media/2002/152/a1/bbc_nine_oclock_news_1988.jpg "BBC Nine O’Clock News.")](https://www.youtube.com/watch?v=ejJeTiPTyrs)
 
 ### Branding news
 
@@ -431,13 +431,13 @@ The music from the individual bulletins was retained, but updated and modified t
 
 The sets background also varied its colour through the course of the day – starting with light pinks and blues at breakfast, darkening through the day to dark blues and oranges for the Nine O’Clock News bulletin, reflecting the time of day.
 
-- ![Title card for BBC News bulletins.](/media/2002/152/a1/bbc_news_1994_titles_1.jpg "Title card for BBC News bulletins.")
+- ![Title card for BBC News bulletins.](../media/2002/152/a1/bbc_news_1994_titles_1.jpg "Title card for BBC News bulletins.")
 
-- ![The BBC virtual news studio, as shown during the title sequence.](/media/2002/152/a1/bbc_news_1994_titles_2.jpg "The BBC’s virtual news studio took pride of place at the start of bulletins.")
+- ![The BBC virtual news studio, as shown during the title sequence.](../media/2002/152/a1/bbc_news_1994_titles_2.jpg "The BBC’s virtual news studio took pride of place at the start of bulletins.")
 
-- ![News presenter Anna Ford sits in front of a light blue window key displaying the BBC logo.](/media/2002/152/a1/bbc_news_1994_six_oclock.jpg "Window key for BBC Six O'Clock News…")
+- ![News presenter Anna Ford sits in front of a light blue window key displaying the BBC logo.](../media/2002/152/a1/bbc_news_1994_six_oclock.jpg "Window key for BBC Six O'Clock News…")
 
-- ![News presenter Michael Buerk sits in front of dark blue and bronze window key displaying the BBC logo.](/media/2002/152/a1/bbc_news_1994_nine_oclock.jpg "…and BBC Nine O'Clock News. Bulletins maintained a degree of individually.")
+- ![News presenter Michael Buerk sits in front of dark blue and bronze window key displaying the BBC logo.](../media/2002/152/a1/bbc_news_1994_nine_oclock.jpg "…and BBC Nine O'Clock News. Bulletins maintained a degree of individually.")
 
 ITN followed suit a few years later with a generic brand again designed by Lambie-Nairn. An original ITN logo from the 1970’s was brought back into use (the current incarnation having been heavily tampered with by computer using chrome and three-dimensional shadowing), and other familiar elements from ITN’s visual heritage such as the shot of Big Ben and the ‘bongs’ were used for all its programmes.
 
@@ -448,15 +448,15 @@ New titles were created which exclusively featured the clock face of Big Ben, wi
 
 The modern building nearly all of glass provided the backdrop for all ITN’s bulletins, with modifications only needed to prevent reflection and allow the set to be undisturbed by weather conditions.
 
-[![Title sequences for ITN Lunchtime News and ITN Early Evening News.](/media/2002/152/a1/itn_news_1996.jpg)](https://www.youtube.com/watch?v=GTQEnU6XrVo "The clock face of Big Ben was at the start of every ITN bulletin from 1996.")
+[![Title sequences for ITN Lunchtime News and ITN Early Evening News.](../media/2002/152/a1/itn_news_1996.jpg)](https://www.youtube.com/watch?v=GTQEnU6XrVo "The clock face of Big Ben was at the start of every ITN bulletin from 1996.")
 
 In 1999 however, news programmes on ITV, like those on Channels 4 and 5, no longer used the ITN name or branding, and used the ITV name instead – reinforcing the channels brand rather than ITN’s own.
 
-[![Title sequence for ITV Lunchtime News.](/media/2002/152/a1/itv_news_1999.jpg)](https://www.youtube.com/watch?v=8gv6AqELpqw "As provider of news to ITV, ITN were forced to remove all it’s name and branding, using a separate ITV News name.")
+[![Title sequence for ITV Lunchtime News.](../media/2002/152/a1/itv_news_1999.jpg)](https://www.youtube.com/watch?v=8gv6AqELpqw "As provider of news to ITV, ITN were forced to remove all it’s name and branding, using a separate ITV News name.")
 
 Up until the launch of Channel 5 in 1997 and its news offering ""5 News"", the actual presentation of news had remained much the same. Aimed at a younger and perhaps less news-interested audience, and with a more tabloid agenda, it was set in a bright and colourful newsroom and involved the anchor sitting on a desk rather than behind one. Individual reporters for different sections of news (i.e. politics and sport) had their own sections of the set in which souvenirs and mementos were set onto shelves (politics having three mugs from each of the main parties, rosettes, pictures of MPs etc. whilst sport had a football, scarves and other memorabilia).
 
-[![Channel 5 News, 31 March 1997.](/media/2002/152/a1/channel_5_news_1997.jpg)](http://www.youtube.com/watch?v=-Z-ut-OLyA8)
+[![Channel 5 News, 31 March 1997.](../media/2002/152/a1/channel_5_news_1997.jpg)](http://www.youtube.com/watch?v=-Z-ut-OLyA8)
 
 This was radically different to anything that had been seen on television in the UK before, and was loosely based on a news programme from Canada. Its title sequence had a fast pace matched by its musical score, bright colours and quick cuts between news type images.
 
@@ -475,22 +475,22 @@ The main bulletins on BBC1 shared similar but varied titles in which maps of fir
 
 [Title sequence for BBC Nine O’Clock News.](https://www.youtube.com/watch?v=DdqiModYv5Q)
 
-- ![Still from ident for BBC News 24.](/media/2002/152/a1/bbc_news_24_1999.png "BBC News 24 branding.")
+- ![Still from ident for BBC News 24.](../media/2002/152/a1/bbc_news_24_1999.png "BBC News 24 branding.")
 
-- ![Still from ident for BBC World.](/media/2002/152/a1/bbc_world_1999.png "BBC World branding.")
+- ![Still from ident for BBC World.](../media/2002/152/a1/bbc_world_1999.png "BBC World branding.")
 
 As for the BBC’s regions, they again took the BBC News elements, whilst adjusting their colours – the English regions used oranges, yellows and light blue for example – and adding local elements such as map shapes and place names. All this was to increase viewers to the regional programmes, with the use of similar elements suggesting to viewers that they were essentially watching the same programme from the same people.
 
-![5 frames from the title sequence for BBC Look North.](/media/2002/152/a1/bbc_news_look_north_2001.png "Title sequence for BBC Look North. BBC/Lambie-Nairn, 2001")
+![5 frames from the title sequence for BBC Look North.](../media/2002/152/a1/bbc_news_look_north_2001.png "Title sequence for BBC Look North. BBC/Lambie-Nairn, 2001")
 {.align-bleed}
 
-- ![Title card for BBC Reporting Scotland.](/media/2002/152/a1/bbc_news_reporting_scotland_2001.png "BBC Reporting Scotland.")
+- ![Title card for BBC Reporting Scotland.](../media/2002/152/a1/bbc_news_reporting_scotland_2001.png "BBC Reporting Scotland.")
 
-- ![Title card for BBC Wales Today.](/media/2002/152/a1/bbc_news_wales_today_2001.png "BBC Wales Today.")
+- ![Title card for BBC Wales Today.](../media/2002/152/a1/bbc_news_wales_today_2001.png "BBC Wales Today.")
 
-- ![Title card for BBC Newsline.](/media/2002/152/a1/bbc_newsline_2001.png "BBC Newsline.")
+- ![Title card for BBC Newsline.](../media/2002/152/a1/bbc_newsline_2001.png "BBC Newsline.")
 
-- ![Title card for BBC Newyddion.](/media/2002/152/a1/bbc_newyddion_2001.png "BBC Newyddion.")
+- ![Title card for BBC Newyddion.](../media/2002/152/a1/bbc_newyddion_2001.png "BBC Newyddion.")
 
 All bulletins on BBC1 shared the same set, with the nations and regions using similar sets based on the same themes. Even the 24-hour news channels borrowed elements, creating a unified brand across every area of the departments presentation. Music again followed the ‘same but different’ theme, using upbeat yet punchy scores based on the famous beeps heard on radio to mark the hour.
 

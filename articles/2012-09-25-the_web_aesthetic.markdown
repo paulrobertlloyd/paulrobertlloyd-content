@@ -18,7 +18,7 @@ category:
 
 _This article is [also available in Italian][it-IT]{hreflang="it-IT" rel="alternate external"}_
 
-![Illustration of a turtle with a twisted shell on its back.](/media/2012/283/a1/illustration.png "Illustration: Kevin Cornell for A List Apart.")
+![Illustration of a turtle with a twisted shell on its back.](../media/2012/283/a1/illustration.png "Illustration: Kevin Cornell for A List Apart.")
 {.align-bleed}
 
 > It is the nature of the web to be flexible, and it should be our role as designers and developers to embrace this flexibility, and produce pages which, by being flexible, are accessible to all.
@@ -50,9 +50,9 @@ Like the web, television is a medium where the access devices differ: Television
 
 This was especially true in the 1970s and early 1980s. Although programs were recorded in color, broadcasters still had to consider the large number of people who owned black-and-white sets. On-screen graphics needed to work on both types of screens, so designers used contrasting shapes and colors. For example, the idents for BBC1 used a yellow (and later, bright green) rotating globe on a dark blue field. The resulting design may have been garish, but it worked.
 
-- ![BBC ident from 1974.](/media/2012/283/a1/bbc1_1974.png "BBC ident from 1974.")
+- ![BBC ident from 1974.](../media/2012/283/a1/bbc1_1974.png "BBC ident from 1974.")
 
-- ![BBC ident from 1981.](/media/2012/283/a1/bbc1_1981.png "BBC ident from 1981.")
+- ![BBC ident from 1981.](../media/2012/283/a1/bbc1_1981.png "BBC ident from 1981.")
 
 Television is facing another period of transition, this time toward a high-definition widescreen format. Because many viewers own standard-definition 4:3 televisions, designers again need to compromise, working within a “safe area” to ensure graphics don’t get cropped on older sets. As such, graphics on widescreen televisions tend to float in the middle of the screen, not yet able to make use of the full width.
 
@@ -64,7 +64,7 @@ Before “killer websites” and the desire to produce print-like layouts – wh
 
 In 1995, [Hotwired][4] used just sixteen colors. Navigation on the homepage consisted of little more than six four-color, 1kb GIFs representing each topic area. The layout was just those images, centered:
 
-![Screenshot of Hotwired.](/media/2012/283/a1/hotwired_1995.png "Hotwired, circa 1995.")
+![Screenshot of Hotwired.](../media/2012/283/a1/hotwired_1995.png "Hotwired, circa 1995.")
 
 Surrounded by high-resolution displays and limitless bandwidth, it’s easy to forget that similar constraints still exist. Although devices are becoming ever more powerful and feature-rich, less capable devices continue to be developed as well; for example, the Amazon Kindle is a popular device, yet most of the line’s e-reader models feature cellular connectivity and a monochrome E Ink display.
 
@@ -88,9 +88,9 @@ Rather than generating differently sized images and determining which should be 
 
 The [dConstruct Archive][6] is a small site where people can listen to talks given at previous dConstruct conferences. Here, background detail around the face of each speaker has been blurred out, generating images with fewer compression artifacts and therefore smaller file sizes. This technique works especially well for portraits, as humans tend to focus on facial features anyway.
 
-- ![Original speaker portrait image: 9kb.](/media/2012/283/a1/dconstruct_archive_original.jpg "Original image: 9kb.")
+- ![Original speaker portrait image: 9kb.](../media/2012/283/a1/dconstruct_archive_original.jpg "Original image: 9kb.")
 
-- ![Optimized speaker portrait image: 4kb.](/media/2012/283/a1/dconstruct_archive_optimised.jpg "Optimized image: 4kb.")
+- ![Optimized speaker portrait image: 4kb.](../media/2012/283/a1/dconstruct_archive_optimised.jpg "Optimized image: 4kb.")
 
 To work out which image sizes to use, the smallest and largest displays were taken into account. We can already see a failing in current responsive image proposals. If you visit this site, you will notice that larger viewports sometimes display smaller images, because the size of the image required is often dependent on the size of its containing block, _not_ the size of the viewport. Yet viewport is the value the proposed standards would have us query.
 
@@ -100,9 +100,9 @@ If images with fewer colors and higher levels of compression can deliver smaller
 
 With a theme of “playing with the future,” the [dConstruct 2012][7] conference site employed a highly typographic design that featured monochrome images with areas of flat color. This design decision meant images could be really small, some needing as few as eight colors:
 
-- ![Original speaker portrait image: 14kb.](/media/2012/283/a1/dconstruct_2012_original.jpg "Original image: 14kb.")
+- ![Original speaker portrait image: 14kb.](../media/2012/283/a1/dconstruct_2012_original.jpg "Original image: 14kb.")
 
-- ![Optimized speaker portrait image: 11kb.](/media/2012/283/a1/dconstruct_2012_monochrome.png "Optimized image: 11kb.")
+- ![Optimized speaker portrait image: 11kb.](../media/2012/283/a1/dconstruct_2012_monochrome.png "Optimized image: 11kb.")
 
 As we saw in the television example, the constraints of a medium can impact the resulting aesthetic. In that case, should images with fewer colors or blurred backgrounds – and perhaps even noticeable compression artifacts – become an accepted norm on the web? Surely the popularity of services like Instagram (itself a product born of constraints) has proven that [photography is judged by its content][8], not by its resolution.
 
@@ -116,7 +116,7 @@ Rather than increasing the _resolution_ of images as sites scale up, we can thin
 
 When accessed on more powerful devices like newer smartphones, tablets, and desktop computers (those that can “[cut the mustard][10]”), an image is displayed for each story. These images have been deemed “nice to have” – enhancements to the core experience that are conditionally requested after the basic page has loaded.
 
-![BBC News mobile with simple and enhanced interface.](/media/2012/283/a1/bbc_news.png)
+![BBC News mobile with simple and enhanced interface.](../media/2012/283/a1/bbc_news.png)
 
 Progressive enhancement has long featured in the developer’s toolbox, but it should now feature throughout the design process. By thinking about websites in less binary terms (desktop versus mobile; IE6 versus “modern” browsers), we can create experiences that adapt to the diverse landscape of the web.
 
@@ -136,27 +136,27 @@ That these apps can only be viewed using Chrome is an unnerving requirement, and
 
 When we think of websites inspired by print, those of newspapers spring to mind. The website for [""The New York Times""][12] features a fixed, densely packed, multi-column grid. Like many contemporary sites, content is suffocated by advertising, sharing widgets, and related links:
 
-![Screenshot of the New York Times website.](/media/2012/283/a1/nytimes_site.png#screenshot "New York Times website interface.")
+![Screenshot of the New York Times website.](../media/2012/283/a1/nytimes_site.png#screenshot "New York Times website interface.")
 
 The inappropriateness of this design becomes more apparent when compared to its [Chrome App][13] (which is thankfully accessible in other browsers). Content takes center stage, with a less cluttered, more focused interface that’s also responsive – to a point. Note that it also features less photographic imagery, supporting the idea that responsive images might only be a problem when web designers try to replicate print.
 
-![Screenshot of the New York Times web application.](/media/2012/283/a1/nytimes_app.png#screenshot "New York Times application interface.")
+![Screenshot of the New York Times web application.](../media/2012/283/a1/nytimes_app.png#screenshot "New York Times application interface.")
 
 ### Task-oriented sites
 
 Another website that suffers from similarly crowded layouts is [BBC Good Food:][14]
 
-![Screenshot of the BBC Good Food website.](/media/2012/283/a1/bbc_good_food_site.png#screenshot "BBC Good Food website interface.")
+![Screenshot of the BBC Good Food website.](../media/2012/283/a1/bbc_good_food_site.png#screenshot "BBC Good Food website interface.")
 
 Yet, when viewing a recipe page in its [Chrome app,][15] we again see a more considered, user-centred design; it’s far easier to follow a recipe when you don’t have to scroll the page.
 
-![Screenshot of the BBC Good Food application.](/media/2012/283/a1/bbc_good_food_app.png#screenshot "BBC Good Food application interface.")
+![Screenshot of the BBC Good Food application.](../media/2012/283/a1/bbc_good_food_app.png#screenshot "BBC Good Food application interface.")
 
 ### Content, not chrome
 
 A final example of this trend can be found on [Rdio][16]. As the music-streaming service has evolved, its designers have sought consistency between the website and desktop application. Where once these interfaces shared only a few components, now they are largely the same. This has resulted in a design that falls somewhere between the two: not quite a website, but not quite a desktop application either.
 
-![Screenshot of the Rdio website.](/media/2012/283/a1/rdio.png#screenshot "Rdio website interface.")
+![Screenshot of the Rdio website.](../media/2012/283/a1/rdio.png#screenshot "Rdio website interface.")
 
 Like the Chrome apps for ""The New York Times"" and BBC Good Food, this nudge toward a more app-like interface has resulted in a stronger focus on content (in this case, album covers), a more fluid layout, and less intrusive navigation.
 

@@ -19,7 +19,7 @@ color: "#e6772e"
 
 The website now covers [2575 stations][5], over 230 lines and branches, operated by [89 railway companies][6], serving 966 towns and cities, across [118 counties and regions][7].
 
-![Map of Great Britain showing the routes currently covered by Bradshaw’s Guide.](/media/2025/002/a1/map.png "Routes currently covered by Bradshaw’s Guide.")
+![Map of Great Britain showing the routes currently covered by Bradshaw’s Guide.](../media/2025/002/a1/map.png "Routes currently covered by Bradshaw’s Guide.")
 
 Tours in the third section include:
 

@@ -14,7 +14,7 @@ category:
 color: "#28a"
 ---
 
-![The homepage illustration for the GOV.UK Eleventy Plugin.](/media/2022/094/a1/image.png)
+![The homepage illustration for the GOV.UK Eleventy Plugin.](../media/2022/094/a1/image.png)
 
 Back in 2018, the Becoming a teacher team at the Department for Education wanted to [document the design evolution of the services they were building](https://design-history.herokuapp.com/keeping-a-design-history/). A small website was built using the [GOV.UK Prototype Kit](https://govuk-prototype-kit.herokuapp.com/docs), but this soon became difficult to manage as more people joined the team and wanted to write posts.
 
@@ -42,7 +42,7 @@ Knowing that teams often need to write documentation for internal users, or buil
 - Licence and copyright information
 - Site icons and Open Graph share images
 
-![Examples of customised websites using the plugin.](/media/2022/094/a1/customisation_examples.png "Examples of customised websites using the plugin.")
+![Examples of customised websites using the plugin.](../media/2022/094/a1/customisation_examples.png "Examples of customised websites using the plugin.")
 
 ## Get started
 

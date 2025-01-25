@@ -15,7 +15,7 @@ tags:
   - i4Ai1
 ---
 
-![A sign reading Austin.](/media/2011/075/a1/austin_sign.jpg)
+![A sign reading Austin.](../media/2011/075/a1/austin_sign.jpg)
 {.align-bleed}
 
 It’s been three years since I last visited the United States. For a small but considerable part of my life this place was home; an experience that’s left me as equally fascinated by its people and culture as I remain frustrated.
@@ -34,7 +34,7 @@ Much of this years programme catered towards topics the marketing and sales guys
 
 ## For the people
 
-![Lots of people in a pub.](/media/2011/075/a1/great_british_booze_up.jpg "The Great British Booze-up at Shakespeare’s Pub.")
+![Lots of people in a pub.](../media/2011/075/a1/great_british_booze_up.jpg "The Great British Booze-up at Shakespeare’s Pub.")
 
 Regardless of its size, diminishing quality and rampant commercialisation, the one thing SXSW still ensures is the convergence of peers at a single place and point in time. This year saw many of my fellow Clearlefties in attendance — indeed, being able to experience the event alongside my colleagues was the main reason for going. We were joined by a small British contingent who were able to make the Ginger Man our ‘local’ for the week.
 

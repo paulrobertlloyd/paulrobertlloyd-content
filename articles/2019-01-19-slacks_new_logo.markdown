@@ -14,7 +14,7 @@ category:
 color: "#4a154b"
 ---
 
-![The new logo for Slack.](/media/2019/019/a1/image.jpg "The new logo for Slack. Image: Pentagram.")
+![The new logo for Slack.](../media/2019/019/a1/image.jpg "The new logo for Slack. Image: Pentagram.")
 {.align-bleed}
 
 Slack has a new logo, and in a society fuelled by outrage, everyone hates it.
@@ -39,7 +39,7 @@ Could mine, John’s and others reaction be attributed to confirmation bias?
 
 Each of these projects was led by a different designer ([Paula Scher for the Library of Congress][7], [Harry Pearce for the John Lewis Partnership][8], [Michael Bierut for Slack][9]) and it was only six months ago that I included [Pentagram’s work for American Express][10] in a [post about subtle brand refinements][11]. Looking through their portfolio, I notice they [designed the logo for nearby University of Sussex][12], for which I’ve long appreciated its ‘US’ ligature. As this project never faced a barrage of opinion on Twitter, it never featured in my understanding of Pentagram’s output.
 
-![8 design concepts for the new Slack logo.](/media/2019/019/a1/possibilities.jpg "A range of possibilities Pentagram explored for the new identity. Image: Pentagram.")
+![8 design concepts for the new Slack logo.](../media/2019/019/a1/possibilities.jpg "A range of possibilities Pentagram explored for the new identity. Image: Pentagram.")
 
 In a second post, [John reviewed the range of alternative possibilities][13] Pentagram display on their overview of the project:
 

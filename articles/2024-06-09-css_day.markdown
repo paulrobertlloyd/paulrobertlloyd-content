@@ -60,7 +60,7 @@ Thankfully, somebody asked in the questions session afterwards why this was the 
 
 While earlier specifications weren’t able to incorporate this lesson, I suspect a best practice will emerge that’ll see developers prefixing all custom values with `--`, regardless of whether this is a requirement or not. I’m certainly going to start doing this.
 
-![A white mug with a variation of the ‘CSS is awesome’ logo on it, adapted to say CSS Day is awesome.](/media/2024/161/a1/css_day_mug.jpg "CSS Day is awesome – and I now have a mug to prove it.")
+![A white mug with a variation of the ‘CSS is awesome’ logo on it, adapted to say CSS Day is awesome.](../media/2024/161/a1/css_day_mug.jpg "CSS Day is awesome – and I now have a mug to prove it.")
 {.align-bleed}
 
 ## Powerful, yet undervalued

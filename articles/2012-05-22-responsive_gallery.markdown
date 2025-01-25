@@ -19,9 +19,9 @@ color: "#d8127e"
 
 ## Kiwibank
 
-![Kiwibank homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/143/a2/kiwibank.png)
+![Kiwibank homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/143/a2/kiwibank.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) Banks aren’t the most likeable organisations, but I’m developing a soft spot for [Kiwibank][1], a New Zealand-based bank that competes against larger Australian-based rivals.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) Banks aren’t the most likeable organisations, but I’m developing a soft spot for [Kiwibank][1], a New Zealand-based bank that competes against larger Australian-based rivals.
 
 Their [latest advertising campaign][2] suggests they’re willing to stand up for something new “and even a bit crazy”, and in the world of banking, a responsive website is just that. With mobile traffic pushing past 10%, Kiwibank asked [Springload][3] to help them become device agnostic. Springload founder and Director Bron Thomson: <q>The fixed-width paradigm has run its course – last year we noticed that 20 people tried to join Kiwibank from their PlayStation 3</q>.
 
@@ -32,7 +32,7 @@ Homepage size
 
 ## dConstruct 2012
 
-![dConstruct homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/143/a2/dconstruct.png)
+![dConstruct homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/143/a2/dconstruct.png)
 
 dConstruct returns for its eighth year in September, with [another stellar line-up taking to the stage in Brighton][4]. This year speakers will be ""Playing with the Future"" and historian, author and television presenter James Burke will keynote the event.
 
@@ -47,7 +47,7 @@ Homepage size
 
 ## ZURB
 
-![Zurb homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/143/a2/zurb.png)
+![Zurb homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/143/a2/zurb.png)
 
 It’s easy to think of Silicon Valley as filled with pointless start-ups building apps to rate hamsters, but it’s also home to innovative design agencies like [ZURB][5]. Alongside work for clients, they build applications to help others design great products too, through prototyping, rapid iteration and user feedback.
 

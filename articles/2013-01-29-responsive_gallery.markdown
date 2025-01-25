@@ -15,9 +15,9 @@ color: "#d8127e"
 
 ## An Event Apart
 
-![An Event Apart homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2013/029/a1/an_event_apart.png)
+![An Event Apart homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2013/029/a1/an_event_apart.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) [An Event Apart][1] is a conference series that takes places every year in the United States. For ‘people who make websites’, each edition is hosted by web luminaries Jeffery Zeldman and Eric Meyer.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) [An Event Apart][1] is a conference series that takes places every year in the United States. For ‘people who make websites’, each edition is hosted by web luminaries Jeffery Zeldman and Eric Meyer.
 
 The fixed layout of the previous site had made it difficult to promote a growing number of events, and also prevented the site from becoming a destination where videos and other educational content could be suitably presented.
 
@@ -30,7 +30,7 @@ Homepage requests/size
 
 ## The Next Web
 
-![The Next Web homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2013/029/a1/the_next_web.png)
+![The Next Web homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2013/029/a1/the_next_web.png)
 
 [The Next Web][4] is an online publication that covers Internet technology, business and culture. This has always been a beautiful site, if one overburdened with display advertising. Their recent refresh, designed by [Pascal Verstegen][5] takes things to the next level, with its flat aesthetic, two-colour palette and sleek Benton Sans typeface.
 
@@ -43,7 +43,7 @@ Homepage requests/size
 
 ## The Guardian
 
-![The Guardian article page on a mobile phone with a screenshot of the same page shown on a tablet behind.](/media/2013/029/a1/the_guardian.png)
+![The Guardian article page on a mobile phone with a screenshot of the same page shown on a tablet behind.](../media/2013/029/a1/the_guardian.png)
 
 Similar to the work being done at [BBC News][7], the Guardian recently relaunched their own mobile site with [responsive underpinnings][8]. Like the BBC’s offering, this site is limited to mobile and tablets right now, with the intention for this to replace the main site in time.
 

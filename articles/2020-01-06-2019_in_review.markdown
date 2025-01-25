@@ -32,7 +32,7 @@ My first day in Westminster was oddly unnerving. At my first sprint planning mee
 
 Working with an [existing design system][5], rather than attempting to build one myself was an unexpectedly freeing experience. Instead of worrying about the latest design trends, or being distracted by font libraries, I was able to focus on the problem at hand, while furthering my skills in prototyping and inclusive design. Surrounded by knowledgable and talented colleagues, the pang of imposter syndrome repeatedly reared its ugly head, but when it did, I could identify the unique qualities and experiences I brought to the team.
 
-![Mission patch for Apply for teacher training pilot](/media/2020/006/a1/mission_patch.png) This has been a year of professional development I would have missed had I continued taking on smaller piecemeal projects. Having long dismissed anything smelling of management, working alongside brilliant role models has made the idea of moving in that direction more appealing. A positive experience working in a large organisation presents options for the future, too.
+![Mission patch for Apply for teacher training pilot](../media/2020/006/a1/mission_patch.png) This has been a year of professional development I would have missed had I continued taking on smaller piecemeal projects. Having long dismissed anything smelling of management, working alongside brilliant role models has made the idea of moving in that direction more appealing. A positive experience working in a large organisation presents options for the future, too.
 
 Being part of the ‘Becoming a teacher’ team (whose number rapidly grew in the later half of the year) and rising to the challenge of delivering a service against a series of immovable deadlines, has easily been the most enjoyable and rewarding experience of my career to date.
 
@@ -42,7 +42,7 @@ With my finances needing repair, and with continuing uncertainty around Brexit, 
 
 In June, prior to attending my fourth CSS Day in Amsterdam, I opted to see the city whose [namesake treaty][6] created the European Union: Maastricht. I enjoyed finding my way through its meandering streets – with glimpses into lush gardens – stumbling upon watermills, medieval walls and churches, one of which had been converted into [a book shop unlike any other][7].
 
-![View from directly below the dome.](/media/2020/006/a1/lisbon.jpg "Dome of the National Pantheon in Lisbon.")
+![View from directly below the dome.](../media/2020/006/a1/lisbon.jpg "Dome of the National Pantheon in Lisbon.")
 
 In September I visited the home of [another signifiant EU treaty][8], the one containing Article 50. This was trolling by train!
 
@@ -58,11 +58,11 @@ When not working, travelling or sleeping, I was building [IndieKit][11], the Mic
 
 As I resist the urge to delete all the code and start again, it’s gratifying to see how far I’ve come. At the start of the decade the thought of writing any JavaScript terrified me, yet it ended with me having built something others are not only interested in, but in a few cases, actively using.
 
-- ![Museum of the Moon in Queens Park, Brighton.](/media/2020/006/a1/museum_of_the_moon.jpg "A few cultural highlights from the year: Museum of the Moon in Brighton’s Queens Park in May…")
+- ![Museum of the Moon in Queens Park, Brighton.](../media/2020/006/a1/museum_of_the_moon.jpg "A few cultural highlights from the year: Museum of the Moon in Brighton’s Queens Park in May…")
 
-- ![Antony Gormley exhibition at the Royal Academy.](/media/2020/006/a1/antony_gormley.jpg "…Antony Gormley at the Royal Academy in October…")
+- ![Antony Gormley exhibition at the Royal Academy.](../media/2020/006/a1/antony_gormley.jpg "…Antony Gormley at the Royal Academy in October…")
 
-- ![Olafur Eliasson exhibition at Tate Modern in November.](/media/2020/006/a1/olafur_eliasson.jpg "…and the Olafur Eliasson exhibition at Tate Modern in November.")
+- ![Olafur Eliasson exhibition at Tate Modern in November.](../media/2020/006/a1/olafur_eliasson.jpg "…and the Olafur Eliasson exhibition at Tate Modern in November.")
 
 ## Losing my voice?
 

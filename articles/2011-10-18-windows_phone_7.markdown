@@ -18,7 +18,7 @@ With three years of iPhone ownership I’ve become accustomed to the design and 
 
 Thankfully, with Clearleft having acquired a few different devices for mobile testing, I can spend a little time with each to learn how they work. First up; Windows Phone 7.
 
-![Three phones with screenshots of Windows Phone 7.](/media/2011/291/a1/image.jpg "Windows Phone 7.")
+![Three phones with screenshots of Windows Phone 7.](../media/2011/291/a1/image.jpg "Windows Phone 7.")
 
 ## Initial impressions
 

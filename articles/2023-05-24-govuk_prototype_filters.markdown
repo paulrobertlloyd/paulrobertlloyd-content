@@ -14,7 +14,7 @@ category:
 color: "#28a"
 ---
 
-![Illustration of an interface with checkboxes and radio buttons being generated from code, floating above a laptop.](/media/2023/144/a1/image.png)
+![Illustration of an interface with checkboxes and radio buttons being generated from code, floating above a laptop.](../media/2023/144/a1/image.png)
 
 One of the most exciting features included in version 13 of the [GOV.UK Prototype Kit][1] is its new plugin system.
 

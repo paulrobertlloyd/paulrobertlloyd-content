@@ -160,7 +160,7 @@ geojson:
         coordinates: [-87.64, 41.879]
 ---
 
-![View of a rocky outcrop.](/media/2008/267/a1/image.jpg "The landscape you travel across is one of the most scenic routes run by Amtrak.")
+![View of a rocky outcrop.](../media/2008/267/a1/image.jpg "The landscape you travel across is one of the most scenic routes run by Amtrak.")
 {.align-bleed}
 
 The California Zephyr is a 56 hour, 2348 mile long train journey that starts in Emeryville, California. After speeding across the deserts of Nevada and Utah, it climbs over the Rocky Mountains, tunnels under the Continental Divide before heading towards its final destination of Chicago’s Grand Union Station.
@@ -181,7 +181,7 @@ The landscape you travel across is one of the most scenic routes run by Amtrak, 
 
 Although these guides step of at [Reno][3], the commentary is continued by the conductors, who pass through the mixed terrain that is the [Rocky Mountains][4] and [Continental Divide][5] several times a week.
 
-![Route map](/media/2008/267/a1/route_map.png "Route of the California Zephyr.")
+![Route map](../media/2008/267/a1/route_map.png "Route of the California Zephyr.")
 {.align-bleed}
 
 Unlike flying, travelling by train is a far more social affair. The dinning car is strictly community seating, meaning if you are travelling alone you are required to share a table with three others. This is an excellent way to meet people, and adds a different twist to transcontinental travel.

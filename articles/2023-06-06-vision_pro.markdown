@@ -16,7 +16,7 @@ category:
 color: "#754"
 ---
 
-![Front view of the Apple Vision Pro.](/media/2023/157/a1/vision_pro.jpg)
+![Front view of the Apple Vision Pro.](../media/2023/157/a1/vision_pro.jpg)
 {.align-bleed}
 
 I couldn’t resist jotting down some initial thoughts about the [Vision Pro][1], Apple’s new ‘spatial computer’ announced yesterday at WWDC.
@@ -35,7 +35,7 @@ The Vision Pro borrows heavily from the design language of the Apple Watch, feat
 
 Objectively, this is a sophisticated product, yet one with several trade-offs needed to make an unsettling and unwieldy form factor workable.
 
-![Side view of the Apple Vision Pro and battery.](/media/2023/157/a1/vision_pro_with_battery.jpg "The Apple Vision Pro with its tethered battery. Photograph: Apple.")
+![Side view of the Apple Vision Pro and battery.](../media/2023/157/a1/vision_pro_with_battery.jpg "The Apple Vision Pro with its tethered battery. Photograph: Apple.")
 {.align-bleed}
 
 That it covers a large part of the wearer’s face is the most challenging aspect that required a compelling solution; projecting the user’s face onto an outward-facing screen is creepy as hell, but it is such an answer. I suspect this is something we’ll soon grow comfortable with.
@@ -80,7 +80,7 @@ That is, I think, the problem this device solves. Companies want our undivided a
 
 ## A dystopian vision
 
-![A person sat on a sofa wearing the Apple Vision Pro.](/media/2023/157/a1/image.jpg "Photograph: Apple.")
+![A person sat on a sofa wearing the Apple Vision Pro.](../media/2023/157/a1/image.jpg "Photograph: Apple.")
 {.align-bleed}
 
 When demonstrating visionOS, I was excited by the new UI paradigms and the possibilities working in an immersive environment may offer. Yet whenever the film cut to a person alone in their home, reality resurfaced with a discordant thud.

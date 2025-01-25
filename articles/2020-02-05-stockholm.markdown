@@ -73,7 +73,7 @@ geojson:
 
 ## Day 6
 
-![Route map](/media/2020/036/a1/route_map.png "Hässleholm to Stockholm, continuing on to Oslo via Gothenburg.")
+![Route map](../media/2020/036/a1/route_map.png "Hässleholm to Stockholm, continuing on to Oslo via Gothenburg.")
 {.align-pull}
 
 I arrive in Stockholm just before 6am having experienced a restless night. Passengers needn’t leave their cabins until 7am, but since everyone else has left, I feel obliged to do the same.
@@ -82,7 +82,7 @@ I wearily make my way through [Stockholm Central][1] station, unsure how to spen
 
 It’s still dark, and it’ll be a while until the city fully awakes. At 7am, I find myself on _Drottninggatan_{lang=sv}, a long pedestrianised street in [_Norrmalm_{lang=sv}][2] in the main commercial district of Stockholm. An outlet of Espresso Shop (the Nordic equivalent of Costa Coffee) has just opened, so I aim to be their first customer of the day.
 
-![Colourful buildings sat along the waters edge, with a few boats tethered in front of them.](/media/2020/036/a1/gamla_stan.jpg "*Gamla Stan* as viewed from Skeppsholmen island.")
+![Colourful buildings sat along the waters edge, with a few boats tethered in front of them.](../media/2020/036/a1/gamla_stan.jpg "*Gamla Stan* as viewed from Skeppsholmen island.")
 {.align-bleed}
 
 With the arrival of daylight, I head south in the direction of the neighbouring island of [_Gamla Stan_{lang=sv}][3], the oldest part of the city. The contrast with _Norrmalm_{lang=sv} couldn’t be any starker. Here an irregular and uneven series of medieval cobbled streets can be found weaving their way behind the Baroque formality of the [Royal Palace][4], the nearby [parliament buildings][5] and an unimposing [cathedral][6].
@@ -91,7 +91,7 @@ _Norrmalm_{lang=sv}, on the other hand, is dominated by more recent intervention
 
 While intrigued by this glut of modernist architecture, I’m finding it difficult to stay awake, so head to the hotel to see if I can check in early. The hotel is quite easy to locate: find _Tegnérlunden_{lang=sv} and look for the ugliest building overlooking the park. Thankfully, inside I find friendly staff and a cozy room ready for me to promptly doze off in.
 
-![Wax models of Björn, Agnetha, Anni-Frid and Benny.](/media/2020/036/a1/abba.jpg "Hanging out with some friends: wax models of Björn, Agnetha, Anni-Frid and Benny.")
+![Wax models of Björn, Agnetha, Anni-Frid and Benny.](../media/2020/036/a1/abba.jpg "Hanging out with some friends: wax models of Björn, Agnetha, Anni-Frid and Benny.")
 
 Waking up as daylight is fading, I’m worried I may have just wasted an entire day. Fortunately, the [ABBA Museum][11] is open until 8pm, and only 15 minutes away should I catch the number 7 tram from _T-Centralen_{lang=sv} to _Gröna Lund_{lang=sv}.
 
@@ -99,7 +99,7 @@ ABBA arose to fame with [their Eurovision performance][12] in Brighton’s Dome 
 
 I learn that Björn, Benny, Agnetha and Anni-Frid were already well known singers and muscians in Scandinavia before they joined together as a foursome, and that their unabashed commercialism – as evidenced by this museum, its shop, adjacent restaurant and hotel – is a factor of their formation in the early 70s. At this time, the left in Sweden was on a crusade against popular music, and ABBA’s Eurovision win meant a reluctant Swedish broadcaster had to host an expensive popular music contest the next year. ABBA weren’t invited to perform.
 
-![Escalators surrounded by rock faces painted with a white and blue pattern.](/media/2020/036/a1/t_centralen.jpg "A number of stations on the Stockholm Metro are carved out of rock and painted with different patterns. I can’t decide if this is insane or incredible. Probably both.")
+![Escalators surrounded by rock faces painted with a white and blue pattern.](../media/2020/036/a1/t_centralen.jpg "A number of stations on the Stockholm Metro are carved out of rock and painted with different patterns. I can’t decide if this is insane or incredible. Probably both.")
 {.align-bleed}
 
 ## Day 7
@@ -112,13 +112,13 @@ Continued poor weather means this is another day to be spent indoors. The [Natio
 
 I’m feeling tired and experiencing a mid-trip slump. I can only imagine that Stockholm is a beautiful city in the summer, but I’ve endured a week of consistently bad weather, and I’m getting quite fed up by it all. To cap it all off, today is the day Britain leaves the European Union. Brexit. It’s real, it’s happening and it’s just hours away.
 
-![People sitting inside ‘Gast’ coffee shop.](/media/2020/036/a1/gast.jpg "*Gast*{lang=sv}.")
+![People sitting inside ‘Gast’ coffee shop.](../media/2020/036/a1/gast.jpg "*Gast*{lang=sv}.")
 
 I’ve decided to hide away in a trendy coffee shop, and [_Gast_{lang=sv}][21] fits the bill perfectly. This place is straight out of the pages of ""Wallpaper"" or ""Monocle"", with its industrial interior offset by pink tiling, modern furnishings and a neon version of their ghost logo hanging on a wall.
 
 One idea behind this trip was to be in Europe as Britain left, but I’m at a lost and need an activity to distract me. Walking into a pretty courtyard just off _Drottninggatan_{lang=sv}, I see a building with a bright neon sign above its entrance: _BAD_{lang=sv}. Appropriate description of the current situation, I think. I then have a thought – I could go swimming! I search online for the nearest pool… of course! My germanic subconscious is playing with me; I’m stood right outside _Centralbadet_{lang=sv}, which I soon discover is [a beautiful Art Nouveau spa complex][22] with hydrotherapy pools and several saunas. I can’t come to Sweden without having a sauna! I literally and figuratively take the plunge.
 
-![A small indoor swimming pool, parts illuminated by pink spot lights.](/media/2020/036/a1/centralbadet.jpg "_Centralbadet_{lang=sv}’s gorgeous – if not ostentatious – swimming pool. Photograph: Centralbadet")
+![A small indoor swimming pool, parts illuminated by pink spot lights.](../media/2020/036/a1/centralbadet.jpg "_Centralbadet_{lang=sv}’s gorgeous – if not ostentatious – swimming pool. Photograph: Centralbadet")
 {.align-bleed}
 
 Having embraced one Swedish stereotype, I decide to go all in. At [Nomad][23], I order the meatballs (washed down with the very delightful _A Ship Full of IPA_). The day has been saved! Now all I need to do is fall asleep before the clock strikes midnight.
@@ -129,7 +129,7 @@ Blue skies! There’s probably a Brexit metaphor in this somewhere, but I prefer
 
 Stockholm’s true complexion is finally revealed. I’ve not seen this city in its best light, and suspect it may be a long time before I do.
 
-![City skyline viewed from a station platform, looking across railway tracks and overhead wires.](/media/2020/036/a1/departure.jpg "On to Gothenburg as the sun begins to set over Stockholm.")
+![City skyline viewed from a station platform, looking across railway tracks and overhead wires.](../media/2020/036/a1/departure.jpg "On to Gothenburg as the sun begins to set over Stockholm.")
 {.align-bleed}
 
 [1]: https://en.wikipedia.org/wiki/Stockholm_Central_Station

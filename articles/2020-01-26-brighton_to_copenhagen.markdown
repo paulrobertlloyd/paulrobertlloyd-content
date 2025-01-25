@@ -77,7 +77,7 @@ geojson:
 
 ## Day 1: Brighton to Hamburg
 
-![Route map](/media/2020/026/a1/route_map.png "Brighton to Copenhagen via Hamburg.")
+![Route map](../media/2020/026/a1/route_map.png "Brighton to Copenhagen via Hamburg.")
 {.align-pull}
 
 Like all great railway journeys, this one starts with a cancellation. The Brighton Main Line has been closed due to [an incident near Three Bridges][1], so the only way to reach any destination north of Brighton is via Barnham, 27 miles to the west. This includes Gatwick Airport. A lady from Denver is going to miss her flight; flustered and bewildered at first, she soon settles into an unexpected detour via the unremarkable landscape of urban West Sussex.
@@ -96,7 +96,7 @@ Ideally, it would be possible to reach Copenhagen in a single day, but with no o
 
 I’m meeting my friend Sandra and her partner Andy for lunch, which gives me the morning to explore [Hamburger Kunsthalle][4], one of Hamburg’s many art galleries.
 
-![Painting whose viewpoint is behind that of a man on a mountain ridge, looking across a fog-filled landscape.](/media/2020/026/a1/wanderer_above_the_sea_of_fog.jpg "Wanderer above the Sea of Fog. Caspar David Friedrich, 1818.")
+![Painting whose viewpoint is behind that of a man on a mountain ridge, looking across a fog-filled landscape.](../media/2020/026/a1/wanderer_above_the_sea_of_fog.jpg "Wanderer above the Sea of Fog. Caspar David Friedrich, 1818.")
 {.align-pull}
 
 Stretched across three buildings, this one houses a mix of 19th century, modern and contemporary art, as well as paintings from the old masters. I soon discover [""Wanderer above the Sea of Fog""][5], Caspar David Friedrich’s most well-known artwork and this institution’s signature exhibit. I only recognise this painting from having seen Stewart Lee recreate it in [his most recent stand-up show][6]. I rediscover this painting several more times as the near-endless and familiar-looking rooms see me walking in circles.

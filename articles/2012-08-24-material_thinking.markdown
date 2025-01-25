@@ -16,7 +16,7 @@ category:
   - web
 ---
 
-![Olympic Cauldron lit up in the Olympic Stadium.](/media/2012/237/a1/olympic_cauldron.jpg "Olympic Cauldron design by Heatherwick Studio.")
+![Olympic Cauldron lit up in the Olympic Stadium.](../media/2012/237/a1/olympic_cauldron.jpg "Olympic Cauldron design by Heatherwick Studio.")
 
 Earlier this month, Team Clearleft headed up to London for a day of design related exhibitions: [""Bauhaus: Art as Life""][1] at the Barbican and (after a ride across the city on a ‘Boris Bike’) [""British Design 1948-2012""][2] and [""Heatherwick Studio: Designing the Extraordinary""][3] at the V&A. I spent a considerable amount of time taking in each word and every example of work. Inspiration was to be found in abundance; no doubt exaggerated by the euphoria of the Olympics and an opening ceremony that showed Britain at its creative best.
 
@@ -24,7 +24,7 @@ Earlier this month, Team Clearleft headed up to London for a day of design relat
 
 The centrepiece of the games was the highly original and beautifully symbolic [Olympic Cauldron][4], so I was excited to see the scale model featured in the Heatherwick exhibit. Until this point, I hadn’t made the link between this studio, lead by Thomas Heatherwick, and other objects I’ve long admired. From [East Beach Cafe][5] in Littlehampton to the [UK Pavilion][6] at the Shanghai Expo; from [London’s new bus][7] to the short-lived [""B of the Bang""][8] sculpture in Manchester, this small studio is responsible for a huge range of wonderfully imaginative creations.
 
-![The UK ‘Seed Cathedral’ Pavilion for the Shanghai Expo held in 2010.](/media/2012/237/a1/seed_cathedral.jpg "The UK ‘Seed Cathedral’ Pavilion for the Shanghai Expo held in 2010.")
+![The UK ‘Seed Cathedral’ Pavilion for the Shanghai Expo held in 2010.](../media/2012/237/a1/seed_cathedral.jpg "The UK ‘Seed Cathedral’ Pavilion for the Shanghai Expo held in 2010.")
 
 Their work feels futuristic yet timeless; from bridges that roll up into themselves, doors without hinges to molecular structures suspended in the air; every piece oddly coherent with nature. The sense of care and craft is also hard to ignore.
 

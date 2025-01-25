@@ -14,7 +14,7 @@ category:
 color: "#4cc6df"
 ---
 
-![Screenshot of the Guardian’s mobile website with navigation in closed and open states.](/media/2015/027/a1/image.png "The Guardian’s navigation on smaller displays prioritises page signposting, but all site sections can still be accessed with one tap.")
+![Screenshot of the Guardian’s mobile website with navigation in closed and open states.](../media/2015/027/a1/image.png "The Guardian’s navigation on smaller displays prioritises page signposting, but all site sections can still be accessed with one tap.")
 {.align-bleed}
 
 Each month [net Magazine][1] run a section called _Exchange_, where four industry experts each answer three questions on a particular topic, asked by their readers and followers on Twitter. I was their responsive design expert in their March issue, which is on sale now.

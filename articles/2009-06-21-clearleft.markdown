@@ -13,7 +13,7 @@ category:
   - clearleft
 ---
 
-[![The Clearleft team.](/media/2009/172/a1/image.jpg "The Clearleft team. Photograph: Jack Barnes.")](https://www.flickr.com/photos/paulannett/3256245742/)
+[![The Clearleft team.](../media/2009/172/a1/image.jpg "The Clearleft team. Photograph: Jack Barnes.")](https://www.flickr.com/photos/paulannett/3256245742/)
 {.align-bleed}
 
 This month saw me become the ninth member of the Brighton based web agency [Clearleft][1].

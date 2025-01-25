@@ -17,7 +17,7 @@ As consumers grow ever reliant on digital products and services, designers are b
 
 _But what is a design system?_
 
-![The layers of a design system. Radiating from a core set of principles, the next layer concerns guidance, the layer above that tools, with the final outer layer concerned with products.](/media/2017/031/a1/onion.svg)
+![The layers of a design system. Radiating from a core set of principles, the next layer concerns guidance, the layer above that tools, with the final outer layer concerned with products.](../media/2017/031/a1/onion.svg)
 {.align-pull}
 
 Definitions vary, and the term is used somewhat interchangeably with related concepts like style guides. In highlighting the difference between the two, Nathan Curtis [arrived at one definition][1]:
@@ -47,7 +47,7 @@ Jared Spool has written about [creating meaningful principles][4] that can bette
 
 ## Guidance
 
-![The layers of a design system with ‘Guidance’ layer highlighted.](/media/2017/031/a1/onion_r2.svg)
+![The layers of a design system with ‘Guidance’ layer highlighted.](../media/2017/031/a1/onion_r2.svg)
 {.align-pull}
 
 With a set of guiding principles in place, you can then look to the creation of guidelines. Artifacts of a design process, these document how different practitioners should embody these principles in their own work.
@@ -80,7 +80,7 @@ The idea of working together to build a shared understanding brings to mind Mark
 
 The most recognisable piece of design created during Frank Pick’s leadership of London Transport, the Underground map, was not instigated by him or any other manager of the company, but put forward by Harry Beck, a young draftsman working on the network.
 
-![Harry Beck holds a copy of his diagram for the London Underground.](/media/2017/031/a1/beck.jpg "Harry Beck holds a copy of his diagram for the London Underground; he seems rightly chuffed with his idea!")
+![Harry Beck holds a copy of his diagram for the London Underground.](../media/2017/031/a1/beck.jpg "Harry Beck holds a copy of his diagram for the London Underground; he seems rightly chuffed with his idea!")
 
 Realising that passengers cared more about the connections between the various lines below ground than they did about the street layout above, Beck did away with geographical accuracy, instead drawing tube lines on vertical, horizontal and diagonal axes, marking the intersections with a diamond.
 
@@ -88,7 +88,7 @@ _It’s not the features that matter, but the connections_. I’ll return to tha
 
 ## Tools
 
-![The layers of a design system with ‘Tools’ layer highlighted.](/media/2017/031/a1/onion_r3.svg)
+![The layers of a design system with ‘Tools’ layer highlighted.](../media/2017/031/a1/onion_r3.svg)
 {.align-pull}
 
 Guidance alone can’t help us build products. We need tools that go beyond this low-level direction (the ‘what’), and enable people to implement these rules in a meaningful way (the ‘how’). These are the concern of our next layer.
@@ -105,13 +105,13 @@ Somewhere in the middle, a solution needed to be found.
 
 Enter, [the container model][14]. A systematic approach to page composition, this proposed that **items** (each representing a story) could be arranged into different horizontal **slices**, which themselves could be combined to create **containers**.
 
-![Diagram of the container model.](/media/2017/031/a1/container_model.svg "The container model: items, slices and containers.")
+![Diagram of the container model.](../media/2017/031/a1/container_model.svg "The container model: items, slices and containers.")
 
 Building containers by combining items and slices allowed for an incredible range of flexibility _and_ reduced the amount of code needed to support it. Each container could focus on a particular theme, say people in the news, the latest video content or a featured news story. Containers could also be shared across different pages and in varying positions, too. For example, the most popular stories container could be shown midway on the homepage, and also towards the foot of every article page.
 
 This model went some way to addressing the flexibility desired, yet further models were needed to deal with the variation inherent to effective editorial design. Tonality, newsworthiness, curation, information density, pacing, device considerations… all presented the design team with an array of concerns that needed to be reasoned with.
 
-![Screenshot of the Guardian website.](/media/2017/031/a1/guardian_front.png "A section front on the Guardian website.")
+![Screenshot of the Guardian website.](../media/2017/031/a1/guardian_front.png "A section front on the Guardian website.")
 
 Working with so many moving parts became a struggle, and everyone on the team attempted to solve this puzzle in different ways. A solution was found eventually, although the imposition of a six-week deadline was the most effective tool in helping us reach a conclusion!
 
@@ -123,13 +123,13 @@ In [""101 Things I learned in Architecture School""][15], Mark Frederick describ
 
 - **Informed simplicity**: an enlightened world view, in which a person has developed the ability to recognise and create patterns within complex mixtures.
 
-![Diagram depicting the three levels of knowing.](/media/2017/031/a1/three_levels_of_knowing.svg "**Simplicity:** 3 elements used to create 3 spaces; **Complexity**: 12 elements used to create 12 spaces; **Informed simplicity:** 3 elements combined to create 12 spaces.")
+![Diagram depicting the three levels of knowing.](../media/2017/031/a1/three_levels_of_knowing.svg "**Simplicity:** 3 elements used to create 3 spaces; **Complexity**: 12 elements used to create 12 spaces; **Informed simplicity:** 3 elements combined to create 12 spaces.")
 
 This perfectly encapsulates the process we went though at the Guardian, and one I’ve experienced many times since. Only by working with the different pieces long enough, experimenting with various combinations, can you devise a system (or _systems_) that sufficiently model the underhand complexity.
 
 ## Products
 
-![The layers of a design system with ‘Products’ layer highlighted.](/media/2017/031/a1/onion_r4.svg)
+![The layers of a design system with ‘Products’ layer highlighted.](../media/2017/031/a1/onion_r4.svg)
 {.align-pull}
 
 Returning to [the first part of this essay][2], systems need to survive contact with the real world. Writing about GE’s design system, Predix [Jeff Crossman noted that][16]:
@@ -142,18 +142,18 @@ Jeff makes an important point; the products of a design system will be the ultim
 
 Frank Pick’s successful management of London Transport was possible due to the support he received from the company’s chairman, Lord Ashfield. The departure of both Pick and Ashfield – plus growing private car ownership and declining passenger numbers – soon costs were being prioritised over quality, and a period of neglect followed.
 
-[![A dirty grey London Underground carriage.](/media/2017/031/a1/underground_1997.jpg "The Underground in 1997 – very different from how it looks today. Photograph: Kirk Bauer.")](http://pics.kaybee.org/Vacations/Europe1997/England/London/tube2.jpg)
+[![A dirty grey London Underground carriage.](../media/2017/031/a1/underground_1997.jpg "The Underground in 1997 – very different from how it looks today. Photograph: Kirk Bauer.")](http://pics.kaybee.org/Vacations/Europe1997/England/London/tube2.jpg)
 {.align-pull}
 
 Thankfully the last 15 years have seen these factors reverse, with the network again getting the attention it deserves. New lines are being built, while existing stations are being upgraded and repaired. Transport for London are managing this renewal by following the [""Station Design Idiom""][17], a set of nine principles that underpin design across the Underground network. These are referred to on every project, be it a small-scale repair, a major refurbishment or a brand new station.
 
 Included in the idiom is a new map that gives contractors a station-by-station guide to the different architectural styles used throughout the network. Paint colours and decorative materials should now match the architectural style of each building, rather than adhere to an overarching corporate look. By deliberately maintaining a diversity of styles, Transport for London have chosen to make the network’s design history an integral part of their design system. To me, this seems like a pragmatic approach.
 
-![The tube map using a key for different architectural styles used at each station, and a page showing the characteristics of the Holden (Northern style).](/media/2017/031/a1/station_design_idiom.jpg "The Station Design Idiom map and flashcard.")
+![The tube map using a key for different architectural styles used at each station, and a page showing the characteristics of the Holden (Northern style).](../media/2017/031/a1/station_design_idiom.jpg "The Station Design Idiom map and flashcard.")
 
 ### Shearing layers
 
-![Diagram showing a simplified house shape with 7 countervailing layers surrounding it.](/media/2017/031/a1/shearing_layers.svg)
+![Diagram showing a simplified house shape with 7 countervailing layers surrounding it.](../media/2017/031/a1/shearing_layers.svg)
 {.align-pull}
 
 In [""How Buildings Learn""][18], Stewart Brand expands upon Frank Duffy’s idea that different timescales can be seen to effect a building. Called shearing layers, he describes these as follows:

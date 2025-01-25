@@ -13,7 +13,7 @@ category:
   - projects
 ---
 
-![The two teams at work.](/media/2010/088/a1/image.jpg "The two teams at work.")
+![The two teams at work.](../media/2010/088/a1/image.jpg "The two teams at work.")
 {.align-bleed}
 
 As promised, here is a follow-up on [Hack The Planet][1], our hack day held in Birmingham last month.
@@ -31,9 +31,9 @@ Team A decided to build a social network (initially tied to a user’s Twitter a
 
 Depending on a number of factors (distance travelled, mode of transport, and ‘greenness’ of the event—which in turn would be largely based on who is attending the conference from how far away and by what methods) would result in a user acquiring a certain number of points. So for example if you were to travel from Eastbourne by train to reach the dConstruct conference in Brighton (40 miles) you would get 100 points, yet if you flew to Austin (6000 miles) then you may only earn 2 points.
 
-- ![Event page.](/media/2010/088/a1/team_a_event_page.png "Event page.")
+- ![Event page.](../media/2010/088/a1/team_a_event_page.png "Event page.")
 
-- ![Profile page.](/media/2010/088/a1/team_a_profile_page.png "Profile page.")
+- ![Profile page.](../media/2010/088/a1/team_a_profile_page.png "Profile page.")
 
 Problem with this model: what was the incentive to join this network and share this data, and what do points actually mean? Matt pushed for the service to suggest conferences nearby as one way to solve this problem, but there would certainly need more engaging features for people to use this service. One nice feature of this tool, however, would be that it could tell you if any friends are attending the same conferences you are, and as such encourage lift sharing.
 
@@ -43,9 +43,9 @@ Team A was: Paul Lloyd, [Anthony Williams][2], [Trevor Morris][3], [Matt Machell
 
 Team B created a tool that was initially planned for use by conference organisers and sponsors to understand the impact of proposed swag bags for upcoming conferences. By logging the contents of the schwag bag into the system, it would calculate a grade (loosely adapted from the energy A-G scale). Organisers could then find alternative products that would help lower the overall environmental impact of the bag.
 
-- ![Home page.](/media/2010/088/a1/team_b_home_page.png "Home page.")
+- ![Home page.](../media/2010/088/a1/team_b_home_page.png "Home page.")
 
-- ![A form within the flow for rating schwag.](/media/2010/088/a1/team_b_rating_schwag.png "A form within the flow for rating schwag.")
+- ![A form within the flow for rating schwag.](../media/2010/088/a1/team_b_rating_schwag.png "A form within the flow for rating schwag.")
 
 However, as a consequence of working through these ideas, they quickly spotted other applications. For example, it could be used to rate existing bags, and data could be collected as to how green any given conference had been. For example, bags from SXSW could be rated for 2007, 2008 and 2009 to give metrics on the improvement or degradation in the sustainability of the bag year-on-year.
 

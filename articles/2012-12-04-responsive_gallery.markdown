@@ -15,9 +15,9 @@ color: "#d8127e"
 
 ## Quartz
 
-![Quartz homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/339/a1/quartz.png)
+![Quartz homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/339/a1/quartz.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) [Quartz][1] is a ‘digitally native’ news site that covers business and technology in view of a global economy emerging from financial crisis.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) [Quartz][1] is a ‘digitally native’ news site that covers business and technology in view of a global economy emerging from financial crisis.
 
 The website is intriguing, not least because it looks and behaves much like a native app, but in way that doesn’t feel alien to the web. Editor in Chief, Kevin Delaney, told us that this was a key aspect of the site: <q>We wanted to create a product tailored to mobile and tablet devices, while having a site that was accessible via the free and open web</q>. For the design, his team took an unusual approach: <q>We started with tablet as the primary design reference and then, with the architecture in place, designed for mobile and desktop. This worked well, and we’re likely to adopt it for future projects</q>.
 
@@ -28,7 +28,7 @@ Homepage requests/size
 
 ## Nominet
 
-![Nominet homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/339/a1/nominet.png)
+![Nominet homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/339/a1/nominet.png)
 
 [Nominet][2] is the registry for the .uk country code domain who also provide a number of other infrastructure and domain support services. Their recently refreshed website was designed by [Nomensa][3] and developed internally by their web team led by Al Power.
 
@@ -43,7 +43,7 @@ Homepage requests/size
 
 ## SB Nation
 
-![SB Nation homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/339/a1/sb_nation.png)
+![SB Nation homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/339/a1/sb_nation.png)
 
 SB Nation is a growing online sports community. The [main site][4] is backed up by a network of smaller fan-centric sites (e.g [stumptownfooty.com][5]) that publish more localised content, with all sites sharing a common design language. Design and development was done in-house by the product team at SB Nation’s parent company, [Vox Media][6].
 

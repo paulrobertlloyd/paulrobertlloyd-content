@@ -21,7 +21,7 @@ Nuremberg is a beautiful Bavarian city. At least, I think it is, my undecidednes
 
 Apart from Friday, when I took myself to the [DB Museum][3], the few chances I got to see the city were in the dark. All the more reason to plan a return. The same can be said of IndieWebCamp. This was my first attendance at this event since 2019, and my first on foreign soil.
 
-![Twenty IndieWebCamp participants standing smiling roughly in 3-4 rows on an outdoors inclined driveway, with yellow leaves and grass on the ground and a canopy of trees overhead.](/media/2023/309/a1/image.jpg "Photograph: Joschi Kuphal.")
+![Twenty IndieWebCamp participants standing smiling roughly in 3-4 rows on an outdoors inclined driveway, with yellow leaves and grass on the ground and a canopy of trees overhead.](../media/2023/309/a1/image.jpg "Photograph: Joschi Kuphal.")
 {.align-bleed}
 
 IndieWebCamp’s are all about building and developing your own website, with an [un-conference][4] on a Saturday followed by a hack-day on Sunday. Ever the contrarian, I decided to spend my time improving the ecosystem that supports this goal by documenting the iconography currently used around the IndieWeb and proposing [a more cohesive vision][5].

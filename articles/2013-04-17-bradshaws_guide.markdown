@@ -16,7 +16,7 @@ tags:
 color: "#e6772e"
 ---
 
-![Bradshaw’s Guide being viewed on an iPhone.](/media/2013/106/a1/iphone.png "Bradshaw’s Guide being viewed on an iPhone.")
+![Bradshaw’s Guide being viewed on an iPhone.](../media/2013/106/a1/iphone.png "Bradshaw’s Guide being viewed on an iPhone.")
 {.align-bleed}
 
 This blog has been fairly quiet over the last few months. Not because I’ve got a shortage of things to say, far from it. In fact, such is the backlog of posts, I’m dedicating much of my week-short break here in San Francisco to catching up.
@@ -33,7 +33,7 @@ Bradshaw’s work is well suited to hypertext, with stations categorised by loca
 
 Besides the historical, technical and artistic aspects, making Bradshaw’s work more widely available might also encourage people to spend more time on the railways and holiday at home, rather than fly overseas (readers should ignore the author’s current location).
 
-![Bradshaw’s Guide viewed on an iPad.](/media/2013/106/a1/ipad.png "Bradshaw’s Guide viewed on an iPad.")
+![Bradshaw’s Guide viewed on an iPad.](../media/2013/106/a1/ipad.png "Bradshaw’s Guide viewed on an iPad.")
 
 ## Technical platform
 

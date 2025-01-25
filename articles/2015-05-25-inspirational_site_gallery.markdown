@@ -14,7 +14,7 @@ color: "#e40052"
 
 by [Foolproof][1]
 
-![Screenshot of the TSB homepage.](/media/2015/145/a1/tsb.png)
+![Screenshot of the TSB homepage.](../media/2015/145/a1/tsb.png)
 
 When [TSB][2] separated from Lloyds Bank in September 2013, it launched with an underwhelming, fixed-width website. More of the same, I thought. Realising that other potential customers would come to similar conclusions, they worked with Foolproof to design a new responsive website.
 
@@ -28,7 +28,7 @@ The resulting site is visually arresting; the vibrancy of the large cyan type, m
 
 by [Clearleft][3]
 
-![Screenshot of the Wellcome Mindcraft homepage.](/media/2015/145/a1/wellcome_mindcraft.png)
+![Screenshot of the Wellcome Mindcraft homepage.](../media/2015/145/a1/wellcome_mindcraft.png)
 
 The first of series of immersive interactive stories from the Wellcome Collection, [_Mindcraft_][4] explores a century of madness, murder and mental healing, from the arrival in Paris of Franz Anton Mesmer with his theories of ‘animal magnetism’ to the therapeutic power of hypnotism used by Freud. Written by author and curator Mike Jay, it is experienced through images, video and atmospheric audio using an interface designed and developed by Clearleft.
 
@@ -45,9 +45,9 @@ As the brief required a site designed for tablets and larger, Clearleft approach
 
 ## Dogstudio
 
-![Screenshot of the Dogstudio homepage.](/media/2015/145/a1/dogstudio.png)
+![Screenshot of the Dogstudio homepage.](../media/2015/145/a1/dogstudio.png)
 
-![Responsive site of the month](/media/2015/145/a1/site_of_the_month.svg) [Dogstudio][5] is an award-winning digital agency from Belgium, and their new website is simply stunning. From rich imagery, to delicate typography; from case studies that are as detailed as they are delightful, to copy that is humorous and engaging, this website epitomises the quality-driven standards they aspire too.
+![Responsive site of the month](../media/2015/145/a1/site_of_the_month.svg) [Dogstudio][5] is an award-winning digital agency from Belgium, and their new website is simply stunning. From rich imagery, to delicate typography; from case studies that are as detailed as they are delightful, to copy that is humorous and engaging, this website epitomises the quality-driven standards they aspire too.
 
 Where the site really excels is with its use of animation, indicative of what we can expect to see on more on the web as designers and developers become accustomed to new technology and techniques. <q>We prototype and refine directly in JavaScript</q> says Dogstudio’s Creative Director Henry Daubrez. <q>I guess the secret is quite a lot of interaction happens between design and front-end development. Over the years we have started to know each other sensitivities, which is fantastic</q>.
 
@@ -62,7 +62,7 @@ Perhaps the most striking feature of the site is the smokey transition between p
 
 by Jake Archibald
 
-![Screenshot of the SVGOMG homepage.](/media/2015/145/a1/svgomg.png)
+![Screenshot of the SVGOMG homepage.](../media/2015/145/a1/svgomg.png)
 
 If you care about performance, you’ve no doubt spent hours optimising and minimising your SVG files. Say goodbye to this tedious time-consuming task, with [SVGOMG][6], a GUI built on top of SVGO by Jake Archibald. Beyond the obvious utility, this tool is a wonderful example of how to build a web app in a responsible and accessible way.
 
@@ -77,7 +77,7 @@ Furthermore, the initial download is only 5kb, rendering within 1.5s, even on a 
 
 ## Hello Monday
 
-![Screenshot of the Hello Monday homepage.](/media/2015/145/a1/hello_monday.png)
+![Screenshot of the Hello Monday homepage.](../media/2015/145/a1/hello_monday.png)
 
 [Hello Monday][7] are a creative agency based out of New York and Copenhagen. They create digital experiences and visual identities that “tickle the brain, please the eyes and connect the hearts of brands to the hearts of their consumers”. They had two goals for their redesigned site: be easy to navigate and ensure their work is presented in the best possible way. “We also wanted the site to have some personality and show some of the playfulness that’s in our DNA” says Hello Monday Partner Anders Sønderby Jessen.
 
@@ -91,7 +91,7 @@ Although the layout adapts to smaller screens, the site has clearly been optimis
 
 by @i_like_robots@twitter.com
 
-![Screenshot of the Lonely Planet destination page on a mobile phone.](/media/2015/145/a1/lonely_planet.png)
+![Screenshot of the Lonely Planet destination page on a mobile phone.](../media/2015/145/a1/lonely_planet.png)
 {.align-pull}
 
 [Lonely Planet][8] has everything the would-be world traveller would need, be that travel guides, destination inspiration, adventure tours, hotel reviews and more. Their team has also been on a journey, as for the last few years they’ve slowly migrated the site over to a fresh and feature-rich responsive design.
@@ -106,7 +106,7 @@ Lonely Planet have been a big proponent of maintainable style guides, and their 
 
 by Bloomberg and Code and Theory
 
-![Screenshot of the Bloomberg Business homepage.](/media/2015/145/a1/bloomberg_business.png)
+![Screenshot of the Bloomberg Business homepage.](../media/2015/145/a1/bloomberg_business.png)
 
 [Bloomberg Business][9] brings together the different aspects of Bloomberg’s media empire — Bloomberg News, Bloomberg Businessweek, Bloomberg TV, and Bloomberg Graphics — under one roof, one that is a unique, compelling and decidedly quirky.
 

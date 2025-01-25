@@ -16,7 +16,7 @@ category:
 
 _This article is [also available in Italian][it-IT]{hreflang="it-IT" rel="alternate external"}_
 
-![A map, with a dotted path between picture frames, each picture itself of a map, with a map pin shown.](/media/2015/237/a1/image.png "Illustration: Brad Colbow for A List Apart.")
+![A map, with a dotted path between picture frames, each picture itself of a map, with a map pin shown.](../media/2015/237/a1/image.png "Illustration: Brad Colbow for A List Apart.")
 {.align-bleed}
 
 Before the arrival of smartphones and tablets, many of us took a position of blissful ignorance. Believing we could tame the web’s inherent unpredictability, we prescribed requirements for access, prioritizing our own needs above those of users.

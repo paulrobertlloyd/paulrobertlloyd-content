@@ -31,7 +31,7 @@ So, if only for my own vanity, here’s a list of things I’ve contributed to t
 
 ## Icons for IndieWeb protocols and concepts
 
-![Icons for 8 IndieWeb building blocks.](/media/2024/056/a1/building_block_icons.png)
+![Icons for 8 IndieWeb building blocks.](../media/2024/056/a1/building_block_icons.png)
 
 At IndieWebCamp Nuremberg last October, I proposed [a series of icons for common IndieWeb protocols and concepts][5]. They now appear on [an about page for Micro.blog][6] and in [Indiekit’s documentation][7].
 
@@ -39,7 +39,7 @@ They have yet to see any broader usage, but I’d rather see the protocols and c
 
 ## Updated design for IndieWeb.org
 
-![Screenshot of the indieweb.org home page.](/media/2024/056/a1/indieweb_homepage.png#screenshot)
+![Screenshot of the indieweb.org home page.](../media/2024/056/a1/indieweb_homepage.png#screenshot)
 
 The [IndieWeb wiki][1] is an important resource for learning about the movement, its standards and practices as well as a place to share insights and implementation examples. By using [an older version of MediaWiki’s default theme][8] not optimised for smaller screens, people new to the community didn’t get the best first impression.
 
@@ -57,7 +57,7 @@ The service also provides a number of companion apps for iOS and Android, and th
 
 [My unsolicited redesign][17] caught the eye of Manton, and the new icons are being slowly rolled out across the different apps. This image gives me more pleasure than is possibly healthy:
 
-![Micro.blog companion apps in the dock of the iOS home screen.](/media/2024/056/a1/micro_blog_companion_apps.png)
+![Micro.blog companion apps in the dock of the iOS home screen.](../media/2024/056/a1/micro_blog_companion_apps.png)
 
 ## IndieWebCamp Brighton 2024
 

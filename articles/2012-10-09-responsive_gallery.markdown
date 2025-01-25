@@ -16,7 +16,7 @@ color: "#d8127e"
 
 ## Build
 
-![Build homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/283/a2/build.png)
+![Build homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/283/a2/build.png)
 
 [Build][1] is Microsoft’s annual developer conference, and this year’s event will focus on building applications for Windows 8. [Nishant Kothary][2] enlisted [Paravel][3] to help with design and the front-end responsive code.
 
@@ -27,9 +27,9 @@ Homepage requests/size
 
 ## Palantir
 
-![Palantir homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/283/a2/palantir.png)
+![Palantir homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/283/a2/palantir.png)
 
-![Responsive site of the month](/media/2012/143/a2/site_of_the_month.svg) [Palantir.net][4] is a full-service design and strategy agency based in Chicago, that specialises in the development of Drupal powered websites.
+![Responsive site of the month](../media/2012/143/a2/site_of_the_month.svg) [Palantir.net][4] is a full-service design and strategy agency based in Chicago, that specialises in the development of Drupal powered websites.
 
 It’s hard not to fall in love with this site, with its charming retro space-themed illustrations, gorgeous colour palette and beautiful typography. The spacious layout is a welcome feature too, although this could be tightened up on smaller screens.
 
@@ -42,7 +42,7 @@ Homepage requests/size
 
 ## Supereight Studio
 
-![Supereight Studio homepage on a mobile phone with a screenshot of the desktop layout behind.](/media/2012/283/a2/supereight_studio.png)
+![Supereight Studio homepage on a mobile phone with a screenshot of the desktop layout behind.](../media/2012/283/a2/supereight_studio.png)
 
 [Supereight Studio][5] is a small and friendly British design studio run by Matt Hamm and Peter Orme.
 

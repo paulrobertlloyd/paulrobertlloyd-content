@@ -21,7 +21,7 @@ The thoroughly nice (and incredibly tall) Dave talked us through some warming up
 
 However, what I found most useful from the two days was a little tip on how to perfect a neater writing style. Not only was his advice to slow down (a common theme throughout the workshop) but also to use consistent angles for strokes – slanted to the right for the verticals and slightly upwards for the horizontals.
 
-![Comparison of two different writing styles.](/media/2010/151/a1/image.png "My original writing style versus that recommended by Dave Gray.")
+![Comparison of two different writing styles.](../media/2010/151/a1/image.png "My original writing style versus that recommended by Dave Gray.")
 
 I loved the simplicity of this tip – obvious in retrospect – yet sometimes you just need a third party to point these things out. Indeed, much of the workshop revolved around building confidence. For example you needn’t worry about the quality of your sketches along as they communicate your ideas effectively.
 

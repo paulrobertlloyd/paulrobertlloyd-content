@@ -92,7 +92,7 @@ geojson:
 
 ## Day 3
 
-![Route map](/media/2020/031/a1/route_map.png "Copenhagen to Humlebæk, Malmö, Trelleborg and Hässleholm.")
+![Route map](../media/2020/031/a1/route_map.png "Copenhagen to Humlebæk, Malmö, Trelleborg and Hässleholm.")
 {.align-pull}
 
 Having stayed up late completing [the first post in this series][1], my first full day in Copenhagen gets off to a late start.
@@ -101,7 +101,7 @@ There’s a lot to see, but having visited once before – albeit briefly when I
 
 My stomach rumbling, I look for restaurants on Foursquare. Some former colleagues worked with a client here several years ago, so several recommendations have familiar faces beside them. The top suggestion is [_Paludan Bogcafé_{lang=da}][3] located just off _Strøget_{lang=da} – one of the longest shopping streets in Europe. This cafe come library is surprisingly roomy, despite its popularity. Food is ordered at the counter, which is hidden behind a lengthy queue; that no one wants to abandon it suggests the food is worth the wait. I order the chicken burger, which comes with lightly roasted potatoes and a pot of chilli mayo. Every mile of the 600 travelled so far is _totally_ worth it as I savour my first bite.
 
-![Brightly coloured houses sat alongside water, with a number of boats tethered before them.](/media/2020/031/a1/nyhavn.jpg "The brightly coloured houses at Nyhavn, a familiar image of Copenhagen.")
+![Brightly coloured houses sat alongside water, with a number of boats tethered before them.](../media/2020/031/a1/nyhavn.jpg "The brightly coloured houses at Nyhavn, a familiar image of Copenhagen.")
 {.align-bleed}
 
 One of the few attractions I’ve lined up on this trip is [_Designmuseum Danmark_{lang=da}][4]. Heading in that direction I spot the [_Rundetårn_{lang=da}][5] (Round Tower). Climbing to the top of tall buildings is a routine activity on my travels, one that typically requires clambering up a thousand or so narrow steps to a view that gives me sweaty hands. This tower – whose entry price is a very reasonable 25 DKK – features a gentle cylindrical slope with only a few steps at the top. It delivers a view over the local neighbourhood, but anything much further away is obscured by clouds.
@@ -116,7 +116,7 @@ I open my curtains and look through rain-splattered windows to see dark skies an
 
 The [Royal Danish Library][9] is open however, so I head there. Its modern extension was constructed at the turn of the century and has since been dubbed the _Black Diamond_. Much like its contemporary, [the Sage][10] in Gateshead, its interior attempts to imply magnificence with a large, well-lit atrium, yet feels vacant and soulless. The older part of the building with its reading room and shelves stuffed with books, directories and encyclopaedias, is far more interesting.
 
-![Red books on a bookshelf.](/media/2020/031/a1/krak.jpg "No idea what these are, but they make for a nice image.")
+![Red books on a bookshelf.](../media/2020/031/a1/krak.jpg "No idea what these are, but they make for a nice image.")
 
 Finding myself at a lose end, sat in the library’s cafe I look online for tips about taking photos in bad weather. Look for contrast. Pick out bright colours. Search for reflections. I set myself a mini assignment. However, back on _Strøget_{lang=da} I end up engaging in some retail therapy instead. Expecting the need for warmer clothing before I travel further north, I buy a new jacket and a thick woollen jumper.
 
@@ -142,9 +142,9 @@ Another grey day, but with the museums open again I’m spoilt for choice. Emil 
 
 There’s a remarkable symmetry between Janssens’ work and that of Olafur Eliasson which was [recently displayed at the Tate Modern][20]. In ""Blue, Red and Yellow"", visitors are encouraged to step into a large perspex container filled with smoke illuminated by those colours. Disorienting and disembodying, only six people are allowed entry at a time. Eliasson created a similar effect in his work ""Your blind passenger""; it should be noted that Janssens’ piece precedes it by about nine years.
 
-- ![A colourful, glowing box sits in the middle of a gallery.](/media/2020/031/a1/blue_red_and_yellow.jpg "Blue, Red and Yellow.")
+- ![A colourful, glowing box sits in the middle of a gallery.](../media/2020/031/a1/blue_red_and_yellow.jpg "Blue, Red and Yellow.")
 
-- ![A dark room with small bright red and blue lights.](/media/2020/031/a1/gleaming_lights_of_the_souls.jpg "Gleaming Lights Of The Souls.")
+- ![A dark room with small bright red and blue lights.](../media/2020/031/a1/gleaming_lights_of_the_souls.jpg "Gleaming Lights Of The Souls.")
 
 If Janssens’ colourful smoke-filled cube isn’t enough Instagram fodder, then Yayoi Kusama’s permanent installation, ""Gleaming Lights Of The Souls"", does not disappoint either. This is a small room filled with hundreds of lights suspended from the ceiling, reflected by mirrors on five sides and a floor flooded with water. A small gangway allows viewers to experience this wonder from its very centre.
 

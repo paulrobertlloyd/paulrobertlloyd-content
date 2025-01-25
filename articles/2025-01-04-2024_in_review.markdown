@@ -33,7 +33,7 @@ During the first four months of 2024, I:
 - added [several new features and improvements to Indiekit][4]
 - co-organised [IndieWebCamp Brighton][5]
 
-![26 people gathered outside a building smiling for a group photo in the sun.](/media/2024/069/p1/1.jpg "Attendees at IndieWebCamp Brighton in March. A professional highlight.")
+![26 people gathered outside a building smiling for a group photo in the sun.](../media/2024/069/p1/1.jpg "Attendees at IndieWebCamp Brighton in March. A professional highlight.")
 
 In July, I gave [an hour-long introduction to the IndieWeb][6] at Peckham Digital’s Festival of Creative Computing, with a number of attendees telling me afterwards that they were inspired to create their own websites.
 
@@ -47,15 +47,15 @@ I remain astonished by what I’ve built with [Indiekit][7], but its drifted fro
 
 As per usual, I attended a few web conferences and left shrugging my shoulders. I remain [conflicted about such events][8]; neither happy if I attend or content if I avoid. It’s tempting to say I’m hard to please (this is true), but CSS Day once again [enthused and enlightened][9] me. This can’t be entirely attributed to the Bitterballen, can it?
 
-![View across the River Ness at low tide, with 4 church spires reflected in the water.](/media/2025/004/a1/inverness.jpg "Inverness")
+![View across the River Ness at low tide, with 4 church spires reflected in the water.](../media/2025/004/a1/inverness.jpg "Inverness")
 
 My first trip of the year was to [Inverness in March][10]. This provided me with a welcome change of scenery and a delightful meal at [McBain’s][11] (more so than the one served at [The Mustard Seed][12], a pretentious restaurant further along the river bank). I’m tempted to make a similar trip north again this year.
 
 In May, after spending the weekend at IndieWebCamp in Düsseldorf and then popping over to Wuppertal to [ride its monorail][13], I travelled south to Vienna. For much of the trip I was overwhelmed by the number of attractions, yet only a few were of interest. The large concrete [flak tower][14] near my hotel was disorienting and distressing; the architecture of [Friedensreich Hundertvasser][15] fascinating and fantastic. On my last day in the city I visited the [Belvedere][16] and found several art galleries I could have spent the entire trip immersed in.
 
-- ![A large concrete tower, partially hidden by a tree, next to a children’s playground.](/media/2025/004/a1/flak_tower.jpg "Flak Tower VIII G-Tower in Arenbergpark, Vienna.")
+- ![A large concrete tower, partially hidden by a tree, next to a children’s playground.](../media/2025/004/a1/flak_tower.jpg "Flak Tower VIII G-Tower in Arenbergpark, Vienna.")
 
-- ![Brightly coloured apartments, with trees growing out from some of them.](/media/2025/004/a1/hundertwasser_building.jpg "Hundertvasserhaus, Vienna.")
+- ![Brightly coloured apartments, with trees growing out from some of them.](../media/2025/004/a1/hundertwasser_building.jpg "Hundertvasserhaus, Vienna.")
 
 If that was the highlight of my Viennese waltz, the lowlight was being taken off the S-Bahn by ticket inspectors. The weekly ticket I’d brought was valid for the _following_ week. Pleas of being a clueless tourist and of poorly designed ticket machines went unheard and I got a €100 on-the-spot fine. An evening [watching model trains deliver burgers][17] at [_Vytopna_][18] just about made up for it.
 
@@ -65,20 +65,20 @@ Again, I was underwhelmed. I also felt out-of-place at the Bavarian spa resort I
 
 More to my taste was the swanky aparthotel I stayed at in Munich, a city I last visited in 2009. This was an opportunity to experience another topic of discussion among Duolingo’s characters: Oktoberfest. A cross between a massive fairground and beer festival, with large temporary venues home to nightclubs with table service, with seemingly the entire city in attendance. I’ve never seen so much lederhosen!
 
-![A desert stand called ‘Süss & Fruchtig’ lit up with neon signage.](/media/2025/004/a1/oktoberfest.jpg "My favourite photo from Oktoberfest.")
+![A desert stand called ‘Süss & Fruchtig’ lit up with neon signage.](../media/2025/004/a1/oktoberfest.jpg "My favourite photo from Oktoberfest.")
 {.align-bleed}
 
 The nearby transport museum, [_Verkehrszentrum_][20], was one of the best I’ve visited; a wide range of vehicles and all brilliantly laid out and documented. The [Munich Residence][21] was another royal palace in which you could lose yourself in its endless opulence, though much of it a post-war recreation, for obvious reasons. I’d love to have seen more information about the restoration process.
 
 Before arriving in Bavaria, I stayed in Stuttgart for a few nights. Here I saw an exhibition of Sarah Morris’ paintings and films, and was immediately drawn to her [gigantic, glossy, graphic prints][22]. And then I almost bumped into her on the stairs! Turned out this was the first day of the exhibition, and she was giving a talk later that day. I’d realised too late that I could have got a ticket, so purchased the catalogue instead. Leafing through photos of her public murals, I spotted one I had seen earlier in the year in Düsseldorf:
 
-![Four young men kicking a ball about in front of a brightly coloured wall made up of blue, orange, yellow, black grey and white shapes.](/media/2025/004/a1/sarah_morris.jpg "Wall mosaic by Sarah Morris in Paul Klee-Platz, near K20, Dusseldorf.")
+![Four young men kicking a ball about in front of a brightly coloured wall made up of blue, orange, yellow, black grey and white shapes.](../media/2025/004/a1/sarah_morris.jpg "Wall mosaic by Sarah Morris in Paul Klee-Platz, near K20, Dusseldorf.")
 
 Ordinarily I would have posted more photos from my travels, and certainly written about them. But again, I felt oddly restrained; unhappy with the photos I had taken, and unable to find the creative impetus to write about the places I’d visited in any detail.
 
 ---
 
-![A circular badge featuring a polar bear protecting her 2 cubs.](/media/2025/004/a1/mavis_mission_patch.png) Between side-projects and side-travels, I was working with my Good Machine comrades to deliver an NHS service to help immunisation teams get consent for, record and report children’s vaccinations. A small pilot at the start of the year was the perfect opportunity to design a mission patch.
+![A circular badge featuring a polar bear protecting her 2 cubs.](../media/2025/004/a1/mavis_mission_patch.png) Between side-projects and side-travels, I was working with my Good Machine comrades to deliver an NHS service to help immunisation teams get consent for, record and report children’s vaccinations. A small pilot at the start of the year was the perfect opportunity to design a mission patch.
 
 This year, many of my former DfE colleagues – alongside other familiar faces – joined sister teams. The likes of [Frankie][23] and [Vicky][24] brought tonnes of energy and enthusiasm, which I seem unable to replicate. I’m happy being a quiet but reliable cog in the machine these days.
 
@@ -92,7 +92,7 @@ In September, I got a behind the scenes tour of King’s Cross, spoke to the tea
 
 Back at Good Machine, our beta launched just before Christmas. More teams are soon to be onboarded, and our own small team is set to grow by 150%. New faces, new office, new challenges. Exciting and terrifying, all at the same time.
 
-![The letters LNER painted on the side of a blue locomotive.](/media/2025/004/a1/lner.jpg "A trip to York of course meant a trip to the National Railway Museum.")
+![The letters LNER painted on the side of a blue locomotive.](../media/2025/004/a1/lner.jpg "A trip to York of course meant a trip to the National Railway Museum.")
 {.align-bleed}
 
 I stayed up all night for the general election results in July, wanting to take advantage of a rare occasion where the results might go the right way. I didn’t stay up for the US election, but before I went to bed, suspecting my fears would be realised, deleted any remaining tweets, likes and favourites prior to closing long-dormant accounts on Elon’s website.

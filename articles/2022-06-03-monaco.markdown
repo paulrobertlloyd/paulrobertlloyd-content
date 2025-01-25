@@ -19,7 +19,7 @@ tags:
 color: "#ff8000"
 ---
 
-![The McLaren pit garage, with a mountainous landscape in the distance.](/media/2022/154/a1/image.jpg "The McLaren garage on the Monaco pit lane.")
+![The McLaren pit garage, with a mountainous landscape in the distance.](../media/2022/154/a1/image.jpg "The McLaren garage on the Monaco pit lane.")
 {.align-bleed}
 
 Planned for 2020 and postponed again last year, at the third time of asking, myself and Cennydd finally headed to the French Riviera; [Monaco baby, yeah][1]!
@@ -60,7 +60,7 @@ The new regulation cars are noticeably larger, an impression undoubtedly aided b
 
 Once the racing was over, we were offloaded onto another tender so the crew could prepare for their evening guests. With the streets reopened, the sun shining, and larger crowds expected to arrive the next day, we decided to [walk the entire length of the circuit][7].
 
-![Cennydd standing on the Circuit de Monaco.](/media/2022/154/a1/cennydd.jpg "An overawed Cennydd standing at the Antony Noghès corner on the Circuit de Monaco.")
+![Cennydd standing on the Circuit de Monaco.](../media/2022/154/a1/cennydd.jpg "An overawed Cennydd standing at the Antony Noghès corner on the Circuit de Monaco.")
 
 This was an experience that left my mind as bent as the famous Lowes hairpin. Having watched the Monaco Grand Prix over several decades and raced around [a pixelated impression of it][8] at a young age on my Amiga, these streets were eerily familiar. Yet this track has to be trudged to really appreciate its undulating topography. This privileged perspective also revealed features I was unaware of – I had no idea that _Saint Devote_{lang=fr} is named after a small church tucked just a few meters away from the first corner of the circuit.
 

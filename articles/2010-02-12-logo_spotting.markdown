@@ -17,7 +17,7 @@ On flicking through the newspaper on the train home yesterday, I spotted an adve
 
 I had been vaguely aware of their recent marketing campaigns where the logo slots into the top right corner of a distinctive trapezium containing shape. However on seeing this particular advertisement close up, I did a quick double take, spotting what seemed to be an updated logo. A quick search on Google images confirmed my suspicion.
 
-![Original and updated Network Rail logos.](/media/2010/043/a1/network_rail.png "Network Rail: The original 2002 logo and the updated version introduced in 2009.")
+![Original and updated Network Rail logos.](../media/2010/043/a1/network_rail.png "Network Rail: The original 2002 logo and the updated version introduced in 2009.")
 
 To me the previous logo always had a temporary feel to it. [Network Rail][1] was created out of the ashes of [Railtrack][2], a privatised company that owned the nations railways prior to it being placed into railway administration by the government in 2002. At the time I remember thinking the logo for this new body must have been quickly thrown together by a low ranking designer at the Department of Transport, such was its low fidelity.
 
@@ -29,11 +29,11 @@ The distinctive red triangle also moves closer to the text, and the two cut outs
 
 ## MTV
 
-![Original and updated MTV logos.](/media/2010/043/a1/mtv.png "The original 1981 MTV logo and the updated version introduced in 2010.")
+![Original and updated MTV logos.](../media/2010/043/a1/mtv.png "The original 1981 MTV logo and the updated version introduced in 2010.")
 
 Whilst the identity for Network Rail may have gone unnoticed, you are unlikely to have missed the MTV refresh [announced earlier this week][3]. Much like Network Rail, this is more of a realignment than an all out redesign, although the changes are possibly more noticeable. I initially thought the legs had somehow been mis-cropped, yet after my initial shock I think the new proportions work surprisingly well, possibly reflecting the evolution of television with this new, almost widescreen ratio.
 
-![MTV logo variations.](/media/2010/043/a1/mtv_variations.png "MTV logo variations.")
+![MTV logo variations.](../media/2010/043/a1/mtv_variations.png "MTV logo variations.")
 
 Like nearly every logo launched these days ([London 2012][4], [NYC & Company][5], [AOL][6] et al.) it goes without saying that this logo has been designed to act as a containing element, in which photos of the channels second-rate reality stars can be placed.
 
@@ -41,11 +41,11 @@ It’s an old idea ([this in-depth article][7] by Roger van den Bergh gives you 
 
 ## City of Melbourne
 
-![Original and updated City of Melbourne logos.](/media/2010/043/a1/city_of_melbourne.png "City of Melbourne: The previous logo and the new version.")
+![Original and updated City of Melbourne logos.](../media/2010/043/a1/city_of_melbourne.png "City of Melbourne: The previous logo and the new version.")
 
 Finally, if we are to talk about ‘M’ shaped containing identities, then I can’t leave without mentioning my favourite identity project of last year for the [City of Melbourne][9], which frankly blows MTV’s mediocre efforts clean out of the water. Aren’t these just fantastic?
 
-![City of Melbourne logo variations.](/media/2010/043/a1/city_of_melbourne_variations.png "City of Melbourne logo variations.")
+![City of Melbourne logo variations.](../media/2010/043/a1/city_of_melbourne_variations.png "City of Melbourne logo variations.")
 
 [1]: https://en.wikipedia.org/wiki/Network_Rail
 [2]: https://en.wikipedia.org/wiki/Railtrack

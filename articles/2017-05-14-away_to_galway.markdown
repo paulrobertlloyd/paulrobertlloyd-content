@@ -17,21 +17,21 @@ tags:
   - i4oG1
 ---
 
-![A green boat and several swans sat in a harbour.](/media/2017/134/a1/galway_harbour.jpg "Boats and swans in Galway harbour.")
+![A green boat and several swans sat in a harbour.](../media/2017/134/a1/galway_harbour.jpg "Boats and swans in Galway harbour.")
 {.align-bleed}
 
 I’ve been working with [the team at Snyk][1] since January, but when asked if I would attend a company off-site in Tel Aviv, I demurred. I find the idea of visiting Israel unsettling for many reasons, as I’m sure you can imagine. Was I declining an opportunity to challenge my ideals, or being principled to a fault? I’m not sure.
 
 Anyway, with a week to myself – and in much need of a break – I headed to Galway and the far western reaches of the British Isles. I was already familiar with the arduous journey needed to reach Ireland by rail, having travelled to Belfast for Build Conference in 2010 and again in 2012. The trip from London to Holyhead was slightly more involved this time, requiring a change at Chester. Rather than _Ulysses_, it would be the smaller _Dublin Swift_ vessel that would ferry me across the Irish Sea to Dublin.
 
-![A classical looking building.](/media/2017/134/a1/dublin_custom_house.jpg "The Custom House, Dublin.")
+![A classical looking building.](../media/2017/134/a1/dublin_custom_house.jpg "The Custom House, Dublin.")
 {.align-bleed}
 
 ## Stopover in Dublin
 
 Whenever I visit Dublin, I feel the city rub against me a little. I wonder if there might be an underlying burden of guilt, as every opportunity is taken to celebrate Ireland’s fight for independence from my oppressive forefathers. On this occasion I booked into a guest house in the Temple Bar area. This was a far more hip and hospitable location than where I stayed before, yet I couldn’t shake the feeling that, while Dublin has all the features of a European capital, it has none of the charm.
 
-![A white footbridge over a river.](/media/2017/134/a1/dublin_hapenny_bridge.jpg "Ha’penny Bridge, Dublin.")
+![A white footbridge over a river.](../media/2017/134/a1/dublin_hapenny_bridge.jpg "Ha’penny Bridge, Dublin.")
 {.align-bleed}
 
 I might attribute this impression to the dreary and unimaginative mid-century architecture that lines the River Liffey, of which the newer financial district makes little effort to rectify. Perhaps I’ve been spoilt by London; there’s something to be said for Dublin’s more modest nature. The Neoclassical styling of [Heuston railway station][2] in the outskirts of the city belies this criticism, and it was from here that I would leave the following morning.
@@ -42,14 +42,14 @@ It takes two and half hours to bisect the republic en route to Galway. There’s
 
 Arriving in Galway, coaches outside the station dropped off throngs of tourists, while much of the grass in nearby Eyre Square was covered by those enjoying the glorious weather. Every street was a stage, with musicians and dancers adding to the festival-like vibe. Galway is Ireland’s fourth biggest city, yet its atmosphere easily rivals that of the capital. With just a few hours to spend in the city, I would barely scratch the surface.
 
-![Light shines through three stained glass windows.](/media/2017/134/a1/cathedral_windows.jpg "Stained glass windows in Galway Cathedral.")
+![Light shines through three stained glass windows.](../media/2017/134/a1/cathedral_windows.jpg "Stained glass windows in Galway Cathedral.")
 {.align-bleed}
 
 After checking in to my hotel, I walked along the River Corrib towards the [cathedral][5]. This dominant feature of the city is a relatively recent addition, only completed in 1965. I ventured inside as the sunlight pierced though its many stained glass windows, their colourful light illuminating the otherwise grey stone columns.
 
 I’m not sure when Galway first came to mind as a destination – I’m sure Ed Sheeran’s latest [focus-grouped ditty][3] subconsciously played its part – but [photos from across the Connemara region][4] intrigued me, and I soon wanted to contribute more to this collection. It was images from nearby Salthill that really caught my attention, so I decided to spend the evening walking along its promenade.
 
-![A yellow diving tower set against a purple dusk.](/media/2017/134/a1/salthill_diving_tower.jpg "Salthill diving tower.")
+![A yellow diving tower set against a purple dusk.](../media/2017/134/a1/salthill_diving_tower.jpg "Salthill diving tower.")
 {.align-bleed}
 
 At its western end, the bright yellow Blackrock Diving Tower reaches into the bay, from which brave souls can be seen leaping into Galway Bay. I asked one if he knew how cold the water was: “Freezing. If you asked me to be more specific, I would say very, very freezing!”
@@ -58,19 +58,19 @@ At its western end, the bright yellow Blackrock Diving Tower reaches into the ba
 
 The next day promised to be the most enjoyable of this trip, with a drive north to Connemara National Park. Here lies [Diamond Hill][6], a 1450ft peak that rewarded this weary climber with stunning views across the nearby coastline and Twelve Bens mountain range.
 
-![A series of largely grass covered round-topped mountains.](/media/2017/134/a1/connemara_twelve_bens.jpg "Twelve Bens mountain range viewed from Diamond Hill.")
+![A series of largely grass covered round-topped mountains.](../media/2017/134/a1/connemara_twelve_bens.jpg "Twelve Bens mountain range viewed from Diamond Hill.")
 {.align-bleed}
 
 I finished my descent just as the evening began to draw in, so I decided to drive back to Galway via a section of the [Wild Atlantic Way][7], a road that hugs Ireland’s ragged western coastline. With clear skies and low golden sunlight, I witnessed a saturated landscape of craggy rocks and rough scrubland punctuated by bright orange and yellow fauna.
 
-![A small gravel track makes its way into the distance across a rough landscape.](/media/2017/134/a1/wild_atlantic_way.jpg "Connemara landscape as seen from the Wild Atlantic Way.")
+![A small gravel track makes its way into the distance across a rough landscape.](../media/2017/134/a1/wild_atlantic_way.jpg "Connemara landscape as seen from the Wild Atlantic Way.")
 {.align-bleed}
 
 At Bunowen Bay a slight sandy beach sat alongside crystal clear turquoise waters. A jovial crew upon a distant fishing vessel could be heard, while just beyond them, the remains of Bunowen Castle added to the dream-like aura.
 
 As I continued my drive, the narrow road was framed by pools of water reflecting Connemara’s mountainous landscape and occasional inlets dotted with rocky outreaches. I was audibly amazed. Constantly unsure whether to find somewhere to stop, or head on and find something more picturesque, I eventually reached [Roundstone][8], where I parked up on a small quay. As the dying light highlighted everything with bright pinks and purples, I captured a final set of images that would record this short drive as one of my most memorable.
 
-![A red fishing boat moored at Roundstone Quay.](/media/2017/134/a1/roundstone_quay.jpg "The *Aisling Siobhan* moored at Roundstone Quay.")
+![A red fishing boat moored at Roundstone Quay.](../media/2017/134/a1/roundstone_quay.jpg "The *Aisling Siobhan* moored at Roundstone Quay.")
 {.align-bleed}
 
 [1]: https://snyk.io/about

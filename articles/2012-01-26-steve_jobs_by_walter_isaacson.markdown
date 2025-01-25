@@ -15,7 +15,7 @@ category:
   - apple
 ---
 
-![Cover of ‘Steve Jobs’.](/media/2012/026/a1/978-1-4087037-4-8.jpg)
+![Cover of ‘Steve Jobs’.](../media/2012/026/a1/978-1-4087037-4-8.jpg)
 {.align-pull}
 
 After enough subtle hints, I was happy to unwrap a copy of the [Steve Jobs biography][1] at Christmas. I don’t read many books, and those I do I rarely finish. I couldn’t put this one down. When I intended to read half an hour before bed, I’d usually end up reading for two.

@@ -147,17 +147,17 @@ We decided to get the train from Littlehampton directly to Petersfield, changing
 
 Having walked 10km, we retraced much of the journey back to the small village of Buriton. It was here that we had booked our first night’s stay, at [The Nest Bar and Restaurant][5]. We were impressed by the owner’s attention to detail, not least the bird theme running throughout the different rooms. The food served in the restaurant was just as appealing, and I retired to bed feeling very full having eaten a burger and apple and pear crumble.
 
-![A muddy track passes from one field to another, taken from an even muddier track in a field.](/media/2023/290/a1/muddy-track.jpg)
+![A muddy track passes from one field to another, taken from an even muddier track in a field.](../media/2023/290/a1/muddy-track.jpg)
 {.align-bleed}
 
-![A Red Admiral butterfly.](/media/2023/290/a1/red-admiral.jpg)
+![A Red Admiral butterfly.](../media/2023/290/a1/red-admiral.jpg)
 {.align-bleed}
 
-- ![Looking down a steep wooded hill to a track running into the distance.](/media/2023/290/a1/steep-woodland.jpg)
+- ![Looking down a steep wooded hill to a track running into the distance.](../media/2023/290/a1/steep-woodland.jpg)
 
-- ![A red-bricked outbuilding housing the cafe at Uppark House, with a white clock tower on its roof.](/media/2023/290/a1/uppark-house-cafe.jpg)
+- ![A red-bricked outbuilding housing the cafe at Uppark House, with a white clock tower on its roof.](../media/2023/290/a1/uppark-house-cafe.jpg)
 
-![The brick and stone facade of Uppark House.](/media/2023/290/a1/uppark-house.jpg)
+![The brick and stone facade of Uppark House.](../media/2023/290/a1/uppark-house.jpg)
 {.align-bleed}
 
 ## Day 2
@@ -168,29 +168,29 @@ With an estimated walking time of 10 hours, by the time we reached Droxford 7 ho
 
 For the second night we stayed at [The Winchester Hotel and Spa][6]. Jon described its appearance as “a posh Travelodge” while I suggested the general vibe could be summed up in three words: ‘Live, Laugh, Love’.
 
-![Route map.](/media/2023/290/a1/route_map.png "Walking route across the South Downs for day 2.")
+![Route map.](../media/2023/290/a1/route_map.png "Walking route across the South Downs for day 2.")
 {.align-bleed}
 
-![People walking up the long, deceptively shallow incline of Butser Hill.](/media/2023/290/a1/butser-hill.jpg)
+![People walking up the long, deceptively shallow incline of Butser Hill.](../media/2023/290/a1/butser-hill.jpg)
 {.align-bleed}
 
-![Rolling countryside around Old Winchester Hill.](/media/2023/290/a1/old-winchester-hill.jpg)
+![Rolling countryside around Old Winchester Hill.](../media/2023/290/a1/old-winchester-hill.jpg)
 {.align-bleed}
 
-![A wasp sitting on a Chicory flower.](/media/2023/290/a1/chicory-flower.jpg)
+![A wasp sitting on a Chicory flower.](../media/2023/290/a1/chicory-flower.jpg)
 {.align-bleed}
 
-![Sunlight catches the edge of an old platform at what once was Brockbridge station near Droxford.](/media/2023/290/a1/brockbridge-platform.jpg)
+![Sunlight catches the edge of an old platform at what once was Brockbridge station near Droxford.](../media/2023/290/a1/brockbridge-platform.jpg)
 {.align-bleed}
 
-![Jon standing on a bridge looking at the small stream passing underneath.](/media/2023/290/a1/river-meon-bridge-jon.jpg)
+![Jon standing on a bridge looking at the small stream passing underneath.](../media/2023/290/a1/river-meon-bridge-jon.jpg)
 {.align-bleed}
 
-- ![Pre-Worboys road sign pointing to East Meon in one direction and Droxford in the other.](/media/2023/290/a1/pre-worboys-roadsign.jpg)
+- ![Pre-Worboys road sign pointing to East Meon in one direction and Droxford in the other.](../media/2023/290/a1/pre-worboys-roadsign.jpg)
 
-- ![The small bridge over the stream as seen from the other direction.](/media/2023/290/a1/river-meon-bridge.jpg)
+- ![The small bridge over the stream as seen from the other direction.](../media/2023/290/a1/river-meon-bridge.jpg)
 
-![An old red K6 telephone kiosk repurposed as a location for swapping books.](/media/2023/290/a1/red-k6.jpg)
+![An old red K6 telephone kiosk repurposed as a location for swapping books.](../media/2023/290/a1/red-k6.jpg)
 {.align-bleed}
 
 ## Day 3
@@ -201,11 +201,11 @@ Unlike Jon, I’d visited the city before, yet I hadn’t realised until this tr
 
 Also new since my last visit, a museum called ""Kings & Scribes"" which includes a display of the highly decorated 12th-century Winchester Bible and gives access to the old library. With knowledgable guides on hand to answer questions, interactive exhibits and models that delve into the building’s construction, it adds to the overall experience of a timeless place that rewards patient study.
 
-- ![A wonky outside wall of Winchester Cathedral.](/media/2023/290/a1/winchester-cathedral-wonky.jpg)
+- ![A wonky outside wall of Winchester Cathedral.](../media/2023/290/a1/winchester-cathedral-wonky.jpg)
 
-- ![Round and gothic arches inside Winchester Cathedral.](/media/2023/290/a1/winchester-cathedral-arches.jpg)
+- ![Round and gothic arches inside Winchester Cathedral.](../media/2023/290/a1/winchester-cathedral-arches.jpg)
 
-![Three people in conversation inside Winchester Cathedral.](/media/2023/290/a1/winchester-cathedral-conversation.jpg)
+![Three people in conversation inside Winchester Cathedral.](../media/2023/290/a1/winchester-cathedral-conversation.jpg)
 {.align-bleed}
 
 ---

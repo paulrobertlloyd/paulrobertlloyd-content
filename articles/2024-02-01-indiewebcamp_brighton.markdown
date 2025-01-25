@@ -15,7 +15,7 @@ category:
   - indiewebcamp
 ---
 
-![Illustration of a light grey laptop covered in IndieWeb-related stickers.](/media/2024/032/a1/image.png)
+![Illustration of a light grey laptop covered in IndieWeb-related stickers.](../media/2024/032/a1/image.png)
 {.align-bleed}
 
 Is 2024 the year of the personal website? Perhaps it’ll see the federated social web go mainstream. Maybe a resurgence in RSS? One thing’s for sure, after more than a decade of consolidation, [the Internet is about to get weird again][1]. The perfect moment then, to bring IndieWebCamp back to Brighton on [the weekend of 9 and 10 March][2].

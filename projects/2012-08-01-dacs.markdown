@@ -10,7 +10,7 @@ tags:
 color: "#b4b6b8"
 ---
 
-![Home page.](/media/projects/dacs/homepage.png#screenshot)
+![Home page.](../media/projects/dacs/homepage.png#screenshot)
 {.align-bleed}
 
 DACS (the [Design and Artists Copyright Society][1]) is a non-profit organisation that aims to protect the legal rights of artists through education, royalty-related legal services and government lobbying.
@@ -23,13 +23,13 @@ After a period of analysis and prototyping, we realised the website needed diffe
 
 DACS had already undergone an extensive rebranding exercise for print but it needed assistance translating this to a digital environment. To understand the reasoning behind the different brand elements, I spent time with Simon Kennedy who was responsible for DACS’ identity and brand strategy. One outcome from this process was to deprecate the use of Didot; while it worked well in print, the typeface was ill-suited to screen, and few areas on the website needed to reflect the discursive tone for which it was intended.
 
-- ![Landing page for the Payback service.](/media/projects/dacs/payback.png#screenshot "Artist photography shown front and centre on a page introducing DACS’ Payback service.")
+- ![Landing page for the Payback service.](../media/projects/dacs/payback.png#screenshot "Artist photography shown front and centre on a page introducing DACS’ Payback service.")
 
-- ![Further information about the Payback service.](/media/projects/dacs/payback_furtherinfo.png#screenshot "A restrained typographic pallet ensured legibility and visual consistency.")
+- ![Further information about the Payback service.](../media/projects/dacs/payback_furtherinfo.png#screenshot "A restrained typographic pallet ensured legibility and visual consistency.")
 
 I drew on DACS’ photographic library of artists to give the organisation a human face. This imagery was combined with a restrained typographic pallet to ensure legibility and visual consistency, and supported by a selection of monochromatic patterns used to differentiate sections of the site.
 
-![The DACs website being viewed on a mobile phone and on a tablet.](/media/projects/dacs/responsive.jpg "A responsive layout meant the same content could be served to different devices, regardless of display size.")
+![The DACs website being viewed on a mobile phone and on a tablet.](../media/projects/dacs/responsive.jpg "A responsive layout meant the same content could be served to different devices, regardless of display size.")
 {.align-bleed}
 
 A pattern portfolio helped to ease handover to the development agency Cognite. Towards the end of the project I worked at their offices, helping them integrate these design patterns, making adjustments where necessary given the constraints of the CMS.

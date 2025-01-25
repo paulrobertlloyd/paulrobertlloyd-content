@@ -13,7 +13,7 @@ tags:
   - i4EU1
 ---
 
-![Vancouver waterfront from Stanley Park.](/media/2011/363/a1/marina.jpg "Vancouver waterfront from Stanley Park.")
+![Vancouver waterfront from Stanley Park.](../media/2011/363/a1/marina.jpg "Vancouver waterfront from Stanley Park.")
 {.align-bleed}
 
 Sat in the front seat of a [Saltspring Air][1] float plane, I enjoyed breathtaking views of Vancouver as I descended into its harbour, landing just in front of Canada Place. For such a densely populated city, I felt I’d arrived somewhere small and friendly, certifying [its status][2] as one of the world’s most liveable cities.
@@ -24,15 +24,15 @@ After checking into the [St. Regis Hotel][3] (worthy of mention, and highly reco
 
 I was unsure how to spend my single day in Vancouver. Dave recommended visiting [Stanley Park][7] if the weather was good; luckily the predicted rainfall was absent so I headed in that direction. I was easily drawn into this expansive park; beautiful in and of itself yet also a great spot to find magnificent views of the cityscape. Always on the look out for a good walking trail, I spotted the 8.8km Seawall and followed the circumference of the park.
 
-![Brilliant Autumn colours in Stanley Park.](/media/2011/363/a1/stanley_park.jpg "Brilliant Autumn colours in Stanley Park.")
+![Brilliant Autumn colours in Stanley Park.](../media/2011/363/a1/stanley_park.jpg "Brilliant Autumn colours in Stanley Park.")
 
 From this trail I saw the Harry Jerome statue, the 9 O"Clock Gun, the Lionsgate Bridge stretching across the harbour, and in the distance much of Vancouver’s industry, including mounds of Sulphur located irresponsibly close to such a populated city. Halfway round, I stopped to admire the limitless views across the Salish Sea, where sailboats and oil tankers floated upon a still mirror-like surface.
 
-![Ships on the Salish Sea.](/media/2011/363/a1/salish_sea.jpg "Ships on the Salish Sea.")
+![Ships on the Salish Sea.](../media/2011/363/a1/salish_sea.jpg "Ships on the Salish Sea.")
 
 As I reached the end of the trail, the heavens opened. With a distance between me and my hotel, I was soon soaked to the bone. Reverting to type, I ended up in the local mall and regrettably ate something vaguely resembling sweet and sour chicken in the food court. Never again.
 
-![Sulphur mounds across the harbour.](/media/2011/363/a1/sulphur.jpg "Sulphur mounds across the harbour. A bit too close for comfort?")
+![Sulphur mounds across the harbour.](../media/2011/363/a1/sulphur.jpg "Sulphur mounds across the harbour. A bit too close for comfort?")
 
 That was it. Just one day in Vancouver, but I’d seen enough to warrant a return visit. At 5am, I took a taxi to the railway station, where I caught a coach to Seattle to catch the Coast Starlight to San Francisco. This involved crossing the border; cue an arrogant, unfriendly border guard, with a line of questioning that assumed guilt. I was back in the United States.
 

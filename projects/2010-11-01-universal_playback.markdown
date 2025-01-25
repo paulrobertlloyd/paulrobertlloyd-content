@@ -9,9 +9,9 @@ tags:
 color: "#bbb"
 ---
 
-- ![Home page.](/media/projects/universal_playback/homepage.png#screenshot)
+- ![Home page.](../media/projects/universal_playback/homepage.png#screenshot)
 
-- ![Show page.](/media/projects/universal_playback/showpage.png#screenshot)
+- ![Show page.](../media/projects/universal_playback/showpage.png#screenshot)
 
 [Playback][1] was the TV-on-DVD label of Universal Pictures in the UK, responsible for releasing content from NBCUniversal as well as other acquired series on DVD and Blu-ray disc.
 
