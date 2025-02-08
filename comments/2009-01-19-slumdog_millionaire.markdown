@@ -9,9 +9,7 @@ comments:
       url: http://www.trovster.com
     published: 2009-01-19T12:13:43Z
     content: So, overall, what did you think of the movie!? What was your score out of ten?
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2009-01-23T18:29:22Z
     content: |-
       Good point! I realise this post didn’t really provide much of a review. I think in terms of marks out of ten, I’d give it an easy eight, perhaps a nine.

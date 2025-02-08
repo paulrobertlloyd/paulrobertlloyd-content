@@ -331,9 +331,7 @@ comments:
       I don’t think that should be the question. I think the question is if they are actually willing to give chance to new speakers?
 
       I think it’s also about “connections” that you get a chance to speak at these events. So it doesn’t necessarily mean they are good at what they do but they just know the right people.
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2010-07-27T20:10:40+01:00
     content: |-
       Thank-you all for your comments. Most of the debate that followed here, on Twitter, and offline has been fascinating – there certainly seems to be an appetite for more experimentation at web design conferences, as well as a desire to see more people in our community take to the speaking circuit.

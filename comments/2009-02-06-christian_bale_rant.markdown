@@ -21,9 +21,7 @@ comments:
       url: http://www.krisweb.co.uk
     published: 2009-02-10T22:03:26Z
     content: Agreed! The guys clearly a dick!
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2009-02-10T22:25:51Z
     content: |-
       I think everybody is being a little too hard on Bale – especially when you take into account the DP walking around and distracting Bale while he was filming his scene. Bale has since stated he was half ‘in character’ when he flipped so that may have had some effect too (whether you choose to believe that or not is up to you).

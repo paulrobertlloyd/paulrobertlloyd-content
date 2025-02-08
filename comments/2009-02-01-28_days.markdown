@@ -12,9 +12,7 @@ comments:
       Good luck.
 
       Oh, and I hope your 28th Feb post won’t be called ‘28 Days Later’… or have I just spoiled that for you?
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2009-02-01T22:49:28Z
     content: Thanks! And yes, this series of posts will have a totally predictable outcome – damn you!
   - author:

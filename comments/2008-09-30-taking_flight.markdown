@@ -26,9 +26,7 @@ comments:
       I think the green image is a cool pixelated map of the world.
 
       Like the Google post location map.
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2008-10-01T03:52:13+01:00
     content: |-
       Fabricio – I’m in town until the morning of the 10th, so maybe we could catch up on the 9th?

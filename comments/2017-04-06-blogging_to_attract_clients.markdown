@@ -30,9 +30,7 @@ comments:
           Much like yourself, I hate the crazy amount of cold email I get asking me to comment or promote someone’s articles. I’m not suggesting you spam a bunch of people with your article. I’m just suggesting you do what feels natural in terms of promotion, starting up conversations with relevant people who you mentioned in the article is a good way to do so.
 
       Sorry for such a long comment. Does this make sense?
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2017-07-07T00:21:00+01:00
     content: |-
       Thanks for taking the time to reply to my post.

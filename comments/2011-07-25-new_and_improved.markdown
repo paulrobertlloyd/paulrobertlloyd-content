@@ -45,9 +45,7 @@ comments:
       Just curious about the why :)
 
       Oh and the manually having to enter “http://” on the website field in the comment form. The devil’s in the details ;)
-  - author:
-      name: Paul Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2011-07-29T00:44:58+01:00
     content: |-
       Thanks for the feedback everybody, especially those who suggested improvements:

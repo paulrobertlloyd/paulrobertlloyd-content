@@ -9,9 +9,7 @@ comments:
       url: http://jonathanaquino.com
     published: 2008-12-30T21:58:31Z
     content: Sweet pics, Paul. What camera do you use?
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2008-12-31T10:02:44Z
     content: |-
       Hey Jon! I’m currently using a [Canon Powershot G9](http://www.dpreview.com/reviews/canong9/) – a camera that falls somewhere between high-end compact and low-end DSLR. This means it’s small enough to be able to fit in my trouser pocket (just), but at the expense of some features available in full SLRs (interchangeable lenses, better image sensors etc.)

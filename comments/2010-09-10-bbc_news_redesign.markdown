@@ -36,9 +36,7 @@ comments:
       The MSNBC redesign has rendered that site unusable. There are reports that they have also lost 25% of their online audience.
 
       I deleted MSNBC from my bookmarks, and have moved on to other news sites. It was a horrible redesign
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2010-09-19T22:39:05+01:00
     content: |-
       [@Stan](#comment-3) Thanks for your comment. However, I’m interested to understand why you thought the previous design worked better than the new version—could you expand on your feedback at all?

@@ -31,9 +31,7 @@ comments:
       Very nice. The one thing I would like would be the one meatspace connection I still use, the phone. Skype too.
 
       OK, not social media, per se, but if you want a complete contact page :)
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2009-07-02T00:37:00.000Z
     content: |-
       Thanks for the kind words everybody!
@@ -157,9 +155,7 @@ comments:
       url: http://www.CommunitiesDNA.com
     published: 2009-07-20T15:49:31.000Z
     content: Really useful all of them!! thanks for sharing, Paul!!!
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2009-07-20T20:23:15.000Z
     content: |-
       Hi Mike,
@@ -194,9 +190,7 @@ comments:
       Hey Paul, like I said on Twitter just now I swear I clicked to download your icons, opened up the ZIP, and I saw Rogie’s icons. I did this 3x and had the same result. Initially your ZIP file was 0 bytes and I thought something odd was going on, my only explanation is that your ZIP was named exactly the same as Rogie’s and I had his in the same folder. After I deleted all ZIPs in my Downloads folder I gave it another shot and finally saw your actual icons which are very, very nice.
 
       You have my sincerest apologies and immediately after I discovered my mistake I deleted the tweets that contained my remarks and apologized. As Rogie has mentioned I would not do something like this maliciously, it was a mistake on my part, and I’m very sorry.
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2009-07-20T21:50:28.000Z
     content: |-
       Thanks for getting back to me on this Mike, it seem as though technology has failed us once again. Apology excepted.
@@ -860,9 +854,7 @@ comments:
       Hey Paul, I recently updated some of my icons to yours, they’re nice. The one exception is YouTube – the play button isn’t really recognized as youtube, it’s usually their square logotype.
 
       Any thoughts on changing/updating that to their red/white logo they use?
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2010-05-27T22:19:56.000Z
     content: |-
       Hello all,

@@ -49,9 +49,7 @@ comments:
       “Bristol, Avon” irks me too, but I believe you are wrong in saying that “Bristol, Gloucestershire” would be more accurate.
 
       Bristol was granted county status in 1373 and only lost it with the creation of Avon. When Avon was abolished, City and County status was restored to Bristol.
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2009-07-17T12:33:46+01:00
     content: |-
       Bernard, you’ve found me out!

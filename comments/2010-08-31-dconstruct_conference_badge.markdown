@@ -27,9 +27,7 @@ comments:
       Lovely to see dConstruct’s attempts to minimise the impact that such an event has on the environment. Does banning swag bags mean banning all swag at the event too?
 
       [@Drew](#comment-2): Too many items for pockets or traditional wallets?
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2010-09-02T11:51:22+01:00
     content: |-
       [@Ian](#comment-3): “Ban” may be too strong a word, but we found putting hundreds of swag bags together more hassle than it was worth (in addition to it being a wasteful enterprise).

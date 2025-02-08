@@ -16,9 +16,7 @@ comments:
       These days, as you point out, there is a glut of events and groups for Web geeks to attend and participate in, which is a very positive state of affairs. And I’m glad that Multipack continues to go from strength to strength, particularly Geek In The Park.
 
       By the way, watch your spelling of ‘fourth’ ;)
-  - author:
-      name: Paul Robert Lloyd
-      photo: https://gravatar.com/avatar/15091a37bacfa4bdd011282627eaca2b
+  - author: me
     published: 2009-10-12T11:12:46+01:00
     content: |-
       It is maddening how many of us were at @media 2005 yet didn’t know we all worked so near to each other.
