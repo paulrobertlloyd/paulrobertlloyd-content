@@ -39,7 +39,7 @@ They have yet to see any broader usage, but I’d rather see the protocols and c
 
 ## Updated design for IndieWeb.org
 
-![Screenshot of the indieweb.org home page.](../media/2024/056/a1/indieweb_homepage.png#screenshot)
+![Screenshot of the indieweb.org home page.](../media/2024/056/a1/indieweb_homepage_screenshot.png)
 
 The [IndieWeb wiki][1] is an important resource for learning about the movement, its standards and practices as well as a place to share insights and implementation examples. By using [an older version of MediaWiki’s default theme][8] not optimised for smaller screens, people new to the community didn’t get the best first impression.
 

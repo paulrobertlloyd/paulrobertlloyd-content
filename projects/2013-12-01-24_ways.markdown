@@ -11,7 +11,7 @@ tags:
 color: "#f04"
 ---
 
-![Article page.](../media/projects/24_ways/article.png#screenshot)
+![Article page.](../media/projects/24_ways/article_screenshot.png)
 {.align-bleed}
 
 Each December, Drew McLellan and his small team of elves publish [24 ways][1], a daily dose of design and development goodness that delivers a little Christmas cheer to the web community during the period of advent.
@@ -27,9 +27,9 @@ With content that tended to be forward-looking, the design could afford to be al
 
 24 ways is not a commercial venture, and with little budget to spend on web fonts, I sought out open source typefaces. I settled on Adobe’s Source super-family; using Source Sans Pro for headings and reference copy would give the site a clean, modern feel; the Source Serif Pro to give articles a scholarly tone and provide typographic contrast, with Source Code Pro available for displaying any code samples.
 
-- ![Year archive page on mobile.](../media/projects/24_ways/archive_mobile.png#screenshot)
-- ![Article page on mobile.](../media/projects/24_ways/article_mobile.png#screenshot)
-- ![Opened site navigation on mobile.](../media/projects/24_ways/navigation_mobile.png#screenshot)
+- ![Year archive page on mobile.](../media/projects/24_ways/archive_mobile_screenshot.png)
+- ![Article page on mobile.](../media/projects/24_ways/article_mobile_screenshot.png)
+- ![Opened site navigation on mobile.](../media/projects/24_ways/navigation_mobile_screenshot.png)
 
 Where the previous design used a rigid template across all sections of the site, which often dominated the content, I created a series of responsive templates each suited the task in hand. These were supported by application-like navigation conventions, with subtle animation to add delight to the interface.
 
@@ -37,9 +37,9 @@ Beyond the visual aesthetic, I was keen to employ best practice with regards to 
 
 To exploit the very idea of 24 ways – different articles, written by different authors, published over twenty-four days for almost nearly a decade – I created a palette based on the publication’s signature red, that subtly changes over time based on both day and year variables.
 
-- ![Home page.](../media/projects/24_ways/homepage.png#screenshot "The home and other archival pages showcase articles by placing them within a grid, evoking the feel of a calendar.")
+- ![Home page.](../media/projects/24_ways/homepage_screenshot.png "The home and other archival pages showcase articles by placing them within a grid, evoking the feel of a calendar.")
 
-- ![Opened site navigation.](../media/projects/24_ways/navigation.png#screenshot "To account for the growing archive and to improve the discoverability of content, I recommended categorising articles by topic and exposing these within the navigation.")
+- ![Opened site navigation.](../media/projects/24_ways/navigation_screenshot.png "To account for the growing archive and to improve the discoverability of content, I recommended categorising articles by topic and exposing these within the navigation.")
 
 ## Continual refinement
 

@@ -11,9 +11,9 @@ tags:
 color: "#390"
 ---
 
-- ![Home page.](../media/projects/ning/networks.png#screenshot)
+- ![Home page.](../media/projects/ning/networks_screenshot.png)
 
-- ![Help center.](../media/projects/ning/help.png#screenshot)
+- ![Help center.](../media/projects/ning/help_screenshot.png)
 
 [Ning][1] is an online platform that allows people to create customised social networks. I was lead designer from January 2006 to October 2007.
 

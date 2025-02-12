@@ -64,7 +64,7 @@ Before “killer websites” and the desire to produce print-like layouts – wh
 
 In 1995, [Hotwired][4] used just sixteen colors. Navigation on the homepage consisted of little more than six four-color, 1kb GIFs representing each topic area. The layout was just those images, centered:
 
-![Screenshot of Hotwired.](../media/2012/283/a1/hotwired_1995.png "Hotwired, circa 1995.")
+![Screenshot of Hotwired.](../media/2012/283/a1/hotwired_1995_screenshot.png "Hotwired, circa 1995.")
 
 Surrounded by high-resolution displays and limitless bandwidth, it’s easy to forget that similar constraints still exist. Although devices are becoming ever more powerful and feature-rich, less capable devices continue to be developed as well; for example, the Amazon Kindle is a popular device, yet most of the line’s e-reader models feature cellular connectivity and a monochrome E Ink display.
 
@@ -136,27 +136,27 @@ That these apps can only be viewed using Chrome is an unnerving requirement, and
 
 When we think of websites inspired by print, those of newspapers spring to mind. The website for [""The New York Times""][12] features a fixed, densely packed, multi-column grid. Like many contemporary sites, content is suffocated by advertising, sharing widgets, and related links:
 
-![Screenshot of the New York Times website.](../media/2012/283/a1/nytimes_site.png#screenshot "New York Times website interface.")
+![Screenshot of the New York Times website.](../media/2012/283/a1/nytimes_site_screenshot.png "New York Times website interface.")
 
 The inappropriateness of this design becomes more apparent when compared to its [Chrome App][13] (which is thankfully accessible in other browsers). Content takes center stage, with a less cluttered, more focused interface that’s also responsive – to a point. Note that it also features less photographic imagery, supporting the idea that responsive images might only be a problem when web designers try to replicate print.
 
-![Screenshot of the New York Times web application.](../media/2012/283/a1/nytimes_app.png#screenshot "New York Times application interface.")
+![Screenshot of the New York Times web application.](../media/2012/283/a1/nytimes_app_screenshot.png "New York Times application interface.")
 
 ### Task-oriented sites
 
 Another website that suffers from similarly crowded layouts is [BBC Good Food:][14]
 
-![Screenshot of the BBC Good Food website.](../media/2012/283/a1/bbc_good_food_site.png#screenshot "BBC Good Food website interface.")
+![Screenshot of the BBC Good Food website.](../media/2012/283/a1/bbc_good_food_site_screenshot.png "BBC Good Food website interface.")
 
 Yet, when viewing a recipe page in its [Chrome app,][15] we again see a more considered, user-centred design; it’s far easier to follow a recipe when you don’t have to scroll the page.
 
-![Screenshot of the BBC Good Food application.](../media/2012/283/a1/bbc_good_food_app.png#screenshot "BBC Good Food application interface.")
+![Screenshot of the BBC Good Food application.](../media/2012/283/a1/bbc_good_food_app_screenshot.png "BBC Good Food application interface.")
 
 ### Content, not chrome
 
 A final example of this trend can be found on [Rdio][16]. As the music-streaming service has evolved, its designers have sought consistency between the website and desktop application. Where once these interfaces shared only a few components, now they are largely the same. This has resulted in a design that falls somewhere between the two: not quite a website, but not quite a desktop application either.
 
-![Screenshot of the Rdio website.](../media/2012/283/a1/rdio.png#screenshot "Rdio website interface.")
+![Screenshot of the Rdio website.](../media/2012/283/a1/rdio_screenshot.png "Rdio website interface.")
 
 Like the Chrome apps for ""The New York Times"" and BBC Good Food, this nudge toward a more app-like interface has resulted in a stronger focus on content (in this case, album covers), a more fluid layout, and less intrusive navigation.
 

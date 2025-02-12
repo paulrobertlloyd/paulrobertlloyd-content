@@ -9,7 +9,7 @@ tags:
 color: "#370"
 ---
 
-![Home page for the 2010 website.](../media/projects/dconstruct/2010.png#screenshot)
+![Home page for the 2010 website.](../media/projects/dconstruct/2010_screenshot.png)
 {.align-bleed}
 
 For the first Friday of September of each year from 2005 until 2015, Brighton played host to a one-day conference called dConstruct that explored topics around design, culture, technology and everything in-between. Each edition had a different theme, and to reflect this, the site was redesigned each year. I was responsible for the design in 2010, 2011 and 2013.
@@ -28,9 +28,9 @@ Prior to this event, Clearleft used plastic wallets to hold the combined confere
 
 Like the previous year’s design, the [homepage featured prominent images of the speakers][3]. The design process involved close collaboration with Andy Hume, which was needed for us to build a highly responsive website that would work well across devices. With this in mind, the main navigation was simplified to just four items (Conference, Workshops, Location and Register) with an alternative navigation method shown when browsing speaker pages on smaller screens.
 
-- ![Home page for the 2011 website.](../media/projects/dconstruct/2011.png#screenshot "2011 website.")
+- ![Home page for the 2011 website.](../media/projects/dconstruct/2011_screenshot.png "2011 website.")
 
-- ![Home page for the 2013 website.](../media/projects/dconstruct/2013.png#screenshot "2013 website.")
+- ![Home page for the 2013 website.](../media/projects/dconstruct/2013_screenshot.png "2013 website.")
 
 ## 2013: Communicating with Machines
 

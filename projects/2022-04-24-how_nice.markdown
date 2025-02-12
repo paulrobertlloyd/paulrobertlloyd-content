@@ -9,9 +9,9 @@ tags:
 color: "#fd0"
 ---
 
-- ![A page from the brand guidelines showing recommended logo usage.](../media/projects/how_nice/guide_logo.png#screenshot "Brand guidelines for logo usage…")
+- ![A page from the brand guidelines showing recommended logo usage.](../media/projects/how_nice/guide_logo_screenshot.png "Brand guidelines for logo usage…")
 
-- ![A page from the brand guidelines showing the colour palette.](../media/projects/how_nice/guide_colour.png#screenshot "…and the colour palette.")
+- ![A page from the brand guidelines showing the colour palette.](../media/projects/how_nice/guide_colour_screenshot.png "…and the colour palette.")
 
 Dan is a delivery manager, and he wanted a logo for his company that he could use for an advertising board at his local cricket club. But how to design a logo for a company whose name had “absolutely no thought whatsoever” given to it? Then Dan sent me a photo of his dog Penny, whose bone-shaped tag on her collar gave me a hint as to the possible solution.
 
@@ -21,9 +21,9 @@ Bones help bodies maintain their shape and give them structure, much like how de
 
 Having settled on a final design for the logo, I delivered it alongside a short guidelines document. This included recommendations on logo usage, colour and font palettes, and suggestions on how the brand could be implemented on social media pages.
 
-- ![A page from the brand guidelines showing typographic recommendations.](../media/projects/how_nice/guide_typography.png#screenshot "Brand guidelines for typgraphy…")
+- ![A page from the brand guidelines showing typographic recommendations.](../media/projects/how_nice/guide_typography_screenshot.png "Brand guidelines for typgraphy…")
 
-- ![A page from the brand guidelines showing brand implementation on a social media profile.](../media/projects/how_nice/guide_implementation.png#screenshot "…and brand implementation on social media pages.")
+- ![A page from the brand guidelines showing brand implementation on a social media profile.](../media/projects/how_nice/guide_implementation_screenshot.png "…and brand implementation on social media pages.")
 
 ## Project details
 

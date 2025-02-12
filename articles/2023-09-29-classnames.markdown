@@ -30,9 +30,9 @@ I’d created the [GOV.UK Eleventy Plugin][7] to make it easier to build documen
 
 This proved to be enough to get moving, and after a few hours I’d made a thing. It’s called [Classnames][9].
 
-- ![Screenshot of the Classnames home page.](../media/2023/272/a1/home.png#screenshot)
+- ![Screenshot of the Classnames home page.](../media/2023/272/a1/home_screenshot.png)
 
-- ![Screenshot of a word page on the Classnames website.](../media/2023/272/a1/word.png#screenshot)
+- ![Screenshot of a word page on the Classnames website.](../media/2023/272/a1/word_screenshot.png)
 
 This small website provides a list of words that you can refer to when naming something like an HTML class, custom CSS property or JavaScript function. Each word links to a page on [Wordnik][10], an online dictionary that does the hard work of providing multiple definitions and listing related words.
 

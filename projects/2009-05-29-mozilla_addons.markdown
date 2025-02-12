@@ -9,9 +9,9 @@ tags:
 color: "#235"
 ---
 
-- ![Home page.](../media/projects/mozilla_addons/homepage.png#screenshot)
+- ![Home page.](../media/projects/mozilla_addons/homepage_screenshot.png)
 
-- ![Add-on detail page.](../media/projects/mozilla_addons/addon.png#screenshot)
+- ![Add-on detail page.](../media/projects/mozilla_addons/addon_screenshot.png)
 
 Mozilla Add-ons is a catalogue of over 6,000 add-ons that allows Firefox users to customise the browser to suit their individual interests and needs.
 

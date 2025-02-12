@@ -11,9 +11,9 @@ tags:
 color: "#00b6dd"
 ---
 
-- ![Home page.](../media/projects/ngenera/homepage.png#screenshot)
+- ![Home page.](../media/projects/ngenera/homepage_screenshot.png)
 
-- ![Workshop description page.](../media/projects/ngenera/workshop.png#screenshot)
+- ![Workshop description page.](../media/projects/ngenera/workshop_screenshot.png)
 
 nGenera Corporation (now [Moxie Software][1]) helps companies and governments transform themselves into forward thinking enterprises, that is to say organisations that enable employees to communicate via real-time social software platforms and tools.
 

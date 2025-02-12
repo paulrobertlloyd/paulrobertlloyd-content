@@ -10,13 +10,13 @@ tags:
 color: "#551f70"
 ---
 
-- ![Welcome screen.](../media/projects/refigure/app_welcome.png#screenshot)
+- ![Welcome screen.](../media/projects/refigure/app_welcome_screenshot.png)
 
-- ![Browse meditations.](../media/projects/refigure/app_browse.png#screenshot)
+- ![Browse meditations.](../media/projects/refigure/app_browse_screenshot.png)
 
-- ![Meditation detail.](../media/projects/refigure/app_meditation.png#screenshot)
+- ![Meditation detail.](../media/projects/refigure/app_meditation_screenshot.png)
 
-- ![Meditation player.](../media/projects/refigure/app_player.png#screenshot)
+- ![Meditation player.](../media/projects/refigure/app_player_screenshot.png)
 
 Through Refigure, Rifa-Thorpe Tracey provides tailor-made mentoring and meditation services for individuals and teams, corporates and non-profits.
 
@@ -24,7 +24,7 @@ At the start of my short ten-day engagement, I proposed three possible design di
 
 At the heart of Refigure’s brand is the monogram. A scripted ‘r’ within a slanted oval, provides a personal touch to the company’s brand, subtly hinting at ideas of growth, renewal and continuous improvement. A high contrast complementary palette of dark warm purple and a vibrant green gave the brand an energetic yet approachable feel, while a series of thematic icons primarily composed using a single line that drew inspiration from the scripted logo mark.
 
-![Landing page for the new app.](../media/projects/refigure/homepage.png#screenshot "Landing page to promote the new app.")
+![Landing page for the new app.](../media/projects/refigure/homepage_screenshot.png "Landing page to promote the new app.")
 
 ## Project details
 

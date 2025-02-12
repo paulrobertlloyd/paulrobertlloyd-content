@@ -9,7 +9,7 @@ tags:
 color: "#672949"
 ---
 
-![Home page.](../media/projects/charityconnect/homepage.png#screenshot)
+![Home page.](../media/projects/charityconnect/homepage_screenshot.png)
 {.align-bleed}
 
 [CharityConnect][1] is a social network for the charity sector that helps charity professionals, trustees and volunteers interact, share ideas and discover opportunities in the sector.
@@ -29,13 +29,13 @@ With these findings uncovered, I created a set of detailed visual design composi
 > Paul is fantastic to work with and a truly excellent designer. From communication, to testing, to presenting his work; he never ceases to go the extra mile. Paul has played a central role in a really exciting time for our product and has made such an impact – thank you, Paul.
 > — Emma Begg, Product and Marketing Manager
 
-- ![User profile page on mobile.](../media/projects/charityconnect/profile.png#screenshot)
+- ![User profile page on mobile.](../media/projects/charityconnect/profile_screenshot.png)
 
-- ![Followed users page on mobile.](../media/projects/charityconnect/following.png#screenshot)
+- ![Followed users page on mobile.](../media/projects/charityconnect/following_screenshot.png)
 
-- ![Group profile page on mobile.](../media/projects/charityconnect/group.png#screenshot)
+- ![Group profile page on mobile.](../media/projects/charityconnect/group_screenshot.png)
 
-- ![Article page on mobile.](../media/projects/charityconnect/post.png#screenshot)
+- ![Article page on mobile.](../media/projects/charityconnect/post_screenshot.png)
 
 ## Project details
 

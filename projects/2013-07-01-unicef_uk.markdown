@@ -10,9 +10,9 @@ tags:
 color: "#00aeef"
 ---
 
-- ![Home page.](../media/projects/unicef_uk/home.png#screenshot)
-- ![Internal page.](../media/projects/unicef_uk/info.png#screenshot)
-- ![Gallery page.](../media/projects/unicef_uk/gallery.png#screenshot)
+- ![Home page.](../media/projects/unicef_uk/home_screenshot.png)
+- ![Internal page.](../media/projects/unicef_uk/info_screenshot.png)
+- ![Gallery page.](../media/projects/unicef_uk/gallery_screenshot.png)
 
 [UNICEF UK][1] raises funds to protect children and the defend their rights worldwide.
 

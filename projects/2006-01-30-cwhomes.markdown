@@ -11,9 +11,9 @@ tags:
 color: "#f93"
 ---
 
-- ![Home page.](../media/projects/cwhomes/homepage.png#screenshot)
+- ![Home page.](../media/projects/cwhomes/homepage_screenshot.png)
 
-- ![Property detail page.](../media/projects/cwhomes/property.png#screenshot)
+- ![Property detail page.](../media/projects/cwhomes/property_screenshot.png)
 
 cwhomes.co.uk was a property portal that combined the resources of over sixty independent estate agency offices within Coventry and Warwickshire.
 

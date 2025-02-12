@@ -9,7 +9,7 @@ tags:
 color: "#e9242e"
 ---
 
-![Home page.](../media/projects/fontdeck/homepage.png#screenshot)
+![Home page.](../media/projects/fontdeck/homepage_screenshot.png)
 {.align-bleed}
 
 Fontdeck was a professional web font service that let designers and developers to choose from hundreds of web fonts and easily embed them in their websites.
@@ -32,19 +32,19 @@ It was also decided that we would improve the product in discreet stages. While 
 
 As I explored different design directions, it became clear to me that the design that had been used during private and public beta phases of the product roll-out no longer aligned with the redefined proposition. While elements of the previous design could be retained – the logo, the colour palette – a new approach was needed.
 
-- ![Typeface category page.](../media/projects/fontdeck/category.png#screenshot "Exposing different means of discovery made it easier for users to browse Fontdeck’s catalogue.")
+- ![Typeface category page.](../media/projects/fontdeck/category_screenshot.png "Exposing different means of discovery made it easier for users to browse Fontdeck’s catalogue.")
 
-- ![Type specimen page.](../media/projects/fontdeck/specimen.png#screenshot "Information about an individual typeface was available on one page, with meta data presented in the sidebar.")
+- ![Type specimen page.](../media/projects/fontdeck/specimen_screenshot.png "Information about an individual typeface was available on one page, with meta data presented in the sidebar.")
 
 Given the product’s focus, the type choice was clearly the overriding concern. Since the original brand font, FF Info, wasn’t in the catalogue, I looked for alternatives. I decided to pair Adelle (lots of character at different sizes) with PT Sans (legible at small sizes). Where web-safe alternatives were required (e.g. HTML newsletters), Georgia and Lucida Grande were used. The colour palette required only subtle changes; the signature dark blue colour was made slightly dustier, the saturated font category colours more muted.
 
 Page layout was more considered, making heavy use of an underlying grid, with use of delicate line work and a clear typographic hierarchy. The number of rounded corners used in the original design was reduced, while the playing card device was limited to account and project pages, where users managed their font ‘decks’.
 
-- ![About page.](../media/projects/fontdeck/about.png#screenshot)
+- ![About page.](../media/projects/fontdeck/about_screenshot.png)
 
-- ![Foundries page.](../media/projects/fontdeck/foundries.png#screenshot)
+- ![Foundries page.](../media/projects/fontdeck/foundries_screenshot.png)
 
-- ![Type designer page.](../media/projects/fontdeck/designer.png#screenshot)
+- ![Type designer page.](../media/projects/fontdeck/designer_screenshot.png)
 
 The previous text-heavy about page was replaced by an expanded about section that included a video narrated by Richard, the story of the product’s development and introduced the team working behind the scenes. A dedicated pricing page was linked to from the main navigation which concisely explained how the various pricing tiers worked.
 

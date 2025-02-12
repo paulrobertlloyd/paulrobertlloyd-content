@@ -9,7 +9,7 @@ tags:
 color: "#1c3fff"
 ---
 
-![The Shapdashery publication on Medium.](../media/projects/slapdashery/homepage.png#screenshot)
+![The Shapdashery publication on Medium.](../media/projects/slapdashery/homepage_screenshot.png)
 {.align-bleed}
 
 [Slapdashery][1] was a writing challenge undertaken by [Ben Sauer][2] in 2017.

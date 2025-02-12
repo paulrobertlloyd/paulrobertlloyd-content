@@ -148,9 +148,9 @@ Images can be found in the `media` folder, with paths using the following conven
 
 #### Screenshots
 
-Use the `#screenshot` fragment to indicate that an image should be displayed as a screenshot. For example:
+Use the `_screenshot` in an image’s file name to indicate that it should be displayed as a screenshot. For example:
 
-`../media/projects/bradshaws_guide/homepage.png#screenshot`
+`../media/projects/bradshaws_guide/homepage_screenshot.png`
 
 #### Images with captions
 
