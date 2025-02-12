@@ -1,0 +1,5 @@
+---
+date: 2025-02-12T13:27:36.047Z
+---
+
+That loud groaning noise you can hear is the sound of a 1000 employees at Williams Racing being told [they’ve now got to use Jira](https://www.williamsf1.com/posts/57d8322a-ed45-488f-84aa-70cc92b10f2d/atlassian-williams-racing).
