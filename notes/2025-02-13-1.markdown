@@ -1,5 +1,6 @@
 ---
 date: 2025-02-13T22:46:58.888Z
+updated: 2025-02-13T22:47:58.933Z
 ---
 
-[Micro Social](https://gregmorris.co.uk/2025/02/12/micro-social-the-launch.html) is to Micro.blog what Tweetie was to Twitter. Sometimes it needs a passionate and attentive and third-party developer to build the best app for an open platform. Astounding work @gregmorris!
+[Micro Social](https://gregmorris.co.uk/2025/02/12/micro-social-the-launch.html) is to Micro.blog what Tweetie was to Twitter. Sometimes it takes a passionate and attentive third-party developer to design and build the best app for an open platform. Astounding work @gregmorris!
