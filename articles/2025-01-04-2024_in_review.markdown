@@ -86,7 +86,7 @@ That said, thanks to Frankie, I took part in Services Week, where a few us invol
 
 The rest of the time I was happily rebuilding and then over-engineering our prototype (a word I now surround with air quotes). Perhaps something for a separate post, but a thought that’s been rattling around in my head is that, the better I become at programming, the worse I become at design. These aren’t mutually exclusive skills of course, but there’s something about coding that feeds the more introverted parts of my personality, and this comes at the cost of openness and collaboration.
 
-In July, aware of my passion for railways, [Rich][26] kindly asked if I would be interested in joining Clearleft on an upcoming project for LNER. Limited to 10 days, I could potentially slot this in around the 4 days a week I was working on the NHS project. By the time everything was confirmed, work was ramping up towards the launch of our beta, yet Jake and Stu graciously allowed me to take some time away to spend on my dream project.
+In July, aware of my passion for railways, [Rich][26] kindly asked if I would be interested in joining Clearleft on an upcoming project for LNER. Limited to 10 days, I could potentially slot this in around the 4 days a week I was working on the NHS project. By the time everything was confirmed, work was ramping up towards the launch of our beta, yet Jake and Stu graciously allowed me to take some time away to spend on [my dream project][27].
 
 In September, I got a behind the scenes tour of King’s Cross, spoke to the team at Newark station, and visited LNER’s head offices inside York’s former railway station. However, the reality of working on two projects at the same time soon became evident, context switching over the course of several weekends and evenings. I’m not sure how much value I added (in terms of deliverables, it was less than 30 seconds of a 3:30 minute video) or if I’m suited to the fast-paced, concept-led world of design agencies, if I ever was.
 
@@ -129,6 +129,7 @@ All in all, a pretty average, uneventful year, if only personally; the declining
 [24]: https://www.vickyteinaki.com
 [25]: https://x-govuk.github.io
 [26]: https://clagnut.com
+[27]: https://clearleft.com/work/london-north-eastern-railway
 
 *[CMS]: content management system
 *[DfE]: Department for Education
