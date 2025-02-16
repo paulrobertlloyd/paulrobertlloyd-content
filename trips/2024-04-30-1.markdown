@@ -4,7 +4,7 @@ itinerary:
   - label: Brighton (BTN)
     locality: Brighton
     countryName: England
-  - label: Blackfriars (BFR)
+  - label: London Blackfriars (BFR)
     locality: London
     countryName: England
   - label: London St Pancras International (STP)
