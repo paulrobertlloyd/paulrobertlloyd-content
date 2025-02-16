@@ -1,0 +1,27 @@
+---
+start: 2025-01-28
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: London Euston (EUS)
+    locality: London
+    countryName: England
+  - label: Coventry (COV)
+    locality: Coventry
+    countryName: England
+  - label: London Euston (EUS)
+    locality: London
+    countryName: England
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+tags:
+  - i5aG1
+---

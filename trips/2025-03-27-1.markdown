@@ -1,0 +1,21 @@
+---
+start: 2025-03-27
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+  - label: London Blackfriars (BFR)
+    locality: London
+    countryName: England
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: London Euston (EUS)
+    locality: London
+    countryName: England
+  - label: Dundee (DEE)
+    locality: Dundee
+    countryName: Scotland
+tags:
+  - i5bE1
+---
