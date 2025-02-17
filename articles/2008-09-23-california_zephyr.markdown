@@ -179,7 +179,7 @@ The dinners served up on board are certainly better than I was expecting, yet th
 
 The landscape you travel across is one of the most scenic routes run by Amtrak, with a timetable scheduled to ensure you get the best of it. At Sacramento, two guides from the California State Railroad museum jump aboard, and provide a commentary of the landscape as the train passes through the Sierra Nevadas.
 
-Although these guides step of at [Reno][3], the commentary is continued by the conductors, who pass through the mixed terrain that is the [Rocky Mountains][4] and [Continental Divide][5] several times a week.
+Although these guides step off at [Reno][3], the commentary is continued by the conductors, who pass through the mixed terrain that is the [Rocky Mountains][4] and [Continental Divide][5] several times a week.
 
 ![Route map](../media/2008/267/a1/route_map.png "Route of the California Zephyr.")
 {.align-bleed}
@@ -188,11 +188,11 @@ Unlike flying, travelling by train is a far more social affair. The dinning car 
 
 There is a wide variety of people that travel by train. For most of my journey I was sat behind a woman with a moustache whose husband was the size of a mountain. At [Grand Junction][6] I spoke to a Chinese student, who was doing two more long Amtrak routes after this one, as a quick and cheap means of seeing the country. At lunch, I met a couple on their way back home from Aspen. Later I had dinner with a couple on their way home to Michigan. In fact, most passengers on board were domestic travellers, with just a few tourists to be found.
 
-Amtrak obviously provides a much needed service to the communities it serves, yet passengers are treated like second-class citizen on the country’s railroads, most of which are leased to freight operators, who have right of way. As such, we remained motionless for 10 to 15 minutes on many occasions as we waited for a freight trains to pass, and coming into [Denver][7] was a massively complicated affair. The timetable is more of an educated guess, than something that you can plan your journey against.
+Amtrak obviously provides a much needed service to the communities it serves, yet passengers are treated like second-class citizen on the country’s railroads, most of which are leased to freight operators, who have right of way. As such, we remained motionless for 10 to 15 minutes on many occasions as we waited for a freight train to pass, and coming into [Denver][7] was a massively complicated affair. The timetable is more of an educated guess rather than something you can plan your journey with.
 
 This lack of investment is a great shame. Train travel over flying should be encouraged, yet it also needs to be given more funding from Washington so it can better compete with the airlines.
 
-Whilst a far slower means of travel, it certainly provides a more fulfilling experience. Not only are you able to witness the strange make-up of the United States close-up (both in the landscape outside, and those travelling with you on board), it’s also a far more relaxing way to travel. Just charge up your laptop, sit in the sightseers lounge and watch the landscape roll by.
+Whilst a far slower means of travel, it certainly provides a more fulfilling experience. Not only are you able to witness the strange make-up of the United States close-up (both in the landscape outside, and those travelling on board), it’s also a far more relaxing way to travel. Just charge up your laptop, sit in the sightseers lounge and watch the landscape roll by.
 
 [1]: https://en.wikipedia.org/wiki/Amtrak
 [2]: https://en.wikipedia.org/wiki/Superliner_(railcar)
