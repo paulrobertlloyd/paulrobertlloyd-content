@@ -1,6 +1,6 @@
 ---
 date: 2018-02-01T14:30:00Z
-title: Hostage Situation
+title: Hostage situation
 location:
   locality: Brighton
   countryName: England
