@@ -20,9 +20,9 @@ color: "#f04"
 ![24 ways website viewed on an iPad mini.](../media/2013/356/a1/website.png "24 ways viewed on an iPad mini.")
 {.align-bleed}
 
-The tail end of this year has been [rather hectic][1]. If moving house and changing jobs weren’t enough to be getting on with, I was also busy redesigning _[24 ways][2]_.
+The tail end of this year has been [rather hectic][1]. If moving house and changing jobs weren’t enough to be getting on with, I was also busy redesigning [""24 ways""][2].
 
-For the uninitiated, _24 ways_ is an annual advent calendar for web designers and developers. Published by Drew McLellan since 2005, the site boasts hundreds of articles that impart wisdom and teach new skills.
+For the uninitiated, ""24 ways"" is an annual advent calendar for web designers and developers. Published by Drew McLellan since 2005, the site boasts hundreds of articles that impart wisdom and teach new skills.
 
 Following [Drew’s post][3] on how he rebuilt the site, I thought I would describe the process behind the accompanying redesign.
 
@@ -66,7 +66,7 @@ All the while, [Jessica Hische’s advice][12] was in the back of my mind: could
 
 ## Moving to code
 
-By the time dConstruct arrived in September, I had enough elements to present an initial direction to Drew and the rest of the _24 ways_ team. They loved what they saw, but frustratingly, I couldn’t progress beyond this stage. I had a clear idea for index pages (inspired in part by the design of the [New York Times skimmer][13]), yet few ideas for how this might translate to other pages.
+By the time dConstruct arrived in September, I had enough elements to present an initial direction to Drew and the rest of the ""24 ways"" team. They loved what they saw, but frustratingly, I couldn’t progress beyond this stage. I had a clear idea for index pages (inspired in part by the design of the [New York Times skimmer][13]), yet few ideas for how this might translate to other pages.
 
 With the deadline fast approaching, I abandoned Sketch and headed for the browser. Having already marked up the site (using [Barebones][14] to provide generic styling) I introduced elements of the new design and observed how it cascaded down and throughout pages. Soon enough, the design was informing the markup, which in turn was informing the design. A visual language was developing in front of me.
 
@@ -116,11 +116,11 @@ Although I didn’t employ strict adherence to the [BEM][20] methodology, I foun
 > It’s finally happened… I’m seriously considering using a `.list--item` class name. Sky, meet flying pigs.
 > — [@paulrobertlloyd, 29 October 2013](https://twitter.com/paulrobertlloyd/status/395351309169459200)
 
-As _24 ways_ is entirely content-based, HTML5’s semantic elements were used extensively, all while making sure they generated a sensible document outline (something that’s often forgotten). Class names took inspiration from these elements, as terms like `article`, `summary`, `header`, `footer` and `main` mapped closely to the smaller patterns required.
+As ""24 ways"" is entirely content-based, HTML5’s semantic elements were used extensively, all while making sure they generated a sensible document outline (something that’s often forgotten). Class names took inspiration from these elements, as terms like `article`, `summary`, `header`, `footer` and `main` mapped closely to the smaller patterns required.
 
 Taking inspiration from BEM, I used single word root classes, suffixed with a modifier if required. Child elements would use this root class, followed by an underscore and a description of that element. A additional layer of semantics was provided using [Microformats 2][21] class names, although these were not referenced in the CSS.
 
-_Sidenote: If you’re unconvinced about the need for methodologies like BEM, I’d encourage you to read [Nicholas Gallagher’s thought provoking article][22] on semantics and front-end architecture._
+*Sidenote: If you’re unconvinced about the need for methodologies like BEM, I’d encourage you to read [Nicholas Gallagher’s thought provoking article][22] on semantics and front-end architecture.*
 
 This naming system produced markup patterns like this:
 
@@ -142,7 +142,7 @@ This naming system produced markup patterns like this:
 </article>
 ```
 
-If you’re interested in learning more about the front-end code behind _24 ways_, you can view [the repo on GitHub][23].
+If you’re interested in learning more about the front-end code behind ""24 ways"", you can view [the repo on GitHub][23].
 
 ## Designing in the dark
 

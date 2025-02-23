@@ -8,4 +8,4 @@ tags:
   - i4wa1
 ---
 
-_Fernsehturm Reflexion._{lang=de}
+*Fernsehturm Reflexion.*{lang=de}

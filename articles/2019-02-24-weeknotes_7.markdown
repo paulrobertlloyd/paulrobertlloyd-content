@@ -9,7 +9,7 @@ tags:
   - weeknotes
 ---
 
-With a further delay to the conclusion of my job search, I’ll skip past that and instead concentrate on the one thing that’s been occupying my mind this week, almost to a worrying degree. I mentioned in previous week notes my attempt to build a Micropub endpoint, and on Friday, [I made it public][1]. Christened _[IndieKit][2]_, I described it as:
+With a further delay to the conclusion of my job search, I’ll skip past that and instead concentrate on the one thing that’s been occupying my mind this week, almost to a worrying degree. I mentioned in previous week notes my attempt to build a Micropub endpoint, and on Friday, [I made it public][1]. Christened *[IndieKit][2]*, I described it as:
 
 > …a Micropub endpoint that can be hosted on a service like Heroku, and configured via files stored on a GitHub repo before saving posts to that repo for publishing with a static site generator like Jekyll, Hugo or Eleventy. The software is fully documented and covered by tests, including tests that replicate those provided by the Micropub Rocks! validator.
 >

@@ -20,7 +20,7 @@ Hopefully these two resolutions will play into each other. I’ve already [writt
 
 ### 10 March 2016
 
-A highlight from last year was attending a discussion about collecting graphic art, hosted by Unit Editions at their offices in Kensington. _Unit Live!_ takes place at a much larger venue and will feature a series of talks, including a presentation by [Lance Wyman][4] on his life and work.
+A highlight from last year was attending a discussion about collecting graphic art, hosted by Unit Editions at their offices in Kensington. *Unit Live!* takes place at a much larger venue and will feature a series of talks, including a presentation by [Lance Wyman][4] on his life and work.
 
 ## [Motion Design Essentials][5]
 

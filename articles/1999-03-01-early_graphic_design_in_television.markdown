@@ -164,7 +164,7 @@ Channel Four also had consistent on-screen branding, with programme menus, weath
 
 On the back of this success, Lambie-Nairn was asked to design many other corporate identities for television companies. These included Anglia, in which Lambie-Nairn was responsible for the removal of the then much loved, but out of date, revolving silver knight and the satellite company British Satellite Broadcasting (BSB). However all five channel identities he created were replaced after only a couple of months when the company merged with Sky.
 
-He also became successful outside of Britain, working with companies such as _TF1_{lang=fr} (France), _ARTE_{lang=fr} (France and Germany), EuroSport (Europe), _TV Norge_{lang=no} (Norway) and _Quatro_{lang=pt} (Portugal) to name but a few.
+He also became successful outside of Britain, working with companies such as *TF1*{lang=fr} (France), *ARTE*{lang=fr} (France and Germany), EuroSport (Europe), *TV Norge*{lang=no} (Norway) and *Quatro*{lang=pt} (Portugal) to name but a few.
 
 It was with his old employers though, the BBC, that Lambie-Nairn became the most respected. In 1991, Lambie-Nairn was responsible for, as he saw it, ‘repositioning’ BBC1 and BBC2. This was especially true with BBC2 that beforehand, with the old ‘TWO’ indent, was seen as a channel that was middle-class and boring. By replacing it with the figure ‘2’ in a series of indents that echoed the different values of the channel, not only did the he succeed in making the channel more accessible, the indents almost became more popular than the channel itself.
 
@@ -230,7 +230,7 @@ Computerised control of the rostrum camera was an advantage as it did help to cu
 - Microsoft Corporation (1996). Baird, John Logie. ""Encarta ’97"" [CD-ROM]. Redmond: Microsoft Corporation
 - Montagu, R. (1991). ""The Television Graphics Handbook"". Borehamwood: BBC Television Training
 
-[^1]: Gradually, over the next two years, what the ""Television Annual"" of 1957 described as “a new and largely experimental section”, was built up. _(Crook 1986: 34)_
+[^1]: Gradually, over the next two years, what the ""Television Annual"" of 1957 described as “a new and largely experimental section”, was built up. *(Crook 1986: 34)*
 
 *[3D]: three dimensional
 *[ABC]: Associated British Corporation
