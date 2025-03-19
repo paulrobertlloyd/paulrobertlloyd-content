@@ -1,0 +1,12 @@
+---
+date: 2020-02-14T18:37:43.000Z
+title: "Becoming a teacher: Data discovery 2020"
+photo:
+  - url: /media/2020/045/d1/1.png
+    alt: A circular mission patch featuring a lobster.
+tags:
+  - mission_patches
+color: "#4bb"
+syndication:
+  - https://dribbble.com/shots/10088394
+---

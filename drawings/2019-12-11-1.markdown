@@ -1,0 +1,14 @@
+---
+date: 2019-12-11T14:18:57.000Z
+title: "Apply for teacher training: SCITT Pilot"
+photo:
+  - url: /media/2019/345/d1/1.png
+    alt: A circular mission patch featuring Brian the beaver in the dark with a head torch.
+tags:
+  - mission_patches
+color: "#57d"
+syndication:
+  - https://dribbble.com/shots/8976181
+---
+
+Features a beaver (an animal that builds a complex structure) wearing a head torch (given the power cuts that took place on the day we launched). A bat can be seen in the background because our service is part of the ‘Becoming a teacher’ service line.

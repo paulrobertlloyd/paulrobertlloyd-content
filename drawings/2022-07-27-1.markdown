@@ -1,0 +1,14 @@
+---
+date: 2022-07-27T19:00:57.000Z
+title: "Submit social housing lettings and sales data (CORE): Private beta"
+photo:
+  - url: /media/2022/208/d1/1.png
+    alt: A circular mission patch featuring a hermit crab holding a cocktail.
+tags:
+  - mission_patches
+color: "#f47738"
+syndication:
+  - https://dribbble.com/shots/18906580
+---
+
+Our hermit crab, now named Shelly, wears the branding of our first data provider (Believe Housing) on her shell, and is seen drinking a Margarita, the team’s celebratory drink of choice (in theory, though not yet in practice).

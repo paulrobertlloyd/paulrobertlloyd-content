@@ -1,0 +1,14 @@
+---
+date: 2024-04-04T14:10:01.000Z
+title: "Manage vaccinations in schools: Pilot"
+photo:
+  - url: /media/2024/095/d1/1.png
+    alt: A circular mission patch featuring a polar bear with her cubs, with the northern lights in the background.
+tags:
+  - mission_patches
+color: "#016bc3"
+syndication:
+  - https://dribbble.com/shots/23952560
+---
+
+The mission patch for our pilot features Mavis the polar bear. We chose a polar bear as our team’s mascot because they are big on protecting cubs, live in hostile environments, are highly adaptive and great at conserving energy. The northern lights reflect the colours of the teams involved with the development of the service, while the 3 stars represent the 3 SAIS teams we piloted with.

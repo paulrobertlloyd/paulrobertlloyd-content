@@ -1,0 +1,14 @@
+---
+date: 2019-06-27T21:20:41.000Z
+title: Katya’s mission patch
+photo:
+  - url: /media/2019/178/d1/1.png
+    alt: A circular mission patch featuring a black and white photo of Katya with the words ‘users’.
+tags:
+  - mission_patches
+color: "#e42"
+syndication:
+  - https://dribbble.com/shots/6699700
+---
+
+Katya is an excellent user research who until recently was one of our delivery team’s longest serving members. To celebrate her time with us, we decided to create a ‘mission patch’ in her honour. Drawing on Russian constructivism (namely the work of [Alexander Rodchenko](https://www.artsy.net/series/art-history-101/artsy-editorial-constructivism-brought-russian-revolution-art)), I knocked up this sticker.

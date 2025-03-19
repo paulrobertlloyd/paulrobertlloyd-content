@@ -1,0 +1,14 @@
+---
+date: 2020-05-22T18:56:13.000Z
+title: "Apply for teacher training: 100 offers accepted"
+photo:
+  - url: /media/2020/143/d1/1.png
+    alt: A circular mission patch featuring a large 100 numeral.
+tags:
+  - mission_patches
+color: "#57d"
+syndication:
+  - https://dribbble.com/shots/11531523
+---
+
+Apply has reached a significant milestone, so created a little sticker to celebrate our achievement.

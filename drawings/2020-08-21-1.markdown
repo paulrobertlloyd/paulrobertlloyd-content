@@ -1,0 +1,14 @@
+---
+date: 2020-08-21T17:36:37.000Z
+title: "Becoming a teacher: Find and apply for teacher training"
+photo:
+  - url: /media/2020/234/d1/1.png
+    alt: A circular mission patch featuring Brian the beaver and a canary.
+tags:
+  - mission_patches
+color: "#57d"
+syndication:
+  - https://dribbble.com/shots/14062418
+---
+
+A special mission patch to celebrate the creation of a new candidate-facing team that covers both Find postgraduate teacher training and Apply for teacher training services.

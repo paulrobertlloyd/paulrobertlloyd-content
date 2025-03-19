@@ -1,0 +1,14 @@
+---
+date: 2021-05-20T08:02:49.000Z
+title: "Get into teaching/Becoming a teacher: Impact squad"
+photo:
+  - url: /media/2021/140/d1/1.png
+    alt: A circular mission patch featuring an elephant.
+tags:
+  - mission_patches
+color: "#a95"
+syndication:
+  - https://dribbble.com/shots/15688589
+---
+
+Named after the team’s founding product manager, _Kahar the elephant_ is representative of strength, wisdom and memory. His different coloured eyes represent both the diversity initiatives the team advocates, as well as Get into teaching (green) and Becoming a teacher (blue), the two services covered. His trunk is decorated with a rocket, the unofficial symbol of the squad.

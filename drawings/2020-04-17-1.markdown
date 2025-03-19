@@ -1,0 +1,14 @@
+---
+date: 2020-04-17T17:12:36.000Z
+title: "Apply for teacher training: Transition team"
+photo:
+  - url: /media/2020/108/d1/1.png
+    alt: A circular mission patch featuring a intercity train travelling from point-to-point.
+tags:
+  - mission_patches
+color: "#d48"
+syndication:
+  - https://dribbble.com/shots/11089019
+---
+
+A special mission patch to celebrate the transition team’s mileage while they were able to travel across England to meet and engage with teacher training providers.

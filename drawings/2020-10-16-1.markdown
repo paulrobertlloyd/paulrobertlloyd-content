@@ -1,0 +1,14 @@
+---
+date: 2020-10-16T14:29:31.000Z
+title: "Apply for teacher training: HEI Pilot"
+photo:
+  - url: /media/2020/290/d1/1.png
+    alt: A circular mission patch featuring Brian the beaver holding a university degree.
+tags:
+  - mission_patches
+color: "#57d"
+syndication:
+  - https://dribbble.com/shots/14399943
+---
+
+Features 11 stars for each HEI (higher education institution) that joined Apply for the start of our second recruitment cycle. The tassel on Brian’s hat is red because the University of Bedfordshire was the first HEI to join the pilot.

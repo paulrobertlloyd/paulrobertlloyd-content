@@ -1,0 +1,14 @@
+---
+date: 2019-12-11T21:02:48.000Z
+title: Apply plague
+photo:
+  - url: /media/2019/345/d2/1.png
+    alt: A circular mission patch featuring an illustration of a plague doctor.
+tags:
+  - mission_patches
+color: "#f73"
+syndication:
+  - https://dribbble.com/shots/8981433
+---
+
+Most of the team was struck down by cold and flu as we endeavoured to launch our new service. I created this patch as a fun way of celebrating the fact we all survived what was quickly dubbed ‘the Apply plague’!

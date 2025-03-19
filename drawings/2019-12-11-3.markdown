@@ -1,0 +1,14 @@
+---
+date: 2019-12-11T21:02:48.000Z
+title: Bureaucracy hack
+photo:
+  - url: /media/2019/345/d3/1.png
+    alt: A circular sticker featuring a paper plane flying through red tape.
+tags:
+  - mission_patches
+color: "#d01"
+syndication:
+  - https://dribbble.com/shots/8981599
+---
+
+A ‘mission patch’ like sticker created for July’s #BureaucracyHack.
