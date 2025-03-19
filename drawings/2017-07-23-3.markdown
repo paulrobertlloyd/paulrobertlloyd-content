@@ -2,9 +2,9 @@
 date: 2017-07-23T23:18:15+02:00
 timeZone: Europe/Paris
 photo:
-  - url: /media/2017/204/p3/1.jpg
+  - url: /media/2017/204/d1/1.jpg
     alt: Pen sketch of Hôtel de ville du Havre.
-  - url: /media/2017/204/p3/2.jpg
+  - url: /media/2017/204/d1/2.jpg
     alt: Pen sketch of fishing boats in Quai Notre Dame.
 tags:
   - i4pS1

@@ -1,10 +1,12 @@
 ---
-date: 2023-12-05T23:45:00.000Z
+date: 2023-12-05T23:29:25.000Z
+title: 5 years later, revisiting my logo
 photo:
-  - url: /media/2023/339/p1/1.png
-    alt: "The initials ‘p’, ‘r’ and ‘l’ made up of circles and rectangles."
+  - url: /media/2023/339/d1/1.png
+    alt: The initials ‘p’, ‘r’ and ‘l’ made up of circles and rectangles.
 color: "#0ef"
 syndication:
+  - https://dribbble.com/shots/23191286
   - https://mastodon.social/@paulrobertlloyd/111530472819402403
 ---
 

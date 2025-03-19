@@ -1,8 +1,12 @@
 ---
-date: 2021-10-12T14:14:25.815+01:00
+date: 2021-10-12T09:08:49.000Z
+title: Apply for teacher training - Mission patch for UCAS Switch-off
 photo:
-  - url: /media/2021/285/p1/1.png
-    alt: Mission patch featuring Brian the beaver wearing a yellow helmet and firing a detonator.
+  - url: /media/2021/285/d1/1.png
+    alt: A circular mission patch featuring Brian the beaver wearing a yellow helmet and firing a detonator.
+color: "#a42"
+syndication:
+  - https://dribbble.com/shots/16636356
 ---
 
 Today is a big moment in the world of teacher training. To celebrate the culmination of 3 years planning and delivery on the [Apply for teacher training](https://www.gov.uk/apply-for-teacher-training) service, one final mission patch from me.

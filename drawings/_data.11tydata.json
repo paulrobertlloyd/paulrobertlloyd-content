@@ -1,0 +1,8 @@
+{
+  "layout": "drawing.liquid",
+  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ typePrefix }}{{ page.fileSlug }}/",
+  "syndicate": true,
+  "type": "drawing",
+  "typePrefix": "d",
+  "vocabulary": "entry"
+}

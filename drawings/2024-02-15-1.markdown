@@ -1,11 +1,13 @@
 ---
-date: 2024-02-15T23:50:00.000Z
+date: 2024-02-15T23:59:02.000Z
+title: A family of icons for Micro.blog
 photo:
-  - url: /media/2024/046/p1/1.png
+  - url: /media/2024/046/d1/1.png
     alt: "The current iOS icon for Micro.blog, sat alongside 4 alternative icons for Strata, Sunlit, Wavelength and Epilogue. All icons share a yellow colour palette and feature overlapping shapes."
 color: "#f80"
 syndication:
-- https://mastodon.social/@paulrobertlloyd/111938173203482655
+  - https://dribbble.com/shots/23650598
+  - https://mastodon.social/@paulrobertlloyd/111938173203482655
 ---
 
 The release of @manton@manton.org’s [new notes app](https://www.manton.org/2024/02/13/introducing-notes-in.html) got me thinking about the icons for [these different companion apps](https://apps.apple.com/gb/developer/micro-blog-llc/id1253201334), and how they might look if they were designed to appear more like a family.
