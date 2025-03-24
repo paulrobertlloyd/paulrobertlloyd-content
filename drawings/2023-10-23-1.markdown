@@ -1,0 +1,14 @@
+---
+date: 2023-10-23T22:46:42.000Z
+title: IndieWeb protocol icons
+photo:
+  - url: /media/2023/296/d1/1.png
+    alt: 6 icons for different Indieweb protocols.
+color: "#3c3"
+syndication:
+  - https://dribbble.com/shots/22895229
+---
+
+The lack of a consistent identity around the different IndieWeb protocols has long frustrated me, and every now and again I find myself noodling on some ideas. This evening I think I’ve landed on something I’m pretty happy with.
+
+Clockwise, from top left: IndieAuth, Micropub, Microsub, Vouch, Webmention and Microformats (the existing logo repurposed in the new style).

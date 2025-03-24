@@ -1,0 +1,12 @@
+---
+date: 2024-01-23T11:08:38.000Z
+title: 5 alive
+photo:
+  - url: /media/2024/023/d2/1.png
+    alt: A numeral 5 repeated in different colours.
+color: "#d53780"
+syndication:
+  - https://dribbble.com/shots/23498194
+---
+
+Illustration for [Releasing Rails libraries for version 5 of the GOV.UK Design System](https://x-govuk.github.io/posts/releasing-rails-libraries-for-version-5/).

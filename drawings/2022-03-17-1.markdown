@@ -1,0 +1,13 @@
+---
+date: 2022-03-17T01:39:38.000Z
+title: GOV.UK crown from the side, X-GOVUK crown from above
+photo:
+  - url: /media/2022/076/d1/1.png
+    alt: The GOV.UK crown logo, and the logo for X-GOVUK.
+syndication:
+  - https://dribbble.com/shots/17741977
+---
+
+The [X-GOVUK organisation on GitHub](https://x-govuk.github.io/posts/introduction/) needed a logo.
+
+In thinking about how I could represent the organisation’s unofficial relationship to GDS, I realised that the logo for GOV.UK, when viewed from above, would display the shape of a cross. Perfect.

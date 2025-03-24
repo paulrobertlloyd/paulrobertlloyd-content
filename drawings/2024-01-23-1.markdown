@@ -1,0 +1,12 @@
+---
+date: 2024-01-23T11:07:33.000Z
+title: Counting 5’s
+photo:
+  - url: /media/2024/023/d1/1.png
+    alt: A series of tally marks.
+color: "#999"
+syndication:
+  - https://dribbble.com/shots/23498180
+---
+
+Illustration for [Measuring how government services are using GOV.UK Frontend](https://x-govuk.github.io/posts/govuk-services-frontend-stats/).

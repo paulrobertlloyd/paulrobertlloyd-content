@@ -1,0 +1,14 @@
+---
+date: 2022-04-24T23:13:20.000Z
+title: Logo for How Nice
+photo:
+  - url: /media/2022/115/d1/1.png
+    alt: A bone-shaped logo.
+color: "#fd0"
+syndication:
+  - https://dribbble.com/shots/18096341
+---
+
+Dan is a delivery manager, and he wanted a logo for his company that he could use on an advertising board at his local cricket club. But how to design a logo for a company whose name had “absolutely no thought whatsoever” given to it? Then Dan sent me a photo of his dog Penny, whose bone-shaped tag on her collar gave me a hint as to the possible solution.
+
+Bones help bodies maintain their shape and give them structure, much like how delivery managers support their teams. Also, if you tilt your head and squint your eyes a bit, you’ll see that a bone looks like an elongated ‘H’, which is the first letter of the company’s name – how nice!

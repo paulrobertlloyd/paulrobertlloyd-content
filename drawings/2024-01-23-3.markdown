@@ -1,0 +1,12 @@
+---
+date: 2024-01-23T11:09:45.000Z
+title: Powerful gem
+photo:
+  - url: /media/2024/023/d3/1.png
+    alt: A red ruby gem surrounded by different colours.
+color: "#ed3b1e"
+syndication:
+  - https://dribbble.com/shots/23498205
+---
+
+Illustration for [Building useful tools](https://x-govuk.github.io/posts/building-useful-tools/).
