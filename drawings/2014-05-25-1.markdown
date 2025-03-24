@@ -1,0 +1,11 @@
+---
+date: 2014-05-25T21:56:00.000Z
+title: Early logo sketches
+photo:
+  - url: /media/2014/145/d1/1.png
+    alt: Six black and white logos featuring the initials ‘p’, ‘r’ and ‘l’ made up of simple shapes.
+syndication:
+  - https://dribbble.com/shots/1568425
+---
+
+Stumbled across an idea for a new logo for my website. Still unsure which direction to go, but there’s a germ of an idea here. Need to ensure that this reads as ‘prl’ and not ‘prb’.

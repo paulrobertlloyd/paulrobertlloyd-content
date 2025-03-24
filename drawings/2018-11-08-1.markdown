@@ -1,0 +1,11 @@
+---
+date: 2018-11-08T11:52:49.000Z
+title: Another idea for a logo
+photo:
+  - url: /media/2018/312/d1/1.png
+    alt: The initials ‘p’, ‘r’ and ‘l’ made up of simple shapes.
+syndication:
+  - https://dribbble.com/shots/5517702
+---
+
+Returning to the conundrum that is the logo for my website, think I’ve landed on something interesting. Constructed of three rectangles and two circles, and placed on a pixel grid, this shape scales down really well to super small sizes. This is important as this will exclusively feature as the site’s favicon, at least for now.

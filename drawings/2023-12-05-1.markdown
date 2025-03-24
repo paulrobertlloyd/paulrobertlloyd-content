@@ -10,4 +10,4 @@ syndication:
   - https://mastodon.social/@paulrobertlloyd/111530472819402403
 ---
 
-I’ve always thought that [the ‘p’ in the current iteration of my logo](https://dribbble.com/shots/5517702) is too heavy in comparison to the other letters. That, and it breaks with the simplicity of constructing initials using simple shapes only. I think this slight change improves things considerably.
+I’ve always thought that [the ‘p’ in the current iteration of my logo](/2018/312/d1/) is too heavy in comparison to the other letters. That, and it breaks with the simplicity of constructing initials using simple shapes only. I think this slight change improves things considerably.

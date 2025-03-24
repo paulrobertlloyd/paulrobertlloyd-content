@@ -1,0 +1,13 @@
+---
+date: 2018-09-20T14:10:05.000Z
+title: Idea for a logo
+photo:
+  - url: /media/2018/263/d1/1.png
+    alt: Pilcrow as a logo.
+syndication:
+  - https://dribbble.com/shots/5284613
+---
+
+As I look to redesign my website, one goal has been to review my logo. The current slanted ‘PRL’ mark evolved from [earlier concepts I posted back in 2014](https://dribbble.com/shots/1568425) – some of which are more interesting than what I eventually settled on, actually.
+
+Anyway, stumbling upon a [Pilcrow](https://en.wikipedia.org/wiki/Pilcrow), I wondered if I could integrate my three initials into that symbol, and ended up here. Thoughts?
