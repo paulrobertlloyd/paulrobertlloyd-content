@@ -1,0 +1,17 @@
+---
+date: 2012-11-13T22:32:45.000Z
+title: Native logo ideas
+photo:
+  - url: /media/2012/318/d1/1.png
+    alt: An abstract United States flag combined with a speech bubble.
+  - url: /media/2012/318/d1/2.png
+    alt: An abstract ‘N’ with serifs replaced with speech bubbles.
+  - url: /media/2012/318/d1/3.png
+    alt: ‘Native’ inside a speech bubble.
+syndication:
+  - https://dribbble.com/shots/813318
+  - https://dribbble.com/shots/813327
+  - https://dribbble.com/shots/813328
+---
+
+Logo idea for my brother’s new English language school in Brazil. The third one is close to the final design he’ll likely go with.

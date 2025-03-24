@@ -1,0 +1,12 @@
+---
+date: 2017-01-04T19:22:23.000Z
+title: Slapdashery logo
+photo:
+  - url: /media/2017/004/d1/1.png
+    alt: The word ‘slapdashery’ made up of simple shapes.
+color: "#1c3fff"
+syndication:
+  - https://dribbble.com/shots/3193824
+---
+
+A little logo I cooked up for Ben Sauer’s new writing project, [Slapdashery](https://slapdashery.org). Each letter is composed using the shapes left having cut in half a square, a circle and a triangle. No doubt the mark could be refined, but in the spirit of the project, I stopped fiddling once I reached an hour’s worth of effort.

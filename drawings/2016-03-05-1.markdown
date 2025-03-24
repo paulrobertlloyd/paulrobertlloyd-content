@@ -1,0 +1,11 @@
+---
+date: 2016-03-05T11:12:18.000Z
+title: Icons
+photo:
+  - url: /media/2016/065/d1/1.png
+    alt: Ten monochrome mono-line icons.
+syndication:
+  - https://dribbble.com/shots/2570052
+---
+
+Icons for a little side project I’ve been helping out with.
