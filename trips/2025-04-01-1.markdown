@@ -1,0 +1,21 @@
+---
+start: 2025-04-01
+itinerary:
+  - label: Dundee (DEE)
+    locality: Dundee
+    countryName: Scotland
+  - label: Perth (PTH)
+    locality: Perth
+    countryName: Scotland
+  - label: Aviemore (AVM)
+    locality: Aviemore
+    countryName: Scotland
+  - label: Perth (PTH)
+    locality: Perth
+    countryName: Scotland
+  - label: Dundee (DEE)
+    locality: Dundee
+    countryName: Scotland
+tags:
+  - i5bE1
+---
