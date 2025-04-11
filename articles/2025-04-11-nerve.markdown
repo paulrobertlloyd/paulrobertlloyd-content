@@ -1,0 +1,72 @@
+---
+title: Touched a nerve
+date: 2025-04-11T10:00:00+01:00
+location:
+  locality: London
+  countryName: England
+summary: I put a little care into something and sent it out into the world.
+category:
+  - blogging
+  - social_media
+  - technology
+color: "#0ff"
+---
+
+Like most good ideas, the idea for [my last post][1] started in the shower.
+
+I’ve long been frustrated that, by working in and around technology, I find myself adjacent to a class of people who care so little about society. This situation has worsened since some computational mathematics was fed into a grifting machine only for everyone to talk about aye-bloody-eye like it were the second coming.
+
+I could give you my thoughts, but that’s exactly why I ended up writing that post; I’m way beyond caring. Particularly when in most cases you could replace the initials with ‘magical thinking’ (else use a more specific but less fashionable term).
+
+Anyway. I slept on the idea before travelling to Dundee on the Caledonian Sleeper the following evening. I love travelling by train, but sleeping isn’t something you really do on the Caledonian Sleeper; especially not for the few hours it loudly idles at Reading station or somewhere near Crewe.
+
+Unable to rest, I began tapping away on my phone and drafted a new post. Arriving in Dundee just after 6am, and with time to kill before I could check into my hotel, I sat down in the station’s coffee shop and played around with the post further.
+
+I tried weaving in familiar refrains that would hint at the target of my piece, but without mentioning those two letters (which I still can’t bring myself to write down). I wasn’t entirely happy with the post’s pacing or structure. Did I consider using a chatbot to help me write it? Of course! But that _really_ didn’t seem appropriate, and besides, having it be slightly raw and unpolished made it more human.
+
+Knowing that seeding doubts would leave the post lingering in my drafts folder, I hit publish, but decided not to share it any further than my RSS feed. And that’s how it stayed.
+
+And dear reader, you know what? The web did its thing.
+
+***
+
+David was [the first to share it][2] before a few others did too, often alongside a few words of despairing agreement: “[Me too][3]”, “[I know how he feels][4]”, “[Same][5]”.
+
+A few days later, [Jesse][6] messaged me to say that people in his office were passing it around – and he lives on the other side of the world!
+
+A week later, the post found the bottom of the barrel and was [posted on Hacker News][7]. This is rarely an enjoyable experience, largely thanks to its bloviated commentariat that make assumptions and wilfully misinterpret things. However on this occasion a number of comments were actually quite thoughtful. Then I started getting emails and direct messages:
+
+> I resonated a bit too much with your last post about _it_. The projects I work on are both in defiance of it, both in the written, and in the visual arts space… and yet it’s so hard to escape it on both. I’ve had to police _it_ on my platform and it’s exhausting.
+
+And:
+
+> Bored of it.\
+> I am too.\
+> It makes me cry.\
+> But everyone loves it, so I cry on the inside.
+>
+> Thanks for this! It’s been a long time since I read a poem.
+
+Also:
+
+> ""Bored of It"" was the first piece of art about the current It that’s connected with me. Thank you a million for writing it; I really needed to read something of the sort.
+
+Poem? Piece of art!? Blimey.
+
+This week, the post reached the sullied depths of LinkedIn:
+
+> This post inspired by all the action figures in my feed, new buttons appearing in my phone apps, and every nudge that encourages me to think less and automate more of my creativity, joy, and humanity.
+
+I have no idea how many people have read my post – or poem – but I don’t need to. Especially on this occasion when the reaction has been so direct, pained and heartfelt. Maybe those sharing my exhaustion are the same age as me or similarly pessimistic. Still, there’s a mood among people who somehow feel ignored by the wider discussion and unmitigated hype.
+
+So yes, while I am bored of _it_, I remain enthralled by the power of boring technologies like hyperlinks, email and RSS. I’m also glad that I’ve been able to demonstrate – if only to myself – that you don’t need to prostitute yourself to social networks, create large advertising hoardings to make a post stand out or titillate people with lead-ins before a ‘more’ link.
+
+Just put a little care into something, send it out into the world and let it find an audience. Aye-bloody-eye be damned.
+
+[1]: /2025/087/a1/bored/
+[2]: https://mastodon.social/@dbushell@fosstodon.org/114240514035795652
+[3]: https://bsky.app/profile/loficodes.bsky.social/post/3llt35st2ps2g
+[4]: https://adders.blog/2025/03/28/discussion-of-it-is-everywhere.html
+[5]: https://adactio.com/links/21819
+[6]: https://jesseyuen.com
+[7]: https://news.ycombinator.com/item?id=43580449
