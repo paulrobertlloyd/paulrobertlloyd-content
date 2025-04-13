@@ -1,5 +1,8 @@
 ---
 date: 2025-04-14T00:47:01.769+01:00
+syndication:
+  - https://bsky.app/profile/paulrobertlloyd.com/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3lmqac6up6t2j
+updated: 2025-04-14T00:47:53.917+01:00
 ---
 
 If everything is working correctly, this is the first post from my website syndicated to Bluesky via Indiekit. 🤞
