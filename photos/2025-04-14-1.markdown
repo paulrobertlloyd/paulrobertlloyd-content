@@ -1,0 +1,8 @@
+---
+date: 2025-04-14T16:36:27.482+01:00
+photo:
+  - url: /media/2025/104/p1/1.jpg
+    alt: Blue and orange light of an early morning sunrise diffused by patterned glass window.
+---
+
+Diffused (sunrise).
