@@ -3,6 +3,9 @@ date: 2025-04-14T16:36:27.482+01:00
 photo:
   - url: /media/2025/104/p1/1.jpg
     alt: Blue and orange light of an early morning sunrise diffused by patterned glass window.
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/114337065574106865
+updated: 2025-04-14T16:39:27.273+01:00
 ---
 
 Diffused (sunrise).
