@@ -3,6 +3,10 @@ title: Hi, I’m Paul—
 summary: an independent designer, writer and occasional speaker based in Brighton, England.
 url: /
 links:
+  - label: Bluesky
+    icon: bluesky
+    url: https://bsky.app/profile/paulrobertlloyd.com
+    rel: me external
   - label: Mastodon
     icon: mastodon
     url: https://mastodon.social/@paulrobertlloyd
