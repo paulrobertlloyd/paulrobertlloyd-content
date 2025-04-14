@@ -2,7 +2,10 @@
 date: 2025-03-26T20:59:52.043Z
 photo:
   - url: /media/2025/085/p1/1.jpg
-    alt: Close up of a pineapple pizza, with a tin of pineapple slices in the background.
+    alt: Close up of a pineapple pizza, with a tin of pineapple chunks in the background.
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/114337125728925408
+updated: 2025-04-14T16:54:45.644+01:00
 ---
 
-If you’re wondering why you can’t find any pineapples in Brighton, thank Fatto a Mano, where for a limited time you can exchange a pineapple for their Bella Disgrazia pizza. Fortunately they also accept tinned slices!
+If you’re wondering why you can’t find any pineapples in Brighton, thank Fatto a Mano, where for a limited time you can exchange a pineapple for their Bella Disgrazia pizza. Fortunately they also accept tinned chunks!
