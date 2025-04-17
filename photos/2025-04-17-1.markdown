@@ -3,6 +3,10 @@ date: 2025-04-17T21:22:18.634+01:00
 photo:
   - url: /media/2025/107/p1/img-9210.jpg
     alt: View up towards a brutalist tower, its many floors highly contrasting in the evening sunlight. The building is part of Guy‘s Hospital.
+syndication:
+  - https://bsky.app/profile/paulrobertlloyd.com/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3lmzwppd3ms2f
+  - https://mastodon.social/@paulrobertlloyd/114355168159303904
+updated: 2025-04-17T21:23:11.013+01:00
 ---
 
 Hey Guy‘s
