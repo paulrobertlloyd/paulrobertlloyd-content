@@ -1,0 +1,18 @@
+---
+start: 2025-06-10
+itinerary:
+  - label: Antwerpen-Centraal
+    locality: Antwerp
+    countryName: Belgium
+  - label: Brussels-South
+    locality: Brussels
+    countryName: Belgium
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+tags:
+  - i5cH1
+---

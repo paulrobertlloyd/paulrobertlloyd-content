@@ -1,0 +1,18 @@
+---
+start: 2025-05-29
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+  - label: London Blackfriars (BFR)
+    locality: London
+    countryName: England
+  - label: London Liverpool Street (LST)
+    locality: London
+    countryName: England
+  - label: Harwich International (HPQ)
+    locality: Harwich
+    countryName: England
+tags:
+  - i5cH1
+---

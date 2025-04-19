@@ -1,0 +1,12 @@
+---
+start: 2025-06-06
+itinerary:
+  - label: Amsterdam Amstel
+    locality: Amsterdam
+    countryName: Netherlands
+  - label: Antwerpen-Centraal
+    locality: Antwerp
+    countryName: Belgium
+tags:
+  - i5cH1
+---

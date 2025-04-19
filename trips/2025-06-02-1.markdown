@@ -1,0 +1,12 @@
+---
+start: 2025-06-02
+itinerary:
+  - label: Rotterdam Centraal
+    locality: Rotterdam
+    countryName: Netherlands
+  - label: Amsterdam Amstel
+    locality: Amsterdam
+    countryName: Netherlands
+tags:
+  - i5cH1
+---

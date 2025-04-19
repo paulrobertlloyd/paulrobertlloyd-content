@@ -1,0 +1,15 @@
+---
+start: 2025-05-30
+itinerary:
+  - label: Harwich International Port
+    locality: Harwich
+    countryName: England
+  - label: Hoek van Holland Haven
+    locality: Hoek van Holland
+    countryName: Netherlands
+  - label: Rotterdam Centraal
+    locality: Rotterdam
+    countryName: Netherlands
+tags:
+  - i5cH1
+---
