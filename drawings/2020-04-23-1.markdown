@@ -1,0 +1,9 @@
+---
+date: 2020-04-23T09:57:04.516+01:00
+title: A small doddle from yesterday
+photo:
+  - url: /media/2020/114/d1/1.jpg
+    alt: Tiny pencil sketch of a person sat on a bench by a tree.
+---
+
+My subconscious is wandering outside, even if I’m not.
