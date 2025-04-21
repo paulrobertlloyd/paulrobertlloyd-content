@@ -1,0 +1,69 @@
+---
+title: These are my drawings
+date: 2025-04-21T23:45:00+01:00
+location:
+  locality: Bexhill-on-Sea
+  countryName: England
+summary: Goodbye Dribbble.
+color: "#ea4c89"
+category:
+  - indieweb
+  - design
+  - website
+  - web
+---
+
+With the [enshittification of Dribbble][1] marching towards its [inevitable conclusion][2], I’ve decided to stop posting images to that service and instead post them to a new section of my website called [Drawings][3]. This is a place where I can share pencil sketches, illustrations and logos, but most likely, mission patches (which I can now also [collect separately][4]).
+
+## Goodbye Dribbble
+
+Much like when [I added my previous posts from ""This is My Jam""][5] to the [Jams][6] section of my website, my original intention was to bring across all the previous shots I’d posted to Dribble over the last 15 years.
+
+This made sense for the more recent images, but reviewing older shots took me back to a time when Dribbble was a helpful and lively community, one where I would post images and get feedback not just the occasional like. On a few occasions I used the ‘rebound’ feature to post iterations of other people’s shots with my recommendations. My very first shots were 400×300 crops of design files I no longer have or can open[^1].
+
+These earlier posts felt out of place on my own site, so I choose to import a subset of posts instead. While my inner completionist wasn’t too happy, I reminded myself that the goal was not to recreate Dribbble, but to build something for my own purposes.
+
+There’s not too much to say about the implementation, though perhaps it’s worth mentioning why I choose the name ‘drawings’. For the most part ‘design’ may be better suited, but this new section also gives me a place to collect the few [sketches][7] I’d [previously][8] [posted][9]. Who knows, maybe having a new section will encourage me to post many more.
+
+## Cool URLs
+
+There is another reason for choosing this name, and perhaps now is a good time to finally write up the URL structure I moved to a few years ago. Largely based on Tantek’s [Whistle URL shortening scheme][10], it means URLs on my site use the format `/yyyy/ddd/tn[/slug]`, where:
+
+* `yyyy` is the year
+* `ddd` is the day of the year
+* `t` is the post’s content-type
+* `n` is the nth post of that content-type on this day
+* `slug` is optional and can be removed when used
+
+This means that each type of post has to be assigned a letter. So far I’ve assigned the following:
+
+| Post type | Content-type prefix |
+| - | - |
+| Article | a |
+| Bookmark | b |
+| Comments | c |
+| Drawing | d |
+| Itinerary | i |
+| Jam | j |
+| Note | n |
+| Photo | p |
+| Reply | r |
+| Presentation | s (slides) |
+| Trip | t |
+| Project | w (work) |
+
+If it wasn’t for `s` already being assigned to presentations, perhaps I’d have chosen `s` for ‘screenshots’, but I like where I ended up. Not only does `d` stand for ‘drawing’ and ‘design’, but it’s also a subtle nod to Dribbble, a soon-to-be forgotten place where a number of these drawings first appeared.
+
+[^1]: During this work I discovered [Photopea][11], an online image editor that can open Firework’s propriety PNG files. However, files still need some manual editing and recovery to be useful again.
+
+[1]: https://avalonstar.com/blog/2025/the-enshittification-of-dribbble
+[2]: https://dribbble.com/stories/2025/03/17/work-in-progress-part-9
+[3]: /drawings
+[4]: /collections/mission_patches
+[5]: /2024/005/a1/jams/
+[6]: /jams
+[7]: /2023/094/d1/
+[8]: /2020/114/d1/
+[9]: /2017/204/d3/
+[10]: http://tantek.pbworks.com/w/page/21743973/Whistle
+[11]: https://www.photopea.com
