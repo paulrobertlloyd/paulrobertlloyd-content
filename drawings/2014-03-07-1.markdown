@@ -1,0 +1,16 @@
+---
+date: 2014-03-07T00:37:29Z
+title: Logo for plumber.js (final iteration)
+photo:
+  - url: /media/2014/066/d1/1.png
+    alt: Logo with a pipe shaped like a ‘p’.
+  - url: /media/2014/066/d1/2.png
+    alt: Alternative lock-up, smaller sizes, and a two-colour version.
+syndication:
+  - https://dribbble.com/shots/1453167
+  - https://dribbble.com/shots/1453179
+---
+
+This is the final iteration for this logo, for now at least. I’ve simplified the shading further and tweaked the kerning. I like that the pipe is now white, and not an off-grey too.
+
+To think I was only going to spend an evening on this…!

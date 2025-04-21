@@ -1,0 +1,10 @@
+---
+date: 2013-03-15T15:01:03Z
+title: Sport pictograms
+photo:
+  - url: /media/2013/074/d1/1.png
+    alt: Pictograms for athletics, modern pentathlon and triathlon.
+color: "ffeb00"
+syndication:
+  - https://dribbble.com/shots/986715
+---

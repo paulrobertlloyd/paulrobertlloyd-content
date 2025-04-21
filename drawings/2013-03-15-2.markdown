@@ -1,0 +1,10 @@
+---
+date: 2013-03-15T17:47:30Z
+title: dConstruct 2013
+photo:
+  - url: /media/2013/074/d2/1.png
+    alt: dConstruct logo above the date of the conference (6 September 2013) on an abstract green background.
+color: "8a1"
+syndication:
+  - https://dribbble.com/shots/987031
+---

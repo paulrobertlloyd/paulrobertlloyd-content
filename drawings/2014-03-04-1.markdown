@@ -1,0 +1,13 @@
+---
+date: 2014-03-04T23:29:21Z
+title: Logo for plumber.js (second attempt)
+photo:
+  - url: /media/2014/063/d1/1.png
+    alt: Logo with a pipe shaped like a ‘p’.
+syndication:
+  - https://dribbble.com/shots/1449697
+---
+
+Taking on-board earlier feedback, a flatter rendition of the pipework, a new typeface (Bree Serif) and a new colour; the blue is the same as that used for the sky in Super Mario Bros—subtle!
+
+Thoughts?

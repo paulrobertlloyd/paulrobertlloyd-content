@@ -1,0 +1,20 @@
+---
+date: 2010-10-28T23:47:35Z
+title: Sussex by the Sea
+photo:
+  - url: /media/2010/302/d1/1.jpg
+    alt: White cliffs overlooking a lighthouse with the words ‘God gives all men all Earth to love, Sussex by the sea’ superimposed over the top.
+syndication:
+  - https://dribbble.com/shots/71984
+---
+
+I live in the [historic county](/2009/174/a1/historic_counties_and_psychoville/)</a> of Sussex, southern England.
+
+Image
+: [Beachy Head](http://www.flickr.com/photos/scootzsx/3856012790/), near Eastbourne, Sussex.
+
+Words
+: Taken from [""Sussex by the Sea""](http://en.wikipedia.org/wiki/Sussex_by_the_Sea) by [Rudyard Kipling](http://en.wikipedia.org/wiki/Rudyard_Kipling) who lived in Sussex for a time.
+
+Typeface
+: [Gill Sans](http://en.wikipedia.org/wiki/Gill_Sans) by [Eric Gill](http://en.wikipedia.org/wiki/Eric_Gill), who was born in Brighton and studied in Chichester, both towns in Sussex.

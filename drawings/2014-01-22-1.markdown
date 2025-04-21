@@ -1,0 +1,11 @@
+---
+date: 2014-01-22T00:47:54Z
+title: Logo for plumber.js (first attempt)
+photo:
+  - url: /media/2014/022/d1/1.png
+    alt: Logo with a pipe shaped like a ‘p’.
+syndication:
+  - https://dribbble.com/shots/1387921
+---
+
+This is my first attempt at creating a logo for the JavaScript library Plumber. Any suggestions on how to improve? I’m inclined to think that the pipe needs to be rounder, less squared off.
