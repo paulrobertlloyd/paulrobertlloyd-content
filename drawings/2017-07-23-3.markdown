@@ -1,6 +1,7 @@
 ---
 date: 2017-07-23T23:18:15+02:00
 timeZone: Europe/Paris
+title: Sketches of Le Havre
 photo:
   - url: /media/2017/204/d1/1.jpg
     alt: Pen sketch of Hôtel de ville du Havre.

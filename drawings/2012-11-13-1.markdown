@@ -8,6 +8,7 @@ photo:
     alt: An abstract ‘N’ with serifs replaced with speech bubbles.
   - url: /media/2012/318/d1/3.png
     alt: ‘Native’ inside a speech bubble.
+color: "#08a0cd"
 syndication:
   - https://dribbble.com/shots/813318
   - https://dribbble.com/shots/813327
