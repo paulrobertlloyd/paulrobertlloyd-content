@@ -1,0 +1,12 @@
+---
+date: 2025-04-21T22:20:00+01:00
+title: "Manage vaccinations in schools: Doubles private beta"
+photo:
+  - url: /media/2025/111/d2/1.png
+    alt: A circular badge featuring two polar bears facing each other.
+tags:
+  - mission_patches
+color: "#55f"
+---
+
+The mission patch for the release supporting ‘doubles’ (co-administered MenACWY and Td/IPV vaccinations) features Mavis the polar bear meeting her double.

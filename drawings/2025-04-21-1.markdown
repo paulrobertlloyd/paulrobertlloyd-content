@@ -1,0 +1,12 @@
+---
+date: 2025-04-21T22:20:00+01:00
+title: "Manage vaccinations in schools: HPV private beta"
+photo:
+  - url: /media/2025/111/d1/1.png
+    alt: A circular badge featuring a polar bear watching a sunrise.
+tags:
+  - mission_patches
+color: "#a45"
+---
+
+The mission patch for the HPV private beta features Mavis the polar bear watching the sun rise over the horizon, representing the launch of our new service into private beta.
