@@ -9,6 +9,7 @@ color: "#ea4c89"
 category:
   - indieweb
   - design
+  - drawing
   - website
   - web
 ---
@@ -54,7 +55,7 @@ This means that each type of post has to be assigned a letter. So far I’ve ass
 
 If it wasn’t for `s` already being assigned to presentations, perhaps I’d have chosen `s` for ‘screenshots’, but I like where I ended up. Not only does `d` stand for ‘drawing’ and ‘design’, but it’s also a subtle nod to Dribbble, a soon-to-be forgotten place where a number of these drawings first appeared.
 
-[^1]: During this work I discovered [Photopea][11], an online image editor that can open Firework’s propriety PNG files. However, files still need some manual editing and recovery to be useful again.
+[^1]: During this work I discovered [Photopea][11], an online image editor that can open Fireworks’ propriety PNG files. However, files still need some manual editing and recovery to be useful again.
 
 [1]: https://avalonstar.com/blog/2025/the-enshittification-of-dribbble
 [2]: https://dribbble.com/stories/2025/03/17/work-in-progress-part-9
