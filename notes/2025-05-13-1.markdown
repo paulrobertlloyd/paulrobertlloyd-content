@@ -1,5 +1,9 @@
 ---
 date: 2025-05-13T21:05:30.539+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3lp3bv37d232x
+  - https://mastodon.social/@paulrobertlloyd/114502320773465463
+updated: 2025-05-13T21:06:01.086+01:00
 ---
 
 Happy M&S cyber incident update day for those who celebrate.
