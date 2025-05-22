@@ -1,5 +1,6 @@
 ---
 date: 2025-05-22T10:05:20.426+01:00
+updated: 2025-05-22T10:06:07.132+01:00
 ---
 
-I’m not convinced that the designer of a $10,000 gold watch (now obsolete), who gets driven around in the back of a Bentley, and who spends his spare time in coffee shops ‘inventing the future’ with the likes of Sam Altman, is still capable of designing products for the rest of us.
+I’m not convinced that the designer of a $10,000 gold watch (now obsolete), who gets driven around in the back of a Bentley, and who spends his spare time in coffee shops ‘inventing the future’ with the likes of Sam Altman, is capable of designing products for the rest of us.
