@@ -1,0 +1,10 @@
+---
+date: 2025-05-26T17:30:00+01:00
+title: "Firebreak"
+photo:
+  - url: /media/2025/145/d1/1.png
+    alt: A poster with an illustration of the ‘everything is fine’ dog, with a schedule of 7 events taking place over a few weeks in April 2025.
+color: "#226350"
+---
+
+Poster I created to mark [Good Machine](https://www.goodmachine.team)’s first firebreak week.
