@@ -19,7 +19,7 @@ color: "#812"
 
 Amsterdam is a strikingly beautiful city, every street a picture postcard. This beauty is somewhat undermined by the city’s famed seedy underbelly, which could be ignored were it not for the type of tourist it attracts.
 
-![Illustration of a man taking a photo of his reflection in a shopping mall.](../media/2015/172/a1/image.jpg "Still image from ""Other Faces"".")
+![Illustration of a man taking a photo of his reflection in a shopping mall.](../media/2015/172/a1/image.jpg "Still image from ‘Other Faces’.")
 
 With that in mind, I took the short ferry trip over to the quieter bank of the IJ, and visited the [EYE Film Institute][1]. While initially attracted by the building’s distinctive shape and sharp lines, it was a showcase of work by illustrator and animator [William Kentridge][2] that had me transfixed.
 

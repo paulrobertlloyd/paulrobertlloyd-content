@@ -68,7 +68,7 @@ His next initiative was to commission a proprietary typeface the company could u
 
 Johnston sought inspiration for his typeface from hand drawn letters he had seen on the side of a tradesmen’s wagon, and its introduction proved to be a dramatic change. While his contemporaries derided his creation as a betrayal of well-designed lettering, by the centenary of its introduction in 2016, ‘London’s handwriting’ was being widely [celebrated by the design community][1].
 
-![A selection of posters commissioned by Frank Pick.](../media/2017/006/a1/pick_posters.jpg "A selection of posters commissioned by Frank Pick. ""Brightest London is Best Reached by Underground"" by Horace Taylor, 1924, ""Trooping the Colour"" by Margaret Calkin-James, 1932 and ""For the Zoo Book to Regent’s Park"" by Charles Paine, 1921.")
+![A selection of posters commissioned by Frank Pick.](../media/2017/006/a1/pick_posters.jpg "A selection of posters commissioned by Frank Pick. ""Brightest London is Best Reached by Underground"" by Horace Taylor, 1924, ‘Trooping the Colour’ by Margaret Calkin-James, 1932 and ""For the Zoo Book to Regent’s Park"" by Charles Paine, 1921.")
 {.align-bleed}
 
 As UERL merged with its competitors to become the Underground Group, Pick rose through the ranks, and his influence grew. In 1927 he commissioned the architect Charles Holden to design a new head office at 55 Broadway, as well as a series of new stations for the extended Piccadilly line. By 1933, when the capital’s transit companies were combined into a public body – the London Passenger Transport Board – Pick was appointed its chief executive.
