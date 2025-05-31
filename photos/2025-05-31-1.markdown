@@ -1,0 +1,8 @@
+---
+date: 2025-05-31T13:13:06.841+01:00
+photo:
+  - url: /media/2025/151/p1/1.jpg
+    alt: Large black bookshelves, desks and indoor trees under diagonal wooden roof beams.
+---
+
+Many years ago I read about [Book Mountain](https://www.dezeen.com/2012/10/04/book-mountain-library-pyramid-by-mvrdv/), a curious pyramid-shaped library in Spijkenisse, the Netherlands. Today I finally stepped inside.
