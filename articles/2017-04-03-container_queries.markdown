@@ -49,11 +49,11 @@ As a way of demonstration, let’s return to one of the components Ethan describ
 > 3. We hit a three-column layout at the middle range.
 > 4. But then, once we reach the widescreen layout, the list moves into the right-hand sidebar. Once that happens, the list reverts to a two-column layout.
 
-With Flexbox, we can build components such that their layout will adapt to the available space. Using Grid, we can name areas of a grid container, and then assign components to those areas:
+With Flexbox, we can build components such that their layout will adapt to the available space. Using Grid, we can name areas of a grid container, and then assign components to those areas.
 
-[![Preview of the rebuilt recirculation module.](https://shots.codepen.io/paulrobertlloyd/pen/PpXygo-800.jpg "View ‘Rebuilding The Toast’s Recirculation Module’ on CodePen.")](https://codepen.io/paulrobertlloyd/pen/PpXygo/)
+[![Preview of the rebuilt recirculation module.](../media/2017/093/a1/codepen.png "The rebuilt recirculation module.")][17]
 
-There’s a lot going on in this example, so here are the key parts:
+There’s a lot going on [in this example][17], so here are the key parts:
 
 - I’ve set the `.ranked-list` container to use Flexbox for its internal layout (`display: flex`), and have instructed it to wrap any child flex items (`flex-wrap: wrap`).
 
@@ -61,15 +61,15 @@ There’s a lot going on in this example, so here are the key parts:
 
 - Within each `li`, lies a `.summary` item. I’ve given this a `min-width` (in this case the width of the image plus some padding) which will be factored into the above calculation.
 
-The layout of this component is therefore entirely dependent on how much space it has available to it. That addresses points 1-3. But how can we use CSS to move this component to another part of the layout when the viewport is much wider? Enter [Grid Areas][17]:
+The layout of this component is therefore entirely dependent on how much space it has available to it. That addresses points 1-3. But how can we use CSS to move this component to another part of the layout when the viewport is much wider? Enter [Grid Areas][18]:
 
 - First, I set `.container` to use Grid for its internal layout (`display: grid`), and created two named grid areas, `content` and `sidebar`, and placed one above the other. For wider viewports, within a media query[^1] I place these areas next to each other instead.
 
 - I then assigned `.content` to the `content` grid area, and `.sidebar` to the `sidebar` grid area. Done! I can change the position of those gird areas later, and the components assigned to them will relocate accordingly.
 
-[Grid is all about the container][18], yet the containers we’re manipulating aren’t defined by any markup; they exist solely within our CSS. It’s a very different approach to anything that has come before, and has [the potential to become even more powerful][19] as future revisions to the specification are developed.
+[Grid is all about the container][19], yet the containers we’re manipulating aren’t defined by any markup; they exist solely within our CSS. It’s a very different approach to anything that has come before, and has [the potential to become even more powerful][20] as future revisions to the specification are developed.
 
-In the past I have suggested we [embrace the medium’s unpredictable nature][20] and use its constraints to guide how we design for it. With Flexbox and Grid, those constraints are loosening.
+In the past I have suggested we [embrace the medium’s unpredictable nature][21] and use its constraints to guide how we design for it. With Flexbox and Grid, those constraints are loosening.
 
 ## And now for something completely different
 
@@ -91,7 +91,7 @@ So to recap, here are three reasons why I’m not sold on the need for container
 2. New CSS layout primitives give us tremendous power to make component-level layout adjustments already. We should build on existing specifications and concepts rather than define new ones.
 3. Often, when components are resized, they need to change their behaviour as well as their presentation; container queries would not help us in that respect, so perhaps other tools are better suited to this job.
 
-This may be a minority opinion, and it’s one I’m happy to be challenged on. After all, [wiser][21] [minds][22] [have][23] [advocated][24] for container queries. This is not the first time I have [found myself at odds with perceived wisdom][25]; maybe I’m missing a use case for which they would provide the most suitable solution.
+This may be a minority opinion, and it’s one I’m happy to be challenged on. After all, [wiser][22] [minds][23] [have][24] [advocated][25] for container queries. This is not the first time I have [found myself at odds with perceived wisdom][26]; maybe I’m missing a use case for which they would provide the most suitable solution.
 
 In my mind, container queries appear to be yesterday’s answer to today’s problems. I’d much rather we use the great new tools we have, and embrace a future that’s finally here.
 
@@ -113,15 +113,16 @@ In my mind, container queries appear to be yesterday’s answer to today’s pro
 [14]: https://www.w3.org/TR/css-align-3/
 [15]: https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content
 [16]: https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns#max-content
-[17]: https://gridbyexample.com/examples/example13/
-[18]: https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/
-[19]: https://speakerdeck.com/jensimmons/proposal-to-csswg-sept-2016
-[20]: http://alistapart.com/articles/the-web-aesthetic
-[21]: https://24ways.org/2015/being-responsive-to-the-small-things/
-[22]: http://hugogiraudel.com/2014/04/22/why-element-queries-matter/
-[23]: https://www.filamentgroup.com/lab/element-query-workarounds.html
-[24]: http://alistapart.com/article/container-queries-once-more-unto-the-breach
-[25]: https://24ways.org/2012/responsive-images-what-we-thought-we-needed/
+[17]: https://codepen.io/paulrobertlloyd/pen/PpXygo/
+[18]: https://gridbyexample.com/examples/example13/
+[19]: https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/
+[20]: https://speakerdeck.com/jensimmons/proposal-to-csswg-sept-2016
+[21]: http://alistapart.com/articles/the-web-aesthetic
+[22]: https://24ways.org/2015/being-responsive-to-the-small-things/
+[23]: http://hugogiraudel.com/2014/04/22/why-element-queries-matter/
+[24]: https://www.filamentgroup.com/lab/element-query-workarounds.html
+[25]: http://alistapart.com/article/container-queries-once-more-unto-the-breach
+[26]: https://24ways.org/2012/responsive-images-what-we-thought-we-needed/
 
 *[CSS]: Cascading Style Sheets
 *[DOM]: Document object module
