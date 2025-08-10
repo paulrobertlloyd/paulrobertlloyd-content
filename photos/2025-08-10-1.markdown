@@ -1,0 +1,8 @@
+---
+date: 2025-08-10T18:34:11.370+01:00
+photo:
+  - url: /media/2025/222/p1/1.jpg
+    alt: Four faint lines etched into a brick wall that form the benchmark symbol.
+---
+
+I found a [Benchmark](https://www.youtube.com/watch?v=sWxXyR4ifbk). Harder to find than I thought it would be. 
