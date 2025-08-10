@@ -4,8 +4,9 @@ photo:
   - url: /media/2025/222/p1/1.jpg
     alt: Four faint lines etched into a brick wall that form the benchmark symbol.
 syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3lw2tgrwojc22
   - https://mastodon.social/@paulrobertlloyd/115005697051570394
 updated: 2025-08-10T18:41:13.518+01:00
 ---
 
-I found a [Benchmark](https://www.youtube.com/watch?v=sWxXyR4ifbk). Harder to find than I thought it would be. 
+I found a [Benchmark](https://www.youtube.com/watch?v=sWxXyR4ifbk). Harder to find than I thought it would be.
