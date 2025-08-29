@@ -1,0 +1,34 @@
+---
+title: Sloppy
+date: 2025-08-30T00:15:00+01:00
+location:
+  locality: Brighton
+  countryName: England
+summary: Stop the slop.
+category:
+  - laziness
+---
+
+Last month, somebody at work put the government’s 10 Year Health Plan for England through Google Notebook LM and had it generate a 13 minute podcast.
+
+I didn’t listen to it.
+
+---
+
+Last week, I found myself in an a video conference in which a developer tried to describe the component they wanted to build by pasting the entire output of an AI chatbot into the meeting’s chat.
+
+I didn’t read it (although I did almost fall off my chair).
+
+---
+
+Last weekend, a neighbour posted a 17-page PDF into my street’s WhatsApp group summarising the potential downsides of local government reorganisation (“these are not my own thoughts and opinions, they are suggestions from AI”).
+
+I didn’t read any of that, either.
+
+---
+
+I guess I’m applying the inverse of [Simon’s rule](https://simonwillison.net/2023/Aug/27/wordcamp-llms/#personal-ai-ethics): I will not consume anything that will take me longer to read than it took for someone to write.
+
+(Again, please, [make it stop][1]).
+
+[1]: /2025/087/a1/bored/
