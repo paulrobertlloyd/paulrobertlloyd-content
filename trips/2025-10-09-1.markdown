@@ -1,0 +1,24 @@
+---
+start: 2025-10-09
+itinerary:
+  - label: Sitges
+    locality: Sitges
+    countryName: Spain
+  - label: Barcelona Sants
+    locality: Barcelona
+    countryName: Spain
+  - label: Lyon-Part-Dieu
+    locality: Lyon
+    countryName: France
+  - label: Paris-Gare-de-Lyon
+    locality: Paris
+    countryName: France
+  - label: Paris-Nord
+    locality: Paris
+    countryName: France
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+tags:
+  - i5eL1
+---

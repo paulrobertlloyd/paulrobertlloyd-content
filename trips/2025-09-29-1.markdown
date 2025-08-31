@@ -1,0 +1,21 @@
+---
+start: 2025-09-29
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: Paris-Nord
+    locality: Paris
+    countryName: France
+  - label: Paris-Gare-de-Lyon
+    locality: Paris
+    countryName: France
+  - label: Lyon-Part-Dieu
+    locality: Lyon
+    countryName: France
+tags:
+  - i5eL1
+---

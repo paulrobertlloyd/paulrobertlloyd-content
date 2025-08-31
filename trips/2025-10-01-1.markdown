@@ -1,0 +1,15 @@
+---
+start: 2025-10-01
+itinerary:
+  - label: Lyon-Part-Dieu
+    locality: Lyon
+    countryName: France
+  - label: Barcelona Sants
+    locality: Barcelona
+    countryName: Spain
+  - label: Sitges
+    locality: Sitges
+    countryName: Spain
+tags:
+  - i5eL1
+---
