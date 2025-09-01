@@ -85,7 +85,7 @@ One area where these options felt limiting (and possibly prone to misuse) was th
 
 Another issue was the lack of support for [GitHub-style alerts][17].
 
-Version 8 of the GOV.UK Eleventy Plugin changes [the way block quotes get rendered][18], instead using the design used on GOV.UK where paragraphs display handing quotation marks. They can now also include an attribution.
+Version 8 of the GOV.UK Eleventy Plugin changes [the way block quotes get rendered][18], instead using the design used on GOV.UK where paragraphs display hanging quotation marks. They can now also include an attribution.
 
 [Alerts instead use the inset text component][19] (with the alert type provided as a visually hidden label). The lowest alert level, ‘note’, has the same appearance as that for inset text, while the remaining alert levels have different border and background colours.
 
@@ -116,15 +116,13 @@ eleventyConfig.addPlugin(govukEleventyPlugin, {
 })
 ```
 
-The RSS feed, search index and tag pages are disabled by default, whereas the 404 error page and sitemap are enabled (you can choose to disable these if you want to).
-
-You can configure each feature template as well as override the layouts that they use if you need something more custom.
+The 404 error and sitemap pages are created by default, but you can disable these if you want to. You can also configure each feature template, as well as override the layouts that they use, if you need something more custom.
 
 We’re excited about Eleventy’s virtual templates feature and the opportunities they give plugin creators. If you have an idea for other features the plugin could provide, [let us know][22].
 
 ### Improved documentation
 
-We also took this opportunity to review our documentation and how it’s organised. There’s now more detail about to start a new project, while documentation for features and layouts is now split into different sections. Again, let us know if we can improve this further.
+We also took this opportunity to review our documentation and how it’s organised. There’s now more detail about how to start a new project, while documentation for features and layouts is now split into different sections. Again, let us know if we can improve this further.
 
 Happy website building! 🎈
 
