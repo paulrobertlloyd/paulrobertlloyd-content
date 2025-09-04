@@ -1,0 +1,8 @@
+---
+date: 2025-09-04T22:50:01.882+01:00
+photo:
+  - url: /media/2025/247/p1/1.jpg
+    alt: Rays of sunlight illuminating long bright green leaves.
+---
+
+Probably the last post-work rays of sunlight for 2025.
