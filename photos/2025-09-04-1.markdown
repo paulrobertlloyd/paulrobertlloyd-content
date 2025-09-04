@@ -3,6 +3,10 @@ date: 2025-09-04T22:50:01.882+01:00
 photo:
   - url: /media/2025/247/p1/1.jpg
     alt: Rays of sunlight illuminating long bright green leaves.
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3ly2545rnwe2w
+  - https://mastodon.social/@paulrobertlloyd/115148251222237271
+updated: 2025-09-04T22:54:37.074+01:00
 ---
 
 Probably the last post-work rays of sunlight for 2025.
