@@ -47,7 +47,7 @@ Surrounded by colleagues of all ages, professions and backgrounds, I was using l
 
 A two-year journey had come to an abrupt end, the nervy expectation of two weeks prior replaced with an uneasy emptiness. Before our first shift, we were told to enjoy ourselves as it would be over before we knew it. And so it was proven.
 
-!A photo from the final Games Maker shift.](../media/2012/265/a1/last_night.jpg "A photo from the final Games Maker shift.")
+![A photo from the final Games Maker shift.](../media/2012/265/a1/last_night.jpg "A photo from the final Games Maker shift.")
 
 ## A genuine act
 
