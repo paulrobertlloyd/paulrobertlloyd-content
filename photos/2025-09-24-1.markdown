@@ -1,0 +1,8 @@
+---
+date: 2025-09-24T20:37:23.699+01:00
+photo:
+  - url: /media/2025/267/p1/1.jpg
+    alt: Luminous bright orange leaves on the branches of a maple tree.
+---
+
+Favourite tree doing favourite tree things.
