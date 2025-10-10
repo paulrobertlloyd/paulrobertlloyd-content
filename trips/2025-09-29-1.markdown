@@ -10,12 +10,6 @@ itinerary:
   - label: Paris-Nord
     locality: Paris
     countryName: France
-  - label: Paris-Gare-de-Lyon
-    locality: Paris
-    countryName: France
-  - label: Lyon-Part-Dieu
-    locality: Lyon
-    countryName: France
 tags:
   - i5eL1
 ---
