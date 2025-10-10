@@ -1,0 +1,9 @@
+---
+date: 2025-10-06T15:01:15.048+01:00
+syndication:
+  - https://mastodon.social/@paulrobertlloyd/115327583849823457
+---
+
+Trying to buy tickets for a major tourist attraction in Barcelona. Three separate attempts fail to complete (session expired). Go to the attraction hoping to buy tickets in person; online purchases only. When speak to an official, tells me to use Google Chrome (I’m using an iPhone, which is a whole other issue but needless to say, this is not an option).
+
+Just a small, insignificant example of how this century has rapidly turned into a techno-centric idiocracy.
