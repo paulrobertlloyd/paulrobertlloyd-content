@@ -1,5 +1,9 @@
 ---
 date: 2025-10-18T23:06:19.653+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3m3ishvfv3323
+  - https://mastodon.social/@paulrobertlloyd/115397452584651799
+updated: 2025-10-18T23:09:48.031+01:00
 ---
 
 Enjoyed drinks and a curry in Birmingham this evening alongside 6 familiar faces to celebrate an astonishing anniversary; 20 years ago this month, 4 web developers met in Walsall, and [the Multipack was born](https://lloydyweb.paulrobertlloyd.com/blog/2005/10/the_we_in_web).
