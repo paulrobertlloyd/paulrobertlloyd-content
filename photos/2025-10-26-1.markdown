@@ -1,0 +1,17 @@
+---
+date: 2025-10-26T23:50:00.000
+photo:
+  - url: /media/2025/299/p1/1.jpg
+    alt: Alana, Danielle and Este Haim projected in black and white.
+  - url: /media/2025/299/p1/2.jpg
+    alt: Este Haim singing below a sign in red text that says ‘Cry’.
+  - url: /media/2025/299/p1/3.jpg
+    alt: Alana, Danielle and Este Haim playing their guitars below a sign in red text that says ‘I quit lying to myself’.
+  - url: /media/2025/299/p1/4.jpg
+    alt: Alana, Danielle and Este Haim druming on stage, projected on a screen behind them.
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3m454qe7jns2d
+  - https://mastodon.social/@paulrobertlloyd/115443203168881488
+---
+
+I absolutely bloody love Haim, and they didn’t disappoint this evening.
