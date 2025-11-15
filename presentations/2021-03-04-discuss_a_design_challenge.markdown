@@ -9,7 +9,7 @@ color: "#1d70b8"
 slides:
   - url: /media/2021/063/s1/1.png
     caption: |
-      Hi! I’m Paul, and I’m an interaction designer working for the Department of Education in the Becoming a teacher team. Fun fact: today is the 2 year anniversary of me joining the team.
+      Hi! I’m Paul, and I’m an interaction designer working for the Department for Education in the Becoming a teacher team. Fun fact: today is the 2 year anniversary of me joining the team.
   - url: /media/2021/063/s1/2.png
     caption: |
       Our team works on a family of services. These allow perspective candidates to find teacher training courses before submit an application, and enable training providers to publish courses and then make decisions on the applications they receive.

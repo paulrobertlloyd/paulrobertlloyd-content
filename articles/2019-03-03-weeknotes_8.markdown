@@ -9,7 +9,7 @@ tags:
   - weeknotes
 ---
 
-Right, let’s get straight to it. With a contract signed on Wednesday, tomorrow I head into [the thick of it][1] by joining the [digital team at the Department of Education][2]. Alongside user researchers and content designers, I’ll be designing a service to help graduates find and apply for postgraduate teacher training courses.
+Right, let’s get straight to it. With a contract signed on Wednesday, tomorrow I head into [the thick of it][1] by joining the [digital team at the Department for Education][2]. Alongside user researchers and content designers, I’ll be designing a service to help graduates find and apply for postgraduate teacher training courses.
 
 This will also be my first foray working within the public sector. At the start of the year when [I announced][3] that I was “seeking a hybrid design/front-end role with an organisation instigating meaningful change” a number of people suggested I look for roles in government, and my sense is they were right. I have concerns of course – this environment is very different to that of any commercial organisation I’ve worked in – but I’m excited (and somewhat curious) about designing with a different set of constraints. Having spent much of the week wrestling with the [DBS service][4], this was a reminder that many poorly designed government services remain. While it’s easy to focus on the primary [gov.uk][5] website, there’s plenty of work still to be done improving the digital capabilities of government.
 
