@@ -1,5 +1,9 @@
 ---
 date: 2025-12-03T22:33:26.417Z
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3m74k57nki22e
+  - https://mastodon.social/@paulrobertlloyd/115658072080706800
+updated: 2025-12-03T22:48:45.896Z
 ---
 
 I have re-watched ""Die Hard"" and can confirm: it is a Christmas movie (no matter [what the British public may think](https://www.theguardian.com/film/2025/dec/01/die-hard-not-christmas-movie-home-alone)).
