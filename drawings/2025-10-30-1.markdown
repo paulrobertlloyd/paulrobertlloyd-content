@@ -1,0 +1,12 @@
+---
+date: 2025-10-30T12:00:00
+title: "NHS Vaccination Digital Services: Autumn/Winter Campaign 2025"
+photo:
+  - url: /media/2025/303/d1/1.png
+    alt: A circular badge featuring an illustration of a smiling hedgehog.
+tags:
+  - mission_patches
+color: "#005eb8"
+---
+
+The mission patch to celebrate the digital services supporting the Autumn/Winter 2025 seasonal vaccination campaigns.
