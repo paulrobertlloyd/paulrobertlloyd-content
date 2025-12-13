@@ -3,6 +3,10 @@ date: 2025-12-13T13:54:57.243Z
 photo:
   - url: /media/2025/347/p1/1.jpg
     alt: Dark grey hexagonal finisher’s medal sat on a grey and red finisher’s t-shirt.
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3m7ur65qp6k2l
+  - https://mastodon.social/@paulrobertlloyd/115712608069245917
+updated: 2025-12-13T13:57:59.440Z
 ---
 
 [Completed it](https://www.spartan.com/en/deka/strong) mate.
