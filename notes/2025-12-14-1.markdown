@@ -1,0 +1,5 @@
+---
+date: 2025-12-14T21:19:44.259Z
+---
+
+Getting close to completing the fourth and final section of Bradshaw’s Guide. As of today, you can now find [descriptions for all 1338 towns and cities published in the 1866 edition](https://bradshaws.guide/places). Next up; adding the final set of routes and stations.
