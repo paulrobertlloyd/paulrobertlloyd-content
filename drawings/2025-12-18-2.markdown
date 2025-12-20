@@ -1,0 +1,12 @@
+---
+date: 2025-12-18T22:20:00Z
+title: "Manage vaccinations in schools: Flu private beta"
+photo:
+  - url: /media/2025/352/d2/1.png
+    alt: A circular badge featuring a polar bear and her 2 cubs. Each has a 1UP above them heads, one above a doughnut, another above a diamond.
+tags:
+  - mission_patches
+color: "#6ce"
+---
+
+The mission patch for the release supporting seasonal flu vaccinations features Mavis and her 2 cubs getting their boosters; [one with a doughnut, another with a diamond](https://design-history.prevention-services.nhs.uk/manage-vaccinations-in-schools/2025/09/flu-recording/).

@@ -1,0 +1,12 @@
+---
+date: 2025-12-18T22:20:00Z
+title: "Manage vaccinations in schools: CHIS discovery"
+photo:
+  - url: /media/2025/352/d1/1.png
+    alt: A howling polar bear standing on a block of cheese.
+tags:
+  - mission_patches
+color: "#ea1"
+---
+
+The mission patch for the CHIS (child health information services) discovery features Mavis howling to notify all nearby polar bears about an unvaccinated cub. She does so by standing atop a block of nearby cheese (sounds like *chis*).
