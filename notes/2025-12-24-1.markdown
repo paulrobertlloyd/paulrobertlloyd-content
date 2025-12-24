@@ -1,5 +1,9 @@
 ---
 date: 2025-12-24T22:31:17.392Z
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mardcwt5232h
+  - https://mastodon.social/@paulrobertlloyd/115776940336781998
+updated: 2025-12-24T22:38:32.582Z
 ---
 
 Delivering a small Indiekit-shaped Christmas present, with [a new beta release](https://github.com/getindiekit/indiekit/releases/tag/v1.0.0-beta.25) that includes some quality-of-life improvements alongside localisation for Brazilian Portuguese. *Feliz Natal!*
