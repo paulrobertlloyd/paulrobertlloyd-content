@@ -1,0 +1,5 @@
+---
+date: 2025-12-24T22:31:17.392Z
+---
+
+Delivering a small Indiekit-shaped Christmas present, with [a new beta release](https://github.com/getindiekit/indiekit/releases/tag/v1.0.0-beta.25) that includes some quality-of-life improvements alongside localisation for Brazilian Portuguese. *Feliz Natal!*
