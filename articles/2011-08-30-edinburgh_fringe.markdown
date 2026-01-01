@@ -50,7 +50,7 @@ This show reminded me that I should broaden my selection when looking for things
 ![Photo of Sammy J and Randy.](../media/2011/242/a1/sammy_j_and_randy.jpg)
 {.align-pull}
 
-I saw [Sammy J][4] at last year’s festival, but only if I’m honest because thought the show was free! It turned out to be my favourite show of last years Fringe. This year he was performing twice, and because I had booked a number of gigs I was only able to see his double act alongside a purple muppet-like puppet called Randy.
+I saw [Sammy J][4] at last year’s festival, but only if I’m honest because I thought the show was free! It turned out to be my favourite show of last years Fringe. This year he was performing twice, and because I had booked a number of gigs I was only able to see his double act alongside a purple muppet-like puppet called Randy.
 
 Sammy J was just as funny as I remembered him, whilst Heath McIvor was astounding as the puppeteer behind Randy. The level of emotion he was able to convey with such a simple looking creature was amazing, and you could easily forget you were watching a puppet had the act not made a running joke of it.
 
