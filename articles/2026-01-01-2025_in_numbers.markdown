@@ -32,7 +32,7 @@ A significant drop in the amount of stuff I posted to this website over the last
 
 | Year | Commits |
 | ---- | ------: |
-| 2025 |    1009 |
+| 2025 |     990 |
 | 2024 |     796 |
 | 2023 |     996 |
 | 2022 |    1086 |
