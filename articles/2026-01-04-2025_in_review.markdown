@@ -1,0 +1,91 @@
+---
+title: 2025 in review
+date: 2026-01-04T15:30:00Z
+location:
+  locality: Bexhill-on-Sea
+  countryName: England
+summary: Another circuit around the sun and time once again to reflect on a year gone by.
+featured:
+  url: /media/2026/004/a1/reflection.jpg
+  alt: Reflection of a cityscape on the mirrored metallic surface of a building.
+category:
+  - personal
+  - travel
+tags:
+  - year_in_review
+---
+
+Another circuit around the sun and time once again to reflect on a year gone by.
+
+Fair to say that 2025 had a stressful start. Having launched [Manage Vaccinations in Schools][1] (aka Mavis) into private beta for a school aged vaccination service (SAIS) team in Coventry and Warwickshire, the pace and style of delivery abruptly and radically changed.
+
+To support the launch and later roll-out, the size of the team doubled in the space of a week, with the design team expanding to include a new user researcher, content designer and interaction designer. Pretty soon, everything was on fire. I was constantly switching between trying to help new colleagues understand the service and figuring out how we could work together while also trying to address issues and work on new features.
+
+Onboarding was sink or swim. While I was glad some new joiners took up my suggestion of sharing ‘user manuals’ (a way to quickly discover shared interests and preferred ways of working), it remained a chaotic environment for the first six months. The interaction designer wasn’t able to make it to shore, and left the team in May.
+
+The role simply wasn’t a good fit; for them, for me or for us. While that’s the reality, it didn’t stop me from beating myself up a little. I sometimes wonder if working from home, with a good deal of autonomy and tendency to over-engineer prototypes, makes it impossible for other designers to work alongside me.
+
+I also continue to worry that my growing programming proficiency comes at the expense of me being a half-decent designer. Coding can draw me into a space where I become more insular and narrow minded, focused on implementation and less on outcomes. I didn’t speak to nearly enough users during the year, and only visited one SAIS team. And I still haven’t seen a vaccination session in a school. Shameful.
+
+I can make my excuses. I work a 4-day week as the sole interaction designer on a large end-to-end service that is growing in complexity and scope. To make matters worse, I volunteered some of my time (including outside work hours) to the service manual team, making [almost 50 contributions to NHS frontend][2] alone, and helped with the release of v10, [a useful and important upgrade][3].
+
+I need to think about how I can work better; to be more curious, collaborative and contemplative, and organise my time so that I can spend more of it sat alongside users. This should be easier now that things have settled down and firm foundations have been laid. I’m looking forward to focusing on aspects of our service that can have a lasting impact on public health outcomes.
+
+Anyway, by the end of March I desperately needed to regain some head space, so boarded the Caledonian Sleeper for a return trip to Dundee. It’s not a visit that stands out; it was cold and grey, the V&A remains largely vacant, while an exhibit of COVID-related artefacts in the McManus was mildly disorientating. I walked to Broughty Ferry and back and not sure why. But the trip cleared my head enough for me to write [a blog post][4] (or was it a poem?) that [went viral][5].
+
+I spent a few Thursday nights staying in London after work so that I could explore London on a Friday and see an exhibition or show. In April, I drooled over the sight of [Brazilian modernism at the Royal Academy][6], and in May enjoyed a long-overdue catch-up with [Simon][7]. I’d hoped to do several more overnight stays, but these never materialised. Being able to work from an office in London did allow me to see more theatre; [""Giant""][8] and [""Nye""][9] were both superb, and restored my faith in the medium having watched the gimmick-laden ""Elektra"" in January.
+
+![Reflection of a cityscape on the mirrored metallic surface of a building.](../media/2026/004/a1/reflection.jpg "Rotterdam reflected by the mirrored surface of the Depot Museum Boijmans Van Beuningen.")
+{.align-bleed}
+
+In June, I returned to Amsterdam for CSS Day and in the process crossed off a few items from my bucket list. I took the ferry to the Hook of Holland (just about… train delays at Liverpool Street threatened to leave me stranded in Harwich), and [climbed the Book Mountain in Spijkenisse][10]. My abiding memory of this trip was staying in [a stylish hotel][11] in Rotterdam and spending evenings in its bar working on [an NHS-flavoured version of the GOV.UK Eleventy Plugin][12]. I returned home via Antwerp, and in the [Plantin-Moretus museum][13] said hello to the oldest printing presses in the world.
+
+[Jon][14] and I got our act together and in September resumed our annual tradition of doing a weekend cycling trip. This time we trundled around bits of East Kent – including a fair distance along the River Stour, only to be met by a closed gate and cycle all the way back.
+
+When it came to taking [an extended break in October][15], I did the sensible thing and left my laptop at home. Unsurprisingly, this did wonders for my mental health. Surprisingly, I spent a night in Paris and enjoyed it.
+
+Soon after I attended [Multipack’s 20th anniversary][16] get together in Birmingham. We reminisced about table-based layout, XHTML, Flash and other dead technologies and that made me feel far too old. "Kids these days" was often said without any irony at all.
+
+One thing I didn’t end up doing was speak at [an academic conference that took place on a train travelling from Vienna to Istanbul][17]. Both [Jeremy][18] and [Vasilis][19] suggested I submit a talk proposal, but I prevaricated right up until the submission deadline. A conversation with my mum made me realise I didn’t want to do it, not least because it’d mean, if my proposal were accepted, spending months working on (and worrying about) a presentation. And 4 days stuck on a train listening to people talk about “trains as metafictional/&#8203;metapoetic/&#8203;metacinematic devices”… think I dodged a bullet.
+
+Besides, personal projects were already taking a backseat as I focused on [X-GOVUK][20] and NHS-related projects instead. I was able to [add a new section to this website to collect drawings][21], and added the final set of place descriptions to [Bradshaw’s Guide][22]. As for [Indiekit][23], I started to think about [providing named events for plug-ins to hook into][24], but otherwise made little progress towards shipping v1.0. I joined a long-planned photo walk in February but was massively disappointed with the photos I came back with (unlike [Al][25] and [Ben][26], the bastards).
+
+By far the most rewarding personal project of 2025 was that of improving my fitness, working with my personal trainer to increase how much I can lift and carry. Preparing for [Deka competitions][27] towards the end of the year gave me a renewed focus and a useful way to measure progress. Proudest achievement of the year? I can now skip!
+
+As I skip into 2026, it’s with an almost visceral sense of time passing at an alarming rate; I swear I was [gradually counting down lengths in the swimming pool][28] just a matter of days, not weeks ago.
+
+With regrets for opportunities – and possibly [alternate timelines][29] – not taken in 2025, I’m hoping this new found sense of mortality will encourage me to be a bit bolder and braver over the coming 12 months. As ever, it’s the hope that kills you.
+
+[1]: https://digital.nhs.uk/blog/transformation-blog/2025/an-easier-way-to-manage-vaccinations-in-schools
+[2]: https://github.com/nhsuk/nhsuk-frontend/issues?q=is%3Apr%20author%3A%40me%20created%3A2025
+[3]: https://digital.nhs.uk/blog/design-matters/2025/making-the-nhs-design-system-fit-for-the-future
+[4]: /2025/087/a1/bored/
+[5]: /2025/101/a1/nerve/
+[6]: https://www.royalacademy.org.uk/exhibition/brasil-brasil
+[7]: https://www.riseofthemonkeys.co.uk
+[8]: https://en.wikipedia.org/wiki/Giant_(play)
+[9]: https://en.wikipedia.org/wiki/Nye_(play)
+[10]: /2025/151/p1/
+[11]: https://theusual.com/en/locations/rotterdam/
+[12]: /2025/243/a1/nhsuk_eleventy_plugin/
+[13]: https://museumplantinmoretus.be/en/
+[14]: https://roobottom.com
+[15]: /2025/292/a1/paris_lyon_sitges_barcelona/
+[16]: https://multipack.co.uk/events/2025/20th-anniversary/
+[17]: https://research.tuni.fi/plural-en/event/call-for-papers-railway-aesthetics-experiencing-locomotion-across-media-and-cultures/
+[18]: https://adactio.com
+[19]: https://vasilis.nl
+[20]: https://x-govuk.org
+[21]: /2025/111/a1/drawings/
+[22]: https://bradshaws.guide
+[23]: https://getindiekit.com
+[24]: https://github.com/getindiekit/indiekit/pull/784
+[25]: https://www.alpower.com/photos/2025-02-01-camera-wander-on-a-grey-day/
+[26]: https://benjamin.parry.is/collecting/photos/2025/02/brighon-photography-bimble/
+[27]: https://uk.spartan.com/en/deka
+[28]: https://www.strava.com/activities/16814388868
+[29]: https://www.youtube.com/watch?v=kTXTPe3wahc
+
+*[aka]: also known as
+*[AI]: artificial intelligence
+*[SAIS]: School aged vaccination service
