@@ -5,6 +5,7 @@ jamOf:
   url: https://music.apple.com/gb/album/change/1443911304?i=1443912501
   name: Change
   author: Tears for Fears
+updated: 2026-01-12T22:54:05.647Z
 ---
 
-I wasn’t blown away by ""Marty Supreme"", but it has given me a new found appreciation for Tears for Fears.
+I wasn’t blown away by ""Marty Supreme"", but it has given me a new found appreciation of Tears for Fears.
