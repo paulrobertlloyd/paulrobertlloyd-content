@@ -3,6 +3,10 @@ date: 2026-01-23T19:16:55.587Z
 photo:
   - url: /media/2026/023/p1/1.jpg
     alt: A bottle of milk and a bottle of cream sat on the ground, in front of a blue door, surrounded by green foliage.
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3md4gwkasxd2l
+  - https://mastodon.social/@paulrobertlloyd/115946079773920748
+updated: 2026-01-23T19:32:54.724Z
 ---
 
 You don’t see this everyday.
