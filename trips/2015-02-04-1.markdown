@@ -5,7 +5,7 @@ itinerary:
     locality: Brighton
     countryName: England
   - label: Gatwick (GTW)
-    locality: Gatwick Airport
+    locality: Gatwick
     countryName: England
   - label: Gatwick Airport (LGW)
     locality: Gatwick

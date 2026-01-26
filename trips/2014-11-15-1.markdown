@@ -8,7 +8,7 @@ itinerary:
     locality: Gatwick
     countryName: England
   - label: Gatwick (GTW)
-    locality: Gatwick Airport
+    locality: Gatwick
     countryName: England
   - label: Brighton (BTN)
     locality: Brighton
