@@ -1,0 +1,18 @@
+---
+start: 2026-03-12
+itinerary:
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+  - label: Gatwick (GTW)
+    locality: Gatwick
+    countryName: England
+  - label: Gatwick Airport (LGW)
+    locality: Gatwick
+    countryName: England
+  - label: Porto (OPO)
+    locality: Porto
+    countryName: Portugal
+tags:
+  - i5h41
+---
