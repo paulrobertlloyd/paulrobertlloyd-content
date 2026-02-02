@@ -1,5 +1,9 @@
 ---
 date: 2026-02-02T12:57:52.028Z
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mduvnsmepf2b
+  - https://mastodon.social/@paulrobertlloyd/116001159077636876
+updated: 2026-02-02T13:00:18.249Z
 ---
 
 Gone skiing.
