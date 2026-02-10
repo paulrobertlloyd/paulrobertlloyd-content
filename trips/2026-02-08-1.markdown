@@ -1,0 +1,15 @@
+---
+start: 2026-02-08
+itinerary:
+  - label: Oulx–Cesana–Claviere–Sestriere
+    locality: Oulx
+    countryName: Italy
+  - label: Chambéry–Challes-les-Eaux
+    locality: Chambéry
+    countryName: France
+  - label: Lyon-Part-Dieu
+    locality: Lyon
+    countryName: France
+tags:
+  - i5gQ1
+---

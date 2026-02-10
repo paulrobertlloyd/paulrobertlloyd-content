@@ -1,0 +1,18 @@
+---
+start: 2026-01-31
+itinerary:
+  - label: Lyon-Part-Dieu
+    locality: Lyon
+    countryName: France
+  - label: Paris-Nord
+    locality: Paris
+    countryName: France
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+tags:
+  - i5gQ1
+---
