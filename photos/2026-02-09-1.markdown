@@ -7,6 +7,8 @@ syndication:
   - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3megjxrccfd2h
   - https://mastodon.social/@paulrobertlloyd/116040869127685683
 updated: 2026-02-09T13:19:05.731Z
+tags:
+  - i5gQ1
 ---
 
 I bloody love Lyon.
