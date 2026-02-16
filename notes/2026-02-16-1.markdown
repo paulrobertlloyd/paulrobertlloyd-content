@@ -1,5 +1,9 @@
 ---
 date: 2026-02-16T23:13:40.893Z
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mez6icnqa72n
+  - https://mastodon.social/@paulrobertlloyd/116082845059833100
+updated: 2026-02-16T23:14:07.271Z
 ---
 
 Lovely evening spent in a local pub, drinking beer, eating pie and mash and coming fifth (out of seven teams) in the pub quiz with my fellow quizzer, Becky. A truly wonderful way to start the week.
