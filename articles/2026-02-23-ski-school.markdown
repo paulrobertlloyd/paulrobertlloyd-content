@@ -43,7 +43,7 @@ As is so often the case, I was the last one to come down a slope, but every time
 
 Towards the end of the second day was when I felt the most demoralised. Attempting my first blue run, I managed to ski down the first third before falling down much of the second. With my skis having detached, and unable to click my boots back into their clips, I walked down the remainder of the run.
 
-I felt like a complete failure and wondered why I had embarked on this silly adventure. I felt even worse when I saw other members of the group on their second run skiing down the same run with apparent ease.
+I felt like a complete failure and wondered why I had embarked on this silly adventure. I felt even worse when I saw other members of the group on their second go skiing down the same run with apparent ease.
 
 But again, the support of the group changed the entire dynamic. Having finally returned to the starting point, I was told that others had also fallen over and faced their own difficulties, one even banging his head hard on the snow.
 
@@ -78,13 +78,13 @@ As a chronic over-thinker, if the week taught me anything, it’s that I need to
 
 On the Friday I attempted a fifth consecutive morning of skiing, my first outside of ski school. By this point my body was aching, my legs were locked into the snow plough and my mind was focused on survival, not enjoyment. None of this prevented me from going off piste and getting buried in several feet of snow!
 
-I had hoped to ski on the Saturday, but sometimes it’s good to know when to stop something before getting hurt. Emotionally and physically drained, another day on the slopes would have likely ended in disaster. Instead, I ate cake on the top of a mountain with a view no photo could ever capture, and spent the afternoon relaxing in a swimming pool and sauna. It was marvellous.
+I had hoped to ski on the Saturday, but sometimes it’s good to know when to stop something before you get hurt. Emotionally and physically drained, another day on the slopes would have likely ended in disaster. Instead, I ate cake on the top of a mountain with a view no photo could ever capture, and spent the afternoon relaxing in a swimming pool and sauna. It was marvellous.
 
 ## 6. When you fall over, get back up
 
 Learning to ski is like learning to ride a bike, chiefly in that when you fall over you have to get back up.
 
-While my first fall was incredibly terrifying – with abnormal force applied to your shins you fully expect your legs to snap in half – over time you get used to it. In fact, landing in snow became refreshing!
+While my first fall was incredibly terrifying – with abnormal force applied to your shins you fully expect your legs to snap in half – over time you get used to it. In fact, landing in snow became quite refreshing!
 
 It’s fun to feel your brain adapt and learn a new skill, and only through failure can you understand the limits of your body and how to deal with different situations.
 
