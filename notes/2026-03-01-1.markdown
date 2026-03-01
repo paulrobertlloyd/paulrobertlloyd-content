@@ -1,5 +1,9 @@
 ---
 date: 2026-03-01T09:42:31.847Z
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mfyha2kdry2q
+  - https://mastodon.social/@paulrobertlloyd/116153266026383022
+updated: 2026-03-01T09:43:06.247Z
 ---
 
 Starting March much as I did February by trying something new. This morning I completed my first Aquathon (Tuff Fitty’s Frost Bite event in Littlehampton, a 400m swim followed by a 5km run), finishing with a time of 50:35. I’ll take that!
