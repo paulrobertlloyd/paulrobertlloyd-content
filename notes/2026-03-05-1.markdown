@@ -1,5 +1,9 @@
 ---
 date: 2026-03-05T21:37:17.756Z
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mgdqzc2ovj2q
+  - https://mastodon.social/@paulrobertlloyd/116178724632451672
+updated: 2026-03-05T21:37:33.374Z
 ---
 
 This is a low.
