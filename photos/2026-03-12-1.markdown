@@ -5,6 +5,7 @@ photo:
     alt: People socialise under red and white canopies. The buildings behind them are golden, with the shadows of nearby trees imparted on their beautifully decorated facades.
 syndication:
   - https://mastodon.social/@paulrobertlloyd/116218037868945136
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mgv7vk6axc2t
 updated: 2026-03-12T20:15:25.833Z
 ---
 
