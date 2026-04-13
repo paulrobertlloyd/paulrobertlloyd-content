@@ -1,0 +1,12 @@
+---
+start: 2026-05-01
+itinerary:
+  - label: Berwick-upon-Tweed (BWK)
+    locality: Berwick-upon-Tweed
+    countryName: England
+  - label: Newcastle (NCL)
+    locality: Newcastle
+    countryName: England
+tags:
+  - i5hn1
+---

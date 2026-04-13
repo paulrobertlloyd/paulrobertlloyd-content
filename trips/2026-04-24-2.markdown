@@ -1,0 +1,18 @@
+---
+start: 2026-04-24
+itinerary:
+  - label: Cannock (CAO)
+    locality: Cannock
+    countryName: England
+  - label: Birmingham New Street (BHM)
+    locality: Birmingham
+    countryName: England
+  - label: York (YRK)
+    locality: York
+    countryName: England
+  - label: Durham (DHM)
+    locality: Durham
+    countryName: England
+tags:
+  - i5hn1
+---

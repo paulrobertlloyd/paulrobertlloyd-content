@@ -1,0 +1,12 @@
+---
+start: 2026-04-27
+itinerary:
+  - label: Durham (DHM)
+    locality: Durham
+    countryName: England
+  - label: Berwick-upon-Tweed (BWK)
+    locality: Berwick-upon-Tweed
+    countryName: England
+tags:
+  - i5hn1
+---
