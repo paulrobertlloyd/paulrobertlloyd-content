@@ -1,5 +1,9 @@
 ---
 date: 2026-04-24T23:28:27.689+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mkbl6u2xa72e
+  - https://mastodon.social/@paulrobertlloyd/116462041428790504
+updated: 2026-04-24T23:28:44.594+01:00
 ---
 
 Caught up with a friend I’ve known for over 30 years, for the first time in 5 years. The 4 hours we spent together flew by in a matter of minutes.
