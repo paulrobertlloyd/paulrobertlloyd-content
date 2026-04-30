@@ -1,0 +1,12 @@
+---
+start: 2026-04-30
+itinerary:
+  - label: Edinburgh Waverley (EDB)
+    locality: Edinburgh
+    countryName: Scotland
+  - label: Berwick-upon-Tweed (BWK)
+    locality: Berwick-upon-Tweed
+    countryName: England
+tags:
+  - i5hn1
+---
