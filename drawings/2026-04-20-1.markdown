@@ -1,0 +1,12 @@
+---
+date: 2026-04-20T12:00:00+01:00
+title: "Manage vaccinations in schools: National reporting"
+photo:
+  - url: /media/2026/110/d1/1.png
+    alt: A circular badge featuring a polar bear cub.
+tags:
+  - mission_patches
+color: "#069"
+---
+
+The mission patch for the release supporting national reporting features a polar bear cub as this functionality is known internally as ‘mini Mavis’.
