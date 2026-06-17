@@ -1,5 +1,9 @@
 ---
 date: 2026-06-17T23:20:11.838+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mojdvkyjqg2a
+  - https://mastodon.social/@paulrobertlloyd/116767773207144287
+updated: 2026-06-17T23:20:21.258+01:00
 ---
 
 Ran 5km along the Thames, won the pub quiz then watched England “kick the ball in the square” two more times than Croatia. Pretty much the perfect evening.
