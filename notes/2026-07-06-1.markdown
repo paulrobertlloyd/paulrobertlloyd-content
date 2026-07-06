@@ -1,5 +1,9 @@
 ---
 date: 2026-07-06T04:11:14.595+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mpx4kofu4f27
+  - https://mastodon.social/@paulrobertlloyd/116870839463871015
+updated: 2026-07-06T04:11:28.042+01:00
 ---
 
 Well, that match was absolutely worth staying up until 4am for. Gripping game and an amazing performance from England. Phew!
