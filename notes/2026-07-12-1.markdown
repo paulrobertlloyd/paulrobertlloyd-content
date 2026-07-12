@@ -1,6 +1,9 @@
 ---
 date: 2026-07-12T01:06:37.735+01:00
-updated: 2026-07-12T01:07:15.036+01:00
+updated: 2026-07-12T01:07:35.994+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mqfv3gmcjp2a
+  - https://mastodon.social/@paulrobertlloyd/116904090358188249
 ---
 
 How the hell are England into a World Cup semi final!? That was a tough watch.
