@@ -1,6 +1,9 @@
 ---
 date: 2026-07-14T22:07:25.382+01:00
-updated: 2026-07-14T22:08:02.402+01:00
+updated: 2026-07-14T22:08:10.329+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mqn4hdzbch2i
+  - https://mastodon.social/@paulrobertlloyd/116920371749927888
 ---
 
 Is it asking too much to want two World Cup semi-final upsets?
