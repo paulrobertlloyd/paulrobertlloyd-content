@@ -1,5 +1,9 @@
 ---
 date: 2026-07-15T23:28:32.878+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mqprglgfeq2n
+  - https://mastodon.social/@paulrobertlloyd/116926351401237751
+updated: 2026-07-15T23:28:52.533+01:00
 ---
 
 I couldn't have predicted any aspect of today, and for that I'm weirdly grateful. Would have been nice to have seen England in a World Cup final, though.
