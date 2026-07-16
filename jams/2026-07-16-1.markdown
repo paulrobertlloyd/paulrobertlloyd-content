@@ -1,0 +1,10 @@
+---
+date: 2026-07-16T09:04:57.936+01:00
+jamOf:
+  type: cite
+  url: https://music.apple.com/gb/album/more-than-this/724413368?i=724413583
+  name: More Than This
+  author: Roxy Music
+---
+
+Thinking back on yesterday and what was, football aside, a beautiful yet unexpected day. A reminder to embrace uncertainty in life and accept the wonderful things it can sometimes bestow. Maybe there’s nothing more than this.
