@@ -1,5 +1,9 @@
 ---
 date: 2026-07-19T18:24:07.831+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mqzcbuqqcd2e
+  - https://mastodon.social/@paulrobertlloyd/116947803534750963
+updated: 2026-07-19T18:24:26.388+01:00
 ---
 
-The final season of The Bear was simply beautiful, and a welcome return to form.
+The final season of ""The Bear"" was simply beautiful, and a welcome return to form.
