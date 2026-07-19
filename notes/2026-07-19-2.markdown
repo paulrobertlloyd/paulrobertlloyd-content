@@ -1,0 +1,8 @@
+---
+date: 2026-07-19T23:03:50.122+01:00
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mqzrvssuvv25
+  - https://mastodon.social/@paulrobertlloyd/116948902896988917
+---
+
+*Viva Espana!*{lang=es} The best team won (thankfully). *Vamos!*{lang=es}
