@@ -1,0 +1,10 @@
+---
+date: 2026-07-31T12:44:36.046+01:00
+jamOf:
+  type: cite
+  url: https://music.apple.com/gb/album/these-alarms-single/6778102323
+  name: These Alarms
+  author: Snow Patrol & Kylie Minogue
+---
+
+Don’t give into loneliness when everything is such a mess.
