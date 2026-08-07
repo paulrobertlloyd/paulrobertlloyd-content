@@ -1,0 +1,18 @@
+---
+start: 2026-08-14
+itinerary:
+  - label: Athens International Airport (ATH)
+    locality: Athens
+    countryName: Greece
+  - label: Gatwick Airport (LGW)
+    locality: Gatwick
+    countryName: England
+  - label: Gatwick (GTW)
+    locality: Gatwick
+    countryName: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+tags:
+  - i5ja1
+---
