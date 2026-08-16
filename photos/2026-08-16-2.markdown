@@ -1,0 +1,24 @@
+---
+date: 2026-08-16T23:00:00.000+01:00
+photo:
+  - url: /media/2026/228/p2/1.jpg
+    alt: An apartment building lit my the late afternoon sunshine, with the approaching street in silhouette.
+  - url: /media/2026/228/p2/2.jpg
+    alt: A cafe, seats and tables under the shade of a tree.
+  - url: /media/2026/228/p2/3.jpg
+    alt: Colourful sunset over the city.
+  - url: /media/2026/228/p2/4.jpg
+    alt: A tabby cat spotted at the Ancient Agora.
+  - url: /media/2026/228/p2/5.jpg
+    alt: A street with colourful decorations strung above it.
+  - url: /media/2026/228/p2/6.jpg
+    alt: A colourful mural of a woman holding a crystal ball painted on the side of a building.
+  - url: /media/2026/228/p2/7.jpg
+    alt: A collection of street furniture, signage, lamps, traffic lights, bollards, illuminated in the late afternoon sunshine.
+  - url: /media/2026/228/p2/8.jpg
+    alt: A mural of a woman reading a book painted on the side of a building.
+tags:
+  - i5ja1
+---
+
+A week in modern Athens, a worn down yet beautifully vibrant city.
