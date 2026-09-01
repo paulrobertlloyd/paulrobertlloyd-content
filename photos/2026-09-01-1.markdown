@@ -1,0 +1,8 @@
+---
+date: 2026-09-01T23:50:45.395+01:00
+photo:
+  - url: /media/2026/244/p1/1.jpg
+    alt: Dorian Lynskey and Ian Dunt sat on chairs behind microphones in a gothic setting.
+---
+
+Had a fun evening "ragging on _The Telegraph_" with Dorian Lynskey and Ian Dunt at the magnificent Union Chapel.
