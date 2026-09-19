@@ -1,9 +1,4 @@
 {
   "layout": "bookmark.liquid",
-  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ typePrefix }}{{ typeIndex }}/{{ page.fileSlug }}/",
-  "syndicate": true,
-  "type": "bookmark",
-  "typeIndex": 1,
-  "typePrefix": "b",
-  "vocabulary": "entry"
+  "type": "bookmark"
 }

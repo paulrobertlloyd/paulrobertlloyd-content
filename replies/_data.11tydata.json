@@ -1,9 +1,4 @@
 {
   "layout": "reply.liquid",
-  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ typePrefix }}{{ page.fileSlug }}/",
-  "syndicate": true,
-  "type": "reply",
-  "typePrefix": "r",
-  "visibility": "unlisted",
-  "vocabulary": "entry"
+  "type": "reply"
 }

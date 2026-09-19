@@ -1,8 +1,4 @@
 {
   "layout": "photo.liquid",
-  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ typePrefix }}{{ page.fileSlug }}/",
-  "syndicate": true,
-  "type": "photo",
-  "typePrefix": "p",
-  "vocabulary": "entry"
+  "type": "photo"
 }

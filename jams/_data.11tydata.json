@@ -1,8 +1,4 @@
 {
   "layout": "jam.liquid",
-  "permalink": "{{ page.date | date: '%Y/%j' }}/{{ typePrefix }}{{ page.fileSlug }}/",
-  "syndicate": true,
-  "type": "jam",
-  "typePrefix": "j",
-  "vocabulary": "entry"
+  "type": "jam"
 }
