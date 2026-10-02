@@ -4,6 +4,10 @@ photo:
   - url: /media/2026/275/p1/1.jpg
     alt: Dramatic sunset over Brighton’s West Pier.
 tags: the_west_pier
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mwwcmgb4p72x
+  - https://mastodon.social/@paulrobertlloyd/117373417020546411
+updated: 2026-10-02T22:23:32.545+01:00
 ---
 
 One of many similar photos taken this evening. Glorious!
