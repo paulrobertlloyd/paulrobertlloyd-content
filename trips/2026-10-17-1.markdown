@@ -1,0 +1,21 @@
+---
+start: 2026-10-17
+itinerary:
+  - label: Nice-Ville
+    locality: Nice
+    countryName: France
+  - label: Paris-Gare-de-Lyon
+    locality: Paris
+    countryName: France
+  - label: Paris-Nord
+    locality: Paris
+    countryName: France
+  - label: London St Pancras International (STP)
+    locality: London
+    countryName: England
+  - label: Brighton (BTN)
+    locality: Brighton
+    countryName: England
+tags:
+  - i5kb1
+---
