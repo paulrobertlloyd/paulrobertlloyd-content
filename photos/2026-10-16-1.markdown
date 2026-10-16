@@ -1,5 +1,6 @@
 ---
-date: 2026-10-16T23:55:00.000+01:00
+date: 2026-10-16T23:55:00.000+02:00
+timeZone: Europe/Paris
 photo:
   - url: /media/2026/289/p1/1.jpg
     alt: Antibes old town with pastel houses and stone towers above seaside ramparts, palm trees on the left.
@@ -14,6 +15,12 @@ photo:
   - url: /media/2026/289/p1/6.jpg
     alt: Boulders in clear turquoise water along a rocky coast, with pines and a villa on the headland.
 uid: 01a146bb-9dd2-7aa9-bcd6-0a3a91a27124
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mxzlhp6w662b
+  - https://mastodon.social/@paulrobertlloyd/117452853016215123
+tags:
+  - i5kb1
+updated: 2026-10-16T23:05:09.663+01:00
 ---
 
 Six jours sur la Côte d’Azur.
