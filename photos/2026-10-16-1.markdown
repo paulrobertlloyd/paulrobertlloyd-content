@@ -1,0 +1,19 @@
+---
+date: 2026-10-16T23:55:00.000+01:00
+photo:
+  - url: /media/2026/289/p1/1.jpg
+    alt: Antibes old town with pastel houses and stone towers above seaside ramparts, palm trees on the left.
+  - url: /media/2026/289/p1/2.jpg
+    alt: A sculpted horse’s head above a dark doorway on a pink facade with green shutters and a climbing vine.
+  - url: /media/2026/289/p1/3.jpg
+    alt: A marble Roman bust on a rock, with misty wooded hills and villas behind.
+  - url: /media/2026/289/p1/4.jpg
+    alt: The pebbled beach in Nice at dusk under a purple-orange sky with a crescent moon and city lights along the coast.
+  - url: /media/2026/289/p1/5.jpg
+    alt: A sunlit, peeling whitewashed passageway leading to a stone wall.
+  - url: /media/2026/289/p1/6.jpg
+    alt: Boulders in clear turquoise water along a rocky coast, with pines and a villa on the headland.
+uid: 01a146bb-9dd2-7aa9-bcd6-0a3a91a27124
+---
+
+Six jours sur la Côte d’Azur.
