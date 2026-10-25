@@ -7,10 +7,10 @@ location:
   countryName: England
 color: "#00c7fc"
 uid: 01a174a6-acca-7cc7-8802-9a6e09d891cf
-summary: In retrospect, my decision earlier this year to wear a watch again seems fitting, given my growing preoccupation with time.
+summary: My decision earlier this year to wear a watch again is reflective of my growing preoccupation with time.
 category:
   - personal
-updated: 2026-10-25T20:05:15.959Z
+updated: 2026-10-25T20:07:13.106Z
 ---
 
 In retrospect, my decision earlier this year to wear a watch again seems fitting, given my growing preoccupation with time.
