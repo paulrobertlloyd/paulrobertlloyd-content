@@ -5,8 +5,12 @@ location:
   type: adr
   locality: Brighton
   countryName: England
-color: "#000000"
+color: "#00c7fc"
 uid: 01a174a6-acca-7cc7-8802-9a6e09d891cf
+summary: In retrospect, my decision earlier this year to wear a watch again seems fitting, given my growing preoccupation with time.
+category:
+  - personal
+updated: 2026-10-25T20:05:15.959Z
 ---
 
 In retrospect, my decision earlier this year to wear a watch again seems fitting, given my growing preoccupation with time.
