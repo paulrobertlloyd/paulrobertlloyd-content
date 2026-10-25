@@ -10,7 +10,7 @@ uid: 01a174a6-acca-7cc7-8802-9a6e09d891cf
 summary: My decision earlier this year to wear a watch again is reflective of my growing preoccupation with time.
 category:
   - personal
-updated: 2026-10-25T20:12:01.334Z
+updated: 2026-10-25T20:17:29.469Z
 ---
 
 In retrospect, my decision earlier this year to wear a watch again seems fitting, given my growing preoccupation with time.
@@ -27,7 +27,7 @@ One concerned the measurement of time, the other the significance of a moment wi
 
 ---
 
-A number of evenings this year have seen me participate in a pub quiz after work. Last week there was a question about Princess Diana’s funeral.
+A number of Wednesday evenings this year have seen me participate in a pub quiz after work. Last week there was a question about Princess Diana’s funeral.
 
 Where were you when you heard that she had died?
 
@@ -41,13 +41,13 @@ This was a seminal moment in modern history, and it is one I lived through. Yet 
 
 Nobody can prepare you for growing older, or the jolting reminders that your peers may have different experiences of contemporary history.
 
-The familiar feeling of time progressing ever faster never gets easier, not helped by the rhythm of the 9-to-5 and fewer opportunities for novelty.
+The familiar feeling of time progressing ever faster never gets easier, not helped by the rhythm of the 9-to-5 and decreasing opportunities for novelty.
 
 This year I have run towards new experiences. In doing so, I’ve endured sleepless nights, endless waits and gruelling slogs; weeks of hopeful anticipation, days of painful anxiety, hours of physical exhaustion.
 
 Now those experiences have passed, I find them difficult to contend with. Moments once hard to reach are now but fleeting memories.
 
-Given my tendency to reflect — and habit of attaching important moments to the places where they happened — remembering the last 10 months can feel like running my fingers over Braille. A surprising answer in a rain-sodden Porto… an 18km bike race through sunny Sussex… a disappointing conversation in a dark London cocktail bar… an unexpected invitation while sitting in my back garden… a predictable England second-half collapse in a World Cup semi-final… an 8-hour hike over the undulating Surrey Hills…
+Given my tendency to reflect — and habit of attaching important moments to the places where they happened — remembering the last 10 months can feel like running my fingers over pages of Braille. A surprising answer in a rain-sodden Porto… an 18km bike race through sunny Sussex… a disappointing conversation in a dark London cocktail bar… an unexpected invitation while sitting in my back garden… a predictable England second-half collapse in a World Cup semi-final… an 8-hour hike over the undulating Surrey Hills…
 
 ---
 
