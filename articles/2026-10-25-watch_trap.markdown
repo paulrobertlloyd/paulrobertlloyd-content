@@ -10,7 +10,10 @@ uid: 01a174a6-acca-7cc7-8802-9a6e09d891cf
 summary: My decision earlier this year to wear a watch again is reflective of my growing preoccupation with time.
 category:
   - personal
-updated: 2026-10-25T20:19:36.930Z
+updated: 2026-10-25T20:22:43.069Z
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mypzwuslbi2k
+  - https://mastodon.social/@paulrobertlloyd/117503410976402832
 ---
 
 In retrospect, my decision earlier this year to wear a watch again seems fitting, given my growing preoccupation with time.
