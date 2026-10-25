@@ -10,7 +10,7 @@ uid: 01a174a6-acca-7cc7-8802-9a6e09d891cf
 summary: My decision earlier this year to wear a watch again is reflective of my growing preoccupation with time.
 category:
   - personal
-updated: 2026-10-25T20:17:29.469Z
+updated: 2026-10-25T20:19:36.930Z
 ---
 
 In retrospect, my decision earlier this year to wear a watch again seems fitting, given my growing preoccupation with time.
@@ -57,4 +57,4 @@ Looking ahead, I can feel intrigue and excitement about what is to come. But it�
 
 What about living in the present?
 
-At Wednesday’s pub quiz, my watch strap was irritating my wrist. I took off my watch, put it in my pocket, and left it there for the rest of the evening.
+At last Wednesday’s pub quiz, my watch strap was irritating my wrist. I took off my watch, put it in my pocket, and left it there for the rest of the evening.
