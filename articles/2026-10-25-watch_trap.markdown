@@ -10,7 +10,7 @@ uid: 01a174a6-acca-7cc7-8802-9a6e09d891cf
 summary: My decision earlier this year to wear a watch again is reflective of my growing preoccupation with time.
 category:
   - personal
-updated: 2026-10-25T20:34:31.393Z
+updated: 2026-10-25T20:43:11.828Z
 syndication:
   - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mypzwuslbi2k
   - https://mastodon.social/@paulrobertlloyd/117503410976402832
@@ -42,15 +42,15 @@ This was a seminal moment in modern history, and it is one I lived through. Yet 
 
 ---
 
-Nobody can prepare you for growing older, or the jolting reminders that your peers may have different experiences of contemporary history.
+Like the jolting reminder that your peers may have a different (or no) experience of a contemporary historical event, nobody can prepare you for growing older.
 
-The familiar feeling of time progressing ever faster never gets easier, not helped by the rhythm of the 9-to-5 and decreasing opportunities for novelty.
+The familiar feeling of time progressing faster never gets easier either, with its speed aided by the regular rhythm of the 9-to-5 and decreasing opportunities for novelty.
 
 This year I have run towards new experiences. In doing so, I’ve endured sleepless nights, endless waits and gruelling slogs; weeks of hopeful anticipation, days of painful anxiety, hours of physical exhaustion.
 
 Now those experiences have passed, I find them difficult to contend with. Moments once hard to reach are now but fleeting memories.
 
-Given my tendency to reflect — and habit of attaching important moments to the places where they happened — remembering the last 10 months can feel like running my fingers over pages of Braille. a scary tumble down a snow-covered Italian hillside… a surprising answer in a rain-sodden Porto… an 18km bike race across sunny Sussex countryside… a disappointing conversation in a dark London cocktail bar… an unexpected invitation while sitting in my back garden… a predictable England second-half collapse in a World Cup semi-final… an 8-hour hike over the undulating Surrey Hills…
+Given my tendency to reflect — and habit of attaching important moments to the places where they happened — remembering the last 10 months can feel like running my fingers over pages of Braille. A scary tumble down a snow-covered Italian hillside… a surprising answer in a rain-sodden Porto… an 18km bike race across sunny Sussex countryside… a disappointing conversation in a dark London cocktail bar… an unexpected invitation while sitting in my back garden… a predictable England second-half collapse in a World Cup semi-final… an 8-hour hike over the undulating Surrey Hills…
 
 ---
 
