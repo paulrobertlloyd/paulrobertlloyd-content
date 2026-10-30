@@ -10,7 +10,7 @@ uid: 01a174a6-acca-7cc7-8802-9a6e09d891cf
 summary: My decision earlier this year to wear a watch again is reflective of my growing preoccupation with time.
 category:
   - personal
-updated: 2026-10-30T08:38:49.080Z
+updated: 2026-10-30T09:32:51.499Z
 syndication:
   - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3mypzwuslbi2k
   - https://mastodon.social/@paulrobertlloyd/117503410976402832
@@ -48,7 +48,7 @@ The familiar feeling of time progressing ever faster never gets easier, its spee
 
 This year I have run towards new experiences. In doing so, I’ve endured sleepless nights, endless waits and gruelling slogs; weeks of hopeful anticipation, days of painful anxiety, hours of physical exhaustion.
 
-Given my tendency to reflect — and my habit of attaching important moments to the places where they happened — remembering the last 10 months can feel like running my fingers over pages of Braille. A scary tumble down a snow-covered Italian hillside… a surprising answer in a rain-sodden Porto… an 18km bike race across the Sussex countryside… a disappointing conversation in a dark London cocktail bar… an unexpected invitation while sitting in my back garden… a predictable England second-half collapse in a World Cup semi-final… a sore throat after two hours singing in a Soho karoke bar… an 8-hour hike over the undulating Surrey Hills…
+Given my tendency to reflect — and my habit of attaching important moments to the places where they happened — remembering the last 10 months can feel like running my fingers over pages of Braille. A scary tumble down a snow-covered Italian hillside… a surprising answer in a rain-sodden Porto… an 18km bike race across the Sussex countryside… a disappointing conversation in a dark Southwark cocktail bar… an unexpected invitation while sitting in my back garden… a predictable England second-half collapse in a World Cup semi-final… a sore throat after two hours singing in a Soho karoke bar… an 8-hour hike over the undulating Surrey Hills…
 
 Now those experiences have passed, I find their absence difficult to contend with. Moments that were once hard to reach are now incomplete memories, fragments of feeling.
 
