@@ -1,0 +1,11 @@
+---
+date: 2026-11-05T16:34:17.719Z
+jamOf:
+  type: cite
+  url: https://music.apple.com/gb/album/you-cant-always-get-what-you-want-mono/1440774096?i=1440775120
+  name: You Can’t Always Get What You Want
+  author: Rolling Stones
+uid: 01a1ac8f-a7d9-708d-9e30-1c579f7d074a
+---
+
+But if you try sometimes, you’ll find you get what you need.
