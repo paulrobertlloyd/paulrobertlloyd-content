@@ -1,0 +1,14 @@
+---
+date: 2026-11-18T21:31:32.881Z
+jamOf:
+  type: cite
+  url: https://music.apple.com/gb/album/circles/6805055407?i=6805055410
+  name: Circles
+  author: James Blunt
+uid: 01a1f092-7893-7dc3-a785-ba111b0dabed
+---
+
+The future’s in the past, in just a moment
+So drink and love and dance
+Don’t make too many plans
+Because all we ever have, is in this moment now
