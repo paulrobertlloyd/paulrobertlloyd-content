@@ -1,6 +1,10 @@
 ---
 date: 2026-11-22T23:18:07.895Z
 uid: 01a2058d-7d00-7f3e-ac1d-5e089ddb2b8c
+syndication:
+  - https://bsky.app/profile/did:plc:lvkqw4jlbczcae5khtzf5uch/post/3n2wqt6fy5g2c
+  - https://mastodon.social/@paulrobertlloyd/117662647265456338
+updated: 2026-11-22T23:18:35.928Z
 ---
 
 _You Can See Everything_ is a rare example of something that somehow manages to exceed already heightened expectations. Incredible.
